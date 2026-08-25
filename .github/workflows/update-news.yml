@@ -1,0 +1,44 @@
+name: Refresh Derby transfer news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: derby-transfer-news
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Scan transfer news
+        run: node scripts/update-news.mjs
+
+      - name: Commit updated feed
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "No feed changes"
+            exit 0
+          fi
+
+          git config user.name "rams-transfer-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add data/news.json
+          git commit -m "Auto-refresh transfer news"
+          git push
