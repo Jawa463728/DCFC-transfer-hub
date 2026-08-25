@@ -38,9 +38,22 @@ const MEDIUM_TERMS=["bid","offer","talks","negotiations","pursuit","target","wan
 const WEAK_TERMS=["linked","eyeing","could","may","might","rumour","rumor","tipped","urged","should sign","suggested","speculation","plotting"];
 
 const NON_PLAYER_PHRASES=new Set([
-  "Derby County","The Rams","Sky Sports","BBC Sport","Derby Telegraph","Derbyshire Live",
-  "Transfer Window","Championship Club","Premier League","League One","League Two",
-  "EFL Championship","United Kingdom","Google News"
+  // Derby / organisations / media
+  "Derby County","Derby County FC","The Rams","Sky Sports","BBC Sport",
+  "Derby Telegraph","Derbyshire Live","Transfer Window","Championship Club",
+  "Premier League","League One","League Two","EFL Championship","United Kingdom","Google News",
+
+  // Derby staff / non-player personnel that can appear in transfer stories
+  "John Eustace","Matt Hamshaw","Keith Downing",
+
+  // Common club names that may be mistaken for people
+  "Blackburn Rovers","Sheffield United","Sheffield Wednesday","West Bromwich Albion",
+  "West Brom","Birmingham City","Bristol City","Norwich City","Stoke City",
+  "Swansea City","Cardiff City","Coventry City","Hull City","Leicester City",
+  "Manchester City","Manchester United","Leeds United","Newcastle United",
+  "West Ham United","Nottingham Forest","Queens Park Rangers","Preston North End",
+  "Charlton Athletic","Wigan Athletic","Bolton Wanderers","Wolverhampton Wanderers",
+  "Milton Keynes Dons","Aston Villa","Crystal Palace"
 ]);
 
 function decodeXml(str=""){
@@ -68,6 +81,22 @@ function cleanCandidate(name){
   return name.replace(/[’']/g,"'").replace(/\s+/g," ").trim().replace(/^[^A-Za-zÀ-ÿ]+|[^A-Za-zÀ-ÿ' -]+$/g,"");
 }
 
+function looksLikeClubName(name){
+  const n=name.toLowerCase();
+
+  // Strong club-name indicators.
+  if(/\b(fc|afc|cf|sc|calcio|football club)\b/i.test(name))return true;
+  if(/\b(united|city|rovers|wanderers|athletic|albion|county|town|villa|palace|forest|rangers|dons)\b/i.test(name))return true;
+
+  // Common standalone club/place names that can occur in headlines.
+  const clubWords=[
+    "blackburn","burnley","wrexham","millwall","southampton","middlesbrough",
+    "portsmouth","watford","sunderland","ipswich","fulham","chelsea","arsenal",
+    "liverpool","everton","tottenham","bournemouth","brentford","brighton"
+  ];
+  return clubWords.some(c=>n===c || n.startsWith(c+" ") || n.endsWith(" "+c));
+}
+
 // Lightweight proper-name extractor tuned for football headlines.
 // Avoids needing a paid AI/NLP API.
 function extractPlayers(title,description){
@@ -79,7 +108,8 @@ function extractPlayers(title,description){
   for(const m of text.matchAll(re)){
     let name=cleanCandidate(m[1]);
     if(!name||NON_PLAYER_PHRASES.has(name))continue;
-    if(/\b(Derby|County|Rams|Transfer|Championship|Premier|League|Football|Club|United|City|Town|Live|News|Sports|January|Summer|Deadline)\b/i.test(name))continue;
+    if(looksLikeClubName(name))continue;
+    if(/\b(Derby|County|Rams|Transfer|Championship|Premier|League|Football|Club|Live|News|Sports|January|Summer|Deadline|Manager|Head Coach|Coach|Chairman|Owner|Director)\b/i.test(name))continue;
     if(name.split(" ").length<2)continue;
     candidates.add(name);
   }
@@ -176,7 +206,7 @@ function buildTargets(stories,previousTargets=[]){
       independentReports,totalStories:bucket.stories.length,bestSource:best?.source||"",
       bestSourceScore:best?.reputation||0,maxLikelihood,lastMention,firstSeen,isNew
     };
-  }).filter(t=>t.independentReports>=1)
+  }).filter(t=>t.independentReports>=1 && t.status!=="Signed")
     .sort((a,b)=>b.score-a.score||b.independentReports-a.independentReports||new Date(b.lastMention)-new Date(a.lastMention))
     .slice(0,20);
 }

@@ -1,105 +1,73 @@
-# Rams Transfer Hub v2
+# Rams Transfer Hub
 
-A free, unofficial Derby County transfer dashboard for GitHub Pages.
+A free, unofficial Derby County transfer-news dashboard designed for GitHub Pages.
 
-## New in v2
+## What it does
 
-- **Most Linked / Top Targets board**
-- Automatically attempts to identify player names from transfer headlines
-- Weighted **Target Score** from 25–99
-- Target statuses: **Hot, Strong, Developing, Watch, Fading, Signed**
-- **NEW NAME** badge for players first detected in the last 12 hours
-- Number of independent sources reporting each target
-- Best source and latest mention displayed
-- Click any player to instantly filter the full news feed to that player
-- No separate database required
-
-## Existing features
-
-- Countdown to **1 September 2026, 23:00 BST**
-- Google News RSS scan every five minutes with GitHub Actions
-- Multiple country/language editions
-- Story Source and Likelihood scores
-- Confirmed / Strong / Rumours / Overseas filters
-- Live ticker
-- Browser checks for newly generated data every minute
-- No paid API keys
-
-## How the target score works
-
-The target score is deliberately transparent. It rewards:
-
-1. **Independent reporting** — multiple different outlets matter more than copied stories
-2. **Source quality** — BBC/Sky/official/local specialists count more than weak aggregators
-3. **Recency** — fresh links rank above old rumours
-4. **Story strength** — "medical", "advanced talks" and "deal agreed" rank above "could" or "linked"
-5. **Corroboration** — one weak report cannot reach an extreme score
-
-This is an automated rumour score, not a factual probability that a transfer will happen.
-
-## Do I need Firebase or another database?
-
-**No.**
-
-GitHub Actions runs the updater and writes the latest state to:
-
-`data/news.json`
-
-GitHub Pages serves that JSON to the app.
-
-For this use case it is effectively acting as a tiny free datastore.
-
-A real database only becomes useful later if you want things like user accounts, personal watchlists, push notifications, comments, saved preferences or a long-term searchable archive.
+- Transfer deadline countdown to **1 September 2026, 23:00 BST**
+- Scans Google News RSS every five minutes with GitHub Actions
+- Searches multiple country/language editions
+- Gives every story a **Source** score and a **Likelihood** score
+- Separates confirmed reports, strong stories, rumours and overseas discoveries
+- Browser refreshes the latest generated JSON every minute
+- No paid API key required
 
 ## Put it live
 
-1. Create a public GitHub repository.
-2. Upload every file/folder from this project to the repository root.
-3. Go to **Actions** and run **Refresh Derby transfer news** once.
-4. Go to **Settings → Pages**.
-5. Choose **Deploy from a branch**.
-6. Choose `main` and `/ (root)`.
-7. Save.
-8. Open the Pages URL GitHub gives you.
+1. Create a **public** GitHub repository.
+2. Upload the contents of this folder to the repository root.
+3. Open **Settings → Actions → General** and ensure Actions are allowed.
+4. Open the **Actions** tab → **Refresh Derby transfer news** → **Run workflow** once.
+5. Open **Settings → Pages**.
+6. Under **Build and deployment**, choose **Deploy from a branch**.
+7. Choose your default branch (`main`), folder `/ (root)`, then Save.
+8. GitHub will show your live Pages URL after deployment.
 
-## Updating an older v1 upload
+The updater then runs on a `*/5 * * * *` schedule.
 
-If you already uploaded the previous version, replace:
+## Important limitation: X / Twitter
 
-- `index.html`
-- `styles.css`
-- `app.js`
-- `scripts/update-news.mjs`
-- `data/news.json`
+This version deliberately does not scrape X. Reliable live X search is not something a static GitHub Pages site can safely or consistently do for free. Unauthenticated scraping is brittle and may breach platform controls; API access can also change or cost money.
 
-The existing `.github/workflows/update-news.yml` can stay.
+The practical free workaround is stronger than it sounds: Google News often picks up stories that originate with journalists on social media, and this project scans multiple Google News country editions. You can also add particular journalists/outlets to `SEARCHES` or `SOURCE_RULES` in `scripts/update-news.mjs`.
 
-Then manually run the Action once.
+## Adjusting source scores
 
-## Important limitation: name extraction
+Edit `SOURCE_RULES` in `scripts/update-news.mjs`.
 
-The project uses a lightweight rules-based player-name detector so it stays free and needs no AI API.
+The first matching rule wins:
 
-It works best on normal football headlines such as:
+```js
+[/BBC Sport|BBC/i, 94],
+[/Derbyshire Live|Derby Telegraph/i, 87],
+[/TEAMtalk/i, 64],
+```
 
-- Derby County linked with Hamza Choudhury
-- Rams target Mikey Johnston
-- Derby make bid for John Smith
+Scores are intentionally transparent rather than pretending to be AI certainty.
 
-It can occasionally mistake another person's name for a player. The scoring system limits the damage because a name normally needs repeated independent reporting to rise up the board.
+## Adding a journalist or outlet
 
-A future upgrade could add a free football player list to validate names.
+Add a more specific Google News search to the `SEARCHES` array, for example:
 
-## X / Twitter
+```js
+{ edition:"gb", hl:"en-GB", gl:"GB", ceid:"GB:en", q:'"Derby County" "John Percy"' }
+```
 
-This project does not scrape X directly. Reliable full X search is not something a static free GitHub Pages app can safely depend on.
+## Notes
 
-Stories originating on X are often repeated by news sites and then enter Google News, which means many still appear indirectly.
+GitHub's minimum scheduled workflow interval is five minutes, but scheduled jobs can occasionally start late. The website itself checks the generated feed every minute, so visitors see a new update as soon as GitHub publishes it.
 
-## Source scores
+This is an unofficial supporter project and is not affiliated with Derby County Football Club.
 
-Edit `SOURCE_RULES` in:
+## Target-board exclusions
 
-`scripts/update-news.mjs`
+The **Most Linked** board is intended to show active targets only.
 
-You can add specific journalists as well as outlets.
+It now automatically excludes:
+
+- Players already detected as **signed/completed**
+- Obvious football club names such as Blackburn Rovers
+- Derby staff / non-player personnel included in `NON_PLAYER_PHRASES`
+- Names containing common club terms such as United, City, Rovers, Wanderers, Athletic, Albion, County and Town
+
+Completed signings can still remain in the main news feed; they are simply removed from the live target ranking.
