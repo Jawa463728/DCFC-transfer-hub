@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0b0c" />
+  <meta name="description" content="Derby County transfer news hub with live rumours, target rankings and transfer deadline countdown." />
+  <title>Rams Transfer Hub</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="brand">
+        <div class="ram-mark" aria-hidden="true">DC</div>
+        <div>
+          <div class="eyebrow">DERBY COUNTY</div>
+          <h1>TRANSFER HUB</h1>
+        </div>
+      </div>
+      <div class="live-pill"><span class="live-dot"></span> LIVE</div>
+    </div>
+  </header>
+
+  <section class="deadline">
+    <div class="deadline-inner">
+      <div>
+        <div class="deadline-label">SUMMER WINDOW CLOSES</div>
+        <div class="deadline-date">Tuesday 1 September · 23:00 BST</div>
+      </div>
+      <div class="countdown" id="countdown" aria-label="Transfer deadline countdown">
+        <div><strong id="days">--</strong><span>DAYS</span></div><i>:</i>
+        <div><strong id="hours">--</strong><span>HRS</span></div><i>:</i>
+        <div><strong id="minutes">--</strong><span>MIN</span></div><i>:</i>
+        <div><strong id="seconds">--</strong><span>SEC</span></div>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <section class="topline">
+      <div>
+        <p class="kicker">THE RAMS · SUMMER 2026</p>
+        <h2>Everything Derby. One feed.</h2>
+        <p class="intro">Confirmed deals, credible reports and obscure overseas links — ranked by source quality, likelihood and how much independent reporting exists.</p>
+      </div>
+      <div class="update-card">
+        <span class="update-dot"></span>
+        <div>
+          <small>LAST NEWS SCAN</small>
+          <strong id="lastUpdated">Loading…</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="ticker-wrap" aria-label="Latest transfer ticker">
+      <div class="ticker-label">LATEST</div>
+      <div class="ticker-viewport">
+        <div class="ticker" id="ticker">Searching for Rams transfer news…</div>
+      </div>
+    </section>
+
+    <section class="targets-shell">
+      <div class="targets-top">
+        <div>
+          <p class="panel-kicker">LIVE RUMOUR BOARD</p>
+          <h3>Most linked</h3>
+        </div>
+        <div class="targets-note">Weighted by independent reports, source quality, recency and report strength.</div>
+      </div>
+
+      <div id="targetsHero" class="targets-hero">
+        <div class="loading-card">Building the target board…</div>
+      </div>
+
+      <div class="target-table-wrap">
+        <table class="target-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Player</th>
+              <th>Heat</th>
+              <th>Reports</th>
+              <th>Best source</th>
+              <th>Latest</th>
+              <th>Score</th>
+            </tr>
+          </thead>
+          <tbody id="targetTableBody">
+            <tr><td colspan="7">Waiting for first news scan…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="controls">
+      <div class="tabs" id="tabs">
+        <button class="tab active" data-filter="all">All</button>
+        <button class="tab" data-filter="confirmed">Confirmed</button>
+        <button class="tab" data-filter="strong">Strong</button>
+        <button class="tab" data-filter="rumour">Rumours</button>
+        <button class="tab" data-filter="overseas">Overseas</button>
+      </div>
+      <div class="sort-wrap">
+        <label for="sort">Sort</label>
+        <select id="sort">
+          <option value="newest">Newest</option>
+          <option value="likelihood">Most likely</option>
+          <option value="reputation">Best sources</option>
+        </select>
+      </div>
+    </section>
+
+    <section id="playerFilterBar" class="player-filter-bar hidden">
+      <div>
+        Showing stories about <strong id="playerFilterName"></strong>
+      </div>
+      <button id="clearPlayerFilter">Clear filter</button>
+    </section>
+
+    <section class="grid">
+      <div class="feed-column">
+        <div class="section-heading">
+          <h3>Transfer feed</h3>
+          <span id="storyCount">0 stories</span>
+        </div>
+        <div id="newsFeed" class="news-feed">
+          <div class="loading-card">Loading transfer intelligence…</div>
+        </div>
+      </div>
+
+      <aside>
+        <div class="panel">
+          <p class="panel-kicker">HOW IT WORKS</p>
+          <h3>Rumour Rating</h3>
+          <p>Every story gets two scores. <b>Source</b> measures outlet reliability. <b>Likelihood</b> also considers the language used in the report.</p>
+          <div class="legend">
+            <div><span class="score-chip elite">90+</span><p><b>Top tier</b><br>Official / elite reporting</p></div>
+            <div><span class="score-chip good">75+</span><p><b>Strong</b><br>Credible reporting</p></div>
+            <div><span class="score-chip mid">55+</span><p><b>Watch</b><br>Worth monitoring</p></div>
+            <div><span class="score-chip low">&lt;55</span><p><b>Speculative</b><br>Handle with care</p></div>
+          </div>
+        </div>
+
+        <div class="panel accent-panel">
+          <p class="panel-kicker">GLOBAL SCOUT</p>
+          <h3>Beyond the UK</h3>
+          <p>The updater checks multiple Google News editions and transfer terms in English, French, Spanish, Italian, German, Dutch, Portuguese, Polish and Turkish.</p>
+          <div class="countries">GB · FR · ES · IT · DE · NL · PT · PL · TR · US</div>
+        </div>
+
+        <div class="panel">
+          <p class="panel-kicker">TARGET SCORE</p>
+          <h3>Why one player ranks above another</h3>
+          <p class="small">The rumour board rewards independent sources, stronger outlets, recent reports and firm wording. Duplicate copycat stories are deliberately discounted.</p>
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div>Unofficial supporter project · Not affiliated with Derby County FC</div>
+    <div>Auto-updated by GitHub Actions</div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
