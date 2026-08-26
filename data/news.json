@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-26T00:00:06.364Z",
+  "updatedAt": "2026-08-26T03:37:08.423Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 55,
+  "storyCount": 57,
   "targetCount": 13,
   "targets": [
     {
       "name": "Hamza Choudhury",
-      "score": 74,
+      "score": 73,
       "status": "Strong",
       "independentReports": 2,
       "totalStories": 2,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Stephen Mfuni",
-      "score": 67,
+      "score": 66,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 2,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Omari Kellyman",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Mikey Johnston",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Anis Mehmeti",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Leicester Mercury",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,7 +98,7 @@
     },
     {
       "name": "World Cup",
-      "score": 41,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -111,10 +111,10 @@
     },
     {
       "name": "Gavin Bazunu Move",
-      "score": 41,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
-      "totalStories": 1,
+      "totalStories": 2,
       "bestSource": "Mshale",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
@@ -124,10 +124,10 @@
     },
     {
       "name": "Villarreal Vs Sevilla",
-      "score": 41,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
-      "totalStories": 1,
+      "totalStories": 2,
       "bestSource": "Mshale",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
@@ -137,7 +137,7 @@
     },
     {
       "name": "Mark Kelly",
-      "score": 41,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -150,7 +150,7 @@
     },
     {
       "name": "Former Celtic",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -176,6 +176,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQk0za1BhTGpTNEtSLW9Ra0UxejRZQXhIWG1rMTViMDF6OVJod0I4dHRzX2tJQjFQSDd5SlVKd182OUswalZINFFSRnNBQjRqc2lCUC1yRkktS3gyT05NZUQ5VG16LVlieHVzejY4U1V4dmJkaWswd2pPRFNSZEcxMTJ4ZkNua1Ztc1pudg?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-25T20:34:02.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "d2F0Zm9yZCBkZXJieSBjb3VudHkgdnlpbmcgZm9yIH",
       "title": "Watford, Derby County vying for Stephen Mfuni as Coventry City move collapses - TheHardTackle.com",
@@ -368,6 +383,24 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
+      "source": "Mshale",
+      "published": "2026-08-24T12:14:21.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "Gavin Bazunu Move",
+        "Villarreal Vs Sevilla"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
@@ -777,7 +810,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -792,7 +825,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -907,7 +940,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -971,7 +1004,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Dajaune Brown"
