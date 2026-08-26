@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T10:08:33.562Z",
+  "updatedAt": "2026-08-26T11:51:18.056Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
-  "targetCount": 14,
+  "storyCount": 55,
+  "targetCount": 16,
   "targets": [
     {
       "name": "Hamza Choudhury",
@@ -16,11 +16,24 @@
       "maxLikelihood": 80,
       "lastMention": "2026-08-26T08:55:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
+      "isNew": false
+    },
+    {
+      "name": "Ben Brereton Diaz",
+      "score": 68,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 76,
+      "lastMention": "2026-08-26T10:05:00.000Z",
+      "firstSeen": "2026-08-26T11:51:18.056Z",
       "isNew": true
     },
     {
       "name": "Stephen Mfuni",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 2,
@@ -29,7 +42,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-08-25T17:43:27.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Russell Martin",
@@ -46,7 +59,7 @@
     },
     {
       "name": "Omari Kellyman",
-      "score": 62,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -55,7 +68,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-08-25T11:17:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Mikey Johnston",
@@ -68,7 +81,7 @@
       "maxLikelihood": 80,
       "lastMention": "2026-08-24T10:25:26.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Anis Mehmeti",
@@ -81,11 +94,11 @@
       "maxLikelihood": 80,
       "lastMention": "2026-08-24T10:25:26.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Leicester Mercury",
-      "score": 58,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -94,6 +107,19 @@
       "maxLikelihood": 63,
       "lastMention": "2026-08-25T09:59:00.000Z",
       "firstSeen": "2026-08-26T00:00:06.364Z",
+      "isNew": true
+    },
+    {
+      "name": "Mercato Pisa",
+      "score": 50,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "VTrend",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-26T11:44:10.000Z",
+      "firstSeen": "2026-08-26T11:51:18.056Z",
       "isNew": true
     },
     {
@@ -107,7 +133,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-08-23T08:01:31.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "World Cup",
@@ -131,9 +157,9 @@
       "bestSource": "Mshale",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
-      "lastMention": "2026-08-24T12:14:20.000Z",
+      "lastMention": "2026-08-24T12:14:21.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Villarreal Vs Sevilla",
@@ -144,9 +170,9 @@
       "bestSource": "Mshale",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
-      "lastMention": "2026-08-24T12:14:20.000Z",
+      "lastMention": "2026-08-24T12:14:21.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Mark Kelly",
@@ -172,7 +198,7 @@
       "maxLikelihood": 43,
       "lastMention": "2026-08-24T08:09:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Alex Mowatt",
@@ -185,10 +211,44 @@
       "maxLikelihood": 48,
       "lastMention": "2026-08-18T20:20:57.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": true
+      "isNew": false
     }
   ],
   "stories": [
+    {
+      "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
+      "source": "VTrend",
+      "published": "2026-08-26T11:44:10.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": [
+        "Mercato Pisa"
+      ]
+    },
+    {
+      "id": "YmVuIGJyZXJldG9uIGRpYXogdHJhbnNmZXIgbGF0ZX",
+      "title": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target - Derbyshire Live",
+      "description": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHF3NVhhVWlFRTBjdk1xOFdtNE9rZG45VnlHeklFblZNaTdWZWV5NXlBSTE5OV9TSjNEckI2SzVUeVkxSlR5dURxUEpuTHNWdXJHaVBKY21ndEJ3ZURrSzdsQ0lrVVZ1SHZsUDV2VmJsd0NSWUs1M1lNVTU3ZmhrSHBWZUduTVNmMzZZYnhtZFNwM0tISHNidlJHLXNlZ004RUJEY1NZRlA5NFE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-26T10:05:00.000Z",
+      "reputation": 87,
+      "likelihood": 76,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ben Brereton Diaz"
+      ]
+    },
     {
       "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
       "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer - Derbyshire Live",
@@ -421,7 +481,7 @@
       "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
       "source": "Mshale",
-      "published": "2026-08-24T12:14:20.000Z",
+      "published": "2026-08-24T12:14:21.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
