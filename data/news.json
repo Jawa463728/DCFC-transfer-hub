@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-26T05:18:38.683Z",
+  "updatedAt": "2026-08-26T08:02:57.161Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 57,
+  "storyCount": 52,
   "targetCount": 13,
   "targets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Stephen Mfuni",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 2,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Omari Kellyman",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Mikey Johnston",
-      "score": 62,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Anis Mehmeti",
-      "score": 62,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Leicester Mercury",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,8 +85,8 @@
     },
     {
       "name": "Sam Szmodics",
-      "score": 50,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -98,7 +98,7 @@
     },
     {
       "name": "World Cup",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -408,7 +408,7 @@
       "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (b38mXmSY1n) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
       "source": "Mshale",
-      "published": "2026-08-24T12:14:21.000Z",
+      "published": "2026-08-24T12:14:20.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -1009,89 +1009,6 @@
       "players": [
         "Dajaune Brown"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIG5vdGVib29rIG",
-      "title": "Derby County transfer notebook amid David Ozoh competition and claim over World Cup defender - Derbyshire Live",
-      "description": "Derby County transfer notebook amid David Ozoh competition and claim over World Cup defender &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQV91WFg1enI5bTdaTTEyTUctT2s5UGNfLVFzZVUxdmZUU0xDNlcyb3l6MlYwT2dBNW85ZGctRGVLdmFER29uOFU5T3dmVG45UnBCVzF5UFVRSl8yU0I0UXYySzFLX3k0eENWR2E5MjJPdVloQk13WExndlk0WXZEOGtDTVF5bWtTUVhfUGJJYzR5M0dSeFRESng3TFItTG5Gc05uT05QdGs?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-05T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "David Ozoh",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdhbnQgaHVkZGVyc2ZpZWxkIH",
-      "title": "Derby County 'want' Huddersfield Town midfielder after successful loan - Yorkshire Post",
-      "description": "Derby County 'want' Huddersfield Town midfielder after successful loan &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTRwZmVPQTlUY05xVXJjYUlCZFZwd1F6c291NWhISFBiQ0NxaEtocndCTWZ2czFneDE3MXk4Rk1WTG9lU0xNRWp4UEwzRjFhaThLT3A4eGxDZjFNN2tSN0xkNmU3czZnX0I0b3lLeWJELUlOUl8wRS03UmNGY29nQnkydm92WWt0VE5zQk9mdDZpQlpUeW55TWZKUVJYek11Q0NTZWZOWWN4Ti1RZGMybw?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-05T07:00:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Yorkshire Post"
-      ]
-    },
-    {
-      "id": "aHVsbCBjaXR5IGFuZCBkZXJieSBjb3VudHkga2Vlbi",
-      "title": "Hull City and Derby County 'keen' on striking deal for Crystal Palace midfielder David Ozoh - Yorkshire Post",
-      "description": "Hull City and Derby County 'keen' on striking deal for Crystal Palace midfielder David Ozoh &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzNiTnB1eVJJODZZQXlCa09SRGgtYm5WbW9YT3VDWm5ndXdPQl84ckRUNldvSWN2X2RIVDZKRDJWTUNwZzl0X3k1TkNmOElySkQzQzBYUDN0aGsyV0pvUW52UXJSZGp5azFvRlRqWXRkWTU3a0ZUdXo3Rm5NN3R6MjJyb1MzUXRIOHV6UnJWNTA0akltVHhLanZzZENFd21CZjE1MU5n?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-05T07:00:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "David Ozoh",
-        "Yorkshire Post"
-      ]
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyB0aG9tcHNvbiBkZXBhcnRzIG",
-      "title": "TRANSFER NEWS: Thompson departs for Mansfield Town - Derby County",
-      "description": "TRANSFER NEWS: Thompson departs for Mansfield Town &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0VQOFVUbjhBUUJrWXh0YVdtWGltazdmdzB0WDA3cTNMYTJvZ1RqZXFnZFRoYkVycEJJNXF1UUQ0OFd0cURZYWxLbG4xVjgyalptbU01WUpsb3R5MUMydEJyNU1kcFVYWV83cEN3N0lGakYtOF9xOUQzc21QTmpnUEd0MmNRX0FyR0NlUUdB?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-05T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "dGhlIGdsYXJpbmcgdHJhbnNmZXIgcmVhbGl0eSBmYW",
-      "title": "The glaring transfer reality facing Derby County as seismic deal awaits green light - Derbyshire Live",
-      "description": "The glaring transfer reality facing Derby County as seismic deal awaits green light &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1ozcGEyMDNiSmFOUDdreFVpX3FPenY4R3JWRkxjUDk3WDFPa1M2QTQ0Y0x4ai1IU0JOcDctZ0RtMXY4bjRwT1kxQ3ZSTGZUQU5ITXpFOXQyVF9TUlAzN0xHSnhrM3J1SVZXbl9CMVJTN3NKaVhyMF9BNVdmbmRJb2VfY1lVWTM2UE82UUUxV0VianM0YzJ6QzE5WXV1eDJRbzh4bGZUNmVXLTdnUUE?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-05T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     }
   ]
 }
