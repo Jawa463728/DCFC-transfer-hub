@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-26T08:02:57.161Z",
+  "updatedAt": "2026-08-26T10:08:33.562Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 52,
-  "targetCount": 13,
+  "storyCount": 53,
+  "targetCount": 14,
   "targets": [
     {
       "name": "Hamza Choudhury",
-      "score": 72,
+      "score": 77,
       "status": "Strong",
       "independentReports": 2,
-      "totalStories": 2,
+      "totalStories": 3,
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 94,
       "maxLikelihood": 80,
-      "lastMention": "2026-08-25T09:59:00.000Z",
+      "lastMention": "2026-08-26T08:55:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
       "isNew": true
     },
@@ -32,6 +32,19 @@
       "isNew": true
     },
     {
+      "name": "Russell Martin",
+      "score": 64,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 57,
+      "lastMention": "2026-08-26T08:55:00.000Z",
+      "firstSeen": "2026-08-26T10:08:33.562Z",
+      "isNew": true
+    },
+    {
       "name": "Omari Kellyman",
       "score": 62,
       "status": "Developing",
@@ -46,7 +59,7 @@
     },
     {
       "name": "Mikey Johnston",
-      "score": 61,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +72,7 @@
     },
     {
       "name": "Anis Mehmeti",
-      "score": 61,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,7 +111,7 @@
     },
     {
       "name": "World Cup",
-      "score": 39,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -111,33 +124,33 @@
     },
     {
       "name": "Gavin Bazunu Move",
-      "score": 39,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
       "bestSource": "Mshale",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
-      "lastMention": "2026-08-24T12:14:21.000Z",
+      "lastMention": "2026-08-24T12:14:20.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
       "isNew": true
     },
     {
       "name": "Villarreal Vs Sevilla",
-      "score": 39,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
       "bestSource": "Mshale",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
-      "lastMention": "2026-08-24T12:14:21.000Z",
+      "lastMention": "2026-08-24T12:14:20.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
       "isNew": true
     },
     {
       "name": "Mark Kelly",
-      "score": 39,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -150,7 +163,7 @@
     },
     {
       "name": "Former Celtic",
-      "score": 38,
+      "score": 37,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -176,6 +189,24 @@
     }
   ],
   "stories": [
+    {
+      "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
+      "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer - Derbyshire Live",
+      "description": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmNwTEtQRU1CM1BQSl9kdzkyRkNLbG5GeW50RGNpX2cta1hTTWdIT05fbnB4Uzg3WWI5UG1kWW5BTlF5WkRXOEFSS3N6YUc4NVJCTl9BX1JtVUJucFJCSXQwRFdMNFJaaVlsZVRkSENYc1FoTGFnc1lSaG1tQklrcV9DYWNoemN5cjVKeU45eUlVa3lNR3QxRzJHbVR5Ykg3dXFWZkllakxoeG5mc2c?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-26T08:55:00.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Russell Martin",
+        "Hamza Choudhury"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
@@ -390,7 +421,7 @@
       "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
       "source": "Mshale",
-      "published": "2026-08-24T12:14:21.000Z",
+      "published": "2026-08-24T12:14:20.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
