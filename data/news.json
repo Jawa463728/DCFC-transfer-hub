@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T03:37:08.423Z",
+  "updatedAt": "2026-08-26T05:18:38.683Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 57,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Hamza Choudhury",
-      "score": 73,
+      "score": 72,
       "status": "Strong",
       "independentReports": 2,
       "totalStories": 2,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Sam Szmodics",
-      "score": 51,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -111,7 +111,7 @@
     },
     {
       "name": "Gavin Bazunu Move",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -124,7 +124,7 @@
     },
     {
       "name": "Villarreal Vs Sevilla",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -137,7 +137,7 @@
     },
     {
       "name": "Mark Kelly",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -150,7 +150,7 @@
     },
     {
       "name": "Former Celtic",
-      "score": 39,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -180,15 +180,15 @@
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
       "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQk0za1BhTGpTNEtSLW9Ra0UxejRZQXhIWG1rMTViMDF6OVJod0I4dHRzX2tJQjFQSDd5SlVKd182OUswalZINFFSRnNBQjRqc2lCUC1yRkktS3gyT05NZUQ5VG16LVlieHVzejY4U1V4dmJkaWswd2pPRFNSZEcxMTJ4ZkNua1Ztc1pudg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGYzUm9zVkl6ODFWYlhUOFlnampwaWNIZ1ZXRHFSQUo2dlRjNEg3SlRCZ0s3amV0NEtCT190YVhYOGdHc2ZkR25TUkI1UWJNWGZFSXBwZWE5NHkxRGNxYnlCa2lIRHp3ZUUzWkhqU2hsN0d0WC1uYmlpVUdESWptVEFscXk3TnVadC1COTV3Yl9IWGk3?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-08-25T20:34:02.000Z",
+      "published": "2026-08-25T20:22:08.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "de",
-      "overseas": true,
+      "edition": "gb",
+      "overseas": false,
       "players": []
     },
     {
@@ -810,7 +810,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
