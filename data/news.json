@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T22:15:19.075Z",
+  "updatedAt": "2026-08-28T22:26:45.736Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 82,
@@ -1528,21 +1528,6 @@
       "players": []
     },
     {
-      "id": "dHVya2kgYWxhbHNoaWtoIHMgZGVyYnkgY291bnR5IH",
-      "title": "Turki Alalshikh’s Derby County takeover bid collapses - Yahoo Sports",
-      "description": "Turki Alalshikh’s Derby County takeover bid collapses &nbsp;&nbsp; Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUlyVHJoZ21POHBGT0JVU09sQkxXVTlSS3ZYNm9BX21PdWpJS04ySVRjS3lFRzh1ZTFNSHA3WFdZS25NUG5jY2ZiaDdIejlhVWEtSk5kR09uM2hBdjI0YUlMME5QUEhDT0V6Tmp1THNiWjJ4SzhydVlFWnB2c3RtT1owUW9zNG9PTnUxZHFlcw?oc=5",
-      "source": "Yahoo Sports",
-      "published": "2026-08-10T07:00:00.000Z",
-      "reputation": 70,
-      "likelihood": 65,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "am9obiBldXN0YWNlIHJlYWN0cyB0byBzaG9jayBkZX",
       "title": "John Eustace reacts to shock Derby County exit with clear transfer demand - Derbyshire Live",
       "description": "John Eustace reacts to shock Derby County exit with clear transfer demand &nbsp;&nbsp; Derbyshire Live",
@@ -1551,6 +1536,21 @@
       "published": "2026-08-10T07:00:00.000Z",
       "reputation": 96,
       "likelihood": 73,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "dHVya2kgYWxhbHNoaWtoIHMgZGVyYnkgY291bnR5IH",
+      "title": "Turki Alalshikh’s Derby County takeover bid collapses - Yahoo Sports",
+      "description": "Turki Alalshikh’s Derby County takeover bid collapses &nbsp;&nbsp; Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUlyVHJoZ21POHBGT0JVU09sQkxXVTlSS3ZYNm9BX21PdWpJS04ySVRjS3lFRzh1ZTFNSHA3WFdZS25NUG5jY2ZiaDdIejlhVWEtSk5kR09uM2hBdjI0YUlMME5QUEhDT0V6Tmp1THNiWjJ4SzhydVlFWnB2c3RtT1owUW9zNG9PTnUxZHFlcw?oc=5",
+      "source": "Yahoo Sports",
+      "published": "2026-08-10T07:00:00.000Z",
+      "reputation": 70,
+      "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
