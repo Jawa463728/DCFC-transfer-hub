@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T21:52:36.459Z",
+  "updatedAt": "2026-08-28T22:04:02.542Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 74,
@@ -7,8 +7,8 @@
   "targets": [
     {
       "name": "Hamza Choudhury",
-      "score": 82,
-      "status": "Hot",
+      "score": 81,
+      "status": "Strong",
       "independentReports": 3,
       "totalStories": 5,
       "bestSource": "BBC",
@@ -110,19 +110,6 @@
       "isNew": false
     },
     {
-      "name": "Russell Martin",
-      "score": 50,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 57,
-      "lastMention": "2026-08-26T08:55:00.000Z",
-      "firstSeen": "2026-08-26T10:08:33.562Z",
-      "isNew": false
-    },
-    {
       "name": "Southampton's Ben Brereton Diaz",
       "score": 49,
       "status": "Watch",
@@ -133,6 +120,19 @@
       "maxLikelihood": 62,
       "lastMention": "2026-08-26T12:52:00.000Z",
       "firstSeen": "2026-08-26T14:25:48.559Z",
+      "isNew": false
+    },
+    {
+      "name": "Russell Martin",
+      "score": 49,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 57,
+      "lastMention": "2026-08-26T08:55:00.000Z",
+      "firstSeen": "2026-08-26T10:08:33.562Z",
       "isNew": false
     },
     {
