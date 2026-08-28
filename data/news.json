@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T22:04:02.542Z",
+  "updatedAt": "2026-08-28T22:15:19.075Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 74,
-  "targetCount": 19,
+  "storyCount": 82,
+  "targetCount": 20,
   "targets": [
     {
       "name": "Hamza Choudhury",
@@ -188,6 +188,19 @@
       "isNew": false
     },
     {
+      "name": "South American",
+      "score": 32,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "news.bet365.com",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-25T14:44:08.000Z",
+      "firstSeen": "2026-08-28T22:15:19.075Z",
+      "isNew": true
+    },
+    {
       "name": "World Cup",
       "score": 32,
       "status": "Fading",
@@ -266,6 +279,21 @@
       "ratingLabel": "Strong",
       "status": "rumour",
       "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "Y2hhcmx0b24gYXRobGV0aWMgcGxvdCBsYXRlIG1vdm",
+      "title": "Charlton Athletic plot late move for Derby County, Stoke City transfer target - The72",
+      "description": "Charlton Athletic plot late move for Derby County, Stoke City transfer target &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUlCdHZod3pKbGRfWC1iNE1iUDAwdG85aWdTTy1qdHF1NGZrMG02am85MWxWRmw1SHBSaHF4UERibkVoZHliemVhM2g3a3d0R3hXNHRWc2s5OGgtOUl1dVZ4cm9wanBLeVpfZzZfY214bzJvZVZlVVhvZTJ6RFFkN0Jn?oc=5",
+      "source": "The72",
+      "published": "2026-08-28T15:17:40.000Z",
+      "reputation": 66,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -397,6 +425,36 @@
       "players": []
     },
     {
+      "id": "bGVpY2VzdGVyIGNpdHkgbXVzdCBvbmx5IGdyZWVuIG",
+      "title": "Leicester City must only green-light Derby County transfer on one condition - Football League World",
+      "description": "Leicester City must only green-light Derby County transfer on one condition &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3d5ZVMyRGtZUjVCR205S2cyOUVQUEJEMUlleTNDQ3F3Q2tHUm90VHNkZUJwX1RqZkFkYjNKWWxpYTVnbnBvS3hpdi1KTTJLN2VsSnlLVDh3TktjSjRWdm9rTGIwQ2pXQUpteUdGTHc0ZVhKT0ZGQnBBeDNHak9jSGNIV3FkRnRrZnpxU1ByZ1drZ3ZneFdZZlVMRjkxUHczcHB2d09qREJsZ2laM3ZR?oc=5",
+      "source": "Football League World",
+      "published": "2026-08-27T18:30:11.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNsb3NpbmcgaW4gb24gbW92ZS",
+      "title": "Derby County closing in on move to sign £9million-rated forward - news.bet365.com",
+      "description": "Derby County closing in on move to sign £9million-rated forward &nbsp;&nbsp; news.bet365.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1lVOXV4bEJtZEthWkhaV1c2eE9MYlo0bU8yLUhmc25TY1otb0JkaFFzXy1pYndfTF84eVphVXRXem1vdE5XVkZKOXJlOGJGZlAwSHpvenh1el9uV1cxQlNFaldTMUdzZ2VER1V1VnFIVXBuNUI4RVZDUGpVZHVOQ3VZcDdzd2ZmcHBZLUpZTmF1SmFJZldoUUhsQ0g1dExacE9pd3h1cWJQdzl3OGNvTzM0cF94Ml9KZzhRcE5MUlhMUTA?oc=5",
+      "source": "news.bet365.com",
+      "published": "2026-08-27T12:33:48.000Z",
+      "reputation": 48,
+      "likelihood": 65,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "d2VzdCBoYW0gdW5pdGVkIGRlcmJ5IGNvdW50eSAwNS",
       "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -441,6 +499,21 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
+      "players": []
+    },
+    {
+      "id": "am9obiBldXN0YWNlIHdpbGwgbGljayBoaXMgZGVyYn",
+      "title": "John Eustace will lick his Derby County lips at Coventry City transfer twist - Football League World",
+      "description": "John Eustace will lick his Derby County lips at Coventry City transfer twist &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVpUaGdIdUsyS1VLNkxVSjlVaXdlazl5OUc5cENDLVc4ZjdoRU9oTjJGTkdqQjlpZERELVNPcHhtRWwwMzdEcVpOMHU2dmVESHdTQW5DVG9LVm5DTWxyTkpfbTRzU3VQMV96S0oxY1JzNnotaHNMekxSbzF6aGRfNVczWFE5LUU3MFNXcVNlWHFtTF9IWDlGSmNRaG1tQTgwOVdvbWs3bEx0QXd4dU9pZQ?oc=5",
+      "source": "Football League World",
+      "published": "2026-08-26T18:00:11.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
       "players": []
     },
     {
@@ -543,6 +616,21 @@
       ]
     },
     {
+      "id": "YmlybWluZ2hhbSBjaXR5IGpvaW4gZGVyYnkgY291bn",
+      "title": "Birmingham City join Derby County, Wrexham in £9m Ipswich Town transfer race - Football League World",
+      "description": "Birmingham City join Derby County, Wrexham in £9m Ipswich Town transfer race &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkdVc3BQbGFsNEYyaWIxdEMtUnZkcHlweHBweDM5STYtdWlILXpUUnZmSTlMTmdQaHZiMmpzcFU0dGFHcmNXUGhTbFROeEpuYjZ6UXRUMmhicFNuM2JSeDVXdUNEQnE4UUVHcTRoNVYxenZ6MmJJanY1X0pab0RCNUdJTkNfdVFHVmk3NG15dWRTaWc?oc=5",
+      "source": "Football League World",
+      "published": "2026-08-26T10:17:01.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "YmVuIGJyZXJldG9uIGRpYXogdHJhbnNmZXIgbGF0ZX",
       "title": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target - Derbyshire Live",
       "description": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target &nbsp;&nbsp; Derbyshire Live",
@@ -558,6 +646,21 @@
       "players": [
         "Ben Brereton Diaz"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
+      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
+      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-26T08:55:07.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
@@ -623,6 +726,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGtlZW4gdG8gc3RyaWtlIHBlcm",
+      "title": "Derby County keen to strike permanent deal for South American star - news.bet365.com",
+      "description": "Derby County keen to strike permanent deal for South American star &nbsp;&nbsp; news.bet365.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEU0ODQyWF9iMGxPckgxQU01cjhsYWV3OGtnV2RVZzFUNUpEWkpvdDd2MWx3NjJDbTBaODhSYzlkc0pvaS1PdUg1MkJEd2daY0tsZWgyamd6QjBXYUhIcTFQek9teUMtUFFqa3VWUFZ0dE5POVBLaHYxei13b01uRWRWVzVyR2ZNLVcwQnhOZmVoYzNQRkNobU1CaDZlWTV6TkNDNE1qZTZWcVV5ZFRxQVFMNmhtZy1nUkVmdVdtYUtZUQ?oc=5",
+      "source": "news.bet365.com",
+      "published": "2026-08-25T14:44:08.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "South American"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IG9uIHJlZCBhbGVydCBmb3Igc3",
@@ -734,7 +854,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1402,6 +1522,21 @@
       "reputation": 87,
       "likelihood": 76,
       "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "dHVya2kgYWxhbHNoaWtoIHMgZGVyYnkgY291bnR5IH",
+      "title": "Turki Alalshikh’s Derby County takeover bid collapses - Yahoo Sports",
+      "description": "Turki Alalshikh’s Derby County takeover bid collapses &nbsp;&nbsp; Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUlyVHJoZ21POHBGT0JVU09sQkxXVTlSS3ZYNm9BX21PdWpJS04ySVRjS3lFRzh1ZTFNSHA3WFdZS25NUG5jY2ZiaDdIejlhVWEtSk5kR09uM2hBdjI0YUlMME5QUEhDT0V6Tmp1THNiWjJ4SzhydVlFWnB2c3RtT1owUW9zNG9PTnUxZHFlcw?oc=5",
+      "source": "Yahoo Sports",
+      "published": "2026-08-10T07:00:00.000Z",
+      "reputation": 70,
+      "likelihood": 65,
+      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
