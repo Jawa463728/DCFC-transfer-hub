@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T11:51:56.658Z",
+  "updatedAt": "2026-08-29T12:03:48.336Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 85,
@@ -32,11 +32,11 @@
       "isNew": false
     },
     {
-      "name": "Southampton's Ben Brereton Diaz",
+      "name": "Yorkshire Post",
       "score": 62,
       "status": "Developing",
       "independentReports": 1,
-      "totalStories": 2,
+      "totalStories": 4,
       "bestSource": "Yorkshire Post",
       "bestSourceScore": 78,
       "maxLikelihood": 84,
@@ -45,11 +45,11 @@
       "isNew": false
     },
     {
-      "name": "Yorkshire Post",
+      "name": "Southampton's Ben Brereton Diaz",
       "score": 62,
       "status": "Developing",
       "independentReports": 1,
-      "totalStories": 4,
+      "totalStories": 2,
       "bestSource": "Yorkshire Post",
       "bestSourceScore": 78,
       "maxLikelihood": 84,
@@ -285,6 +285,21 @@
       ]
     },
     {
+      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
+      "source": "FotMob",
+      "published": "2026-08-29T03:17:20.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "YWNhZGVteSBuZXdzIGFsbGVuIG1ha2VzIGhhbGlmYX",
       "title": "ACADEMY NEWS: Allen makes Halifax loan switch - Derby County",
       "description": "ACADEMY NEWS: Allen makes Halifax loan switch &nbsp;&nbsp; Derby County",
@@ -377,6 +392,23 @@
       ]
     },
     {
+      "id": "Zm9yd2FyZCBkdWUgZm9yIHNoZWZmaWVsZCB1bml0ZW",
+      "title": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links - Yorkshire Post",
+      "description": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbF9Xc2k3bE9QWXlGLXV5SHRjODVpemJiYl81Nk8xVDdsRUtGN3lqUVJUaVBYcUFfUVpHbVBGVlFLLVkyaDl2a0JZWGNVLXc1NmdqS2M5MS13dHIwVGdHdHRjbHMtNlVzdnJyM3hGUmJpTkg1UUJQLURsYlU3ZzJIZ1dLZ0ctTTNMSEZ6VzQzX0xqQm5fN1k0VDkxelR1VGdKWlhxYTRDRkhHTmVyLTlWdGJEVU1fblBPTkVuc3RzdzN2Vmc?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-28T09:06:00.000Z",
+      "reputation": 78,
+      "likelihood": 84,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Yorkshire Post"
+      ]
+    },
+    {
       "id": "c291dGhhbXB0b24gcyBiZW4gYnJlcmV0b24gZGlhei",
       "title": "Southampton's Ben Brereton Diaz 'due' for Sheffield United medical despite Stoke City and Derby County links - Yorkshire Post",
       "description": "Southampton's Ben Brereton Diaz 'due' for Sheffield United medical despite Stoke City and Derby County links &nbsp;&nbsp; Yorkshire Post",
@@ -391,23 +423,6 @@
       "overseas": false,
       "players": [
         "Southampton's Ben Brereton Diaz",
-        "Yorkshire Post"
-      ]
-    },
-    {
-      "id": "Zm9yd2FyZCBkdWUgZm9yIHNoZWZmaWVsZCB1bml0ZW",
-      "title": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links - Yorkshire Post",
-      "description": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbF9Xc2k3bE9QWXlGLXV5SHRjODVpemJiYl81Nk8xVDdsRUtGN3lqUVJUaVBYcUFfUVpHbVBGVlFLLVkyaDl2a0JZWGNVLXc1NmdqS2M5MS13dHIwVGdHdHRjbHMtNlVzdnJyM3hGUmJpTkg1UUJQLURsYlU3ZzJIZ1dLZ0ctTTNMSEZ6VzQzX0xqQm5fN1k0VDkxelR1VGdKWlhxYTRDRkhHTmVyLTlWdGJEVU1fblBPTkVuc3RzdzN2Vmc?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-28T09:06:00.000Z",
-      "reputation": 78,
-      "likelihood": 84,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
         "Yorkshire Post"
       ]
     },
@@ -761,21 +776,6 @@
       "players": [
         "Stephen Mfuni"
       ]
-    },
-    {
-      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
-      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0pyalB0U3Jad3VyT0pWR2dIbTQxWjdnWFZBajJfNHhFcnV0OVQxU0dqSUpiald4Mjdid2RmdE5EUGVSdkhXYi1NUHZ0T2pwN3RqYjl2Zi1Wbm84WVFvT0xDZzUwQW5JUmRKaHY3MHRvU1pXaUVGTlR2LXh3WFgyYkFuc2ZrRjh2dXRtRXJ6eFVnR1FPdklfcFdNNDdKTDZrcU14TW9OZGFFOU1GQ2ZnUTVCOFoyM1JYY0E?oc=5",
-      "source": "FotMob",
-      "published": "2026-08-25T17:31:14.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGtlZW4gdG8gc3RyaWtlIHBlcm",
@@ -1268,7 +1268,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
