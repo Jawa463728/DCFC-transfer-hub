@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T09:14:13.369Z",
+  "updatedAt": "2026-08-29T09:25:24.389Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 84,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Southampton's Ben Brereton Diaz",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 2,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Yorkshire Post",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 4,
@@ -1520,7 +1520,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Alex Mowatt"
