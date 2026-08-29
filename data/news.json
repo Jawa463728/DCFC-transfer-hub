@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T08:51:30.479Z",
+  "updatedAt": "2026-08-29T09:02:47.576Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 84,
@@ -151,7 +151,7 @@
     {
       "name": "Russell Martin",
       "score": 47,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
