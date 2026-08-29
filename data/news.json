@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T05:25:42.119Z",
+  "updatedAt": "2026-08-29T05:36:58.049Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 85,
@@ -98,7 +98,7 @@
     },
     {
       "name": "Ben Brereton Diaz",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
