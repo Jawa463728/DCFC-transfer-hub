@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T09:36:44.920Z",
+  "updatedAt": "2026-08-29T09:48:04.423Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 84,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Leicester Mercury",
-      "score": 58,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 2,
@@ -1520,7 +1520,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Alex Mowatt"
