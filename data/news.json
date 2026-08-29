@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T10:21:44.180Z",
+  "updatedAt": "2026-08-29T10:32:58.975Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 85,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Demarai Gray",
-      "score": 55,
+      "score": 54,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
