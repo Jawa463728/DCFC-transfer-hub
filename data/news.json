@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-29T17:46:44.315Z",
+  "updatedAt": "2026-08-29T17:57:40.229Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 88,
+  "storyCount": 89,
   "targetCount": 20,
   "targets": [
     {
@@ -188,6 +188,19 @@
       "isNew": false
     },
     {
+      "name": "West Ham",
+      "score": 38,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-26T11:30:11.000Z",
+      "firstSeen": "2026-08-29T17:57:40.229Z",
+      "isNew": true
+    },
+    {
       "name": "Mercato Pisa",
       "score": 32,
       "status": "Fading",
@@ -241,19 +254,6 @@
     },
     {
       "name": "Gavin Bazunu Move",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-24T12:14:21.000Z",
-      "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": false
-    },
-    {
-      "name": "Villarreal Vs Sevilla",
       "score": 32,
       "status": "Fading",
       "independentReports": 1,
@@ -710,6 +710,23 @@
       "overseas": true,
       "players": [
         "Calciomercato Pisa"
+      ]
+    },
+    {
+      "id": "OCA1bSBjaGVsc2VhIGRlZmVuZGVyIHNldCBmb3IgbG",
+      "title": "£8.5m Chelsea defender set for loan exit: Millwall, Derby County & West Ham should be on alert - Football League World",
+      "description": "£8.5m Chelsea defender set for loan exit: Millwall, Derby County & West Ham should be on alert &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFMzS2hiZkYwNktDR2pHTzJMVkdsdFVFOFNZR0NHaFpuenlqaThPOGNTTW9yYVc4M0R4WGJQQmlud2lyMURZNFZ4M2VhZTg5ZUs5WGVZZHRPNzVHcTl0RDFydVU1clF1Uk5aV005Xzh1eXdpNUJrQi01a1gzYWFjRXkxd1ZJYXlJTm9FTFpZbkVFYjRiaVd0Q1BsY2d6eDY1WWVJc2tzYnh1MV8wQlF2bXNSUUR6SlFpdUE?oc=5",
+      "source": "Football League World",
+      "published": "2026-08-26T11:30:11.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "West Ham"
       ]
     },
     {
@@ -1339,21 +1356,6 @@
       ]
     },
     {
-      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
-      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
       "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
       "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
@@ -1369,6 +1371,21 @@
       "players": [
         "Ryan Hedges"
       ]
+    },
+    {
+      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
+      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
+      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yIGdlbGVubGVyIGdhbG",
