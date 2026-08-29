@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T00:19:02.260Z",
+  "updatedAt": "2026-08-29T00:30:18.509Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 82,
@@ -931,7 +931,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Gavin Bazunu Move",
@@ -1341,7 +1341,7 @@
       "description": "Derby County star subject of Serie A transfer offer including huge sell-on clause &nbsp;&nbsp; Yahoo Sports UK",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGVLYVRodWhJT2RxZEx3RlVTZTBOZUhYQVN5YUxGN19QWGE1ckxwVENWVkw4eEVfNHZjOEhjYUdKM3NVWlFMbVEyRHF5Y1lHOUZSSEk4QWk3SXlMNUU3V0xid0lBUXJyYlJHa3o2M2JaUFQtUXJhd0JCRUF0STJPYmJhN29rUQ?oc=5",
       "source": "Yahoo Sports UK",
-      "published": "2026-08-18T12:47:35.000Z",
+      "published": "2026-08-18T07:00:00.000Z",
       "reputation": 70,
       "likelihood": 65,
       "ratingLabel": "Watch",
