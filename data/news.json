@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T09:25:24.389Z",
+  "updatedAt": "2026-08-29T09:36:44.920Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 84,
@@ -97,19 +97,6 @@
       "isNew": false
     },
     {
-      "name": "Ben Brereton Diaz",
-      "score": 52,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 76,
-      "lastMention": "2026-08-26T10:05:00.000Z",
-      "firstSeen": "2026-08-26T11:51:18.056Z",
-      "isNew": false
-    },
-    {
       "name": "Stephen Mfuni",
       "score": 51,
       "status": "Fading",
@@ -120,6 +107,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-08-25T17:43:27.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
+      "isNew": false
+    },
+    {
+      "name": "Ben Brereton Diaz",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 76,
+      "lastMention": "2026-08-26T10:05:00.000Z",
+      "firstSeen": "2026-08-26T11:51:18.056Z",
       "isNew": false
     },
     {
