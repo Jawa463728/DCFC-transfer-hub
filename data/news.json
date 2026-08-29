@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T13:45:32.436Z",
+  "updatedAt": "2026-08-29T13:56:45.526Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 86,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "Hamza Choudhury",
-      "score": 78,
-      "status": "Strong",
-      "independentReports": 3,
+      "score": 84,
+      "status": "Hot",
+      "independentReports": 4,
       "totalStories": 5,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -55,19 +55,6 @@
       "maxLikelihood": 84,
       "lastMention": "2026-08-28T09:06:00.000Z",
       "firstSeen": "2026-08-26T14:25:48.559Z",
-      "isNew": false
-    },
-    {
-      "name": "Leicester Mercury",
-      "score": 56,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Leicester Mercury",
-      "bestSourceScore": 79,
-      "maxLikelihood": 63,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-26T00:00:06.364Z",
       "isNew": false
     },
     {
@@ -172,6 +159,19 @@
       "maxLikelihood": 57,
       "lastMention": "2026-08-26T08:55:00.000Z",
       "firstSeen": "2026-08-26T10:08:33.562Z",
+      "isNew": false
+    },
+    {
+      "name": "Leicester Mercury",
+      "score": 46,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Leicester Mercury",
+      "bestSourceScore": 79,
+      "maxLikelihood": 63,
+      "lastMention": "2026-08-25T09:59:00.000Z",
+      "firstSeen": "2026-08-26T00:00:06.364Z",
       "isNew": false
     },
     {
@@ -283,21 +283,6 @@
       "players": [
         "Demarai Gray"
       ]
-    },
-    {
-      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
-      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
-      "source": "FotMob",
-      "published": "2026-08-29T03:17:20.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "YWNhZGVteSBuZXdzIGFsbGVuIG1ha2VzIGhhbGlmYX",
@@ -428,10 +413,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IG1hbmFnZXIgaGludHMgYXQgaG",
-      "title": "Derby County manager hints at Hamza Choudhury transfer as Leicester City exit 'close' - Leicester Mercury",
-      "description": "Derby County manager hints at Hamza Choudhury transfer as Leicester City exit 'close' &nbsp;&nbsp; Leicester Mercury",
+      "title": "Derby County manager hints at Hamza Choudhury transfer as Leicester City exit 'close' - Leicestershire Live",
+      "description": "Derby County manager hints at Hamza Choudhury transfer as Leicester City exit 'close' &nbsp;&nbsp; Leicestershire Live",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUZ6MUNjOVM5a3ZzbmZlZ2t6SXBaM3g3Qzl5cFpBby02ZTJqS3MtcTVPWVN4QjJ3bjVmcFBFMzIwRkZYcTFWZGtfbS05WlFqcmxhOWUyblZoc3owNWE3emloWEwyYzhhNnJnZGMtODIxREVuMjRNeXBwckdhcnNjNXFuUDZLS3BCb1RTZ0pYd0hNQjhJMWpuY3NrYW5aTEFPV1ItcWgxQlQ1elU2eUE?oc=5",
-      "source": "Leicester Mercury",
+      "source": "Leicestershire Live",
       "published": "2026-08-28T08:24:00.000Z",
       "reputation": 79,
       "likelihood": 63,
@@ -440,8 +425,7 @@
       "edition": "gb",
       "overseas": false,
       "players": [
-        "Hamza Choudhury",
-        "Leicester Mercury"
+        "Hamza Choudhury"
       ]
     },
     {
@@ -791,6 +775,21 @@
       "players": [
         "Stephen Mfuni"
       ]
+    },
+    {
+      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0pyalB0U3Jad3VyT0pWR2dIbTQxWjdnWFZBajJfNHhFcnV0OVQxU0dqSUpiald4Mjdid2RmdE5EUGVSdkhXYi1NUHZ0T2pwN3RqYjl2Zi1Wbm84WVFvT0xDZzUwQW5JUmRKaHY3MHRvU1pXaUVGTlR2LXh3WFgyYkFuc2ZrRjh2dXRtRXJ6eFVnR1FPdklfcFdNNDdKTDZrcU14TW9OZGFFOU1GQ2ZnUTVCOFoyM1JYY0E?oc=5",
+      "source": "FotMob",
+      "published": "2026-08-25T17:31:14.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGtlZW4gdG8gc3RyaWtlIHBlcm",
