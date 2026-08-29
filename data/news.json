@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-29T04:40:18.456Z",
+  "updatedAt": "2026-08-29T04:51:40.140Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 84,
+  "storyCount": 85,
   "targetCount": 20,
   "targets": [
     {
@@ -903,6 +903,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHNldCBmb3IgY3Jhenkgam9obi",
+      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - Mshale",
+      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVGZpZGhNTWxqWHlpTzZpbkZrY29LMFJHbHpmSWVVSDBJVHpHdmhEa2lpZEdGWlMxbmZOM2JSM0RQVGR6WHQtVTNKMldoOWdKWGtNcldqVGJXamc?oc=5",
+      "source": "Mshale",
+      "published": "2026-08-24T13:09:16.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
