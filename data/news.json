@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-29T21:21:47.341Z",
+  "updatedAt": "2026-08-29T21:33:15.935Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 89,
+  "storyCount": 88,
   "targetCount": 20,
   "targets": [
     {
@@ -487,7 +487,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -762,21 +762,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
-      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
-      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-26T08:55:07.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
       "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer - Derbyshire Live",
       "description": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer &nbsp;&nbsp; Derbyshire Live",
@@ -805,7 +790,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1381,7 +1366,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ryan Hedges"
@@ -1475,7 +1460,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1586,7 +1571,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1635,7 +1620,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1667,7 +1652,7 @@
       "likelihood": 73,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
