@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-29T09:48:04.423Z",
+  "updatedAt": "2026-08-29T09:59:12.120Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 84,
+  "storyCount": 85,
   "targetCount": 20,
   "targets": [
     {
@@ -29,7 +29,7 @@
       "maxLikelihood": 90,
       "lastMention": "2026-08-28T09:19:00.000Z",
       "firstSeen": "2026-08-28T21:52:36.458Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Southampton's Ben Brereton Diaz",
@@ -69,6 +69,19 @@
       "lastMention": "2026-08-28T08:24:00.000Z",
       "firstSeen": "2026-08-26T00:00:06.364Z",
       "isNew": false
+    },
+    {
+      "name": "Demarai Gray",
+      "score": 55,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-29T06:15:11.000Z",
+      "firstSeen": "2026-08-29T09:59:12.120Z",
+      "isNew": true
     },
     {
       "name": "Mikey Johnston",
@@ -251,22 +264,26 @@
       "lastMention": "2026-08-24T11:48:04.000Z",
       "firstSeen": "2026-08-26T00:00:06.364Z",
       "isNew": false
-    },
-    {
-      "name": "Former Celtic",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "GlasgowWorld",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-24T08:09:00.000Z",
-      "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": false
     }
   ],
   "stories": [
+    {
+      "id": "ZGVtYXJhaSBncmF5IHdpbGwgd2luY2UgYXMgYmlybW",
+      "title": "Demarai Gray will wince as Birmingham City rival Derby County for Ipswich Town transfer - Football League World",
+      "description": "Demarai Gray will wince as Birmingham City rival Derby County for Ipswich Town transfer &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWIyMFU4bmVwdTdVM0NwRW93QkV1RFF4ODNYdWVxVHhEaHh3SnN0VDE3WWNDQ3BmaG9QdXFjN3FJYVFCb1lUUDJiMjRFRVhlcXpnZmtOUzZCNDBySVhmM0ZPOE4tVzdFdUdWNEhvNWp6VkhWTm01aG53NzBqcFYwYllQUlZGbktMV195SU9mWDJFYk5Oemw3S0pIcnk2TTNKZFZoTk42djFlb1NU?oc=5",
+      "source": "Football League World",
+      "published": "2026-08-29T06:15:11.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Demarai Gray"
+      ]
+    },
     {
       "id": "YWNhZGVteSBuZXdzIGFsbGVuIG1ha2VzIGhhbGlmYX",
       "title": "ACADEMY NEWS: Allen makes Halifax loan switch - Derby County",
@@ -438,7 +455,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -468,7 +485,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -545,7 +562,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -659,7 +676,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -724,7 +741,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -887,7 +904,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1251,7 +1268,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1315,7 +1332,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ryan Hedges"
@@ -1520,7 +1537,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Alex Mowatt"
@@ -1554,7 +1571,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1586,7 +1603,7 @@
       "likelihood": 73,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
