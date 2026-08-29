@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T22:18:00.361Z",
+  "updatedAt": "2026-08-29T22:29:01.855Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -110,19 +110,6 @@
       "isNew": false
     },
     {
-      "name": "Demarai Gray",
-      "score": 52,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 51,
-      "lastMention": "2026-08-29T06:15:11.000Z",
-      "firstSeen": "2026-08-29T09:59:12.120Z",
-      "isNew": false
-    },
-    {
       "name": "Stephen Mfuni",
       "score": 51,
       "status": "Fading",
@@ -133,6 +120,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-08-25T17:43:27.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
+      "isNew": false
+    },
+    {
+      "name": "Demarai Gray",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-29T06:15:11.000Z",
+      "firstSeen": "2026-08-29T09:59:12.120Z",
       "isNew": false
     },
     {
