@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:25:03.704Z",
+  "updatedAt": "2026-08-29T20:36:20.671Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 89,
@@ -300,21 +300,6 @@
       "players": [
         "Demarai Gray"
       ]
-    },
-    {
-      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
-      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
-      "source": "FotMob",
-      "published": "2026-08-29T03:17:20.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "YWNhZGVteSBuZXdzIGFsbGVuIG1ha2VzIGhhbGlmYX",
@@ -827,6 +812,21 @@
       ]
     },
     {
+      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0pyalB0U3Jad3VyT0pWR2dIbTQxWjdnWFZBajJfNHhFcnV0OVQxU0dqSUpiald4Mjdid2RmdE5EUGVSdkhXYi1NUHZ0T2pwN3RqYjl2Zi1Wbm84WVFvT0xDZzUwQW5JUmRKaHY3MHRvU1pXaUVGTlR2LXh3WFgyYkFuc2ZrRjh2dXRtRXJ6eFVnR1FPdklfcFdNNDdKTDZrcU14TW9OZGFFOU1GQ2ZnUTVCOFoyM1JYY0E?oc=5",
+      "source": "FotMob",
+      "published": "2026-08-25T17:31:14.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGtlZW4gdG8gc3RyaWtlIHBlcm",
       "title": "Derby County keen to strike permanent deal for South American star - news.bet365.com",
       "description": "Derby County keen to strike permanent deal for South American star &nbsp;&nbsp; news.bet365.com",
@@ -1317,7 +1317,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1475,7 +1475,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
