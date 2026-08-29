@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-29T06:56:09.417Z",
+  "updatedAt": "2026-08-29T07:07:46.857Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 85,
+  "storyCount": 84,
   "targetCount": 20,
   "targets": [
     {
@@ -1599,21 +1599,6 @@
       "published": "2026-08-10T07:00:00.000Z",
       "reputation": 70,
       "likelihood": 65,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "am9obiBldXN0YWNlIGV4cGxhaW5zIGRlcmJ5IGNvdW",
-      "title": "John Eustace explains Derby County transfer as Lincoln City plan made clear - Derbyshire Live",
-      "description": "John Eustace explains Derby County transfer as Lincoln City plan made clear &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFptNVI5VjhNMWl6LXE2Ti0tckpMZlZPVFpGdDhWaFpHZmZ0N21wc3NrMTJMY2IwOGdRNHpzRk1XVlpWeER5WUx4OFlFVDNxMG8teVRhNTR1ZGxBcUR5Wkt5anhLbmNEbEkyTXI0UXZ4eFRBYWxFbXM2VFBmTXo3TzNoZEtHSTNmbWtZLTlGNDhaZERRU3dxTERMTkFhdG9WVjdndGpiT0x3Zw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-08T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
