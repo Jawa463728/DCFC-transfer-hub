@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-29T03:20:15.692Z",
+  "updatedAt": "2026-08-29T03:31:28.512Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 83,
+  "storyCount": 84,
   "targetCount": 20,
   "targets": [
     {
@@ -32,11 +32,24 @@
       "isNew": true
     },
     {
+      "name": "Southampton's Ben Brereton Diaz",
+      "score": 64,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Yorkshire Post",
+      "bestSourceScore": 78,
+      "maxLikelihood": 84,
+      "lastMention": "2026-08-28T09:06:00.000Z",
+      "firstSeen": "2026-08-26T14:25:48.559Z",
+      "isNew": false
+    },
+    {
       "name": "Yorkshire Post",
       "score": 64,
       "status": "Developing",
       "independentReports": 1,
-      "totalStories": 3,
+      "totalStories": 4,
       "bestSource": "Yorkshire Post",
       "bestSourceScore": 78,
       "maxLikelihood": 84,
@@ -133,19 +146,6 @@
       "maxLikelihood": 68,
       "lastMention": "2026-08-23T08:00:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
-      "isNew": false
-    },
-    {
-      "name": "Southampton's Ben Brereton Diaz",
-      "score": 48,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Yorkshire Post",
-      "bestSourceScore": 78,
-      "maxLikelihood": 62,
-      "lastMention": "2026-08-26T12:52:00.000Z",
-      "firstSeen": "2026-08-26T14:25:48.559Z",
       "isNew": false
     },
     {
@@ -357,6 +357,24 @@
       "overseas": false,
       "players": [
         "Ben Brereton-"
+      ]
+    },
+    {
+      "id": "c291dGhhbXB0b24gcyBiZW4gYnJlcmV0b24gZGlhei",
+      "title": "Southampton's Ben Brereton Diaz 'due' for Sheffield United medical despite Stoke City and Derby County links - Yorkshire Post",
+      "description": "Southampton's Ben Brereton Diaz 'due' for Sheffield United medical despite Stoke City and Derby County links &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbF9Xc2k3bE9QWXlGLXV5SHRjODVpemJiYl81Nk8xVDdsRUtGN3lqUVJUaVBYcUFfUVpHbVBGVlFLLVkyaDl2a0JZWGNVLXc1NmdqS2M5MS13dHIwVGdHdHRjbHMtNlVzdnJyM3hGUmJpTkg1UUJQLURsYlU3ZzJIZ1dLZ0ctTTNMSEZ6VzQzX0xqQm5fN1k0VDkxelR1VGdKWlhxYTRDRkhHTmVyLTlWdGJEVU1fblBPTkVuc3RzdzN2Vmc?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-28T09:06:00.000Z",
+      "reputation": 78,
+      "likelihood": 84,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
       ]
     },
     {
