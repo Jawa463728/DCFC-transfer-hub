@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T11:40:37.192Z",
+  "updatedAt": "2026-08-29T11:51:56.658Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 85,
@@ -177,7 +177,7 @@
     {
       "name": "Mercato Pisa",
       "score": 32,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "VTrend",
@@ -190,7 +190,7 @@
     {
       "name": "Calciomercato Pisa",
       "score": 32,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "SestaPorta.News Pisa",
@@ -1268,7 +1268,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
