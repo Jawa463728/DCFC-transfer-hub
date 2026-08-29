@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T04:28:41.423Z",
+  "updatedAt": "2026-08-29T04:40:18.456Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 84,
@@ -163,7 +163,7 @@
     },
     {
       "name": "Mercato Pisa",
-      "score": 34,
+      "score": 33,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -176,7 +176,7 @@
     },
     {
       "name": "Calciomercato Pisa",
-      "score": 34,
+      "score": 33,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
