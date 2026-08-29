@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T09:59:12.120Z",
+  "updatedAt": "2026-08-29T10:10:28.325Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 85,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Hamza Choudhury",
-      "score": 79,
+      "score": 78,
       "status": "Strong",
       "independentReports": 3,
       "totalStories": 5,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Ben Brereton-",
-      "score": 67,
+      "score": 66,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -125,7 +125,7 @@
     {
       "name": "Ben Brereton Diaz",
       "score": 51,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -455,7 +455,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -741,7 +741,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1268,7 +1268,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1332,7 +1332,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ryan Hedges"
@@ -1537,7 +1537,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Alex Mowatt"
@@ -1571,7 +1571,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1603,7 +1603,7 @@
       "likelihood": 73,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
