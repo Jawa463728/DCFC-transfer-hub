@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:55:04.959Z",
+  "updatedAt": "2026-08-30T02:06:27.807Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Hamza Choudhury",
-      "score": 75,
+      "score": 74,
       "status": "Strong",
       "independentReports": 3,
       "totalStories": 5,
