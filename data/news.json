@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T23:47:12.988Z",
+  "updatedAt": "2026-08-30T23:58:47.000Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 106,
+  "storyCount": 107,
   "targetCount": 20,
   "targets": [
     {
@@ -136,19 +136,6 @@
       "isNew": false
     },
     {
-      "name": "The Sunday Guardian",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The Sunday Guardian",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T18:56:43.000Z",
-      "firstSeen": "2026-08-30T20:14:06.397Z",
-      "isNew": true
-    },
-    {
       "name": "Omari Kellyman",
       "score": 49,
       "status": "Fading",
@@ -186,6 +173,19 @@
       "lastMention": "2026-08-22T06:00:00.000Z",
       "firstSeen": "2026-08-30T07:01:31.107Z",
       "isNew": false
+    },
+    {
+      "name": "The Sunday Guardian",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The Sunday Guardian",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T18:56:43.000Z",
+      "firstSeen": "2026-08-30T20:14:06.397Z",
+      "isNew": true
     },
     {
       "name": "Calciomercato Pisa",
@@ -362,6 +362,21 @@
       "players": [
         "Henrik Meister"
       ]
+    },
+    {
+      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
+      "source": "FotMob",
+      "published": "2026-08-30T16:43:35.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIHVmZmljaWFsZSBtZW",
