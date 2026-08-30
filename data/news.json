@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T21:32:36.812Z",
+  "updatedAt": "2026-08-30T21:43:40.738Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 106,
@@ -149,19 +149,6 @@
       "isNew": true
     },
     {
-      "name": "Leicester Mercury",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Leicester Mercury",
-      "bestSourceScore": 79,
-      "maxLikelihood": 63,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-26T00:00:06.364Z",
-      "isNew": false
-    },
-    {
       "name": "Omari Kellyman",
       "score": 49,
       "status": "Fading",
@@ -211,6 +198,19 @@
       "maxLikelihood": 43,
       "lastMention": "2026-08-30T16:24:01.000Z",
       "firstSeen": "2026-08-26T14:25:48.559Z",
+      "isNew": false
+    },
+    {
+      "name": "Leicester Mercury",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Leicester Mercury",
+      "bestSourceScore": 79,
+      "maxLikelihood": 63,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-08-26T00:00:06.364Z",
       "isNew": false
     },
     {
