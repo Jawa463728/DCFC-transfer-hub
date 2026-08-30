@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T15:55:19.928Z",
+  "updatedAt": "2026-08-30T16:07:05.524Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 91,
+  "storyCount": 92,
   "targetCount": 20,
   "targets": [
     {
@@ -267,6 +267,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
+      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
+      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-30T16:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "c2hlZmZpZWxkIHVuaXRlZCBzZXQgdG8gc2lnbiBsZW",
       "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest - Yahoo Sports UK",
@@ -1349,7 +1364,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1633,7 +1648,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Alex Mowatt"
