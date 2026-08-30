@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:19:30.889Z",
+  "updatedAt": "2026-08-30T05:30:35.857Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Yorkshire Post",
-      "score": 58,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 4,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Southampton's Ben Brereton Diaz",
-      "score": 58,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 2,
