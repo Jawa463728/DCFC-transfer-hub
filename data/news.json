@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T18:10:23.261Z",
+  "updatedAt": "2026-08-30T18:21:44.731Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 98,
+  "storyCount": 99,
   "targetCount": 20,
   "targets": [
     {
@@ -268,6 +268,23 @@
   ],
   "stories": [
     {
+      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
+      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLXptUG44RWNkSWJnOFQwQWdIc214OFVjM2JCUXFLUFM2N2ZwSUsxZ3hHS3U4T2pocHFYU2haXzJhYTRqdjY3aTRkX1BhUVUzYkNiN1hTYw?oc=5",
+      "source": "OneFootball",
+      "published": "2026-08-30T18:20:41.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
+      "overseas": true,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
       "id": "cGlzYSBwcmltZSBwYXJvbGUgYWwgZGVyYnkgY291bn",
       "title": "Pisa, prime parole al Derby County per Meister: \"Championship ideale per il mio gioco\" - TUTTOmercatoWEB",
       "description": "Pisa, prime parole al Derby County per Meister: \"Championship ideale per il mio gioco\" &nbsp;&nbsp; TUTTOmercatoWEB",
@@ -372,7 +389,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Mattie Pollock"
