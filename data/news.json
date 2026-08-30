@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T02:17:42.891Z",
+  "updatedAt": "2026-08-30T02:28:57.325Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -123,19 +123,6 @@
       "isNew": false
     },
     {
-      "name": "Demarai Gray",
-      "score": 51,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 51,
-      "lastMention": "2026-08-29T06:15:11.000Z",
-      "firstSeen": "2026-08-29T09:59:12.120Z",
-      "isNew": false
-    },
-    {
       "name": "Ben Brereton Diaz",
       "score": 51,
       "status": "Fading",
@@ -146,6 +133,19 @@
       "maxLikelihood": 76,
       "lastMention": "2026-08-26T10:05:00.000Z",
       "firstSeen": "2026-08-26T11:51:18.056Z",
+      "isNew": false
+    },
+    {
+      "name": "Demarai Gray",
+      "score": 50,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-29T06:15:11.000Z",
+      "firstSeen": "2026-08-29T09:59:12.120Z",
       "isNew": false
     },
     {
