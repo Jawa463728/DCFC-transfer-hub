@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T20:02:47.294Z",
+  "updatedAt": "2026-08-30T20:14:06.398Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 101,
+  "storyCount": 105,
   "targetCount": 20,
   "targets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Mattie Pollock",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -43,6 +43,19 @@
       "lastMention": "2026-08-28T09:19:00.000Z",
       "firstSeen": "2026-08-28T21:52:36.458Z",
       "isNew": false
+    },
+    {
+      "name": "Fresh Anis Mehmeti",
+      "score": 56,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The72",
+      "bestSourceScore": 66,
+      "maxLikelihood": 54,
+      "lastMention": "2026-08-30T13:28:56.000Z",
+      "firstSeen": "2026-08-30T20:14:06.397Z",
+      "isNew": true
     },
     {
       "name": "Yorkshire Post",
@@ -121,6 +134,19 @@
       "lastMention": "2026-08-26T10:05:00.000Z",
       "firstSeen": "2026-08-26T11:51:18.056Z",
       "isNew": false
+    },
+    {
+      "name": "The Sunday Guardian",
+      "score": 49,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The Sunday Guardian",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T18:56:43.000Z",
+      "firstSeen": "2026-08-30T20:14:06.397Z",
+      "isNew": true
     },
     {
       "name": "Calciomercato Pisa",
@@ -238,35 +264,26 @@
       "lastMention": "2026-08-26T11:30:11.000Z",
       "firstSeen": "2026-08-29T17:57:40.229Z",
       "isNew": false
-    },
-    {
-      "name": "Mercato Pisa",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "VTrend",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-26T11:44:10.000Z",
-      "firstSeen": "2026-08-26T11:51:18.056Z",
-      "isNew": false
-    },
-    {
-      "name": "South American",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "news.bet365.com",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-25T14:44:08.000Z",
-      "firstSeen": "2026-08-28T22:15:19.075Z",
-      "isNew": false
     }
   ],
   "stories": [
+    {
+      "id": "aGFtemEgY2hvdWRodXJ5IHRyYW5zZmVyIG5ld3Mgc2",
+      "title": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder - The Sunday Guardian",
+      "description": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder &nbsp;&nbsp; The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbnk2WERKMFI3TllkOVAtTGItdllBUHpXcmdDcy0wOTRTY1hDbmIwaFZpMFNFUjU1d2tfbWRveVYwelpLbElTNkZtdGpyZlNrR3V0cUhPd2xCTU0wRldsSHo2UEl6OXR3MHR0WVV5bVNlT1UtSzBIUG1KbEk4YnVaODY4MFZWYWE0dERraEc5VnpsUGRoRlhpbVRrUGcwSGZuVzQtRUw0UU1qcDI4b00xc0VfVE5aR3FTVjMzOVFPcUhkd3R5YWdYQVdFMXgwdVBLR1l2cm5vMTNuUGpFMmVYQ05BbEFxeE0wWklRV2VR0gHzAUFVX3lxTE5HMVdDYmRMVTFXaHhHX3JPSHYxNGFfT0FkV1J5aGdtTkY2b01yLU1pMHpoOFBHMThrMFRyN0xnS3NLVVJaSlVlbG1qZjFaSGFPZldDVHhvN1ZhSU1vMDh1Szlkd19lUlRzVTEyWkN2T2UzQ0pkY2wwTUFocy15bkU2RERYSXo0TjRiT0ROdG4yQkpSSWgwU3RGOFhGUG1qcy0tZm5wMWY0VDJSTFRTZXpKdlUtQ2xKcmNGNDEyT1BEcFczU2tBMkpNZ0syZGhELWU0R2FrTGtYQ1paMWlVVmkxU1F4X3RKYlZ0Rmh5QklwRWU4WQ?oc=5",
+      "source": "The Sunday Guardian",
+      "published": "2026-08-30T18:56:43.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "The Sunday Guardian"
+      ]
+    },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
       "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
@@ -413,6 +430,53 @@
       "players": [
         "Mattie Pollock"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdyZXhoYW0gbWlsbHdhbGwgaW",
+      "title": "Derby County, Wrexham & Millwall in transfer chase for Watford FC star - Football League World",
+      "description": "Derby County, Wrexham & Millwall in transfer chase for Watford FC star &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcC1IWGo1Sks2SWVKelpKTEc1Qnc5dkxmZTN3V1pqMkQ3Wi1IVFRPVW4zZFljdW1LRG1JcDR3VklaeTRpYWl6T2ktbTRfc2U5d3U5d19udG5YUmJqR0k1RmR4QlpSaWk0NG1QYTlvV3d0NUVzNXZfSF9vSG9oY0xzVEVoUE1aQ2VLY0xOYTBNOTVjT0x1LUFlb2NCOGpRS1A4cktWQTZrQ21mcjBObldj?oc=5",
+      "source": "Football League World",
+      "published": "2026-08-30T13:59:58.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZnJlc2ggYW5pcyBtZWhtZXRpIHVwZGF0ZSBlbWVyZ2",
+      "title": "Fresh Anis Mehmeti update emerges as Birmingham City, Wrexham and Derby County eye deal - The72",
+      "description": "Fresh Anis Mehmeti update emerges as Birmingham City, Wrexham and Derby County eye deal &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVU5ZjRFUThNaTdiMF9PMWFtN19uX09UVGtacW9vT25mTkpna3JxWmR4bGp0ZjNZYmFUZk13cVlnOUZwenlhenNySmVyTzZyal9JakJqcnpKTDUxamxYcUFLcUE2SW9nSWc0U2xycS1TZ1RaazBGX3NNQ1lyT3hMS3RR?oc=5",
+      "source": "The72",
+      "published": "2026-08-30T13:28:56.000Z",
+      "reputation": 66,
+      "likelihood": 54,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Fresh Anis Mehmeti"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHNldCB0byBsb3NlIG91dCB0by",
+      "title": "Derby County set to lose out to Sheffield United for permanent Leicester City transfer - Football League World",
+      "description": "Derby County set to lose out to Sheffield United for permanent Leicester City transfer &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMWQzVmJQRExxOU5fUWRYTUlyUTVEUnhMbGFJSHZOcGx2M0tiSXkydWlBV1N2WXpaNnBCZm1MdHcwWnE1Nm1td1FCRWhKOE5aRTFSY1pOR3UyUnNPZUtJanVBU0dlWlk1NXJodXlaYmpTNzR4bml6UGNFcnJNenRVU0t1WFpyS2F4am8yM21DSVBCS2U0VlJ2NUV2dXZKRE1Nb2ExRWdIWkFIOXV2WDQzcEN5NjVIVTdpck5pU3ZIaF9iZVd2cGc?oc=5",
+      "source": "Football League World",
+      "published": "2026-08-30T12:43:23.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "c2hlZmZpZWxkIHVuaXRlZCBzZXQgdG8gc2lnbiBsZW",
@@ -1065,7 +1129,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1307,7 +1371,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1550,21 +1614,6 @@
       ]
     },
     {
-      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
-      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
       "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
       "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
@@ -1580,6 +1629,21 @@
       "players": [
         "Ryan Hedges"
       ]
+    },
+    {
+      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
+      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
+      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yIGdlbGVubGVyIGdhbG",
