@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T16:18:18.108Z",
+  "updatedAt": "2026-08-30T16:29:24.046Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 94,
+  "storyCount": 95,
   "targetCount": 20,
   "targets": [
     {
@@ -136,6 +136,19 @@
       "isNew": false
     },
     {
+      "name": "Calciomercato Pisa",
+      "score": 50,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "SestaPorta.News Pisa",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T16:24:01.000Z",
+      "firstSeen": "2026-08-26T14:25:48.559Z",
+      "isNew": false
+    },
+    {
       "name": "Leicester Mercury",
       "score": 50,
       "status": "Watch",
@@ -240,19 +253,6 @@
       "isNew": false
     },
     {
-      "name": "Calciomercato Pisa",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "SestaPorta.News Pisa",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-26T11:41:08.000Z",
-      "firstSeen": "2026-08-26T14:25:48.559Z",
-      "isNew": false
-    },
-    {
       "name": "South American",
       "score": 32,
       "status": "Fading",
@@ -267,6 +267,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "Y2FsY2lvbWVyY2F0byBwaXNhIHVmZmljaWFsZSBtZW",
+      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; SestaPorta.News Pisa",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVmQ4Nk5COG5CSHBuUGtzazdneUZOMVdEZGFyd1hmRWVaYUdIV2Fxb1hoZlM2MEJCeXBHcGUtcXJMWWJnSEZ0TGlFMU1TeXpscU4ybThnYU0tMkhQbUJCN0ZPNHA4aUh3elBON1g4X2JhOFByLU1kaUo1TzZTTGxRakg2bHpUXzVYci1HNUN6R3BoVG9lN1RpWEs1QTJyWXdfeWZHQzJ0WE5ob2prbW9IbTc1MDNZZkxIN0RKX1VSYU5oR1lxNFE1SW1mYXRxb2kzUDFxVjFudlRBZVZTZWREaURBUWJra1N0U3AwSFpCWTFqNGxfSzdkUV9jbGNidFNNOE9PVjNjdEJaWEhKSW95QUVmdlAzWWxjMUl1aXlOdWhTWVpuZWtlc0ZicjhJVUdoazVfNkF2V2l2dUNnb3FDWElQT2hFbWYxRGU1XzJ4VTZhRzA?oc=5",
+      "source": "SestaPorta.News Pisa",
+      "published": "2026-08-30T16:24:01.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": [
+        "Calciomercato Pisa"
+      ]
+    },
     {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
       "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
