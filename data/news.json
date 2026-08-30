@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T22:28:35.144Z",
+  "updatedAt": "2026-08-30T22:39:36.560Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 106,
@@ -46,8 +46,8 @@
     },
     {
       "name": "Fresh Anis Mehmeti",
-      "score": 56,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "The72",
@@ -214,19 +214,6 @@
       "isNew": false
     },
     {
-      "name": "Wechselt Hamza Choudhury",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Transfermarkt",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T09:44:00.000Z",
-      "firstSeen": "2026-08-30T12:09:00.650Z",
-      "isNew": true
-    },
-    {
       "name": "Russell Martin",
       "score": 47,
       "status": "Fading",
@@ -238,6 +225,19 @@
       "lastMention": "2026-08-26T08:55:00.000Z",
       "firstSeen": "2026-08-26T10:08:33.562Z",
       "isNew": false
+    },
+    {
+      "name": "Wechselt Hamza Choudhury",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Transfermarkt",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T09:44:00.000Z",
+      "firstSeen": "2026-08-30T12:09:00.650Z",
+      "isNew": true
     },
     {
       "name": "Demarai Gray",
