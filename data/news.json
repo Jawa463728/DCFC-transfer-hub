@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T21:10:16.966Z",
+  "updatedAt": "2026-08-30T21:21:30.197Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 106,
@@ -58,32 +58,6 @@
       "isNew": true
     },
     {
-      "name": "Yorkshire Post",
-      "score": 54,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 4,
-      "bestSource": "Yorkshire Post",
-      "bestSourceScore": 78,
-      "maxLikelihood": 84,
-      "lastMention": "2026-08-28T09:06:00.000Z",
-      "firstSeen": "2026-08-26T14:25:48.559Z",
-      "isNew": false
-    },
-    {
-      "name": "Southampton's Ben Brereton Diaz",
-      "score": 54,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Yorkshire Post",
-      "bestSourceScore": 78,
-      "maxLikelihood": 84,
-      "lastMention": "2026-08-28T09:06:00.000Z",
-      "firstSeen": "2026-08-26T14:25:48.559Z",
-      "isNew": false
-    },
-    {
       "name": "Mikey Johnston",
       "score": 54,
       "status": "Fading",
@@ -107,6 +81,32 @@
       "maxLikelihood": 80,
       "lastMention": "2026-08-24T10:25:26.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
+      "isNew": false
+    },
+    {
+      "name": "Yorkshire Post",
+      "score": 53,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 4,
+      "bestSource": "Yorkshire Post",
+      "bestSourceScore": 78,
+      "maxLikelihood": 84,
+      "lastMention": "2026-08-28T09:06:00.000Z",
+      "firstSeen": "2026-08-26T14:25:48.559Z",
+      "isNew": false
+    },
+    {
+      "name": "Southampton's Ben Brereton Diaz",
+      "score": 53,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Yorkshire Post",
+      "bestSourceScore": 78,
+      "maxLikelihood": 84,
+      "lastMention": "2026-08-28T09:06:00.000Z",
+      "firstSeen": "2026-08-26T14:25:48.559Z",
       "isNew": false
     },
     {
@@ -147,19 +147,6 @@
       "lastMention": "2026-08-30T18:56:43.000Z",
       "firstSeen": "2026-08-30T20:14:06.397Z",
       "isNew": true
-    },
-    {
-      "name": "Calciomercato Pisa",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "SestaPorta.News Pisa",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T16:24:01.000Z",
-      "firstSeen": "2026-08-26T14:25:48.559Z",
-      "isNew": false
     },
     {
       "name": "Leicester Mercury",
@@ -211,6 +198,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-08-22T06:00:00.000Z",
       "firstSeen": "2026-08-30T07:01:31.107Z",
+      "isNew": false
+    },
+    {
+      "name": "Calciomercato Pisa",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "SestaPorta.News Pisa",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T16:24:01.000Z",
+      "firstSeen": "2026-08-26T14:25:48.559Z",
       "isNew": false
     },
     {
