@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T14:36:25.990Z",
+  "updatedAt": "2026-08-30T14:47:44.357Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 91,
@@ -149,19 +149,6 @@
       "isNew": false
     },
     {
-      "name": "Wechselt Hamza Choudhury",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Transfermarkt",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T09:44:00.000Z",
-      "firstSeen": "2026-08-30T12:09:00.650Z",
-      "isNew": true
-    },
-    {
       "name": "Omari Kellyman",
       "score": 49,
       "status": "Fading",
@@ -186,6 +173,19 @@
       "lastMention": "2026-08-23T08:00:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
       "isNew": false
+    },
+    {
+      "name": "Wechselt Hamza Choudhury",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Transfermarkt",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T09:44:00.000Z",
+      "firstSeen": "2026-08-30T12:09:00.650Z",
+      "isNew": true
     },
     {
       "name": "Demarai Gray",
