@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T14:02:23.579Z",
+  "updatedAt": "2026-08-30T14:13:45.828Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 91,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Ben Brereton-",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
