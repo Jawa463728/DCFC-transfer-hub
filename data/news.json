@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:28:19.003Z",
+  "updatedAt": "2026-08-30T13:39:40.191Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 91,
@@ -886,7 +886,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Stephen Mfuni"
