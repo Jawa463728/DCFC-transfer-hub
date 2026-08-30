@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T06:50:09.784Z",
+  "updatedAt": "2026-08-30T07:01:31.107Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -43,6 +43,19 @@
       "lastMention": "2026-08-28T09:19:00.000Z",
       "firstSeen": "2026-08-28T21:52:36.458Z",
       "isNew": false
+    },
+    {
+      "name": "Ryan Hedges",
+      "score": 60,
+      "status": "Fading",
+      "independentReports": 2,
+      "totalStories": 2,
+      "bestSource": "Derby County",
+      "bestSourceScore": 99,
+      "maxLikelihood": 75,
+      "lastMention": "2026-08-22T06:00:00.000Z",
+      "firstSeen": "2026-08-30T07:01:31.107Z",
+      "isNew": true
     },
     {
       "name": "Yorkshire Post",
@@ -250,19 +263,6 @@
       "maxLikelihood": 43,
       "lastMention": "2026-08-24T12:50:25.000Z",
       "firstSeen": "2026-08-26T00:00:06.364Z",
-      "isNew": false
-    },
-    {
-      "name": "Gavin Bazunu Move",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-24T12:14:21.000Z",
-      "firstSeen": "2026-08-25T23:27:22.912Z",
       "isNew": false
     }
   ],
