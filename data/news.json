@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T16:51:22.272Z",
+  "updatedAt": "2026-08-30T17:02:50.845Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 95,
+  "storyCount": 97,
   "targetCount": 20,
   "targets": [
     {
@@ -268,6 +268,21 @@
   ],
   "stories": [
     {
+      "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-08-30T16:56:36.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIHVmZmljaWFsZSBtZW",
       "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - SestaPorta.News Pisa",
       "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; SestaPorta.News Pisa",
@@ -379,6 +394,21 @@
       "players": [
         "Wechselt Hamza Choudhury"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
+      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
+      "source": "TribalFootball",
+      "published": "2026-08-29T23:51:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "am9obiBldXN0YWNlIGlzc3VlcyBoZW5yaWsgbWVpc3",
