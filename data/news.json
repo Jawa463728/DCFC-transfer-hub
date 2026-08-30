@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:39:40.191Z",
+  "updatedAt": "2026-08-30T13:51:02.915Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 91,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Henrik Meister",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -123,19 +123,6 @@
       "isNew": false
     },
     {
-      "name": "Leicester Mercury",
-      "score": 51,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Leicester Mercury",
-      "bestSourceScore": 79,
-      "maxLikelihood": 63,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-26T00:00:06.364Z",
-      "isNew": false
-    },
-    {
       "name": "Ben Brereton Diaz",
       "score": 51,
       "status": "Fading",
@@ -146,6 +133,19 @@
       "maxLikelihood": 76,
       "lastMention": "2026-08-26T10:05:00.000Z",
       "firstSeen": "2026-08-26T11:51:18.056Z",
+      "isNew": false
+    },
+    {
+      "name": "Leicester Mercury",
+      "score": 50,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Leicester Mercury",
+      "bestSourceScore": 79,
+      "maxLikelihood": 63,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-08-26T00:00:06.364Z",
       "isNew": false
     },
     {
