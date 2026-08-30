@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T02:40:16.235Z",
+  "updatedAt": "2026-08-30T02:51:28.235Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -29,7 +29,7 @@
       "maxLikelihood": 76,
       "lastMention": "2026-08-29T14:24:00.000Z",
       "firstSeen": "2026-08-29T14:41:56.880Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Ben Brereton-",
