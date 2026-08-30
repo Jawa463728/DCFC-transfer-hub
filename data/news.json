@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T16:07:05.524Z",
+  "updatedAt": "2026-08-30T16:18:18.108Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 92,
+  "storyCount": 94,
   "targetCount": 20,
   "targets": [
     {
@@ -19,19 +19,6 @@
       "isNew": false
     },
     {
-      "name": "Henrik Meister",
-      "score": 63,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 76,
-      "lastMention": "2026-08-29T14:24:00.000Z",
-      "firstSeen": "2026-08-29T14:41:56.880Z",
-      "isNew": false
-    },
-    {
       "name": "Ryan Hedges",
       "score": 60,
       "status": "Fading",
@@ -42,6 +29,19 @@
       "maxLikelihood": 75,
       "lastMention": "2026-08-22T06:00:00.000Z",
       "firstSeen": "2026-08-30T07:01:31.107Z",
+      "isNew": true
+    },
+    {
+      "name": "Mattie Pollock",
+      "score": 59,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Yahoo Sports UK",
+      "bestSourceScore": 70,
+      "maxLikelihood": 57,
+      "lastMention": "2026-08-30T15:30:00.000Z",
+      "firstSeen": "2026-08-30T16:18:18.107Z",
       "isNew": true
     },
     {
@@ -268,6 +268,23 @@
   ],
   "stories": [
     {
+      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
+      "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
+      "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fei1zdWN3OW5UU25TVHBmM1dQbzBNNmNETFFfaEtJb2Y2UG02RVdWTXlQUHgxa18xZjhfT0dXQzREaGUyT3MydkoyOS1QVGFwQmpad2FjQ3FRazRwRlBjaWRPSjViQkhrRVh4dWV6eXk2THdJMnNNM3pjLTI?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T16:03:49.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
       "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
       "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
@@ -281,6 +298,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "c291cmNlcyB3cmV4aGFtIHJhY2UgZGVyYnkgY291bn",
+      "title": "Sources: Wrexham race Derby County and Millwall to sign Mattie Pollock - Yahoo Sports UK",
+      "description": "Sources: Wrexham race Derby County and Millwall to sign Mattie Pollock &nbsp;&nbsp; Yahoo Sports UK",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMy1GRzQ3WkMxNEttTjdyNzNBdUdiZUZhVlpOcm1VbXZ5VDFOTzRnQW51Z2ljM3N4TzV3ZHVhZVJUY0h6T3pLMzNNeE1zVWU1Mk5MZy1OaFByeXl0VVFLUzVQX1Z3MV9MMnFyNzVnLTgxN2JZNzhCMVRsRU1uZzAyY2FURk9iM0sy?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-08-30T15:30:00.000Z",
+      "reputation": 70,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Mattie Pollock"
+      ]
     },
     {
       "id": "c2hlZmZpZWxkIHVuaXRlZCBzZXQgdG8gc2lnbiBsZW",
