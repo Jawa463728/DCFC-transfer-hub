@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T11:34:40.098Z",
+  "updatedAt": "2026-08-30T11:45:57.409Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 89,
+  "storyCount": 90,
   "targetCount": 20,
   "targets": [
     {
@@ -267,6 +267,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "c2hlZmZpZWxkIHVuaXRlZCBzZXQgdG8gc2lnbiBsZW",
+      "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest - Yahoo Sports UK",
+      "description": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo Sports UK",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-08-30T11:10:31.000Z",
+      "reputation": 70,
+      "likelihood": 79,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
       "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
