@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T17:25:32.609Z",
+  "updatedAt": "2026-08-30T17:36:52.374Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 97,
+  "storyCount": 98,
   "targetCount": 20,
   "targets": [
     {
@@ -267,6 +267,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "cGlzYSBwcmltZSBwYXJvbGUgYWwgZGVyYnkgY291bn",
+      "title": "Pisa, prime parole al Derby County per Meister: \"Championship ideale per il mio gioco\" - TUTTOmercatoWEB",
+      "description": "Pisa, prime parole al Derby County per Meister: \"Championship ideale per il mio gioco\" &nbsp;&nbsp; TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlZFVFJmU1VjN2tRM2d4dV9jcktMRElLbHJIcXBKRFBmQ1NHVEJmVmNzS2tWUkhkdms0WGx0LWRucVZzOTdUdVFGX1U5TTdWb1BYUmVVVlgwN21DRmtYdnFqbXZJQzliNDY3dXo2aXJYTFA2RlZpTDlsRkVYYzBoLW51VWhTam9jbFh1R1FYWXpnSWZueTVQR0xwMjRjNjZ2RHdkUVlPV2J3MXVZMTlXdXRB?oc=5",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-08-30T17:19:26.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
       "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
