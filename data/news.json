@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T11:57:05.685Z",
+  "updatedAt": "2026-08-30T12:09:00.650Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 90,
+  "storyCount": 91,
   "targetCount": 20,
   "targets": [
     {
@@ -149,6 +149,19 @@
       "isNew": false
     },
     {
+      "name": "Wechselt Hamza Choudhury",
+      "score": 49,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Transfermarkt",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T09:44:00.000Z",
+      "firstSeen": "2026-08-30T12:09:00.650Z",
+      "isNew": true
+    },
+    {
       "name": "Omari Kellyman",
       "score": 49,
       "status": "Fading",
@@ -251,19 +264,6 @@
       "lastMention": "2026-08-25T14:44:08.000Z",
       "firstSeen": "2026-08-28T22:15:19.075Z",
       "isNew": false
-    },
-    {
-      "name": "World Cup",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "news.bet365.com",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-24T12:50:25.000Z",
-      "firstSeen": "2026-08-26T00:00:06.364Z",
-      "isNew": false
     }
   ],
   "stories": [
@@ -296,6 +296,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "d2VjaHNlbHQgaGFtemEgY2hvdWRodXJ5IHp1IGRlcm",
+      "title": "Wechselt Hamza Choudhury zu Derby County? - Gerüchteküche - Forum | Seite 1 - Transfermarkt",
+      "description": "Wechselt Hamza Choudhury zu Derby County? - Gerüchteküche - Forum | Seite 1 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEpmYThpV1hJOUZianEzY21zckIzRkpOdHVZdERGNjNhRXZaeW1qdGZCWmZZRFVsUWtLdHdFdUpEVUVWNm5pVlBjcTNOS1FqRkZpcTZ3Z2FBMjVFeUVnRTJSMkZvRmhTUlpvVDB3NU5aT3JCbWRRWDRmR1prS0pHSnNOZTgyOUVCMkxQUW5xTXZvN0R6ZHJER3dZVy04bFFPYnN5OHlNVmk?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-30T09:44:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": [
+        "Wechselt Hamza Choudhury"
+      ]
     },
     {
       "id": "am9obiBldXN0YWNlIGlzc3VlcyBoZW5yaWsgbWVpc3",
