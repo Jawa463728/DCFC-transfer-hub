@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:21:44.731Z",
+  "updatedAt": "2026-08-30T18:32:58.706Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 99,
@@ -17,19 +17,6 @@
       "lastMention": "2026-08-28T08:24:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
       "isNew": false
-    },
-    {
-      "name": "Ryan Hedges",
-      "score": 60,
-      "status": "Fading",
-      "independentReports": 2,
-      "totalStories": 2,
-      "bestSource": "Derby County",
-      "bestSourceScore": 99,
-      "maxLikelihood": 75,
-      "lastMention": "2026-08-22T06:00:00.000Z",
-      "firstSeen": "2026-08-30T07:01:31.107Z",
-      "isNew": true
     },
     {
       "name": "Mattie Pollock",
@@ -188,6 +175,19 @@
       "isNew": false
     },
     {
+      "name": "Ryan Hedges",
+      "score": 49,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-08-22T06:00:00.000Z",
+      "firstSeen": "2026-08-30T07:01:31.107Z",
+      "isNew": true
+    },
+    {
       "name": "Wechselt Hamza Choudhury",
       "score": 48,
       "status": "Watch",
@@ -201,19 +201,6 @@
       "isNew": true
     },
     {
-      "name": "Demarai Gray",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 51,
-      "lastMention": "2026-08-29T06:15:11.000Z",
-      "firstSeen": "2026-08-29T09:59:12.120Z",
-      "isNew": false
-    },
-    {
       "name": "Russell Martin",
       "score": 47,
       "status": "Fading",
@@ -224,6 +211,19 @@
       "maxLikelihood": 57,
       "lastMention": "2026-08-26T08:55:00.000Z",
       "firstSeen": "2026-08-26T10:08:33.562Z",
+      "isNew": false
+    },
+    {
+      "name": "Demarai Gray",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-29T06:15:11.000Z",
+      "firstSeen": "2026-08-29T09:59:12.120Z",
       "isNew": false
     },
     {
