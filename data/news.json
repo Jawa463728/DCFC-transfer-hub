@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:31:53.213Z",
+  "updatedAt": "2026-08-30T01:43:20.710Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -71,19 +71,6 @@
       "isNew": false
     },
     {
-      "name": "Leicester Mercury",
-      "score": 54,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Leicester Mercury",
-      "bestSourceScore": 79,
-      "maxLikelihood": 63,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-26T00:00:06.364Z",
-      "isNew": false
-    },
-    {
       "name": "Mikey Johnston",
       "score": 54,
       "status": "Fading",
@@ -107,6 +94,19 @@
       "maxLikelihood": 80,
       "lastMention": "2026-08-24T10:25:26.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
+      "isNew": false
+    },
+    {
+      "name": "Leicester Mercury",
+      "score": 53,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Leicester Mercury",
+      "bestSourceScore": 79,
+      "maxLikelihood": 63,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-08-26T00:00:06.364Z",
       "isNew": false
     },
     {
