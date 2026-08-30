@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T10:03:11.075Z",
+  "updatedAt": "2026-08-30T10:14:53.181Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -32,19 +32,6 @@
       "isNew": false
     },
     {
-      "name": "Ben Brereton-",
-      "score": 61,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 90,
-      "lastMention": "2026-08-28T09:19:00.000Z",
-      "firstSeen": "2026-08-28T21:52:36.458Z",
-      "isNew": false
-    },
-    {
       "name": "Ryan Hedges",
       "score": 60,
       "status": "Fading",
@@ -56,6 +43,19 @@
       "lastMention": "2026-08-22T06:00:00.000Z",
       "firstSeen": "2026-08-30T07:01:31.107Z",
       "isNew": true
+    },
+    {
+      "name": "Ben Brereton-",
+      "score": 60,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 90,
+      "lastMention": "2026-08-28T09:19:00.000Z",
+      "firstSeen": "2026-08-28T21:52:36.458Z",
+      "isNew": false
     },
     {
       "name": "Yorkshire Post",
