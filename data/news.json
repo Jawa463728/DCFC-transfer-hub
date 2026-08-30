@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:29:24.046Z",
+  "updatedAt": "2026-08-30T16:40:20.339Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 95,
@@ -1415,7 +1415,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1699,7 +1699,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Alex Mowatt"
