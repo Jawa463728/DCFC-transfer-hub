@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:30:35.857Z",
+  "updatedAt": "2026-08-30T05:41:46.943Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 88,
@@ -98,7 +98,7 @@
     },
     {
       "name": "Leicester Mercury",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
