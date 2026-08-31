@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T16:33:01.386Z",
+  "updatedAt": "2026-08-31T16:44:30.137Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 112,
@@ -170,7 +170,7 @@
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-08-23T07:00:00.000Z",
+      "lastMention": "2026-08-23T08:00:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
       "isNew": false
     },
@@ -905,17 +905,17 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1208,17 +1208,17 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U18 - transfermarkt.com",
+      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGYzUm9zVkl6ODFWYlhUOFlnampwaWNIZ1ZXRHFSQUo2dlRjNEg3SlRCZ0s3amV0NEtCT190YVhYOGdHc2ZkR25TUkI1UWJNWGZFSXBwZWE5NHkxRGNxYnlCa2lIRHp3ZUUzWkhqU2hsN0d0WC1uYmlpVUdESWptVEFscXk3TnVadC1COTV3Yl9IWGk3?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-08-25T20:22:08.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1628,7 +1628,7 @@
       "description": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXAyZ1lEYnJKQnJ3aHF1UjVRemJJeWhnendOREJNck9qaFl1SDRlY0FuZmpOaVFYOFVWS0c5OUhXSHRQRzhxWThIU3lmSDZTTW1YSWNlMXRZM1F6QVpIYVRuNjZSbWZsZ2oycFBIX25nWlVCT0xmb0czeU9nYWlPWWNSZG9PZENOM050cnNPQkhMTllNM3JNSmdnVHRCWU1zcVZKdDJn?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-08-23T07:00:00.000Z",
+      "published": "2026-08-23T08:00:00.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
@@ -1712,7 +1712,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1776,7 +1776,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ryan Hedges"
@@ -1870,7 +1870,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
