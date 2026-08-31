@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T20:41:51.324Z",
+  "updatedAt": "2026-08-31T20:53:05.851Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 114,
@@ -123,19 +123,6 @@
       "isNew": false
     },
     {
-      "name": "In On Arthur Okonkwo",
-      "score": 50,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-30T22:50:10.000Z",
-      "firstSeen": "2026-08-31T12:44:29.888Z",
-      "isNew": true
-    },
-    {
       "name": "Fresh Anis Mehmeti",
       "score": 50,
       "status": "Watch",
@@ -147,6 +134,19 @@
       "lastMention": "2026-08-30T13:28:56.000Z",
       "firstSeen": "2026-08-30T20:14:06.397Z",
       "isNew": false
+    },
+    {
+      "name": "In On Arthur Okonkwo",
+      "score": 49,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-30T22:50:10.000Z",
+      "firstSeen": "2026-08-31T12:44:29.888Z",
+      "isNew": true
     },
     {
       "name": "Omari Kellyman",
