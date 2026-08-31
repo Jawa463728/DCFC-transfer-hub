@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:08:12.942Z",
+  "updatedAt": "2026-08-31T05:19:42.059Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 107,
@@ -175,6 +175,32 @@
       "isNew": false
     },
     {
+      "name": "Gavin Bazunu Move",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T22:21:26.000Z",
+      "firstSeen": "2026-08-31T05:19:42.058Z",
+      "isNew": true
+    },
+    {
+      "name": "Villarreal Vs Sevilla",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T22:21:26.000Z",
+      "firstSeen": "2026-08-31T05:19:42.058Z",
+      "isNew": true
+    },
+    {
       "name": "The Sunday Guardian",
       "score": 47,
       "status": "Watch",
@@ -186,19 +212,6 @@
       "lastMention": "2026-08-30T18:56:43.000Z",
       "firstSeen": "2026-08-30T20:14:06.397Z",
       "isNew": true
-    },
-    {
-      "name": "Calciomercato Pisa",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "SestaPorta.News Pisa",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T16:24:01.000Z",
-      "firstSeen": "2026-08-26T14:25:48.559Z",
-      "isNew": false
     },
     {
       "name": "Leicester Mercury",
@@ -227,6 +240,19 @@
       "isNew": false
     },
     {
+      "name": "Calciomercato Pisa",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "SestaPorta.News Pisa",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T16:24:01.000Z",
+      "firstSeen": "2026-08-26T14:25:48.559Z",
+      "isNew": false
+    },
+    {
       "name": "Wechselt Hamza Choudhury",
       "score": 45,
       "status": "Watch",
@@ -238,35 +264,27 @@
       "lastMention": "2026-08-30T09:44:00.000Z",
       "firstSeen": "2026-08-30T12:09:00.650Z",
       "isNew": false
-    },
-    {
-      "name": "Demarai Gray",
-      "score": 44,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 51,
-      "lastMention": "2026-08-29T06:15:11.000Z",
-      "firstSeen": "2026-08-29T09:59:12.120Z",
-      "isNew": false
-    },
-    {
-      "name": "West Ham",
-      "score": 38,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 51,
-      "lastMention": "2026-08-26T11:30:11.000Z",
-      "firstSeen": "2026-08-29T17:57:40.229Z",
-      "isNew": false
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
+      "source": "Mshale",
+      "published": "2026-08-30T22:21:26.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "Gavin Bazunu Move",
+        "Villarreal Vs Sevilla"
+      ]
+    },
     {
       "id": "cG9ydHNtb3V0aCBkZXJieSBjb3VudHkgcXVvdGUgZS",
       "title": "Portsmouth-Derby County – Quote e Pronostici Championship – 01/09/2026 - ToffeeWeb",
@@ -1321,24 +1339,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
-      "published": "2026-08-24T12:14:21.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Gavin Bazunu Move",
-        "Villarreal Vs Sevilla"
-      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
