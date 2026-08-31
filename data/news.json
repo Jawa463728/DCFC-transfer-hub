@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T02:28:33.322Z",
+  "updatedAt": "2026-08-31T02:39:47.345Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 107,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Fresh Anis Mehmeti",
-      "score": 55,
+      "score": 54,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -228,7 +228,7 @@
     },
     {
       "name": "Wechselt Hamza Choudhury",
-      "score": 46,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
