@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:30:52.665Z",
+  "updatedAt": "2026-08-31T05:42:07.152Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 107,
@@ -175,32 +175,6 @@
       "isNew": false
     },
     {
-      "name": "Gavin Bazunu Move",
-      "score": 48,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T05:19:42.058Z",
-      "isNew": true
-    },
-    {
-      "name": "Villarreal Vs Sevilla",
-      "score": 48,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T05:19:42.058Z",
-      "isNew": true
-    },
-    {
       "name": "The Sunday Guardian",
       "score": 47,
       "status": "Watch",
@@ -212,19 +186,6 @@
       "lastMention": "2026-08-30T18:56:43.000Z",
       "firstSeen": "2026-08-30T20:14:06.397Z",
       "isNew": true
-    },
-    {
-      "name": "Leicester Mercury",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Leicester Mercury",
-      "bestSourceScore": 79,
-      "maxLikelihood": 63,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-26T00:00:06.364Z",
-      "isNew": false
     },
     {
       "name": "Russell Martin",
@@ -253,6 +214,19 @@
       "isNew": false
     },
     {
+      "name": "Leicester Mercury",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Leicester Mercury",
+      "bestSourceScore": 79,
+      "maxLikelihood": 63,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-08-26T00:00:06.364Z",
+      "isNew": false
+    },
+    {
       "name": "Wechselt Hamza Choudhury",
       "score": 45,
       "status": "Watch",
@@ -264,27 +238,35 @@
       "lastMention": "2026-08-30T09:44:00.000Z",
       "firstSeen": "2026-08-30T12:09:00.650Z",
       "isNew": false
+    },
+    {
+      "name": "Demarai Gray",
+      "score": 44,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-29T06:15:11.000Z",
+      "firstSeen": "2026-08-31T05:42:07.152Z",
+      "isNew": true
+    },
+    {
+      "name": "West Ham",
+      "score": 38,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-26T11:30:11.000Z",
+      "firstSeen": "2026-08-31T05:42:07.152Z",
+      "isNew": true
     }
   ],
   "stories": [
-    {
-      "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
-      "published": "2026-08-30T22:21:26.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Gavin Bazunu Move",
-        "Villarreal Vs Sevilla"
-      ]
-    },
     {
       "id": "cG9ydHNtb3V0aCBkZXJieSBjb3VudHkgcXVvdGUgZS",
       "title": "Portsmouth-Derby County – Quote e Pronostici Championship – 01/09/2026 - ToffeeWeb",
@@ -333,6 +315,21 @@
       "players": [
         "Henrik Meister"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
+      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
+      "source": "TribalFootball",
+      "published": "2026-08-30T17:55:33.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "cGlzYSBwcmltZSBwYXJvbGUgYWwgZGVyYnkgY291bn",
@@ -572,21 +569,6 @@
       "players": [
         "Wechselt Hamza Choudhury"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
-      "published": "2026-08-29T23:51:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "am9obiBldXN0YWNlIGlzc3VlcyBoZW5yaWsgbWVpc3",
@@ -1339,6 +1321,24 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
+      "source": "Mshale",
+      "published": "2026-08-24T12:14:21.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "Gavin Bazunu Move",
+        "Villarreal Vs Sevilla"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
