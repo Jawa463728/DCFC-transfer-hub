@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T12:44:29.889Z",
+  "updatedAt": "2026-08-31T12:55:46.143Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 109,
@@ -71,19 +71,6 @@
       "isNew": false
     },
     {
-      "name": "In On Arthur Okonkwo",
-      "score": 52,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-30T22:50:10.000Z",
-      "firstSeen": "2026-08-31T12:44:29.888Z",
-      "isNew": true
-    },
-    {
       "name": "Fresh Anis Mehmeti",
       "score": 52,
       "status": "Watch",
@@ -108,6 +95,19 @@
       "lastMention": "2026-08-25T17:43:27.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
       "isNew": false
+    },
+    {
+      "name": "In On Arthur Okonkwo",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-30T22:50:10.000Z",
+      "firstSeen": "2026-08-31T12:44:29.888Z",
+      "isNew": true
     },
     {
       "name": "Yorkshire Post",
