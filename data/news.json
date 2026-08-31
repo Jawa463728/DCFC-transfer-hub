@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T00:23:26.027Z",
+  "updatedAt": "2026-08-31T00:35:06.414Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 107,
@@ -1605,7 +1605,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
