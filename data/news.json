@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T07:48:33.643Z",
+  "updatedAt": "2026-08-31T07:59:56.129Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 105,
@@ -201,19 +201,6 @@
       "isNew": true
     },
     {
-      "name": "The Sunday Guardian",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The Sunday Guardian",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T18:56:43.000Z",
-      "firstSeen": "2026-08-30T20:14:06.397Z",
-      "isNew": true
-    },
-    {
       "name": "Russell Martin",
       "score": 47,
       "status": "Fading",
@@ -225,6 +212,19 @@
       "lastMention": "2026-08-26T08:55:00.000Z",
       "firstSeen": "2026-08-26T10:08:33.562Z",
       "isNew": false
+    },
+    {
+      "name": "The Sunday Guardian",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The Sunday Guardian",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T18:56:43.000Z",
+      "firstSeen": "2026-08-30T20:14:06.397Z",
+      "isNew": true
     },
     {
       "name": "Calciomercato Pisa",
@@ -1830,6 +1830,23 @@
       ]
     },
     {
+      "id": "c2lnbmluZyBhbGV4IG1vd2F0dCBqb2lucyBkZXJieS",
+      "title": "SIGNING: Alex Mowatt joins Derby County - Derby County",
+      "description": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 97,
+      "ratingLabel": "Very strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Alex Mowatt"
+      ]
+    },
+    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBhbGV4IG",
       "title": "TRANSFER NEWS: Introducing…Alex Mowatt - Derby County",
       "description": "TRANSFER NEWS: Introducing…Alex Mowatt &nbsp;&nbsp; Derby County",
@@ -1860,23 +1877,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "c2lnbmluZyBhbGV4IG1vd2F0dCBqb2lucyBkZXJieS",
-      "title": "SIGNING: Alex Mowatt joins Derby County - Derby County",
-      "description": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 97,
-      "ratingLabel": "Very strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Alex Mowatt"
-      ]
     },
     {
       "id": "YWxleCBtb3dhdHQgZGVyYnkgY291bnR5IHNpZ24gbW",
