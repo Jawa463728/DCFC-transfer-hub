@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T22:24:52.286Z",
+  "updatedAt": "2026-08-31T22:35:05.744Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 114,
@@ -71,6 +71,32 @@
       "isNew": false
     },
     {
+      "name": "Gavin Bazunu Move",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 2,
+      "totalStories": 2,
+      "bestSource": "mshale.com",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T22:21:26.000Z",
+      "firstSeen": "2026-08-31T17:07:06.282Z",
+      "isNew": true
+    },
+    {
+      "name": "Villarreal Vs Sevilla",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 2,
+      "totalStories": 2,
+      "bestSource": "mshale.com",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T22:21:26.000Z",
+      "firstSeen": "2026-08-31T17:07:06.282Z",
+      "isNew": true
+    },
+    {
       "name": "Stephen Mfuni",
       "score": 51,
       "status": "Fading",
@@ -123,19 +149,6 @@
       "isNew": false
     },
     {
-      "name": "Fresh Anis Mehmeti",
-      "score": 50,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The72",
-      "bestSourceScore": 66,
-      "maxLikelihood": 54,
-      "lastMention": "2026-08-30T13:28:56.000Z",
-      "firstSeen": "2026-08-30T20:14:06.397Z",
-      "isNew": false
-    },
-    {
       "name": "In On Arthur Okonkwo",
       "score": 49,
       "status": "Watch",
@@ -147,6 +160,19 @@
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-08-31T12:44:29.888Z",
       "isNew": true
+    },
+    {
+      "name": "Fresh Anis Mehmeti",
+      "score": 49,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The72",
+      "bestSourceScore": 66,
+      "maxLikelihood": 54,
+      "lastMention": "2026-08-30T13:28:56.000Z",
+      "firstSeen": "2026-08-30T20:14:06.397Z",
+      "isNew": false
     },
     {
       "name": "Omari Kellyman",
@@ -212,32 +238,6 @@
       "lastMention": "2026-08-28T08:24:00.000Z",
       "firstSeen": "2026-08-26T00:00:06.364Z",
       "isNew": false
-    },
-    {
-      "name": "Gavin Bazunu Move",
-      "score": 44,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T17:07:06.282Z",
-      "isNew": true
-    },
-    {
-      "name": "Villarreal Vs Sevilla",
-      "score": 44,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T17:07:06.282Z",
-      "isNew": true
     },
     {
       "name": "The Sunday Guardian",
@@ -376,10 +376,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1419,10 +1419,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHNldCBmb3IgY3Jhenkgam9obi",
-      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - Mshale",
-      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; Mshale",
+      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - mshale.com",
+      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVGZpZGhNTWxqWHlpTzZpbkZrY29LMFJHbHpmSWVVSDBJVHpHdmhEa2lpZEdGWlMxbmZOM2JSM0RQVGR6WHQtVTNKMldoOWdKWGtNcldqVGJXamc?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-24T13:09:16.000Z",
       "reputation": 48,
       "likelihood": 51,
