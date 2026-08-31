@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T15:47:49.269Z",
+  "updatedAt": "2026-08-31T15:59:09.267Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 110,
@@ -241,7 +241,7 @@
     },
     {
       "name": "The Sunday Guardian",
-      "score": 45,
+      "score": 44,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
