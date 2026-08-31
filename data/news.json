@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T16:21:46.696Z",
+  "updatedAt": "2026-08-31T16:33:01.386Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 112,
@@ -915,7 +915,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1218,7 +1218,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1712,7 +1712,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1776,7 +1776,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ryan Hedges"
