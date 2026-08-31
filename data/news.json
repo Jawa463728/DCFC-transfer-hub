@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T18:26:19.059Z",
+  "updatedAt": "2026-08-31T18:37:41.526Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 114,
@@ -84,19 +84,6 @@
       "isNew": false
     },
     {
-      "name": "Fresh Anis Mehmeti",
-      "score": 51,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The72",
-      "bestSourceScore": 66,
-      "maxLikelihood": 54,
-      "lastMention": "2026-08-30T13:28:56.000Z",
-      "firstSeen": "2026-08-30T20:14:06.397Z",
-      "isNew": false
-    },
-    {
       "name": "Yorkshire Post",
       "score": 51,
       "status": "Fading",
@@ -147,6 +134,19 @@
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-08-31T12:44:29.888Z",
       "isNew": true
+    },
+    {
+      "name": "Fresh Anis Mehmeti",
+      "score": 50,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The72",
+      "bestSourceScore": 66,
+      "maxLikelihood": 54,
+      "lastMention": "2026-08-30T13:28:56.000Z",
+      "firstSeen": "2026-08-30T20:14:06.397Z",
+      "isNew": false
     },
     {
       "name": "Omari Kellyman",
