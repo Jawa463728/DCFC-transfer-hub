@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T19:11:39.071Z",
+  "updatedAt": "2026-08-31T19:23:01.985Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 114,
@@ -69,6 +69,32 @@
       "lastMention": "2026-08-30T15:30:00.000Z",
       "firstSeen": "2026-08-30T16:18:18.107Z",
       "isNew": false
+    },
+    {
+      "name": "Gavin Bazunu Move",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 2,
+      "totalStories": 2,
+      "bestSource": "mshale.com",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T22:21:26.000Z",
+      "firstSeen": "2026-08-31T17:07:06.282Z",
+      "isNew": true
+    },
+    {
+      "name": "Villarreal Vs Sevilla",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 2,
+      "totalStories": 2,
+      "bestSource": "mshale.com",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T22:21:26.000Z",
+      "firstSeen": "2026-08-31T17:07:06.282Z",
+      "isNew": true
     },
     {
       "name": "Stephen Mfuni",
@@ -214,32 +240,6 @@
       "isNew": false
     },
     {
-      "name": "Gavin Bazunu Move",
-      "score": 45,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T17:07:06.282Z",
-      "isNew": true
-    },
-    {
-      "name": "Villarreal Vs Sevilla",
-      "score": 45,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T17:07:06.282Z",
-      "isNew": true
-    },
-    {
       "name": "The Sunday Guardian",
       "score": 44,
       "status": "Watch",
@@ -258,7 +258,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
-      "bestSource": "sestaporta.news",
+      "bestSource": "SestaPorta.News Pisa",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-08-30T16:24:01.000Z",
@@ -376,10 +376,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -394,10 +394,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
+      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "tribalfootball.com",
+      "source": "TribalFootball",
       "published": "2026-08-30T21:55:33.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -505,10 +505,10 @@
     },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
-      "source": "FotMob",
+      "source": "fotmob.com",
       "published": "2026-08-30T16:43:35.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -520,10 +520,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIHVmZmljaWFsZSBtZW",
-      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - sestaporta.news",
-      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVmQ4Nk5COG5CSHBuUGtzazdneUZOMVdEZGFyd1hmRWVaYUdIV2Fxb1hoZlM2MEJCeXBHcGUtcXJMWWJnSEZ0TGlFMU1TeXpscU4ybThnYU0tMkhQbUJCN0ZPNHA4aUh3elBON1g4X2JhOFByLU1kaUo1TzZTTGxRakg2bHpUXzVYci1HNUN6R3BoVG9lN1RpWEs1QTJyWXdfeWZHQzJ0WE5ob2prbW9IbTc1MDNZZkxIN0RKX1VSYU5oR1lxNFE1SW1mYXRxb2kzUDFxVjFudlRBZVZTZWREaURBUWJra1N0U3AwSFpCWTFqNGxfSzdkUV9jbGNidFNNOE9PVjNjdEJaWEhKSW95QUVmdlAzWWxjMUl1aXlOdWhTWVpuZWtlc0ZicjhJVUdoazVfNkF2V2l2dUNnb3FDWElQT2hFbWYxRGU1XzJ4VTZhRzA?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-30T16:24:01.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -546,7 +546,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -763,10 +763,10 @@
     },
     {
       "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
-      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - fotmob.com",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
-      "source": "FotMob",
+      "source": "fotmob.com",
       "published": "2026-08-29T03:17:20.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -937,11 +937,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U21 - transfermarkt.com",
-      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1157,10 +1157,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T11:41:08.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1240,11 +1240,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.com",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.com",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGYzUm9zVkl6ODFWYlhUOFlnampwaWNIZ1ZXRHFSQUo2dlRjNEg3SlRCZ0s3amV0NEtCT190YVhYOGdHc2ZkR25TUkI1UWJNWGZFSXBwZWE5NHkxRGNxYnlCa2lIRHp3ZUUzWkhqU2hsN0d0WC1uYmlpVUdESWptVEFscXk3TnVadC1COTV3Yl9IWGk3?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-08-25T20:22:08.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1419,10 +1419,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHNldCBmb3IgY3Jhenkgam9obi",
-      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - Mshale",
-      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; Mshale",
+      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - mshale.com",
+      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVGZpZGhNTWxqWHlpTzZpbkZrY29LMFJHbHpmSWVVSDBJVHpHdmhEa2lpZEdGWlMxbmZOM2JSM0RQVGR6WHQtVTNKMldoOWdKWGtNcldqVGJXamc?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-24T13:09:16.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -1759,23 +1759,6 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
-    },
-    {
-      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
       "edition": "gb",
       "overseas": false,
       "players": [
@@ -1813,6 +1796,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - bbc.com",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
+      "source": "bbc.com",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yIGdlbGVubGVyIGdhbG",
@@ -1969,6 +1969,23 @@
       ]
     },
     {
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBhbGV4IG",
+      "title": "TRANSFER NEWS: Introducing…Alex Mowatt - Derby County",
+      "description": "TRANSFER NEWS: Introducing…Alex Mowatt &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40OXdTdWhjWkJjZUtYRnV4SEd1RG9fc1pxSXdRUXVsUHZ4TTZvOWp5dnRiS0d1eHd6em9ydkZHUXFKcmxPZF94VHAyS3RYREFGSTMxeHY3TFRodnZUSDd5eGNnSVUzdHFPRHhDckFVTmQwcXRXMFFkSW1XQWo?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Alex Mowatt"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
       "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
       "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
@@ -1982,23 +1999,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBhbGV4IG",
-      "title": "TRANSFER NEWS: Introducing…Alex Mowatt - Derby County",
-      "description": "TRANSFER NEWS: Introducing…Alex Mowatt &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40OXdTdWhjWkJjZUtYRnV4SEd1RG9fc1pxSXdRUXVsUHZ4TTZvOWp5dnRiS0d1eHd6em9ydkZHUXFKcmxPZF94VHAyS3RYREFGSTMxeHY3TFRodnZUSDd5eGNnSVUzdHFPRHhDckFVTmQwcXRXMFFkSW1XQWo?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Alex Mowatt"
-      ]
     },
     {
       "id": "c2lnbmluZyBhbGV4IG1vd2F0dCBqb2lucyBkZXJieS",
@@ -2036,10 +2036,10 @@
     },
     {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgd2VzdC",
-      "title": "Gossip: Derby County target West Brom's Alex Mowatt - BBC",
-      "description": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; BBC",
+      "title": "Gossip: Derby County target West Brom's Alex Mowatt - bbc.com",
+      "description": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvdERlUlpJNDRKZFFYZWFMUUE2SE9WZ1ZqOXVGUjBoN2FKc3VzRHlFMFppaWo2VDl4OXU4TDJidUxFOFMwck1seVEzZEViTklaa2JZRWpWSW1LNjFfdTZSWE1PMjVmVms?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-13T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
