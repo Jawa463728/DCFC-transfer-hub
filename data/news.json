@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T08:56:35.858Z",
+  "updatedAt": "2026-08-31T09:07:53.000Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 105,
@@ -99,7 +99,7 @@
     {
       "name": "Yorkshire Post",
       "score": 51,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 4,
       "bestSource": "Yorkshire Post",
@@ -112,7 +112,7 @@
     {
       "name": "Southampton's Ben Brereton Diaz",
       "score": 51,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 2,
       "bestSource": "Yorkshire Post",
@@ -173,32 +173,6 @@
       "lastMention": "2026-08-22T06:00:00.000Z",
       "firstSeen": "2026-08-30T07:01:31.107Z",
       "isNew": false
-    },
-    {
-      "name": "Gavin Bazunu Move",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T08:22:31.765Z",
-      "isNew": true
-    },
-    {
-      "name": "Villarreal Vs Sevilla",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T08:22:31.765Z",
-      "isNew": true
     },
     {
       "name": "Russell Martin",
@@ -264,27 +238,35 @@
       "lastMention": "2026-08-30T09:44:00.000Z",
       "firstSeen": "2026-08-30T12:09:00.650Z",
       "isNew": false
+    },
+    {
+      "name": "Demarai Gray",
+      "score": 43,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-29T06:15:11.000Z",
+      "firstSeen": "2026-08-31T09:07:53.000Z",
+      "isNew": true
+    },
+    {
+      "name": "West Ham",
+      "score": 38,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-26T11:30:11.000Z",
+      "firstSeen": "2026-08-31T09:07:53.000Z",
+      "isNew": true
     }
   ],
   "stories": [
-    {
-      "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
-      "published": "2026-08-30T22:21:26.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Gavin Bazunu Move",
-        "Villarreal Vs Sevilla"
-      ]
-    },
     {
       "id": "cG9ydHNtb3V0aCBkZXJieSBjb3VudHkgcXVvdGUgZS",
       "title": "Portsmouth-Derby County – Quote e Pronostici Championship – 01/09/2026 - ToffeeWeb",
@@ -1339,6 +1321,24 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
+      "source": "Mshale",
+      "published": "2026-08-24T12:14:21.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "Gavin Bazunu Move",
+        "Villarreal Vs Sevilla"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
