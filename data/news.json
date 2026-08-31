@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T08:22:31.766Z",
+  "updatedAt": "2026-08-31T08:33:56.358Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 105,
@@ -8,7 +8,7 @@
     {
       "name": "Hamza Choudhury",
       "score": 67,
-      "status": "Developing",
+      "status": "Fading",
       "independentReports": 3,
       "totalStories": 5,
       "bestSource": "BBC",
@@ -242,7 +242,7 @@
     {
       "name": "Leicester Mercury",
       "score": 46,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 2,
       "bestSource": "Leicester Mercury",
