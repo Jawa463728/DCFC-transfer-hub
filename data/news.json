@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T04:11:10.687Z",
+  "updatedAt": "2026-08-31T04:22:42.982Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 107,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Mattie Pollock",
-      "score": 57,
+      "score": 56,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -29,7 +29,7 @@
       "maxLikelihood": 57,
       "lastMention": "2026-08-30T15:30:00.000Z",
       "firstSeen": "2026-08-30T16:18:18.107Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Ben Brereton-",
