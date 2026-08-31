@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T12:10:22.851Z",
+  "updatedAt": "2026-08-31T12:21:52.776Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 107,
@@ -19,19 +19,6 @@
       "isNew": false
     },
     {
-      "name": "Mattie Pollock",
-      "score": 55,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Yahoo Sports UK",
-      "bestSourceScore": 70,
-      "maxLikelihood": 57,
-      "lastMention": "2026-08-30T15:30:00.000Z",
-      "firstSeen": "2026-08-30T16:18:18.107Z",
-      "isNew": false
-    },
-    {
       "name": "Ben Brereton-",
       "score": 55,
       "status": "Fading",
@@ -42,6 +29,19 @@
       "maxLikelihood": 90,
       "lastMention": "2026-08-28T09:19:00.000Z",
       "firstSeen": "2026-08-28T21:52:36.458Z",
+      "isNew": false
+    },
+    {
+      "name": "Mattie Pollock",
+      "score": 54,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Yahoo Sports UK",
+      "bestSourceScore": 70,
+      "maxLikelihood": 57,
+      "lastMention": "2026-08-30T15:30:00.000Z",
+      "firstSeen": "2026-08-30T16:18:18.107Z",
       "isNew": false
     },
     {
