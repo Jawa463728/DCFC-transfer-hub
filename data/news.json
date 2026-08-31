@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T15:13:51.740Z",
+  "updatedAt": "2026-08-31T15:25:07.398Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 110,
@@ -201,8 +201,21 @@
       "isNew": false
     },
     {
-      "name": "Gavin Bazunu Move",
+      "name": "Leicester Mercury",
       "score": 46,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Leicester Mercury",
+      "bestSourceScore": 79,
+      "maxLikelihood": 63,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-08-26T00:00:06.364Z",
+      "isNew": false
+    },
+    {
+      "name": "Gavin Bazunu Move",
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -215,7 +228,7 @@
     },
     {
       "name": "Villarreal Vs Sevilla",
-      "score": 46,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -225,19 +238,6 @@
       "lastMention": "2026-08-30T22:21:26.000Z",
       "firstSeen": "2026-08-31T14:27:58.573Z",
       "isNew": true
-    },
-    {
-      "name": "Leicester Mercury",
-      "score": 46,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Leicester Mercury",
-      "bestSourceScore": 79,
-      "maxLikelihood": 63,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-26T00:00:06.364Z",
-      "isNew": false
     },
     {
       "name": "The Sunday Guardian",
