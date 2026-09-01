@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T13:46:07.081Z",
+  "updatedAt": "2026-09-01T13:57:59.199Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 121,
@@ -175,6 +175,32 @@
       "isNew": false
     },
     {
+      "name": "Gavin Bazunu Move",
+      "score": 47,
+      "status": "Watch",
+      "independentReports": 2,
+      "totalStories": 2,
+      "bestSource": "mshale.com",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T22:21:26.000Z",
+      "firstSeen": "2026-08-31T17:07:06.282Z",
+      "isNew": false
+    },
+    {
+      "name": "Villarreal Vs Sevilla",
+      "score": 47,
+      "status": "Watch",
+      "independentReports": 2,
+      "totalStories": 2,
+      "bestSource": "mshale.com",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-08-30T22:21:26.000Z",
+      "firstSeen": "2026-08-31T17:07:06.282Z",
+      "isNew": false
+    },
+    {
       "name": "Russell Martin",
       "score": 47,
       "status": "Fading",
@@ -219,37 +245,11 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "mshale.com",
+      "bestSource": "Mshale",
       "bestSourceScore": 48,
       "maxLikelihood": 65,
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-08-31T12:44:29.888Z",
-      "isNew": false
-    },
-    {
-      "name": "Gavin Bazunu Move",
-      "score": 40,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T17:07:06.282Z",
-      "isNew": false
-    },
-    {
-      "name": "Villarreal Vs Sevilla",
-      "score": 40,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T22:21:26.000Z",
-      "firstSeen": "2026-08-31T17:07:06.282Z",
       "isNew": false
     },
     {
@@ -267,6 +267,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
+      "title": "Derby County transfer state of play on crucial deadline day as key duo meet - Derbyshire Live",
+      "description": "Derby County transfer state of play on crucial deadline day as key duo meet &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjQxY09rNUx6MkcyY1FVLWtLMHVsdHg2bXpoMGU2dWt3UzlCNllwc2dDd2U3M014Z2ZSTE9UQi0zd3d6dEF0TmQyaXZTZWpINTF3TWpSeTU4RUNVTjBvN3RGaHpoS3V6TnJOUF9kNmNMUDd5N21ZaEl1dzhoNDZ2bzNlMm1FLWQxSElXZWZwSHdVZGEyR3RDZ2Nad1B4WWx3MXYxc2ZFR0Y?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T12:59:46.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGF0IGNlbnRyZSBvZiBkYXZpZC",
       "title": "Derby County at centre of David Ozoh transfer claim in deadline day race for signings - Derbyshire Live",
@@ -330,21 +345,6 @@
       "players": [
         "Eiran Cashin"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
-      "title": "Derby County transfer state of play on crucial deadline day as key duo meet - Derbyshire Live",
-      "description": "Derby County transfer state of play on crucial deadline day as key duo meet &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjQxY09rNUx6MkcyY1FVLWtLMHVsdHg2bXpoMGU2dWt3UzlCNllwc2dDd2U3M014Z2ZSTE9UQi0zd3d6dEF0TmQyaXZTZWpINTF3TWpSeTU4RUNVTjBvN3RGaHpoS3V6TnJOUF9kNmNMUDd5N21ZaEl1dzhoNDZ2bzNlMm1FLWQxSElXZWZwSHdVZGEyR3RDZ2Nad1B4WWx3MXYxc2ZFR0Y?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T10:23:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGJhdHRsZSBibGFja2J1cm4gcm",
@@ -468,10 +468,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNsb3NlIGluIG9uIGFydGh1ci",
-      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - mshale.com",
-      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; mshale.com",
+      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - Mshale",
+      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c2FuSVNkajhCRnF4OWh6UWhUaXRSWVBzdDgtMG5vQzhicUcwOUc2R1U1TFlfN212TDVqTHFraktkd2pRQ0JmU05OYXVrelZDSGo5djdVeWl2QUE?oc=5",
-      "source": "mshale.com",
+      "source": "Mshale",
       "published": "2026-08-30T22:50:10.000Z",
       "reputation": 48,
       "likelihood": 65,
@@ -485,10 +485,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -791,10 +791,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
-      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
-      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; Football Lowdown",
+      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - footballlowdown.com",
+      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTcwbU54S1pqbTVvcVB1RWNMQlhKN2NqQ2dVYV85ZVhmQ0ZvejdIMG9ObzlWLUxHVXJRMWpZaUlCZFl6XzJSSnJ5c0l2YnJrWnpGZE5fNkVwYlA3V2dEb0phekZnVG1qOUFMQWFqUU9fb2VKODlvR3Iwdk5HaXFiYS1FR1hIWWZwM2FnbFE4MTBpY3ZrMllCUG1hLWJxNTU4cUktdzVzVGJtS1BJZGc?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-08-30T11:09:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1528,10 +1528,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHNldCBmb3IgY3Jhenkgam9obi",
-      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - Mshale",
-      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; Mshale",
+      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - mshale.com",
+      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVGZpZGhNTWxqWHlpTzZpbkZrY29LMFJHbHpmSWVVSDBJVHpHdmhEa2lpZEdGWlMxbmZOM2JSM0RQVGR6WHQtVTNKMldoOWdKWGtNcldqVGJXamc?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-24T13:09:16.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -1797,10 +1797,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNhcmRpZmYgY2l0eSAyMiAwOC",
-      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EXzQySlBUaVNIeEJ6SUdvS2pKVG45VHg4RGpxVFVObVJsV1lvaTA0Z1ZTYlAyaHlYdVVQNTBjNkhTNzJXX2pBM1daUTE0d3pnWktkSkpIc3NMQmE1aTREMXNTMnByUlE1R3NKZGhXczlaNzhJcS1r?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-22T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
