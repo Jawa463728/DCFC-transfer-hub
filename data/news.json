@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T21:52:36.777Z",
+  "updatedAt": "2026-09-01T22:06:30.345Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 140,
+  "storyCount": 141,
   "targetCount": 20,
   "targets": [
     {
@@ -17,19 +17,6 @@
       "lastMention": "2026-09-01T19:47:04.000Z",
       "firstSeen": "2026-09-01T12:19:22.060Z",
       "isNew": true
-    },
-    {
-      "name": "Hamza Choudhury",
-      "score": 74,
-      "status": "Fading",
-      "independentReports": 4,
-      "totalStories": 5,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 80,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-25T23:27:22.911Z",
-      "isNew": false
     },
     {
       "name": "Mohammed Fuseini",
@@ -82,6 +69,19 @@
       "lastMention": "2026-09-01T18:44:29.000Z",
       "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": true
+    },
+    {
+      "name": "Hamza Choudhury",
+      "score": 67,
+      "status": "Fading",
+      "independentReports": 3,
+      "totalStories": 5,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 80,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-08-25T23:27:22.911Z",
+      "isNew": false
     },
     {
       "name": "David Ozoh",
@@ -214,6 +214,19 @@
       "isNew": false
     },
     {
+      "name": "The Irish Sun",
+      "score": 49,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The Irish Sun",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T20:37:20.000Z",
+      "firstSeen": "2026-09-01T22:06:30.345Z",
+      "isNew": true
+    },
+    {
       "name": "John Mousinho",
       "score": 49,
       "status": "Watch",
@@ -223,19 +236,6 @@
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-09-01T17:43:00.000Z",
-      "firstSeen": "2026-09-01T18:00:17.580Z",
-      "isNew": true
-    },
-    {
-      "name": "Fratton Park",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "portsmouth.co.uk",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T17:00:00.000Z",
       "firstSeen": "2026-09-01T18:00:17.580Z",
       "isNew": true
     },
@@ -287,6 +287,23 @@
       ]
     },
     {
+      "id": "aXJpc2ggc3RhciBzZWFscyBkZXJieSBjb3VudHkgcm",
+      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - The Irish Sun",
+      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; The Irish Sun",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjQ5M09icmRGQmtwdGpBUmpNTzBCSmk4bC1mSGlod05Kc3cwVHhoLXZpUjV0c1pQbVphUlBfYzBaU3F0Ynd2YVE5X3FVS2ZRdzVTem9ZTjlLVmozT0pJaFpXU3dqSFowTmJKQVVpNDdwMjZBbmxTT1hxM3V2MDFUcUVSUXlKY204TFlrY2pWNHliMTVKdXowcFFR?oc=5",
+      "source": "The Irish Sun",
+      "published": "2026-09-01T20:37:20.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "The Irish Sun"
+      ]
+    },
+    {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
       "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
       "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
@@ -319,6 +336,21 @@
       "players": [
         "Eiran Cashin"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T18:56:30.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
@@ -379,21 +411,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T18:10:12.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -693,7 +710,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -774,10 +791,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNsb3NlIGluIG9uIGFydGh1ci",
-      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - Mshale",
-      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - mshale.com",
+      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c2FuSVNkajhCRnF4OWh6UWhUaXRSWVBzdDgtMG5vQzhicUcwOUc2R1U1TFlfN212TDVqTHFraktkd2pRQ0JmU05OYXVrelZDSGo5djdVeWl2QUE?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:50:10.000Z",
       "reputation": 48,
       "likelihood": 65,
@@ -1232,7 +1249,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1529,7 +1546,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1772,10 +1789,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "derbytelegraph.co.uk",
+      "source": "Derbyshire Live",
       "published": "2026-08-25T09:29:33.000Z",
       "reputation": 94,
       "likelihood": 80,
@@ -2317,7 +2334,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
