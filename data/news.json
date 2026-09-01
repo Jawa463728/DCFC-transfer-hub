@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-09-01T14:17:46.146Z",
+  "updatedAt": "2026-09-01T14:34:03.088Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 122,
+  "storyCount": 123,
   "targetCount": 20,
   "targets": [
+    {
+      "name": "Hamza Choudhury",
+      "score": 74,
+      "status": "Fading",
+      "independentReports": 4,
+      "totalStories": 5,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 80,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-08-25T23:27:22.911Z",
+      "isNew": false
+    },
     {
       "name": "Eiran Cashin",
       "score": 68,
@@ -17,19 +30,6 @@
       "lastMention": "2026-09-01T11:24:00.000Z",
       "firstSeen": "2026-09-01T12:19:22.060Z",
       "isNew": true
-    },
-    {
-      "name": "Hamza Choudhury",
-      "score": 67,
-      "status": "Fading",
-      "independentReports": 3,
-      "totalStories": 5,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 80,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-25T23:27:22.911Z",
-      "isNew": false
     },
     {
       "name": "David Ozoh",
@@ -214,19 +214,6 @@
       "isNew": false
     },
     {
-      "name": "Fresh Anis Mehmeti",
-      "score": 46,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The72",
-      "bestSourceScore": 66,
-      "maxLikelihood": 54,
-      "lastMention": "2026-08-30T13:28:56.000Z",
-      "firstSeen": "2026-08-30T20:14:06.397Z",
-      "isNew": false
-    },
-    {
       "name": "Leicester Mercury",
       "score": 46,
       "status": "Fading",
@@ -253,6 +240,19 @@
       "isNew": false
     },
     {
+      "name": "Fresh Anis Mehmeti",
+      "score": 45,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The72",
+      "bestSourceScore": 66,
+      "maxLikelihood": 54,
+      "lastMention": "2026-08-30T13:28:56.000Z",
+      "firstSeen": "2026-08-30T20:14:06.397Z",
+      "isNew": false
+    },
+    {
       "name": "The Sunday Guardian",
       "score": 39,
       "status": "Watch",
@@ -268,6 +268,21 @@
   ],
   "stories": [
     {
+      "id": "Zm9ybWVyIGRlcmJ5IGNvdW50eSB3aW5nZXIgc2V0IG",
+      "title": "Former Derby County winger set for record-breaking deadline day transfer - Derbyshire Live",
+      "description": "Former Derby County winger set for record-breaking deadline day transfer &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR3pmSEhic19yaWxpaDlVSEFaa0hkSTZQenJ1Yk4zd05nNW9VcVpxM2tfX25ncTM4S1VKVExQQjdKSHR6aHptSHBDN20xNmFrVGFtQlpIRTN5elluQUJXM0QtZEhkY29aOERiSWdIWmdQQjBUdnd5TzQ3VHhBYnpwWXZmRjNYeGNjVXlUczlGbzlQRWVOcU1yX1N1aE8xWng2ZTBiUlBaY1JTeWVmLXc?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T14:29:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
       "title": "Derby County transfer state of play on crucial deadline day as key duo meet - Derbyshire Live",
       "description": "Derby County transfer state of play on crucial deadline day as key duo meet &nbsp;&nbsp; Derbyshire Live",
@@ -278,7 +293,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -293,7 +308,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -670,7 +685,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -687,7 +702,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -862,7 +877,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1371,7 +1386,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -1481,10 +1496,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "Derbyshire Live",
+      "source": "derbytelegraph.co.uk",
       "published": "2026-08-25T09:29:33.000Z",
       "reputation": 94,
       "likelihood": 80,
@@ -1682,7 +1697,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1789,7 +1804,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Sam Szmodics"
@@ -1868,7 +1883,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1882,23 +1897,6 @@
       "reputation": 99,
       "likelihood": 75,
       "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
-    },
-    {
-      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
@@ -1939,6 +1937,23 @@
       "players": []
     },
     {
+      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
+      "source": "BBC",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHJla29yIGdlbGVubGVyIGdhbG",
       "title": "Derby County - Rekor gelenler (Galeri) - Transfermarkt",
       "description": "Derby County - Rekor gelenler (Galeri) &nbsp;&nbsp; Transfermarkt",
@@ -1964,7 +1979,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2011,7 +2026,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2041,7 +2056,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2056,7 +2071,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2093,21 +2108,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
-      "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
-      "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmtHQTJoMVFXR0ZRSDJCSWNfSmRINDY0MmZHbzFTWV9xSFZ2blE4UXRlOGdLUXRub2tobzQ4TGUyLWMxdzZua3VLbk1xUHZXZjc1V3JBakw4eklzOTluTk5NS1dTel8wMkItb1VBUzFTYWI1R2VBM1pEMGZZcG1EeG5kTTljQVJaV3M0Rko4Vkp1NDJMSTFjOVZRRFNiUFRDLVVLSDNhYUI?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBhbGV4IG",
       "title": "TRANSFER NEWS: Introducing…Alex Mowatt - Derby County",
       "description": "TRANSFER NEWS: Introducing…Alex Mowatt &nbsp;&nbsp; Derby County",
@@ -2118,11 +2118,26 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Alex Mowatt"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
+      "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
+      "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmtHQTJoMVFXR0ZRSDJCSWNfSmRINDY0MmZHbzFTWV9xSFZ2blE4UXRlOGdLUXRub2tobzQ4TGUyLWMxdzZua3VLbk1xUHZXZjc1V3JBakw4eklzOTluTk5NS1dTel8wMkItb1VBUzFTYWI1R2VBM1pEMGZZcG1EeG5kTTljQVJaV3M0Rko4Vkp1NDJMSTFjOVZRRFNiUFRDLVVLSDNhYUI?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "c2lnbmluZyBhbGV4IG1vd2F0dCBqb2lucyBkZXJieS",
@@ -2186,7 +2201,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
