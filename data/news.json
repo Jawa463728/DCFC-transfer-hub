@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T07:57:12.094Z",
+  "updatedAt": "2026-09-01T08:18:11.201Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 114,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "Hamza Choudhury",
-      "score": 67,
+      "score": 74,
       "status": "Fading",
-      "independentReports": 3,
+      "independentReports": 4,
       "totalStories": 5,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -111,7 +111,7 @@
     },
     {
       "name": "Mattie Pollock",
-      "score": 50,
+      "score": 49,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -738,7 +738,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -832,7 +832,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -862,7 +862,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -937,11 +937,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U21 - transfermarkt.com",
-      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1232,7 +1232,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -1240,11 +1240,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.com",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.com",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGYzUm9zVkl6ODFWYlhUOFlnampwaWNIZ1ZXRHFSQUo2dlRjNEg3SlRCZ0s3amV0NEtCT190YVhYOGdHc2ZkR25TUkI1UWJNWGZFSXBwZWE5NHkxRGNxYnlCa2lIRHp3ZUUzWkhqU2hsN0d0WC1uYmlpVUdESWptVEFscXk3TnVadC1COTV3Yl9IWGk3?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-08-25T20:22:08.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1357,10 +1357,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "Derbyshire Live",
+      "source": "derbytelegraph.co.uk",
       "published": "2026-08-25T09:29:33.000Z",
       "reputation": 94,
       "likelihood": 80,
@@ -1475,7 +1475,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1573,7 +1573,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1665,7 +1665,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Sam Szmodics"
@@ -1688,10 +1688,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNhcmRpZmYgY2l0eSAyMiAwOC",
-      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EXzQySlBUaVNIeEJ6SUdvS2pKVG45VHg4RGpxVFVObVJsV1lvaTA0Z1ZTYlAyaHlYdVVQNTBjNkhTNzJXX2pBM1daUTE0d3pnWktkSkpIc3NMQmE1aTREMXNTMnByUlE1R3NKZGhXczlaNzhJcS1r?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-22T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1744,7 +1744,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1830,21 +1830,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHZlcmRpY3QgaXNzdWVkIGJ5IG",
-      "title": "Derby County verdict issued by EFL expert and 'important' transfer need - Derbyshire Live",
-      "description": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-19T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "bW9uemEgc2VudCBpbnN1bHQgbWVzc2FnZSBhZnRlci",
       "title": "Monza sent 'insult' message after Derby County transfer bid - Derbyshire Live",
       "description": "Monza sent 'insult' message after Derby County transfer bid &nbsp;&nbsp; Derbyshire Live",
@@ -1856,6 +1841,21 @@
       "ratingLabel": "Strong",
       "status": "rumour",
       "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHZlcmRpY3QgaXNzdWVkIGJ5IG",
+      "title": "Derby County verdict issued by EFL expert and 'important' transfer need - Derbyshire Live",
+      "description": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-19T06:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1887,7 +1887,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1917,7 +1917,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1932,7 +1932,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1996,7 +1996,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
