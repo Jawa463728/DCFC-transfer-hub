@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T23:14:15.422Z",
+  "updatedAt": "2026-09-01T23:25:47.340Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 144,
+  "storyCount": 145,
   "targetCount": 20,
   "targets": [
     {
@@ -58,6 +58,19 @@
       "isNew": true
     },
     {
+      "name": "David Ozoh",
+      "score": 68,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 90,
+      "lastMention": "2026-09-01T23:17:00.000Z",
+      "firstSeen": "2026-09-01T12:55:00.883Z",
+      "isNew": true
+    },
+    {
       "name": "Hamza Choudhury",
       "score": 67,
       "status": "Fading",
@@ -69,19 +82,6 @@
       "lastMention": "2026-08-28T08:24:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
       "isNew": false
-    },
-    {
-      "name": "David Ozoh",
-      "score": 65,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-09-01T12:49:00.000Z",
-      "firstSeen": "2026-09-01T12:55:00.883Z",
-      "isNew": true
     },
     {
       "name": "Ben Brereton-",
@@ -267,6 +267,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHRlbnRoIHN1bW",
+      "title": "Derby County complete tenth summer transfer as David Ozoh completes sensational return - Derbyshire Live",
+      "description": "Derby County complete tenth summer transfer as David Ozoh completes sensational return &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVVWTkN5eFdhazZMaENjX3l0VDBvYS15eHZKZHZWNm1kSHppNXo0Vkw4Y0Y5ZXhGLTQtY0Y5ZTRMajJiNFk3OWFrZzdCeUczaVNWNWp1VUtsOU5WdmgxQkI5QWJOd1JDQ1RYSkF6QnNmWFdLcDRRb2t5SU1rVU0waVRwaHhFUXg1d25xcWJUdVpoR051cnNXVFJ1WG13TGpPQmtCUnRpNA?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T23:17:00.000Z",
+      "reputation": 87,
+      "likelihood": 90,
+      "ratingLabel": "Very strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "David Ozoh"
+      ]
+    },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
       "title": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. - OneFootball",
@@ -547,21 +564,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T15:13:19.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "Zm9ybWVyIGRlcmJ5IGNvdW50eSB3aW5nZXIgc2V0IG",
       "title": "Former Derby County winger set for record-breaking deadline day transfer - Derbyshire Live",
       "description": "Former Derby County winger set for record-breaking deadline day transfer &nbsp;&nbsp; Derbyshire Live",
@@ -699,6 +701,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTFJcWFEYTA2QTk2bDYzT0JQaGRlRW9ELXJvQ2RNd19VT29JenJEc3VZVVhHbGZab25aOHowSUUxeEFJZzI3V0JxeUtqTjdrU2hMeFBxaUlva3c4RDhiSmlOQUp5TWF4VDM4QXN0V3E0M0J4dlpGZ1JkeHBtZk9HU1NDbHNYYVdkSDcwbFpXUlZ5SWdCQkxZVjR3WXpJTnVUdkFkMzdPQ00?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T11:33:50.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZWlyYW4gY2FzaGluIGNsb3NpbmcgaW4gb24gZGVyYn",
       "title": "Eiran Cashin closing in on Derby County return as Rams seek deadline day deal - Derbyshire Live",
       "description": "Eiran Cashin closing in on Derby County return as Rams seek deadline day deal &nbsp;&nbsp; Derbyshire Live",
@@ -756,7 +773,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -837,16 +854,16 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNsb3NlIGluIG9uIGFydGh1ci",
-      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - mshale.com",
-      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; mshale.com",
+      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - Mshale",
+      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c2FuSVNkajhCRnF4OWh6UWhUaXRSWVBzdDgtMG5vQzhicUcwOUc2R1U1TFlfN212TDVqTHFraktkd2pRQ0JmU05OYXVrelZDSGo5djdVeWl2QUE?oc=5",
-      "source": "mshale.com",
+      "source": "Mshale",
       "published": "2026-08-30T22:50:10.000Z",
       "reputation": 48,
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "In On Arthur Okonkwo"
@@ -1430,17 +1447,17 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2286,7 +2303,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ryan Hedges"
@@ -2380,7 +2397,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2474,7 +2491,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2540,7 +2557,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
