@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T23:38:02.446Z",
+  "updatedAt": "2026-09-01T23:49:27.132Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 146,
+  "storyCount": 147,
   "targetCount": 20,
   "targets": [
     {
@@ -10,7 +10,7 @@
       "score": 83,
       "status": "Hot",
       "independentReports": 3,
-      "totalStories": 3,
+      "totalStories": 4,
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 90,
@@ -20,10 +20,10 @@
     },
     {
       "name": "Mohammed Fuseini",
-      "score": 72,
+      "score": 81,
       "status": "Strong",
-      "independentReports": 2,
-      "totalStories": 2,
+      "independentReports": 3,
+      "totalStories": 3,
       "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
@@ -370,6 +370,24 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGVpcmFuIGNhc2hpbiBhbmQgbW",
+      "title": "Derby County: Eiran Cashin and Mohammed Fuseini join Rams on loan - BBC",
+      "description": "Derby County: Eiran Cashin and Mohammed Fuseini join Rams on loan &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
+      "source": "BBC",
+      "published": "2026-09-01T19:15:16.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Eiran Cashin",
+        "Mohammed Fuseini"
+      ]
+    },
+    {
       "id": "ZWlyYW4gY2FzaGluIGRlcmJ5IGNvdW50eSByZSBzaW",
       "title": "Eiran Cashin: Derby County re-sign Brighton defender on loan - BBC",
       "description": "Eiran Cashin: Derby County re-sign Brighton defender on loan &nbsp;&nbsp; BBC",
@@ -385,6 +403,21 @@
       "players": [
         "Eiran Cashin"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T18:56:30.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
@@ -558,21 +591,6 @@
       "published": "2026-09-01T15:14:25.000Z",
       "reputation": 70,
       "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T15:13:19.000Z",
-      "reputation": 87,
-      "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
@@ -855,10 +873,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNsb3NlIGluIG9uIGFydGh1ci",
-      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - Mshale",
-      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - mshale.com",
+      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c2FuSVNkajhCRnF4OWh6UWhUaXRSWVBzdDgtMG5vQzhicUcwOUc2R1U1TFlfN212TDVqTHFraktkd2pRQ0JmU05OYXVrelZDSGo5djdVeWl2QUE?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:50:10.000Z",
       "reputation": 48,
       "likelihood": 65,
@@ -2413,7 +2431,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2512,6 +2530,23 @@
       "players": []
     },
     {
+      "id": "YWxleCBtb3dhdHQgZGVyYnkgY291bnR5IHNpZ24gbW",
+      "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion - BBC",
+      "description": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWOE5mNTY1OW1qY3hrR0dRa0VpOGZPRHY2bzlPdzZKS1pfeEhYcHVsU0cyQjdFVkZRekRqTXVDNTQ1RWhRMjVuSGRiTC1XUzQ4RGFoV1FPWjV5RnJiQXRwT01FdFl5UDQ?oc=5",
+      "source": "BBC",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Alex Mowatt"
+      ]
+    },
+    {
       "id": "c2lnbmluZyBhbGV4IG1vd2F0dCBqb2lucyBkZXJieS",
       "title": "SIGNING: Alex Mowatt joins Derby County - Derby County",
       "description": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
@@ -2523,23 +2558,6 @@
       "ratingLabel": "Very strong",
       "status": "confirmed",
       "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Alex Mowatt"
-      ]
-    },
-    {
-      "id": "YWxleCBtb3dhdHQgZGVyYnkgY291bnR5IHNpZ24gbW",
-      "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion - BBC",
-      "description": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWOE5mNTY1OW1qY3hrR0dRa0VpOGZPRHY2bzlPdzZKS1pfeEhYcHVsU0cyQjdFVkZRekRqTXVDNTQ1RWhRMjVuSGRiTC1XUzQ4RGFoV1FPWjV5RnJiQXRwT01FdFl5UDQ?oc=5",
-      "source": "BBC",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
       "overseas": false,
       "players": [
         "Alex Mowatt"
