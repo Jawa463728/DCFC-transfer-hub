@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T12:19:22.060Z",
+  "updatedAt": "2026-09-01T12:38:31.178Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 118,
@@ -1625,6 +1625,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
+      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
+      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
       "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
       "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
@@ -1640,21 +1655,6 @@
       "players": [
         "Former Celtic"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
-      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
-      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZmMgYXJzZW5hbCBkZXJieSBjb3VudHkgMDIgMDUgMT",
@@ -1892,21 +1892,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHZlcmRpY3QgaXNzdWVkIGJ5IG",
-      "title": "Derby County verdict issued by EFL expert and 'important' transfer need - Derbyshire Live",
-      "description": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-19T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "bW9uemEgc2VudCBpbnN1bHQgbWVzc2FnZSBhZnRlci",
       "title": "Monza sent 'insult' message after Derby County transfer bid - Derbyshire Live",
       "description": "Monza sent 'insult' message after Derby County transfer bid &nbsp;&nbsp; Derbyshire Live",
@@ -1916,6 +1901,21 @@
       "reputation": 87,
       "likelihood": 76,
       "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHZlcmRpY3QgaXNzdWVkIGJ5IG",
+      "title": "Derby County verdict issued by EFL expert and 'important' transfer need - Derbyshire Live",
+      "description": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-19T06:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
