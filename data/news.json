@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T07:12:49.171Z",
+  "updatedAt": "2026-09-01T07:29:32.401Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 114,
@@ -202,7 +202,7 @@
     },
     {
       "name": "Gavin Bazunu Move",
-      "score": 42,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -215,7 +215,7 @@
     },
     {
       "name": "Villarreal Vs Sevilla",
-      "score": 42,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -1799,10 +1799,10 @@
     },
     {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - bbc.com",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; bbc.com",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "published": "2026-08-20T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2036,10 +2036,10 @@
     },
     {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgd2VzdC",
-      "title": "Gossip: Derby County target West Brom's Alex Mowatt - bbc.com",
-      "description": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; bbc.com",
+      "title": "Gossip: Derby County target West Brom's Alex Mowatt - BBC",
+      "description": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvdERlUlpJNDRKZFFYZWFMUUE2SE9WZ1ZqOXVGUjBoN2FKc3VzRHlFMFppaWo2VDl4OXU4TDJidUxFOFMwck1seVEzZEViTklaa2JZRWpWSW1LNjFfdTZSWE1PMjVmVms?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "published": "2026-08-13T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
