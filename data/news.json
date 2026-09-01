@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T10:07:56.656Z",
+  "updatedAt": "2026-09-01T10:28:32.667Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 115,
+  "storyCount": 116,
   "targetCount": 20,
   "targets": [
     {
@@ -267,6 +267,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
+      "title": "Derby County transfer state of play on crucial deadline day as key duo meet - Derbyshire Live",
+      "description": "Derby County transfer state of play on crucial deadline day as key duo meet &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjQxY09rNUx6MkcyY1FVLWtLMHVsdHg2bXpoMGU2dWt3UzlCNllwc2dDd2U3M014Z2ZSTE9UQi0zd3d6dEF0TmQyaXZTZWpINTF3TWpSeTU4RUNVTjBvN3RGaHpoS3V6TnJOUF9kNmNMUDd5N21ZaEl1dzhoNDZ2bzNlMm1FLWQxSElXZWZwSHdVZGEyR3RDZ2Nad1B4WWx3MXYxc2ZFR0Y?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T10:23:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
       "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
@@ -1876,10 +1891,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. - onefootball.com",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. &nbsp;&nbsp; onefootball.com",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. - OneFootball",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaGZXUkxNaW5zMi04MkQxVTk4VzRLcTVvUm00OGwtUWNMY3F0TTlDTF9EQzJXSGNxSE5ZWjZVY0pJMm4tV2VIWFh4cGRoNHhUWmlmaGxJM2E?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-08-18T20:20:57.000Z",
       "reputation": 57,
       "likelihood": 48,
