@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T20:13:38.205Z",
+  "updatedAt": "2026-09-01T20:28:52.184Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 137,
+  "storyCount": 138,
   "targetCount": 20,
   "targets": [
     {
@@ -27,7 +27,7 @@
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
-      "lastMention": "2026-09-01T16:42:36.000Z",
+      "lastMention": "2026-09-01T18:44:29.000Z",
       "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": true
     },
@@ -317,6 +317,23 @@
       "players": []
     },
     {
+      "id": "dHJhbnNmZXIgZGVhZGxpbmUgZGF5IG9uIGJiYyByYW",
+      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - BBC",
+      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMW51d0sxbDgwSkRZZnV6RTRoR2MtMXA1ZFZjdHVkTmZpaHNiX0NwWmpkNmlpdnEzYWRqZlNZZ1BwSWQ0cFJKb01CQmpqR191U2hlYTJQSmZmb1pUODRyM3dtcjhmUQ?oc=5",
+      "source": "BBC",
+      "published": "2026-09-01T18:44:29.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Radio Derbyshire"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGV5ZSBsYXN0IGdhc3AgbG9hbi",
       "title": "Derby County eye last-gasp loan as Birmingham City back out of deal for 24-year-old - Yahoo Sports UK",
       "description": "Derby County eye last-gasp loan as Birmingham City back out of deal for 24-year-old &nbsp;&nbsp; Yahoo Sports UK",
@@ -325,6 +342,36 @@
       "published": "2026-09-01T18:21:33.000Z",
       "reputation": 70,
       "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHBsb3QgbGFzdCBnYXNwIHRyYW",
+      "title": "Derby County plot last-gasp transfer after Birmingham City U-turn - Football League World",
+      "description": "Derby County plot last-gasp transfer after Birmingham City U-turn &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDYyZzZudHo1OHdDN3Aydm9EbWthYUpOYUIxUmpCWm9xQzdZbHZFZVFfRjlpaUVjRVVoQzBRT3duTlJUWEdkQ0JNSG9vX0h1VVU2S3Bnak9jbUtzSGxNTEFBSnFCaXNHbjNJZkdzaUxEQTRCQ0tja001ZmRUNFdUZ24yVW14Ql9ndTlwWVdfWjFJcU5Gdm11OWlPS2gtR3dWOXd1MzNzYw?oc=5",
+      "source": "Football League World",
+      "published": "2026-09-01T18:15:33.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T18:10:12.000Z",
+      "reputation": 87,
+      "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
@@ -378,23 +425,6 @@
       "overseas": false,
       "players": [
         "Fratton Park"
-      ]
-    },
-    {
-      "id": "dHJhbnNmZXIgZGVhZGxpbmUgZGF5IG9uIGJiYyByYW",
-      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - BBC",
-      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMW51d0sxbDgwSkRZZnV6RTRoR2MtMXA1ZFZjdHVkTmZpaHNiX0NwWmpkNmlpdnEzYWRqZlNZZ1BwSWQ0cFJKb01CQmpqR191U2hlYTJQSmZmb1pUODRyM3dtcjhmUQ?oc=5",
-      "source": "BBC",
-      "published": "2026-09-01T16:42:36.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Radio Derbyshire"
       ]
     },
     {
@@ -557,11 +587,11 @@
       "players": []
     },
     {
-      "id": "c291cmNlcyBkZXJieSBjb3VudHkgaW4gYWR2YW5jZW",
-      "title": "Sources: Derby County in advanced talks to sign Crystal Palace's David Ozoh - Yahoo Sports UK",
-      "description": "Sources: Derby County in advanced talks to sign Crystal Palace's David Ozoh &nbsp;&nbsp; Yahoo Sports UK",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVko5ZFZubTNsVXRoSXR3THZDa2hLODRXbERsNTlObV9VVlBrNmZzdHgyMG5YUlA2QVJUR21nRWJUd2tLeFlwTThKRm5wVzZ5VXhHWWZvTFB3T3JYdEttTXlhQTZ4QUhIQ0hna2ltb1dHS0NIQmlsaFFJOTFSQXIyZGtXanVKVXVpV2hj?oc=5",
-      "source": "Yahoo Sports UK",
+      "id": "ZGVyYnkgY291bnR5IGluIGFkdmFuY2VkIHRhbGtzIH",
+      "title": "Derby County in advanced talks to sign Crystal Palace's David Ozoh - Sources - Football Insider",
+      "description": "Derby County in advanced talks to sign Crystal Palace's David Ozoh - Sources &nbsp;&nbsp; Football Insider",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd2Jva1ltTVFtblRNRkZveUJjZ09zTnc3WVhfUENxS2dCOW9YSU1TdU9WUGhQVGJZbW5GU1VldjQ4OEFlQ3dHSHdDdzVFVHBjMFBfb3A5cHVmRmlBaTl6dF9mNHJsc0lTNG1oekF3T05DUExwbGhBcW9DLXQ2VXdWeURNQWpaNEVFYngzQUhBcUZvS2ZrcGNCdEotMjhnd2U1MGRCUmZrbE53dFI0dFZKZGhBRXJha0FpbF9UaXp5YWt5RGNBM2pDRkVmZ3JVbjhsRWc?oc=5",
+      "source": "Football Insider",
       "published": "2026-09-01T11:38:54.000Z",
       "reputation": 96,
       "likelihood": 95,
@@ -572,15 +602,15 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTFJcWFEYTA2QTk2bDYzT0JQaGRlRW9ELXJvQ2RNd19VT29JenJEc3VZVVhHbGZab25aOHowSUUxeEFJZzI3V0JxeUtqTjdrU2hMeFBxaUlva3c4RDhiSmlOQUp5TWF4VDM4QXN0V3E0M0J4dlpGZ1JkeHBtZk9HU1NDbHNYYVdkSDcwbFpXUlZ5SWdCQkxZVjR3WXpJTnVUdkFkMzdPQ00?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T11:33:50.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
+      "id": "c291cmNlcyBkZXJieSBjb3VudHkgaW4gYWR2YW5jZW",
+      "title": "Sources: Derby County in advanced talks to sign Crystal Palace's David Ozoh - Yahoo Sports UK",
+      "description": "Sources: Derby County in advanced talks to sign Crystal Palace's David Ozoh &nbsp;&nbsp; Yahoo Sports UK",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVko5ZFZubTNsVXRoSXR3THZDa2hLODRXbERsNTlObV9VVlBrNmZzdHgyMG5YUlA2QVJUR21nRWJUd2tLeFlwTThKRm5wVzZ5VXhHWWZvTFB3T3JYdEttTXlhQTZ4QUhIQ0hna2ltb1dHS0NIQmlsaFFJOTFSQXIyZGtXanVKVXVpV2hj?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-09-01T11:38:54.000Z",
+      "reputation": 96,
+      "likelihood": 95,
+      "ratingLabel": "Very strong",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
@@ -644,7 +674,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -734,7 +764,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "In On Arthur Okonkwo"
@@ -760,10 +790,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "title": "Derby County land Danish striker Meister on season-long loan - Tribal Football",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; Tribal Football",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
+      "source": "Tribal Football",
       "published": "2026-08-30T21:55:33.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1079,21 +1109,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
-      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
-      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-29T14:50:31.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "am9obiBldXN0YWNlIGlzc3VlcyBoZW5yaWsgbWVpc3",
       "title": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target - Derbyshire Live",
       "description": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target &nbsp;&nbsp; Derbyshire Live",
@@ -1183,7 +1198,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1318,17 +1333,17 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1358,7 +1373,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1928,6 +1943,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
+      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
+      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
       "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - BBC",
       "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
@@ -1944,21 +1974,6 @@
         "Mikey Johnston",
         "Anis Mehmeti"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
-      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
-      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZmMgYXJzZW5hbCBkZXJieSBjb3VudHkgMDIgMDUgMT",
@@ -2115,23 +2130,6 @@
       "players": []
     },
     {
-      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
-      "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
-      "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sd2FUWlYyTkhWYjVSaUlNSjh1OW9vUjlUVFFlX0EwOFZwZ3VtTXJkUWRVemtLQXlCNTJSLVpqcy1NaGVrdHFOUm9USFgxRUhYN0FROWNQVzdtazE4QlViT3ZZSzNab29qWkNuUndFeFkzSVJjVjFrT1NCSUw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T18:25:36.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
-    },
-    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges - Derby County",
       "description": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -2164,6 +2162,23 @@
       "players": []
     },
     {
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
+      "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
+      "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sd2FUWlYyTkhWYjVSaUlNSjh1OW9vUjlUVFFlX0EwOFZwZ3VtTXJkUWRVemtLQXlCNTJSLVpqcy1NaGVrdHFOUm9USFgxRUhYN0FROWNQVzdtazE4QlViT3ZZSzNab29qWkNuUndFeFkzSVJjVjFrT1NCSUw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
+    },
+    {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
       "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
       "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
@@ -2174,7 +2189,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ryan Hedges"
@@ -2253,7 +2268,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2268,7 +2283,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2298,7 +2313,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2362,7 +2377,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
