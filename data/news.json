@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T19:21:43.499Z",
+  "updatedAt": "2026-09-01T19:33:36.454Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 134,
+  "storyCount": 135,
   "targetCount": 20,
   "targets": [
     {
@@ -20,9 +20,9 @@
     },
     {
       "name": "Hamza Choudhury",
-      "score": 67,
+      "score": 74,
       "status": "Fading",
-      "independentReports": 3,
+      "independentReports": 4,
       "totalStories": 5,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -283,6 +283,21 @@
       "players": [
         "Eiran Cashin"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
+      "title": "Derby County complete eighth signing of transfer window as home-grown defender returns | Derbyshire Live - derbytelegraph.co.uk",
+      "description": "Derby County complete eighth signing of transfer window as home-grown defender returns | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2JvLVUyVE5uQmhvX0V5aWlRZjQ3VkxXNXExRkstcXdkSGlfTDAtT0tQR1JXUlFueWphMENKczQ4QVY1THJ0WW1SNWcwdnEwR3RnWGVERXQ0ZmxBaHM0MXNkNzdyYi1YaUVlbkwwSXFWZllyS0tPTHlHdnYwOU1oOFZmZE51N0tPc0ZSTlp5V0pQc01KSmZ0UlY2S0hrdWJ3WHpyNDNXS002WXM?oc=5",
+      "source": "derbytelegraph.co.uk",
+      "published": "2026-09-01T18:51:19.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGV5ZSBsYXN0IGdhc3AgbG9hbi",
@@ -837,10 +852,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIHVmZmljaWFsZSBtZW",
-      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - SestaPorta.News Pisa",
-      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; SestaPorta.News Pisa",
+      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - sestaporta.news",
+      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; sestaporta.news",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVmQ4Nk5COG5CSHBuUGtzazdneUZOMVdEZGFyd1hmRWVaYUdIV2Fxb1hoZlM2MEJCeXBHcGUtcXJMWWJnSEZ0TGlFMU1TeXpscU4ybThnYU0tMkhQbUJCN0ZPNHA4aUh3elBON1g4X2JhOFByLU1kaUo1TzZTTGxRakg2bHpUXzVYci1HNUN6R3BoVG9lN1RpWEs1QTJyWXdfeWZHQzJ0WE5ob2prbW9IbTc1MDNZZkxIN0RKX1VSYU5oR1lxNFE1SW1mYXRxb2kzUDFxVjFudlRBZVZTZWREaURBUWJra1N0U3AwSFpCWTFqNGxfSzdkUV9jbGNidFNNOE9PVjNjdEJaWEhKSW95QUVmdlAzWWxjMUl1aXlOdWhTWVpuZWtlc0ZicjhJVUdoazVfNkF2V2l2dUNnb3FDWElQT2hFbWYxRGU1XzJ4VTZhRzA?oc=5",
-      "source": "SestaPorta.News Pisa",
+      "source": "sestaporta.news",
       "published": "2026-08-30T16:24:01.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1489,10 +1504,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "SestaPorta.News Pisa",
+      "source": "sestaporta.news",
       "published": "2026-08-26T11:41:08.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1674,10 +1689,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "Derbyshire Live",
+      "source": "derbytelegraph.co.uk",
       "published": "2026-08-25T09:29:33.000Z",
       "reputation": 94,
       "likelihood": 80,
