@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T13:57:59.199Z",
+  "updatedAt": "2026-09-01T14:17:46.146Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 121,
+  "storyCount": 122,
   "targetCount": 20,
   "targets": [
     {
@@ -298,6 +298,21 @@
       "players": [
         "David Ozoh"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHB1c2ggdG8gc2lnbiBmb3JtZX",
+      "title": "Derby County push to sign former loan star permanently - The72",
+      "description": "Derby County push to sign former loan star permanently &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVBPWURQNWhxa1VJRVJfbV9wc1dzd2dVY1l6eU44T1BFWlk0UG1EVV93cnNSeUNmc3hvd2FMYThDbTN5SUVrb0xqT0IzUWZYZ2NGV1lsY3RDdUd0d1lrVGt6SUI4ODQwdHNpUmJRY3VodmYtMUtacDg0Snlya2tzSERFaXZHTnR6VXNzcXBn?oc=5",
+      "source": "The72",
+      "published": "2026-09-01T11:47:48.000Z",
+      "reputation": 66,
+      "likelihood": 54,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "c291cmNlcyBkZXJieSBjb3VudHkgaW4gYWR2YW5jZW",
@@ -2171,7 +2186,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
