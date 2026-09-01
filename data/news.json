@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-01T19:44:41.817Z",
+  "updatedAt": "2026-09-01T19:55:46.802Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 136,
+  "storyCount": 137,
   "targetCount": 20,
   "targets": [
     {
       "name": "Eiran Cashin",
-      "score": 81,
-      "status": "Strong",
-      "independentReports": 2,
-      "totalStories": 2,
+      "score": 84,
+      "status": "Hot",
+      "independentReports": 3,
+      "totalStories": 3,
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 90,
-      "lastMention": "2026-09-01T19:15:16.000Z",
+      "lastMention": "2026-09-01T19:47:04.000Z",
       "firstSeen": "2026-09-01T12:19:22.060Z",
       "isNew": true
     },
@@ -79,7 +79,7 @@
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 80,
-      "lastMention": "2026-08-24T10:25:26.000Z",
+      "lastMention": "2026-08-24T07:00:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
       "isNew": false
     },
@@ -92,7 +92,7 @@
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 80,
-      "lastMention": "2026-08-24T10:25:26.000Z",
+      "lastMention": "2026-08-24T07:00:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
       "isNew": false
     },
@@ -267,6 +267,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
+      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-01T19:47:04.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
+      "overseas": true,
+      "players": [
+        "Eiran Cashin"
+      ]
+    },
     {
       "id": "ZWlyYW4gY2FzaGluIGRlcmJ5IGNvdW50eSByZSBzaW",
       "title": "Eiran Cashin: Derby County re-sign Brighton defender on loan - BBC",
@@ -1301,11 +1318,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U21 - transfermarkt.com",
-      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1463,7 +1480,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1879,24 +1896,6 @@
       "players": []
     },
     {
-      "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
-      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - BBC",
-      "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOTFHLUhNUWpiS05yUmtpNEhrMEVuQjBkT09RWFktNS1sOHQ5S0R4c0pjbGgxV1oySmczY0tnWmRraVo4aUxBZ2NtRzlkR0ZsRWNSelJoSXZzYkZYUnRXYzBaMXlpWUxrZ3c?oc=5",
-      "source": "BBC",
-      "published": "2026-08-24T10:25:26.000Z",
-      "reputation": 94,
-      "likelihood": 80,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Mikey Johnston",
-        "Anis Mehmeti"
-      ]
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
       "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
       "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
@@ -1926,6 +1925,24 @@
       "overseas": false,
       "players": [
         "Former Celtic"
+      ]
+    },
+    {
+      "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
+      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - BBC",
+      "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUlFnUkp0U0UwcFJMOFJjWlpBYkozN3FOYWJVeTluVG9UaXk2ZlZVbDlZb1dmVTVCdzhncEZTRXpITzllOXN0RFFJWW1SaTlKbHZTTGZ6NlVpZkdCcmZNaHNPTG5MR00?oc=5",
+      "source": "BBC",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 80,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Mikey Johnston",
+        "Anis Mehmeti"
       ]
     },
     {
@@ -2098,6 +2115,23 @@
       "players": []
     },
     {
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
+      "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
+      "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sd2FUWlYyTkhWYjVSaUlNSjh1OW9vUjlUVFFlX0EwOFZwZ3VtTXJkUWRVemtLQXlCNTJSLVpqcy1NaGVrdHFOUm9USFgxRUhYN0FROWNQVzdtazE4QlViT3ZZSzNab29qWkNuUndFeFkzSVJjVjFrT1NCSUw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T18:25:36.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
+    },
+    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges - Derby County",
       "description": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -2128,23 +2162,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
-      "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
-      "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sd2FUWlYyTkhWYjVSaUlNSjh1OW9vUjlUVFFlX0EwOFZwZ3VtTXJkUWRVemtLQXlCNTJSLVpqcy1NaGVrdHFOUm9USFgxRUhYN0FROWNQVzdtazE4QlViT3ZZSzNab29qWkNuUndFeFkzSVJjVjFrT1NCSUw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
     },
     {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
@@ -2345,7 +2362,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
