@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T00:41:48.384Z",
+  "updatedAt": "2026-09-01T00:58:16.791Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 114,
@@ -123,19 +123,6 @@
       "isNew": false
     },
     {
-      "name": "In On Arthur Okonkwo",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-30T22:50:10.000Z",
-      "firstSeen": "2026-08-31T12:44:29.888Z",
-      "isNew": true
-    },
-    {
       "name": "Fresh Anis Mehmeti",
       "score": 49,
       "status": "Watch",
@@ -185,6 +172,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-08-22T06:00:00.000Z",
       "firstSeen": "2026-08-30T07:01:31.107Z",
+      "isNew": false
+    },
+    {
+      "name": "In On Arthur Okonkwo",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-30T22:50:10.000Z",
+      "firstSeen": "2026-08-31T12:44:29.888Z",
       "isNew": false
     },
     {
