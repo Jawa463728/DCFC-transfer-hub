@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T09:37:53.463Z",
+  "updatedAt": "2026-09-01T09:52:47.405Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 115,
@@ -293,7 +293,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1703,10 +1703,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNhcmRpZmYgY2l0eSAyMiAwOC",
-      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EXzQySlBUaVNIeEJ6SUdvS2pKVG45VHg4RGpxVFVObVJsV1lvaTA0Z1ZTYlAyaHlYdVVQNTBjNkhTNzJXX2pBM1daUTE0d3pnWktkSkpIc3NMQmE1aTREMXNTMnByUlE1R3NKZGhXczlaNzhJcS1r?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-22T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1917,7 +1917,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
