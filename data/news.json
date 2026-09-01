@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T22:34:54.418Z",
+  "updatedAt": "2026-09-01T22:46:28.201Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 142,
+  "storyCount": 144,
   "targetCount": 20,
   "targets": [
     {
@@ -20,14 +20,14 @@
     },
     {
       "name": "Mohammed Fuseini",
-      "score": 71,
+      "score": 73,
       "status": "Strong",
-      "independentReports": 1,
-      "totalStories": 1,
+      "independentReports": 2,
+      "totalStories": 2,
       "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
-      "lastMention": "2026-09-01T21:40:00.000Z",
+      "lastMention": "2026-09-01T22:38:36.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": true
     },
@@ -59,8 +59,8 @@
     },
     {
       "name": "Radio Derbyshire",
-      "score": 70,
-      "status": "Strong",
+      "score": 69,
+      "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "BBC",
@@ -227,19 +227,6 @@
       "isNew": true
     },
     {
-      "name": "John Mousinho",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "portsmouth.co.uk",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T17:43:00.000Z",
-      "firstSeen": "2026-09-01T18:00:17.580Z",
-      "isNew": true
-    },
-    {
       "name": "Omari Kellyman",
       "score": 49,
       "status": "Fading",
@@ -264,9 +251,54 @@
       "lastMention": "2026-08-23T07:00:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.912Z",
       "isNew": false
+    },
+    {
+      "name": "John Mousinho",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "portsmouth.co.uk",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T17:43:00.000Z",
+      "firstSeen": "2026-09-01T18:00:17.580Z",
+      "isNew": true
     }
   ],
   "stories": [
+    {
+      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
+      "title": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NX05PUDRBaUd3SEdYNVhRZWxOeWpnY2FwWlE5d185MUZBWWFpQzdMMGFXN2N1LWktQkxCZ0RqUUdrc2NBWGwzMjFWVURKVXRGWnh6dVRzUQ?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-01T22:38:36.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
+      "overseas": true,
+      "players": [
+        "Mohammed Fuseini"
+      ]
+    },
+    {
+      "id": "am9obiBldXN0YWNlIHJldmVhbHMgZGVyYnkgY291bn",
+      "title": "John Eustace reveals Derby County ace rejected transfer hours before super strike at Portsmouth - Derbyshire Live",
+      "description": "John Eustace reveals Derby County ace rejected transfer hours before super strike at Portsmouth &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3ZrVHBkNEh0amMxQmJrdUdtUjhkNEdUUnAwV1h5VXVpNEFuRjZuNkVsdV8xb2lMdTIxN3NjUVdRZWRxRkdHcHZ2LUtYdno1VlhLNURLaXFXMHI4MHFOa3lHRXhrMUZGYUtiR0dYN09Bc0FpenFuemZKRGtqdXRWQ2dsdkdCdWtqOV9vQ0Fic2FOR0ZWaFR5akNnX3p1V2FaUkdqbk5kNA?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T21:53:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
       "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
@@ -336,6 +368,21 @@
       "players": [
         "Eiran Cashin"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T18:56:30.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
@@ -494,21 +541,6 @@
       "published": "2026-09-01T15:14:25.000Z",
       "reputation": 70,
       "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T15:13:19.000Z",
-      "reputation": 87,
-      "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
@@ -890,10 +922,10 @@
     },
     {
       "id": "cGlzYSBwcmltZSBwYXJvbGUgYWwgZGVyYnkgY291bn",
-      "title": "Pisa, prime parole al Derby County per Meister: \"Championship ideale per il mio gioco\" - tuttomercatoweb.com",
-      "description": "Pisa, prime parole al Derby County per Meister: \"Championship ideale per il mio gioco\" &nbsp;&nbsp; tuttomercatoweb.com",
+      "title": "Pisa, prime parole al Derby County per Meister: \"Championship ideale per il mio gioco\" - TUTTOmercatoWEB",
+      "description": "Pisa, prime parole al Derby County per Meister: \"Championship ideale per il mio gioco\" &nbsp;&nbsp; TUTTOmercatoWEB",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlZFVFJmU1VjN2tRM2d4dV9jcktMRElLbHJIcXBKRFBmQ1NHVEJmVmNzS2tWUkhkdms0WGx0LWRucVZzOTdUdVFGX1U5TTdWb1BYUmVVVlgwN21DRmtYdnFqbXZJQzliNDY3dXo2aXJYTFA2RlZpTDlsRkVYYzBoLW51VWhTam9jbFh1R1FYWXpnSWZueTVQR0xwMjRjNjZ2RHdkUVlPV2J3MXVZMTlXdXRB?oc=5",
-      "source": "tuttomercatoweb.com",
+      "source": "TUTTOmercatoWEB",
       "published": "2026-08-30T17:19:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -905,10 +937,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - tuttomercatoweb.com",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; tuttomercatoweb.com",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "tuttomercatoweb.com",
+      "source": "TUTTOmercatoWEB",
       "published": "2026-08-30T16:56:36.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1537,10 +1569,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - tuttomercatoweb.com",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; tuttomercatoweb.com",
+      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
+      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "tuttomercatoweb.com",
+      "source": "TUTTOmercatoWEB",
       "published": "2026-08-26T13:19:35.000Z",
       "reputation": 48,
       "likelihood": 43,
