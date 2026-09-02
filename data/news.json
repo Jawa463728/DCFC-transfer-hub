@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T10:52:22.639Z",
+  "updatedAt": "2026-09-02T11:03:33.490Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 160,
@@ -58,6 +58,19 @@
       "isNew": false
     },
     {
+      "name": "Radio Derbyshire",
+      "score": 68,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-09-02T00:45:26.000Z",
+      "firstSeen": "2026-09-01T19:44:41.816Z",
+      "isNew": false
+    },
+    {
       "name": "Hamza Choudhury",
       "score": 67,
       "status": "Fading",
@@ -68,19 +81,6 @@
       "maxLikelihood": 80,
       "lastMention": "2026-08-28T08:24:00.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
-      "isNew": false
-    },
-    {
-      "name": "Radio Derbyshire",
-      "score": 66,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-01T18:44:29.000Z",
-      "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": false
     },
     {
@@ -384,6 +384,23 @@
       ]
     },
     {
+      "id": "dHJhbnNmZXIgZGVhZGxpbmUgZGF5IG9uIGJiYyByYW",
+      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - BBC",
+      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMW51d0sxbDgwSkRZZnV6RTRoR2MtMXA1ZFZjdHVkTmZpaHNiX0NwWmpkNmlpdnEzYWRqZlNZZ1BwSWQ0cFJKb01CQmpqR191U2hlYTJQSmZmb1pUODRyM3dtcjhmUQ?oc=5",
+      "source": "BBC",
+      "published": "2026-09-02T00:45:26.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Radio Derbyshire"
+      ]
+    },
+    {
       "id": "c2lnbmluZyBkYXZpZCBvem9oIHNpZ25zIGZvciBkZX",
       "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - Derby County",
       "description": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; Derby County",
@@ -646,23 +663,6 @@
       "players": []
     },
     {
-      "id": "dHJhbnNmZXIgZGVhZGxpbmUgZGF5IG9uIGJiYyByYW",
-      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - BBC",
-      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMW51d0sxbDgwSkRZZnV6RTRoR2MtMXA1ZFZjdHVkTmZpaHNiX0NwWmpkNmlpdnEzYWRqZlNZZ1BwSWQ0cFJKb01CQmpqR191U2hlYTJQSmZmb1pUODRyM3dtcjhmUQ?oc=5",
-      "source": "BBC",
-      "published": "2026-09-01T18:44:29.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Radio Derbyshire"
-      ]
-    },
-    {
       "id": "c2lnbmluZyBjYXNoaW4gcmV0dXJucyB0byB0aGUgcm",
       "title": "SIGNING: Cashin returns to the Rams - Derby County",
       "description": "SIGNING: Cashin returns to the Rams &nbsp;&nbsp; Derby County",
@@ -773,10 +773,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdpdGggbG9uZyB3YXkgdG8gZ2",
-      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - insidefutbol.com",
-      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; insidefutbol.com",
+      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - Inside Futbol",
+      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; Inside Futbol",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnBaZkVYYmlIbmY5N3hHdUdOTktOZFlSR2d1V3NWejJYSlZCZWdNcDZOaGhia2pJbUg0ZlVSNTU1OURNSWxQWmFlbTRqX0tlWmFvLTdIdlk0dGVIQWF2ZEtJNGFFUEh0QURETVl3N2FjbV9XWGpTNUViMjFRZUhoTUs4bFBTYU5SOUc4SS0xR2FOTmZvQjJWbDhNWW5rcUd5bnhweHU5THZZdw?oc=5",
-      "source": "insidefutbol.com",
+      "source": "Inside Futbol",
       "published": "2026-09-01T16:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2302,6 +2302,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
+      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
+      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
       "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
       "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
@@ -2312,7 +2327,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2333,21 +2348,6 @@
         "Mikey Johnston",
         "Anis Mehmeti"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
-      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
-      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
