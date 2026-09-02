@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T21:14:08.059Z",
+  "updatedAt": "2026-09-02T21:29:08.370Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 169,
@@ -201,8 +201,21 @@
       "isNew": false
     },
     {
-      "name": "Late Barnsley",
+      "name": "Leicester Mercury",
       "score": 46,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Leicester Mercury",
+      "bestSourceScore": 79,
+      "maxLikelihood": 63,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-09-02T10:01:31.212Z",
+      "isNew": true
+    },
+    {
+      "name": "Late Barnsley",
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -215,7 +228,7 @@
     },
     {
       "name": "Reyes Cleary",
-      "score": 46,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -225,19 +238,6 @@
       "lastMention": "2026-09-01T15:48:14.000Z",
       "firstSeen": "2026-09-01T18:38:56.477Z",
       "isNew": false
-    },
-    {
-      "name": "Leicester Mercury",
-      "score": 46,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 2,
-      "bestSource": "Leicester Mercury",
-      "bestSourceScore": 79,
-      "maxLikelihood": 63,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-09-02T10:01:31.212Z",
-      "isNew": true
     },
     {
       "name": "Loan Signing",
