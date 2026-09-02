@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T22:12:09.987Z",
+  "updatedAt": "2026-09-02T22:28:27.718Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 169,
@@ -102,7 +102,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "BBC",
+      "bestSource": "bbc.com",
       "bestSourceScore": 94,
       "maxLikelihood": 80,
       "lastMention": "2026-08-24T07:00:00.000Z",
@@ -115,7 +115,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "BBC",
+      "bestSource": "bbc.com",
       "bestSourceScore": 94,
       "maxLikelihood": 80,
       "lastMention": "2026-08-24T07:00:00.000Z",
@@ -661,10 +661,10 @@
     },
     {
       "id": "ZnVzZWluaSBzZXQgdG8gam9pbiBkZXJieSBjb3VudH",
-      "title": "Fuseini set to join Derby County on loan after Birmingham move collapse - Flashscore UK",
-      "description": "Fuseini set to join Derby County on loan after Birmingham move collapse &nbsp;&nbsp; Flashscore UK",
+      "title": "Fuseini set to join Derby County on loan after Birmingham move collapse - flashscore.co.uk",
+      "description": "Fuseini set to join Derby County on loan after Birmingham move collapse &nbsp;&nbsp; flashscore.co.uk",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDZnbjdadHBoWGpYZlE2elZiWHNzaG1hOEZnTHBzQkgtOXQ1V014RjdBU1REdlVRYmRRNFhQQjdRUUtzaEdmUXFxWV9GbEd2aXEtMS10N001YW9IQUx3WEdmWnhxYnNzMExRaWNqZzVvQS0wT2hzLVhWU2NrVkxEVmdCT0I3a0s3clp2NVFQWEQyUzByQ3oweFVXUXF1cUo2YjRoZUVndmU0V0hjZEZpUnlYRVBjdw?oc=5",
-      "source": "Flashscore UK",
+      "source": "flashscore.co.uk",
       "published": "2026-09-01T19:28:55.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1674,10 +1674,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1843,7 +1843,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2429,10 +2429,10 @@
     },
     {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
-      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - BBC",
-      "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
+      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - bbc.com",
+      "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUlFnUkp0U0UwcFJMOFJjWlpBYkozN3FOYWJVeTluVG9UaXk2ZlZVbDlZb1dmVTVCdzhncEZTRXpITzllOXN0RFFJWW1SaTlKbHZTTGZ6NlVpZkdCcmZNaHNPTG5MR00?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-24T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
@@ -2695,10 +2695,10 @@
     },
     {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - bbc.com",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-20T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2882,6 +2882,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
+      "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
+      "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmtHQTJoMVFXR0ZRSDJCSWNfSmRINDY0MmZHbzFTWV9xSFZ2blE4UXRlOGdLUXRub2tobzQ4TGUyLWMxdzZua3VLbk1xUHZXZjc1V3JBakw4eklzOTluTk5NS1dTel8wMkItb1VBUzFTYWI1R2VBM1pEMGZZcG1EeG5kTTljQVJaV3M0Rko4Vkp1NDJMSTFjOVZRRFNiUFRDLVVLSDNhYUI?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBhbGV4IG",
       "title": "TRANSFER NEWS: Introducing…Alex Mowatt - Derby County",
       "description": "TRANSFER NEWS: Introducing…Alex Mowatt &nbsp;&nbsp; Derby County",
@@ -2897,21 +2912,6 @@
       "players": [
         "Alex Mowatt"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
-      "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
-      "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmtHQTJoMVFXR0ZRSDJCSWNfSmRINDY0MmZHbzFTWV9xSFZ2blE4UXRlOGdLUXRub2tobzQ4TGUyLWMxdzZua3VLbk1xUHZXZjc1V3JBakw4eklzOTluTk5NS1dTel8wMkItb1VBUzFTYWI1R2VBM1pEMGZZcG1EeG5kTTljQVJaV3M0Rko4Vkp1NDJMSTFjOVZRRFNiUFRDLVVLSDNhYUI?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "YWxleCBtb3dhdHQgZGVyYnkgY291bnR5IHNpZ24gbW",
