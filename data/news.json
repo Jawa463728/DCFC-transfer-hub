@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-02T11:03:33.490Z",
+  "updatedAt": "2026-09-02T11:26:39.912Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 160,
+  "storyCount": 161,
   "targetCount": 20,
   "targets": [
     {
@@ -214,6 +214,19 @@
       "isNew": false
     },
     {
+      "name": "Loan Signing",
+      "score": 47,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "News Ghana",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T23:32:54.000Z",
+      "firstSeen": "2026-09-02T11:26:39.911Z",
+      "isNew": true
+    },
+    {
       "name": "Russell Martin",
       "score": 47,
       "status": "Fading",
@@ -250,19 +263,6 @@
       "maxLikelihood": 43,
       "lastMention": "2026-09-01T17:43:00.000Z",
       "firstSeen": "2026-09-02T07:00:54.500Z",
-      "isNew": true
-    },
-    {
-      "name": "Fratton Park",
-      "score": 45,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "portsmouth.co.uk",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T17:00:00.000Z",
-      "firstSeen": "2026-09-02T09:20:54.000Z",
       "isNew": true
     }
   ],
@@ -308,22 +308,7 @@
       "description": "Inside Derby County’s dramatic deadline day as tension transforms into £10m statement &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHJqQ0NpX1V0VzFPdTc0eFdYOWxBamt6YTA2QVdhZE5YMzJadDRHeTg3X1pZRGlfMGxKalphQmVtVmU3NmNpcUxlS3U1ZnktY1hVUWpKeE9tOFRpaFFjYzQ2TU85QkVVdU1xbjNDUnNqTzBISlRYbGdNNGdTRE5RYWo4ZjY0d2VhME12b3ZnbllXYm12SjBSOVUyRE8xOVMtYlZMRnJld0M?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-09-02T07:32:05.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day recap as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day recap as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-02T06:46:25.000Z",
+      "published": "2026-09-02T07:32:57.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
@@ -415,6 +400,23 @@
       "overseas": false,
       "players": [
         "David Ozoh Signs For"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZ1c2VpbmkgbG",
+      "title": "Derby County Complete Fuseini Loan Signing - News Ghana",
+      "description": "Derby County Complete Fuseini Loan Signing &nbsp;&nbsp; News Ghana",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qUmNnM043SDlqdHN0cVNCY2E3NkdfTU1IT1h0cjlheVhzWFpTdTNYMWlPaXQwRnBRR1NxSFZ5QlpVNTRHMDI0OWRnazNLM0N2dVJHaWwycGZYbFJJUmhKc3pBSDRuQXBBZzZvOGlVS2lyTGNjeXdR?oc=5",
+      "source": "News Ghana",
+      "published": "2026-09-01T23:32:54.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Loan Signing"
       ]
     },
     {
@@ -807,6 +809,21 @@
         "Late Barnsley",
         "Reyes Cleary"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day recap as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day recap as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T15:15:24.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
@@ -1533,10 +1550,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2302,6 +2319,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
+      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
+      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 76,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
       "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
       "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
@@ -2313,21 +2345,6 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
-      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
-      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 76,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2460,10 +2477,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNhcmRpZmYgY2l0eSAyMiAwOC",
-      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EXzQySlBUaVNIeEJ6SUdvS2pKVG45VHg4RGpxVFVObVJsV1lvaTA0Z1ZTYlAyaHlYdVVQNTBjNkhTNzJXX2pBM1daUTE0d3pnWktkSkpIc3NMQmE1aTREMXNTMnByUlE1R3NKZGhXczlaNzhJcS1r?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-22T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
