@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T20:56:34.753Z",
+  "updatedAt": "2026-09-02T21:14:08.059Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 169,
@@ -33,8 +33,8 @@
     },
     {
       "name": "Eiran Cashin",
-      "score": 82,
-      "status": "Hot",
+      "score": 81,
+      "status": "Strong",
       "independentReports": 3,
       "totalStories": 6,
       "bestSource": "BBC",
