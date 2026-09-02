@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T23:49:27.132Z",
+  "updatedAt": "2026-09-02T00:00:45.110Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 147,
@@ -370,6 +370,23 @@
       ]
     },
     {
+      "id": "ZWlyYW4gY2FzaGluIGRlcmJ5IGNvdW50eSByZSBzaW",
+      "title": "Eiran Cashin: Derby County re-sign Brighton defender on loan - BBC",
+      "description": "Eiran Cashin: Derby County re-sign Brighton defender on loan &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
+      "source": "BBC",
+      "published": "2026-09-01T19:15:16.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Eiran Cashin"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGVpcmFuIGNhc2hpbiBhbmQgbW",
       "title": "Derby County: Eiran Cashin and Mohammed Fuseini join Rams on loan - BBC",
       "description": "Derby County: Eiran Cashin and Mohammed Fuseini join Rams on loan &nbsp;&nbsp; BBC",
@@ -385,23 +402,6 @@
       "players": [
         "Eiran Cashin",
         "Mohammed Fuseini"
-      ]
-    },
-    {
-      "id": "ZWlyYW4gY2FzaGluIGRlcmJ5IGNvdW50eSByZSBzaW",
-      "title": "Eiran Cashin: Derby County re-sign Brighton defender on loan - BBC",
-      "description": "Eiran Cashin: Derby County re-sign Brighton defender on loan &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "BBC",
-      "published": "2026-09-01T19:15:16.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Eiran Cashin"
       ]
     },
     {
@@ -2091,6 +2091,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
+      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
+      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
       "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - BBC",
       "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
@@ -2107,21 +2122,6 @@
         "Mikey Johnston",
         "Anis Mehmeti"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
-      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
-      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZmMgYXJzZW5hbCBkZXJieSBjb3VudHkgMDIgMDUgMT",
@@ -2431,7 +2431,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
