@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-02T05:34:54.720Z",
+  "updatedAt": "2026-09-02T05:48:15.998Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 154,
+  "storyCount": 155,
   "targetCount": 20,
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 84,
+      "score": 94,
       "status": "Hot",
-      "independentReports": 3,
-      "totalStories": 4,
-      "bestSource": "lesoir.be",
-      "bestSourceScore": 96,
+      "independentReports": 4,
+      "totalStories": 5,
+      "bestSource": "Derby County",
+      "bestSourceScore": 99,
       "maxLikelihood": 94,
-      "lastMention": "2026-09-01T22:38:36.000Z",
+      "lastMention": "2026-09-02T01:59:24.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": true
     },
@@ -50,11 +50,24 @@
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "lesoir.be",
+      "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-01T21:40:00.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
+      "isNew": true
+    },
+    {
+      "name": "Le Soir",
+      "score": 69,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-02T05:48:15.997Z",
       "isNew": true
     },
     {
@@ -251,22 +264,26 @@
       "lastMention": "2026-09-01T17:43:00.000Z",
       "firstSeen": "2026-09-01T18:00:17.580Z",
       "isNew": true
-    },
-    {
-      "name": "Fratton Park",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "portsmouth.co.uk",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T17:00:00.000Z",
-      "firstSeen": "2026-09-02T05:34:54.720Z",
-      "isNew": true
     }
   ],
   "stories": [
+    {
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
+      "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini - Derby County",
+      "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1VKODFKcW0zVUdWenBKbmFOXzVESnF0SUFtYnUtNVYzeU1pdVVzQ0tDd285U1MtLVdUdUR5TjFnd0NXWFlWNjlFbWpBNWJ2aXZFZzVIQXJSUkdnTjlBcmhOejJBcXdJOEVWdEZtUVdtZURUNS1OTUduNmZBcTR3WWdFRQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-02T01:59:24.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Mohammed Fuseini"
+      ]
+    },
     {
       "id": "c2lnbmluZyBkYXZpZCBvem9oIHNpZ25zIGZvciBkZX",
       "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - Derby County",
@@ -382,10 +399,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -395,7 +412,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
@@ -985,10 +1003,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
-      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Rekord-Zugänge (Galerie) - transfermarkt.de",
+      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWtxdUw3VjBKTFlySXVuN1FIeDdEd3doZFpqUXc1b2ZjZXM2OGhqbk9oNXFmT09qam1WOF9ENDc2bk5Ddk9rbElWMlRBd3ZjWmE0cDlld293SUszRHJ4MWhtZ3V2emlrc1lMdnZVMTFwRmxKUHRjT29FQXZlaFFlX1JhTmE4cFY5SkFEY3FwQlNqOExMZkJjV1dvS0NBVUZPLUx0UmlLdzdjOFRsbC1QRm02R3VzUWRkdEktLTJJZDR5VjNwQzdB?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-31T01:02:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1017,10 +1035,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1371,11 +1389,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
-      "title": "Derby County - Transfermarkt",
-      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5fHRyYW5zZmVybWFya3QuZGU",
+      "title": "Derby County - transfermarkt.de",
+      "description": "Derby County &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSlVpYTVRcFFpaFdHVDJhY3FOLVFjV1pOa3RSUlIxMDllOHZZbmhUTmRZRF9ZN0ctTFBHcGZYU3ZQdlptTGUyQXI1bVBjcV9hT1VNalVTY2MxWWRTekNtcFdKdEpySnNnMGJCNWJENHZvNFJnX1EwVDZvWTZfMWRIQ25wUjJoVWljNUxKNEtCTUJJaUJ4NDRVSndoa0gtTTQ2X1BGYl9nelJDQ254MVFwbFlDSHRYN1R6b3BTRGhPRGl2X2hfRHc3MQ?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-29T13:30:34.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1419,10 +1437,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1593,11 +1611,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1609,10 +1627,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSByZWtvcmQgenVnIG5nZS",
-      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - Transfermarkt",
-      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - transfermarkt.de",
+      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzRTMTVpUk5xd1NnRXFsMEhKQ25UWGNHcWkzSWpNQ1A4WTYxNUwzSmpCTm95TTc5dnVkTnNjSVFTclB6bHpsd0ZhczlKc0g4TU85VVRqWkRxNGhqNkJHMTJJd3hvcUk0Ym1iTHQzbkx3N2ZBX2FGYWQtMzFsMmJLNUg4dGdDbThHUmRackZQa0lpZVZqM3Jmdnd6dURvRUtiNjdaOUszRWNnbjhIUGQwMW1objhrVFdpbFlGaU14VWppZThZQWpUQ2Z1enM?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-27T23:31:59.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1685,11 +1703,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - transfermarkt.de",
+      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVks5c3VuYUg5RHBBcU42TDVqS29iQ29mMWIwT1YyTzl2cVRfeXJQU2I2TTRiZFZ6ZTBjZDhoVjUyS2hSaHk0SVBtWTByV29rWmNaOVBsUnJ2aG92TVRDYzdCcU1idm5OZ1U0SWpwYlF1Z0EwcTB3YnJtRHNySWdsalF5WnFXSWhmazlUVVJhOFg?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-27T05:22:25.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2060,10 +2078,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHNldCBmb3IgY3Jhenkgam9obi",
-      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - Mshale",
-      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; Mshale",
+      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - mshale.com",
+      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVGZpZGhNTWxqWHlpTzZpbkZrY29LMFJHbHpmSWVVSDBJVHpHdmhEa2lpZEdGWlMxbmZOM2JSM0RQVGR6WHQtVTNKMldoOWdKWGtNcldqVGJXamc?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-24T13:09:16.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -2329,10 +2347,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNhcmRpZmYgY2l0eSAyMiAwOC",
-      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EXzQySlBUaVNIeEJ6SUdvS2pKVG45VHg4RGpxVFVObVJsV1lvaTA0Z1ZTYlAyaHlYdVVQNTBjNkhTNzJXX2pBM1daUTE0d3pnWktkSkpIc3NMQmE1aTREMXNTMnByUlE1R3NKZGhXczlaNzhJcS1r?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-22T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
