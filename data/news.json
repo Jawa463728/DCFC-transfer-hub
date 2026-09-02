@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T16:22:35.940Z",
+  "updatedAt": "2026-09-02T16:40:30.862Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 168,
@@ -227,19 +227,6 @@
       "isNew": true
     },
     {
-      "name": "Loan Signing",
-      "score": 46,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "News Ghana",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T23:32:54.000Z",
-      "firstSeen": "2026-09-02T11:26:39.911Z",
-      "isNew": true
-    },
-    {
       "name": "Leicester Mercury",
       "score": 46,
       "status": "Fading",
@@ -250,6 +237,19 @@
       "maxLikelihood": 63,
       "lastMention": "2026-08-28T08:24:00.000Z",
       "firstSeen": "2026-09-02T10:01:31.212Z",
+      "isNew": true
+    },
+    {
+      "name": "Loan Signing",
+      "score": 45,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "News Ghana",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T23:32:54.000Z",
+      "firstSeen": "2026-09-02T11:26:39.911Z",
       "isNew": true
     },
     {
