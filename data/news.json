@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-02T19:21:50.631Z",
+  "updatedAt": "2026-09-02T19:33:25.693Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 168,
+  "storyCount": 169,
   "targetCount": 20,
   "targets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "David Ozoh",
-      "score": 83,
+      "score": 82,
       "status": "Hot",
       "independentReports": 3,
       "totalStories": 5,
@@ -1829,6 +1829,21 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-28T00:18:06.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
