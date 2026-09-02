@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T13:49:45.788Z",
+  "updatedAt": "2026-09-02T14:01:28.655Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 165,
@@ -9,13 +9,26 @@
       "name": "Mohammed Fuseini",
       "score": 94,
       "status": "Hot",
-      "independentReports": 5,
+      "independentReports": 6,
       "totalStories": 7,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
       "maxLikelihood": 94,
       "lastMention": "2026-09-02T09:50:52.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
+      "isNew": false
+    },
+    {
+      "name": "Eiran Cashin",
+      "score": 89,
+      "status": "Hot",
+      "independentReports": 4,
+      "totalStories": 6,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 94,
+      "lastMention": "2026-09-02T05:57:42.000Z",
+      "firstSeen": "2026-09-01T12:19:22.060Z",
       "isNew": false
     },
     {
@@ -29,19 +42,6 @@
       "maxLikelihood": 94,
       "lastMention": "2026-09-02T08:26:27.000Z",
       "firstSeen": "2026-09-01T12:55:00.883Z",
-      "isNew": false
-    },
-    {
-      "name": "Eiran Cashin",
-      "score": 83,
-      "status": "Hot",
-      "independentReports": 3,
-      "totalStories": 6,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 94,
-      "lastMention": "2026-09-02T05:57:42.000Z",
-      "firstSeen": "2026-09-01T12:19:22.060Z",
       "isNew": false
     },
     {
@@ -76,7 +76,7 @@
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "BBC",
+      "bestSource": "bbc.co.uk",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
       "lastMention": "2026-09-02T00:45:26.000Z",
@@ -293,7 +293,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -349,10 +349,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RFJCYll1Rk9yQXBMVFdObHRyM3F1dHRhbld6bHNmZkRma2JyZjQtdVlDaE9DcXBUYkROWTJtaHh1cGEtcjI0OEhteF9jTk9BbVFxdXJNbXZEUDhOeS1UOUdycw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T05:57:42.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -366,10 +366,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkswUVFubjh4VWtaOWJENEllUTRIZlpGVjdwMWZGRUV6RUxkN3pNY0NrVjl6TEg0bWY2ZGVTQ0JoSUxCZmZjekpuWFhYU0pjTWF4QnhXeW1tNWI3c0UzNmxhSQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T05:43:57.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -400,10 +400,10 @@
     },
     {
       "id": "dHJhbnNmZXIgZGVhZGxpbmUgZGF5IG9uIGJiYyByYW",
-      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - BBC",
-      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; BBC",
+      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - bbc.co.uk",
+      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMW51d0sxbDgwSkRZZnV6RTRoR2MtMXA1ZFZjdHVkTmZpaHNiX0NwWmpkNmlpdnEzYWRqZlNZZ1BwSWQ0cFJKb01CQmpqR191U2hlYTJQSmZmb1pUODRyM3dtcjhmUQ?oc=5",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "published": "2026-09-02T00:45:26.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -460,7 +460,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -526,7 +526,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -574,7 +574,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -707,7 +707,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -822,10 +822,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdpdGggbG9uZyB3YXkgdG8gZ2",
-      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - Inside Futbol",
-      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; Inside Futbol",
+      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - insidefutbol.com",
+      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; insidefutbol.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnBaZkVYYmlIbmY5N3hHdUdOTktOZFlSR2d1V3NWejJYSlZCZWdNcDZOaGhia2pJbUg0ZlVSNTU1OURNSWxQWmFlbTRqX0tlWmFvLTdIdlk0dGVIQWF2ZEtJNGFFUEh0QURETVl3N2FjbV9XWGpTNUViMjFRZUhoTUs4bFBTYU5SOUc4SS0xR2FOTmZvQjJWbDhNWW5rcUd5bnhweHU5THZZdw?oc=5",
-      "source": "Inside Futbol",
+      "source": "insidefutbol.com",
       "published": "2026-09-01T16:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -943,7 +943,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -958,7 +958,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -1103,10 +1103,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "Transfery.info",
+      "source": "transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1367,7 +1367,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1486,10 +1486,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
-      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - footballlowdown.com",
-      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; footballlowdown.com",
+      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
+      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; Football Lowdown",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTcwbU54S1pqbTVvcVB1RWNMQlhKN2NqQ2dVYV85ZVhmQ0ZvejdIMG9ObzlWLUxHVXJRMWpZaUlCZFl6XzJSSnJ5c0l2YnJrWnpGZE5fNkVwYlA3V2dEb0phekZnVG1qOUFMQWFqUU9fb2VKODlvR3Iwdk5HaXFiYS1FR1hIWWZwM2FnbFE4MTBpY3ZrMllCUG1hLWJxNTU4cUktdzVzVGJtS1BJZGc?oc=5",
-      "source": "footballlowdown.com",
+      "source": "Football Lowdown",
       "published": "2026-08-30T11:09:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1518,10 +1518,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
+      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "tribalfootball.com",
+      "source": "TribalFootball",
       "published": "2026-08-29T23:51:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1557,7 +1557,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1696,7 +1696,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -2066,7 +2066,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -2391,7 +2391,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2691,7 +2691,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2768,7 +2768,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2847,7 +2847,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
