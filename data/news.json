@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-02T07:00:54.501Z",
+  "updatedAt": "2026-09-02T07:20:10.665Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 154,
+  "storyCount": 156,
   "targetCount": 20,
   "targets": [
     {
       "name": "Mohammed Fuseini",
       "score": 94,
       "status": "Hot",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 6,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -20,14 +20,14 @@
     },
     {
       "name": "Eiran Cashin",
-      "score": 82,
+      "score": 90,
       "status": "Hot",
-      "independentReports": 3,
-      "totalStories": 5,
+      "independentReports": 4,
+      "totalStories": 6,
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
-      "lastMention": "2026-09-01T19:47:04.000Z",
+      "lastMention": "2026-09-02T05:57:42.000Z",
       "firstSeen": "2026-09-01T12:19:22.060Z",
       "isNew": false
     },
@@ -50,11 +50,24 @@
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "lesoir.be",
+      "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-01T21:40:00.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
+      "isNew": true
+    },
+    {
+      "name": "Le Soir",
+      "score": 69,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-02T07:20:10.664Z",
       "isNew": true
     },
     {
@@ -251,22 +264,26 @@
       "lastMention": "2026-09-01T17:43:00.000Z",
       "firstSeen": "2026-09-02T07:00:54.500Z",
       "isNew": true
-    },
-    {
-      "name": "Fratton Park",
-      "score": 46,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "portsmouth.co.uk",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T17:00:00.000Z",
-      "firstSeen": "2026-09-02T07:00:54.500Z",
-      "isNew": true
     }
   ],
   "stories": [
+    {
+      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
+      "title": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RFJCYll1Rk9yQXBMVFdObHRyM3F1dHRhbld6bHNmZkRma2JyZjQtdVlDaE9DcXBUYkROWTJtaHh1cGEtcjI0OEhteF9jTk9BbVFxdXJNbXZEUDhOeS1UOUdycw?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-02T05:57:42.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "pt",
+      "overseas": true,
+      "players": [
+        "Eiran Cashin"
+      ]
+    },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
       "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
@@ -290,7 +307,7 @@
       "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1VKODFKcW0zVUdWenBKbmFOXzVESnF0SUFtYnUtNVYzeU1pdVVzQ0tDd285U1MtLVdUdUR5TjFnd0NXWFlWNjlFbWpBNWJ2aXZFZzVIQXJSUkdnTjlBcmhOejJBcXdJOEVWdEZtUVdtZURUNS1OTUduNmZBcTR3WWdFRQ?oc=5",
       "source": "Derby County",
-      "published": "2026-09-02T02:02:08.000Z",
+      "published": "2026-09-02T01:59:24.000Z",
       "reputation": 99,
       "likelihood": 75,
       "ratingLabel": "Strong",
@@ -354,10 +371,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NX05PUDRBaUd3SEdYNVhRZWxOeWpnY2FwWlE5d185MUZBWWFpQzdMMGFXN2N1LWktQkxCZ0RqUUdrc2NBWGwzMjFWVURKVXRGWnh6dVRzUQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-01T22:38:36.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -416,10 +433,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -429,7 +446,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
@@ -466,10 +484,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-01T19:47:04.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -653,7 +671,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -799,7 +817,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -814,7 +832,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -906,7 +924,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Eiran Cashin"
@@ -1116,10 +1134,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLXptUG44RWNkSWJnOFQwQWdIc214OFVjM2JCUXFLUFM2N2ZwSUsxZ3hHS3U4T2pocHFYU2haXzJhYTRqdjY3aTRkX1BhUVUzYkNiN1hTYw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-08-30T18:20:41.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1148,10 +1166,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - tuttomercatoweb.com",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; tuttomercatoweb.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "TUTTOmercatoWEB",
+      "source": "tuttomercatoweb.com",
       "published": "2026-08-30T16:56:36.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1238,7 +1256,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1398,7 +1416,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1449,6 +1467,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-29T03:03:45.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -1552,7 +1585,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -1922,7 +1955,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -2220,6 +2253,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
+      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
+      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
       "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
       "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
@@ -2235,21 +2283,6 @@
       "players": [
         "Former Celtic"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGxhdGVzdCBhbG",
-      "title": "Derby County transfer latest - all you need to know - Derbyshire Live",
-      "description": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
@@ -2474,10 +2507,10 @@
     },
     {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - bbc.com",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-20T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2505,21 +2538,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHZlcmRpY3QgaXNzdWVkIGJ5IG",
-      "title": "Derby County verdict issued by EFL expert and 'important' transfer need - Derbyshire Live",
-      "description": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-19T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "bW9uemEgc2VudCBpbnN1bHQgbWVzc2FnZSBhZnRlci",
       "title": "Monza sent 'insult' message after Derby County transfer bid - Derbyshire Live",
       "description": "Monza sent 'insult' message after Derby County transfer bid &nbsp;&nbsp; Derbyshire Live",
@@ -2535,11 +2553,26 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHZlcmRpY3QgaXNzdWVkIGJ5IG",
+      "title": "Derby County verdict issued by EFL expert and 'important' transfer need - Derbyshire Live",
+      "description": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-19T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. - onefootball.com",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. &nbsp;&nbsp; onefootball.com",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. - OneFootball",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaGZXUkxNaW5zMi04MkQxVTk4VzRLcTVvUm00OGwtUWNMY3F0TTlDTF9EQzJXSGNxSE5ZWjZVY0pJMm4tV2VIWFh4cGRoNHhUWmlmaGxJM2E?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-08-18T20:20:57.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -2562,7 +2595,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2577,21 +2610,6 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "d2VzdCBicm9tIGJvc3MgcmVhY3RzIHRvIGRlcmJ5IG",
-      "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' - Derbyshire Live",
-      "description": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5COW93Z0JzWnhvOGt5d09QczlkZUpCajZ3aExfUG9PdUxFSmswZTFNcFFWNk1aOXBjbUU3ZVpmUUhyYmdqU2Y0NW9DV01TVWFvSFRpNzdhRUp4OXpBWDhXaXBTeFRsU2Fja3p2T21WalljUnhac0N1eTN0R0Y3MmZacnJyWXg4S21zSFJoZzV3WUdvZHJIYmViYVExRGZxdjB1TkkxYw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-16T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
       "edition": "gb",
       "overseas": false,
       "players": []
@@ -2601,6 +2619,21 @@
       "title": "Derby County in double blow as deja vu sparks 'obvious' transfer need - Derbyshire Live",
       "description": "Derby County in double blow as deja vu sparks 'obvious' transfer need &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0lRQWk0ejBBOFBUZTgzV1BaUG13LUtGQklaVnVGSUJRNnAtb0RUVzhnd1Nkd1c0YzhWeWZnWUtYaW5samRJeTNpdW9uYlhiX2xzUDVpaUF0aHl3Zy16ZnI4ZzV2eXdnOFFwaDl3cmthVTB1dl9LM2FwWUtQMXVHNjk1Y0FpRFRNc1RldHFkamFWdVo5ai1xNXNqeE5YSXZrX3VUU1lvWnI0bnPSAbABQVVfeXFMT2JZX1Fobmt5NnJJQ2tjVzJvMHZUMGNkbEw1OXNCdjNtQzFOSjNKMEt0TzlZOEtKeHl1Y05lMW1vLW9lV2VHYjVZSm1Rd2locURXQWFCemZGUFRzOUJYeDBxeG5OYmU4VzI4YWozaDVzdlRVNmdqVDNRcVhJbDFENG9sWG52cHU4UTQzdy1CT1JuZ0NpcWZwVTFJRDZESGFBQ29yVFN0bzRrMEZWeHM3NGI?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-16T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "d2VzdCBicm9tIGJvc3MgcmVhY3RzIHRvIGRlcmJ5IG",
+      "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' - Derbyshire Live",
+      "description": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5COW93Z0JzWnhvOGt5d09QczlkZUpCajZ3aExfUG9PdUxFSmswZTFNcFFWNk1aOXBjbUU3ZVpmUUhyYmdqU2Y0NW9DV01TVWFvSFRpNzdhRUp4OXpBWDhXaXBTeFRsU2Fja3p2T21WalljUnhac0N1eTN0R0Y3MmZacnJyWXg4S21zSFJoZzV3WUdvZHJIYmViYVExRGZxdjB1TkkxYw?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-08-16T07:00:00.000Z",
       "reputation": 87,
@@ -2628,10 +2661,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Alex Mowatt. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Alex Mowatt. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Alex Mowatt. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Alex Mowatt. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93NWZUNEkxdmhOLUN1OWtnbmV2YTdJU1g3SEg2YmdnREwxbGJ3OXpfQ1c3cE00c0JTU1RoR3V5QWRrcEw1Nl9NaHlTMjA5UnJLV0hjQ1JPMA?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-08-14T14:30:20.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -2671,7 +2704,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2711,10 +2744,10 @@
     },
     {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgd2VzdC",
-      "title": "Gossip: Derby County target West Brom's Alex Mowatt - BBC",
-      "description": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; BBC",
+      "title": "Gossip: Derby County target West Brom's Alex Mowatt - bbc.com",
+      "description": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvdERlUlpJNDRKZFFYZWFMUUE2SE9WZ1ZqOXVGUjBoN2FKc3VzRHlFMFppaWo2VDl4OXU4TDJidUxFOFMwck1seVEzZEViTklaa2JZRWpWSW1LNjFfdTZSWE1PMjVmVms?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-13T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
