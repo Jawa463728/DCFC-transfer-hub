@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-02T00:28:59.272Z",
+  "updatedAt": "2026-09-02T00:48:04.306Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 148,
+  "storyCount": 149,
   "targetCount": 20,
   "targets": [
     {
@@ -11,7 +11,7 @@
       "status": "Hot",
       "independentReports": 3,
       "totalStories": 4,
-      "bestSource": "Le Soir",
+      "bestSource": "lesoir.be",
       "bestSourceScore": 96,
       "maxLikelihood": 94,
       "lastMention": "2026-09-01T22:38:36.000Z",
@@ -33,8 +33,8 @@
     },
     {
       "name": "David Ozoh",
-      "score": 82,
-      "status": "Hot",
+      "score": 81,
+      "status": "Strong",
       "independentReports": 2,
       "totalStories": 3,
       "bestSource": "BBC",
@@ -50,24 +50,11 @@
       "status": "Strong",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Le Soir",
+      "bestSource": "lesoir.be",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-01T21:40:00.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
-      "isNew": true
-    },
-    {
-      "name": "Le Soir",
-      "score": 71,
-      "status": "Strong",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Le Soir",
-      "bestSourceScore": 96,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-01T21:40:00.000Z",
-      "firstSeen": "2026-09-01T23:38:02.445Z",
       "isNew": true
     },
     {
@@ -264,6 +251,19 @@
       "lastMention": "2026-09-01T17:43:00.000Z",
       "firstSeen": "2026-09-01T18:00:17.580Z",
       "isNew": true
+    },
+    {
+      "name": "Fratton Park",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "portsmouth.co.uk",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T17:00:00.000Z",
+      "firstSeen": "2026-09-02T00:48:04.305Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -317,11 +317,26 @@
       "players": []
     },
     {
+      "id": "c2lnbmluZyBmdXNlaW5pIG1ha2VzIGRlcmJ5IGxvYW",
+      "title": "SIGNING: Fuseini makes Derby loan switch - Derby County",
+      "description": "SIGNING: Fuseini makes Derby loan switch &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHFOU1I2c3c2OXRqWGwtRkRZbUZ0WHpnR2VkaERFM3FzZlpsVnBkVUJGTWNOUllvdVNXZS1UVDNUYXFpXy1KdE1PTTg2dloxbjM1bDd0MzB2T2xwMnpBWl9wZUhYNmtITk9JV21KQVBMYm9wcDg2dUNYRjFiY0pqSg?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-01T21:43:25.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "Le Soir",
+      "source": "lesoir.be",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -331,8 +346,7 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-",
-        "Le Soir"
+        "Union Saint-"
       ]
     },
     {
@@ -437,21 +451,6 @@
         "Eiran Cashin",
         "Mohammed Fuseini"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T18:56:30.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
@@ -625,6 +624,21 @@
       "published": "2026-09-01T15:14:25.000Z",
       "reputation": 70,
       "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T15:13:19.000Z",
+      "reputation": 87,
+      "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
@@ -1068,10 +1082,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIHVmZmljaWFsZSBtZW",
-      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - sestaporta.news",
-      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVmQ4Nk5COG5CSHBuUGtzazdneUZOMVdEZGFyd1hmRWVaYUdIV2Fxb1hoZlM2MEJCeXBHcGUtcXJMWWJnSEZ0TGlFMU1TeXpscU4ybThnYU0tMkhQbUJCN0ZPNHA4aUh3elBON1g4X2JhOFByLU1kaUo1TzZTTGxRakg2bHpUXzVYci1HNUN6R3BoVG9lN1RpWEs1QTJyWXdfeWZHQzJ0WE5ob2prbW9IbTc1MDNZZkxIN0RKX1VSYU5oR1lxNFE1SW1mYXRxb2kzUDFxVjFudlRBZVZTZWREaURBUWJra1N0U3AwSFpCWTFqNGxfSzdkUV9jbGNidFNNOE9PVjNjdEJaWEhKSW95QUVmdlAzWWxjMUl1aXlOdWhTWVpuZWtlc0ZicjhJVUdoazVfNkF2V2l2dUNnb3FDWElQT2hFbWYxRGU1XzJ4VTZhRzA?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-30T16:24:01.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1326,10 +1340,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1365,7 +1379,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1720,10 +1734,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T11:41:08.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2236,10 +2250,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNhcmRpZmYgY2l0eSAyMiAwOC",
-      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Cardiff City, 22.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EXzQySlBUaVNIeEJ6SUdvS2pKVG45VHg4RGpxVFVObVJsV1lvaTA0Z1ZTYlAyaHlYdVVQNTBjNkhTNzJXX2pBM1daUTE0d3pnWktkSkpIc3NMQmE1aTREMXNTMnByUlE1R3NKZGhXczlaNzhJcS1r?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-22T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2450,7 +2464,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
