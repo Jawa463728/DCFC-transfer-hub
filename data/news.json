@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-02T12:00:31.340Z",
+  "updatedAt": "2026-09-02T12:25:51.322Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 161,
+  "storyCount": 162,
   "targetCount": 20,
   "targets": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "name": "Union Saint-",
-      "score": 71,
+      "score": 70,
       "status": "Strong",
       "independentReports": 2,
       "totalStories": 2,
@@ -214,19 +214,6 @@
       "isNew": false
     },
     {
-      "name": "Loan Signing",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "News Ghana",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T23:32:54.000Z",
-      "firstSeen": "2026-09-02T11:26:39.911Z",
-      "isNew": true
-    },
-    {
       "name": "Russell Martin",
       "score": 47,
       "status": "Fading",
@@ -240,6 +227,32 @@
       "isNew": true
     },
     {
+      "name": "Loan Signing",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "News Ghana",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T23:32:54.000Z",
+      "firstSeen": "2026-09-02T11:26:39.911Z",
+      "isNew": true
+    },
+    {
+      "name": "The Irish Sun",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The Irish Sun",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T20:37:20.000Z",
+      "firstSeen": "2026-09-02T12:25:51.322Z",
+      "isNew": true
+    },
+    {
       "name": "Leicester Mercury",
       "score": 46,
       "status": "Fading",
@@ -250,19 +263,6 @@
       "maxLikelihood": 63,
       "lastMention": "2026-08-28T08:24:00.000Z",
       "firstSeen": "2026-09-02T10:01:31.212Z",
-      "isNew": true
-    },
-    {
-      "name": "John Mousinho",
-      "score": 45,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "portsmouth.co.uk",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T17:43:00.000Z",
-      "firstSeen": "2026-09-02T07:00:54.500Z",
       "isNew": true
     }
   ],
@@ -313,7 +313,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -550,10 +550,10 @@
     },
     {
       "id": "aXJpc2ggc3RhciBzZWFscyBkZXJieSBjb3VudHkgcm",
-      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - thesun.ie",
-      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; thesun.ie",
+      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - The Irish Sun",
+      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; The Irish Sun",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjQ5M09icmRGQmtwdGpBUmpNTzBCSmk4bC1mSGlod05Kc3cwVHhoLXZpUjV0c1pQbVphUlBfYzBaU3F0Ynd2YVE5X3FVS2ZRdzVTem9ZTjlLVmozT0pJaFpXU3dqSFowTmJKQVVpNDdwMjZBbmxTT1hxM3V2MDFUcUVSUXlKY204TFlrY2pWNHliMTVKdXowcFFR?oc=5",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "published": "2026-09-01T20:37:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -561,7 +561,9 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
+      "players": [
+        "The Irish Sun"
+      ]
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
@@ -660,7 +662,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -735,7 +737,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -896,7 +898,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -911,7 +913,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -1495,26 +1497,11 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
-      "title": "Derby County - Transfermarkt",
-      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSlVpYTVRcFFpaFdHVDJhY3FOLVFjV1pOa3RSUlIxMDllOHZZbmhUTmRZRF9ZN0ctTFBHcGZYU3ZQdlptTGUyQXI1bVBjcV9hT1VNalVTY2MxWWRTekNtcFdKdEpySnNnMGJCNWJENHZvNFJnX1EwVDZvWTZfMWRIQ25wUjJoVWljNUxKNEtCTUJJaUJ4NDRVSndoa0gtTTQ2X1BGYl9nelJDQ254MVFwbFlDSHRYN1R6b3BTRGhPRGl2X2hfRHc3MQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-29T13:30:34.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVtYXJhaSBncmF5IHdpbGwgd2luY2UgYXMgYmlybW",
@@ -1546,6 +1533,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-29T03:03:45.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -1649,7 +1651,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -1944,10 +1946,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T11:41:08.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2019,12 +2021,27 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Russell Martin",
         "Hamza Choudhury"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGZjIGJhcm5zbGV5IDExIDExID",
+      "title": "Derby County - FC Barnsley, 11.11.2023 - League One - Spielbericht - Transfermarkt",
+      "description": "Derby County - FC Barnsley, 11.11.2023 - League One - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWV4OU9Gb2dwbko5cS1waXpLa09QN05TQkVNUnR1MlJIXzE2cWdfbzVoWGtXSW1LWUZ3T1JEU2VMNEVGSWoxaGZMcmFIMmlwX1RpczhIUmdydmRuV3ZKVEpmZXVyUk1OSFZxeHNKRXpLMmNsZDRJX1RybVJQZlFtWlZOWQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-25T20:13:59.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "d2F0Zm9yZCBkZXJieSBjb3VudHkgdnlpbmcgZm9yIH",
@@ -2329,7 +2346,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2629,7 +2646,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2706,7 +2723,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2785,7 +2802,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
