@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T09:20:54.000Z",
+  "updatedAt": "2026-09-02T09:36:03.370Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 158,
@@ -188,8 +188,21 @@
       "isNew": false
     },
     {
-      "name": "Late Barnsley",
+      "name": "Omari Kellyman",
       "score": 49,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-08-25T11:17:00.000Z",
+      "firstSeen": "2026-08-25T23:27:22.911Z",
+      "isNew": false
+    },
+    {
+      "name": "Late Barnsley",
+      "score": 48,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -202,7 +215,7 @@
     },
     {
       "name": "Reyes Cleary",
-      "score": 49,
+      "score": 48,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -211,19 +224,6 @@
       "maxLikelihood": 40,
       "lastMention": "2026-09-01T15:48:14.000Z",
       "firstSeen": "2026-09-01T18:38:56.477Z",
-      "isNew": false
-    },
-    {
-      "name": "Omari Kellyman",
-      "score": 49,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-08-25T11:17:00.000Z",
-      "firstSeen": "2026-08-25T23:27:22.911Z",
       "isNew": false
     },
     {
