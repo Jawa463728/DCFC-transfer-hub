@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T00:48:04.306Z",
+  "updatedAt": "2026-09-02T00:59:31.012Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 149,
@@ -42,11 +42,11 @@
       "maxLikelihood": 94,
       "lastMention": "2026-09-01T23:17:00.000Z",
       "firstSeen": "2026-09-01T12:55:00.883Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Union Saint-",
-      "score": 71,
+      "score": 70,
       "status": "Strong",
       "independentReports": 1,
       "totalStories": 1,
@@ -631,21 +631,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T15:13:19.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "Zm9ybWVyIGRlcmJ5IGNvdW50eSB3aW5nZXIgc2V0IG",
       "title": "Former Derby County winger set for record-breaking deadline day transfer - Derbyshire Live",
       "description": "Former Derby County winger set for record-breaking deadline day transfer &nbsp;&nbsp; Derbyshire Live",
@@ -777,6 +762,21 @@
       "reputation": 96,
       "likelihood": 95,
       "ratingLabel": "Very strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTFJcWFEYTA2QTk2bDYzT0JQaGRlRW9ELXJvQ2RNd19VT29JenJEc3VZVVhHbGZab25aOHowSUUxeEFJZzI3V0JxeUtqTjdrU2hMeFBxaUlva3c4RDhiSmlOQUp5TWF4VDM4QXN0V3E0M0J4dlpGZ1JkeHBtZk9HU1NDbHNYYVdkSDcwbFpXUlZ5SWdCQkxZVjR3WXpJTnVUdkFkMzdPQ00?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T11:33:50.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
@@ -2548,21 +2548,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
-      "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
-      "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmtHQTJoMVFXR0ZRSDJCSWNfSmRINDY0MmZHbzFTWV9xSFZ2blE4UXRlOGdLUXRub2tobzQ4TGUyLWMxdzZua3VLbk1xUHZXZjc1V3JBakw4eklzOTluTk5NS1dTel8wMkItb1VBUzFTYWI1R2VBM1pEMGZZcG1EeG5kTTljQVJaV3M0Rko4Vkp1NDJMSTFjOVZRRFNiUFRDLVVLSDNhYUI?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "YWxleCBtb3dhdHQgZGVyYnkgY291bnR5IHNpZ24gbW",
       "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion - BBC",
       "description": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion &nbsp;&nbsp; BBC",
@@ -2578,6 +2563,21 @@
       "players": [
         "Alex Mowatt"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
+      "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
+      "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmtHQTJoMVFXR0ZRSDJCSWNfSmRINDY0MmZHbzFTWV9xSFZ2blE4UXRlOGdLUXRub2tobzQ4TGUyLWMxdzZua3VLbk1xUHZXZjc1V3JBakw4eklzOTluTk5NS1dTel8wMkItb1VBUzFTYWI1R2VBM1pEMGZZcG1EeG5kTTljQVJaV3M0Rko4Vkp1NDJMSTFjOVZRRFNiUFRDLVVLSDNhYUI?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "c2lnbmluZyBhbGV4IG1vd2F0dCBqb2lucyBkZXJieS",
