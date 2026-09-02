@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T13:34:41.320Z",
+  "updatedAt": "2026-09-02T13:49:45.788Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 165,
@@ -293,7 +293,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -460,7 +460,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -526,7 +526,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -574,7 +574,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -707,7 +707,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -943,7 +943,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -958,7 +958,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -1367,7 +1367,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1486,10 +1486,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
-      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
-      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; Football Lowdown",
+      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - footballlowdown.com",
+      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTcwbU54S1pqbTVvcVB1RWNMQlhKN2NqQ2dVYV85ZVhmQ0ZvejdIMG9ObzlWLUxHVXJRMWpZaUlCZFl6XzJSSnJ5c0l2YnJrWnpGZE5fNkVwYlA3V2dEb0phekZnVG1qOUFMQWFqUU9fb2VKODlvR3Iwdk5HaXFiYS1FR1hIWWZwM2FnbFE4MTBpY3ZrMllCUG1hLWJxNTU4cUktdzVzVGJtS1BJZGc?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-08-30T11:09:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1518,10 +1518,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
+      "source": "tribalfootball.com",
       "published": "2026-08-29T23:51:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1557,7 +1557,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1651,7 +1651,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1696,7 +1696,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -2066,7 +2066,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -2391,7 +2391,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2691,7 +2691,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2768,7 +2768,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2847,7 +2847,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
