@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-02T22:28:27.718Z",
+  "updatedAt": "2026-09-02T22:42:44.190Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 169,
+  "storyCount": 171,
   "targetCount": 20,
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 92,
+      "score": 91,
       "status": "Hot",
-      "independentReports": 6,
-      "totalStories": 8,
+      "independentReports": 7,
+      "totalStories": 9,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
       "maxLikelihood": 94,
@@ -46,10 +46,10 @@
     },
     {
       "name": "Union Saint-",
-      "score": 68,
-      "status": "Developing",
-      "independentReports": 2,
-      "totalStories": 2,
+      "score": 73,
+      "status": "Strong",
+      "independentReports": 3,
+      "totalStories": 3,
       "bestSource": "lesoir.be",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
@@ -516,6 +516,24 @@
       ]
     },
     {
+      "id": "b2ZmaWNpYWwgZGVyYnkgY291bnR5IGNvbmZpcm0gbW",
+      "title": "OFFICIAL: Derby County confirm Mohammed Fuseini signing on a season-long loan from Union Saint-Gilloise - ghanasoccernet.com",
+      "description": "OFFICIAL: Derby County confirm Mohammed Fuseini signing on a season-long loan from Union Saint-Gilloise &nbsp;&nbsp; ghanasoccernet.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNExhcTA0WXVwMk1iZmNEcS0tSmdMZjNsOU5xeUh2TjlQRGFvYW53MHZMM2tDRk1VVmVUVW1sOWpPckpXVW9yTzhZYUoxWm41SlpsMDhuVG5EVVFGZXg3Q1llUkRNcWNFcFltc1VVNnpldGs0QzlyMm50c0hmUjlHdGQtX2lOWlpZQ09ZcVFXcEM3VE96Um5pVGNSeU5oQ01MZlhyMWlUeHQ0S2hUQnozZmQ3ak5kak12U2MxOXZNNWxHQ3BzRmo5RA?oc=5",
+      "source": "ghanasoccernet.com",
+      "published": "2026-09-01T22:36:30.000Z",
+      "reputation": 48,
+      "likelihood": 65,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Mohammed Fuseini",
+        "Union Saint-"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHN0cmlrZXIgdHVybnMgZG93bi",
       "title": "Derby County striker turns down deadline day transfer - news.bet365.com",
       "description": "Derby County striker turns down deadline day transfer &nbsp;&nbsp; news.bet365.com",
@@ -636,7 +654,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Mohammed Fuseini"
@@ -960,7 +978,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1082,7 +1100,7 @@
       "likelihood": 95,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1132,6 +1150,21 @@
       "players": [
         "Eiran Cashin"
       ]
+    },
+    {
+      "id": "d2F0Zm9yZCBzZXQgdG8gYmVhdCByYW5nZXJzIGRlcm",
+      "title": "Watford set to beat Rangers & Derby County to signing of Leicester City winger - news.bet365.com",
+      "description": "Watford set to beat Rangers & Derby County to signing of Leicester City winger &nbsp;&nbsp; news.bet365.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTW1zbU5fODlfbnhtOHVjMFJqNnFOMWR6VnNyUGJEZVRjUTRCMmY2d01hMDh0QnRsRzlJX1g2Y0h4VExqNEZzVldUelgwNkhBcGRzMU1zQ0NsMXpqTjhabTRjVlVPNWpfVmN4OFJZMUZ0VEw5ajJjNlVaclZ5VElLYWt3c2h2c0Q5bi1XTTByelhmeHgzTE5idEJSUV80cVR5V2xwSWt4WE1NWWw1ZTVFUlpVTG56WFZBT1VFZXlpWFhqSWhMWi1wVUhnT05jdEtHUDhoeQ?oc=5",
+      "source": "news.bet365.com",
+      "published": "2026-09-01T10:25:27.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGJhdHRsZSBibGFja2J1cm4gcm",
@@ -1240,10 +1273,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
-      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Rekord-Zugänge (Galerie) - transfermarkt.de",
+      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWtxdUw3VjBKTFlySXVuN1FIeDdEd3doZFpqUXc1b2ZjZXM2OGhqbk9oNXFmT09qam1WOF9ENDc2bk5Ddk9rbElWMlRBd3ZjWmE0cDlld293SUszRHJ4MWhtZ3V2emlrc1lMdnZVMTFwRmxKUHRjT29FQXZlaFFlX1JhTmE4cFY5SkFEY3FwQlNqOExMZkJjV1dvS0NBVUZPLUx0UmlLdzdjOFRsbC1QRm02R3VzUWRkdEktLTJJZDR5VjNwQzdB?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-31T01:02:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1305,20 +1338,18 @@
     },
     {
       "id": "aGFtemEgY2hvdWRodXJ5IHRyYW5zZmVyIG5ld3Mgc2",
-      "title": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder - The Sunday Guardian",
-      "description": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder &nbsp;&nbsp; The Sunday Guardian",
+      "title": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder - sundayguardianlive.com",
+      "description": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder &nbsp;&nbsp; sundayguardianlive.com",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbnk2WERKMFI3TllkOVAtTGItdllBUHpXcmdDcy0wOTRTY1hDbmIwaFZpMFNFUjU1d2tfbWRveVYwelpLbElTNkZtdGpyZlNrR3V0cUhPd2xCTU0wRldsSHo2UEl6OXR3MHR0WVV5bVNlT1UtSzBIUG1KbEk4YnVaODY4MFZWYWE0dERraEc5VnpsUGRoRlhpbVRrUGcwSGZuVzQtRUw0UU1qcDI4b00xc0VfVE5aR3FTVjMzOVFPcUhkd3R5YWdYQVdFMXgwdVBLR1l2cm5vMTNuUGpFMmVYQ05BbEFxeE0wWklRV2VR0gHzAUFVX3lxTE5HMVdDYmRMVTFXaHhHX3JPSHYxNGFfT0FkV1J5aGdtTkY2b01yLU1pMHpoOFBHMThrMFRyN0xnS3NLVVJaSlVlbG1qZjFaSGFPZldDVHhvN1ZhSU1vMDh1Szlkd19lUlRzVTEyWkN2T2UzQ0pkY2wwTUFocy15bkU2RERYSXo0TjRiT0ROdG4yQkpSSWgwU3RGOFhGUG1qcy0tZm5wMWY0VDJSTFRTZXpKdlUtQ2xKcmNGNDEyT1BEcFczU2tBMkpNZ0syZGhELWU0R2FrTGtYQ1paMWlVVmkxU1F4X3RKYlZ0Rmh5QklwRWU4WQ?oc=5",
-      "source": "The Sunday Guardian",
+      "source": "sundayguardianlive.com",
       "published": "2026-08-30T18:56:43.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
-      "players": [
-        "The Sunday Guardian"
-      ]
+      "players": []
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
@@ -1510,7 +1541,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1843,16 +1874,16 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSByZWtvcmQgenVnIG5nZS",
-      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - Transfermarkt",
-      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - transfermarkt.de",
+      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzRTMTVpUk5xd1NnRXFsMEhKQ25UWGNHcWkzSWpNQ1A4WTYxNUwzSmpCTm95TTc5dnVkTnNjSVFTclB6bHpsd0ZhczlKc0g4TU85VVRqWkRxNGhqNkJHMTJJd3hvcUk0Ym1iTHQzbkx3N2ZBX2FGYWQtMzFsMmJLNUg4dGdDbThHUmRackZQa0lpZVZqM3Jmdnd6dURvRUtiNjdaOUszRWNnbjhIUGQwMW1objhrVFdpbFlGaU14VWppZThZQWpUQ2Z1enM?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-27T23:31:59.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1925,11 +1956,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - transfermarkt.de",
+      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVks5c3VuYUg5RHBBcU42TDVqS29iQ29mMWIwT1YyTzl2cVRfeXJQU2I2TTRiZFZ6ZTBjZDhoVjUyS2hSaHk0SVBtWTByV29rWmNaOVBsUnJ2aG92TVRDYzdCcU1idm5OZ1U0SWpwYlF1Z0EwcTB3YnJtRHNySWdsalF5WnFXSWhmazlUVVJhOFg?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-27T05:22:25.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2662,21 +2693,6 @@
       "players": []
     },
     {
-      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
-      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
       "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
       "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -2709,6 +2725,21 @@
       "players": [
         "Ryan Hedges"
       ]
+    },
+    {
+      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
+      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
+      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
@@ -2882,21 +2913,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
-      "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
-      "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmtHQTJoMVFXR0ZRSDJCSWNfSmRINDY0MmZHbzFTWV9xSFZ2blE4UXRlOGdLUXRub2tobzQ4TGUyLWMxdzZua3VLbk1xUHZXZjc1V3JBakw4eklzOTluTk5NS1dTel8wMkItb1VBUzFTYWI1R2VBM1pEMGZZcG1EeG5kTTljQVJaV3M0Rko4Vkp1NDJMSTFjOVZRRFNiUFRDLVVLSDNhYUI?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBhbGV4IG",
       "title": "TRANSFER NEWS: Introducing…Alex Mowatt - Derby County",
       "description": "TRANSFER NEWS: Introducing…Alex Mowatt &nbsp;&nbsp; Derby County",
@@ -2912,6 +2928,21 @@
       "players": [
         "Alex Mowatt"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
+      "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
+      "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmtHQTJoMVFXR0ZRSDJCSWNfSmRINDY0MmZHbzFTWV9xSFZ2blE4UXRlOGdLUXRub2tobzQ4TGUyLWMxdzZua3VLbk1xUHZXZjc1V3JBakw4eklzOTluTk5NS1dTel8wMkItb1VBUzFTYWI1R2VBM1pEMGZZcG1EeG5kTTljQVJaV3M0Rko4Vkp1NDJMSTFjOVZRRFNiUFRDLVVLSDNhYUI?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "YWxleCBtb3dhdHQgZGVyYnkgY291bnR5IHNpZ24gbW",
