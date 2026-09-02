@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T15:50:00.696Z",
+  "updatedAt": "2026-09-02T16:01:52.439Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 168,
@@ -9,13 +9,26 @@
       "name": "Mohammed Fuseini",
       "score": 93,
       "status": "Hot",
-      "independentReports": 5,
+      "independentReports": 6,
       "totalStories": 7,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
       "maxLikelihood": 94,
       "lastMention": "2026-09-02T09:50:52.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
+      "isNew": false
+    },
+    {
+      "name": "Eiran Cashin",
+      "score": 88,
+      "status": "Hot",
+      "independentReports": 4,
+      "totalStories": 6,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 94,
+      "lastMention": "2026-09-02T05:57:42.000Z",
+      "firstSeen": "2026-09-01T12:19:22.060Z",
       "isNew": false
     },
     {
@@ -29,19 +42,6 @@
       "maxLikelihood": 94,
       "lastMention": "2026-09-02T08:26:27.000Z",
       "firstSeen": "2026-09-01T12:55:00.883Z",
-      "isNew": false
-    },
-    {
-      "name": "Eiran Cashin",
-      "score": 83,
-      "status": "Hot",
-      "independentReports": 3,
-      "totalStories": 6,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 94,
-      "lastMention": "2026-09-02T05:57:42.000Z",
-      "firstSeen": "2026-09-01T12:19:22.060Z",
       "isNew": false
     },
     {
@@ -332,10 +332,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQndfLUhQbkJGZVVQV21ybDd2RWhmUDBWaDlnbTRoREVndnZJLWUtdWtZUy1wMFdWUVhqbGhIYVhOZnlDWlRLYktka1JrYXM0Sy1ua3RYRQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T08:26:27.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -407,7 +407,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Mohammed Fuseini"
@@ -500,10 +500,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NX05PUDRBaUd3SEdYNVhRZWxOeWpnY2FwWlE5d185MUZBWWFpQzdMMGFXN2N1LWktQkxCZ0RqUUdrc2NBWGwzMjFWVURKVXRGWnh6dVRzUQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-01T22:38:36.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -627,10 +627,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-01T19:47:04.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -889,8 +889,8 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "title": "Derby County transfer deadline day recap as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day recap as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-09-01T15:15:24.000Z",
@@ -904,8 +904,8 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day recap as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day recap as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-09-01T15:15:24.000Z",
@@ -1290,10 +1290,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLXptUG44RWNkSWJnOFQwQWdIc214OFVjM2JCUXFLUFM2N2ZwSUsxZ3hHS3U4T2pocHFYU2haXzJhYTRqdjY3aTRkX1BhUVUzYkNiN1hTYw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-08-30T18:20:41.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1641,6 +1641,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-29T03:03:45.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
       "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -1726,7 +1741,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -2102,21 +2117,6 @@
         "Russell Martin",
         "Hamza Choudhury"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGYzUm9zVkl6ODFWYlhUOFlnampwaWNIZ1ZXRHFSQUo2dlRjNEg3SlRCZ0s3amV0NEtCT190YVhYOGdHc2ZkR25TUkI1UWJNWGZFSXBwZWE5NHkxRGNxYnlCa2lIRHp3ZUUzWkhqU2hsN0d0WC1uYmlpVUdESWptVEFscXk3TnVadC1COTV3Yl9IWGk3?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-25T20:22:08.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIGJhcm5zbGV5IDExIDExID",
@@ -2783,7 +2783,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2798,7 +2798,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2813,7 +2813,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
