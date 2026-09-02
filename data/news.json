@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-02T05:59:31.783Z",
+  "updatedAt": "2026-09-02T06:28:43.281Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 155,
+  "storyCount": 156,
   "targetCount": 20,
   "targets": [
     {
@@ -263,7 +263,7 @@
       "maxLikelihood": 43,
       "lastMention": "2026-09-01T17:43:00.000Z",
       "firstSeen": "2026-09-01T18:00:17.580Z",
-      "isNew": true
+      "isNew": false
     }
   ],
   "stories": [
@@ -568,10 +568,10 @@
     },
     {
       "id": "c2lnbmluZyBjYXNoaW4gcmV0dXJucyB0byB0aGUgcm",
-      "title": "SIGNING: Cashin returns to the Rams - Derby County",
-      "description": "SIGNING: Cashin returns to the Rams &nbsp;&nbsp; Derby County",
+      "title": "SIGNING: Cashin returns to the Rams - dcfc.co.uk",
+      "description": "SIGNING: Cashin returns to the Rams &nbsp;&nbsp; dcfc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHN2JzOUhvcFNYNUdjdW9lQ0FKLUdJengzOHNIQjR1c01ad0FQT0VXQ1o3ZmFvQ1BKc29nM0ZOZlE5eGpKV1J2TXl1Mmcta0V2UjlneU9QX3ppOHFuU01XdUZPdGx6TG5sTW54RHQ3QWxKUHFER01MTUdR?oc=5",
-      "source": "Derby County",
+      "source": "dcfc.co.uk",
       "published": "2026-09-01T18:31:14.000Z",
       "reputation": 99,
       "likelihood": 75,
@@ -1003,10 +1003,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) - transfermarkt.de",
-      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
+      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWtxdUw3VjBKTFlySXVuN1FIeDdEd3doZFpqUXc1b2ZjZXM2OGhqbk9oNXFmT09qam1WOF9ENDc2bk5Ddk9rbElWMlRBd3ZjWmE0cDlld293SUszRHJ4MWhtZ3V2emlrc1lMdnZVMTFwRmxKUHRjT29FQXZlaFFlX1JhTmE4cFY5SkFEY3FwQlNqOExMZkJjV1dvS0NBVUZPLUx0UmlLdzdjOFRsbC1QRm02R3VzUWRkdEktLTJJZDR5VjNwQzdB?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-31T01:02:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1035,10 +1035,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "mshale.com",
+      "source": "Mshale",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1205,7 +1205,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1389,11 +1389,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5fHRyYW5zZmVybWFya3QuZGU",
-      "title": "Derby County - transfermarkt.de",
-      "description": "Derby County &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
+      "title": "Derby County - Transfermarkt",
+      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSlVpYTVRcFFpaFdHVDJhY3FOLVFjV1pOa3RSUlIxMDllOHZZbmhUTmRZRF9ZN0ctTFBHcGZYU3ZQdlptTGUyQXI1bVBjcV9hT1VNalVTY2MxWWRTekNtcFdKdEpySnNnMGJCNWJENHZvNFJnX1EwVDZvWTZfMWRIQ25wUjJoVWljNUxKNEtCTUJJaUJ4NDRVSndoa0gtTTQ2X1BGYl9nelJDQ254MVFwbFlDSHRYN1R6b3BTRGhPRGl2X2hfRHc3MQ?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-29T13:30:34.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1433,6 +1433,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-29T03:03:45.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -1627,10 +1642,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSByZWtvcmQgenVnIG5nZS",
-      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - transfermarkt.de",
-      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - Transfermarkt",
+      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzRTMTVpUk5xd1NnRXFsMEhKQ25UWGNHcWkzSWpNQ1A4WTYxNUwzSmpCTm95TTc5dnVkTnNjSVFTclB6bHpsd0ZhczlKc0g4TU85VVRqWkRxNGhqNkJHMTJJd3hvcUk0Ym1iTHQzbkx3N2ZBX2FGYWQtMzFsMmJLNUg4dGdDbThHUmRackZQa0lpZVZqM3Jmdnd6dURvRUtiNjdaOUszRWNnbjhIUGQwMW1objhrVFdpbFlGaU14VWppZThZQWpUQ2Z1enM?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-27T23:31:59.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1703,11 +1718,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - transfermarkt.de",
-      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVks5c3VuYUg5RHBBcU42TDVqS29iQ29mMWIwT1YyTzl2cVRfeXJQU2I2TTRiZFZ6ZTBjZDhoVjUyS2hSaHk0SVBtWTByV29rWmNaOVBsUnJ2aG92TVRDYzdCcU1idm5OZ1U0SWpwYlF1Z0EwcTB3YnJtRHNySWdsalF5WnFXSWhmazlUVVJhOFg?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-27T05:22:25.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2078,10 +2093,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHNldCBmb3IgY3Jhenkgam9obi",
-      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - mshale.com",
-      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; mshale.com",
+      "title": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) - Mshale",
+      "description": "DERBY COUNTY SET FOR CRAZY JOHN EGAN TRANSFER TALKS! Vinicius (NtW67X6Ars) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVGZpZGhNTWxqWHlpTzZpbkZrY29LMFJHbHpmSWVVSDBJVHpHdmhEa2lpZEdGWlMxbmZOM2JSM0RQVGR6WHQtVTNKMldoOWdKWGtNcldqVGJXamc?oc=5",
-      "source": "mshale.com",
+      "source": "Mshale",
       "published": "2026-08-24T13:09:16.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -2408,6 +2423,40 @@
       "players": []
     },
     {
+      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
+      "source": "BBC",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
+    },
+    {
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
+      "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
+      "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sd2FUWlYyTkhWYjVSaUlNSjh1OW9vUjlUVFFlX0EwOFZwZ3VtTXJkUWRVemtLQXlCNTJSLVpqcy1NaGVrdHFOUm9USFgxRUhYN0FROWNQVzdtazE4QlViT3ZZSzNab29qWkNuUndFeFkzSVJjVjFrT1NCSUw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
+    },
+    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges - Derby County",
       "description": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -2438,40 +2487,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
-      "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
-      "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sd2FUWlYyTkhWYjVSaUlNSjh1OW9vUjlUVFFlX0EwOFZwZ3VtTXJkUWRVemtLQXlCNTJSLVpqcy1NaGVrdHFOUm9USFgxRUhYN0FROWNQVzdtazE4QlViT3ZZSzNab29qWkNuUndFeFkzSVJjVjFrT1NCSUw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
-    },
-    {
-      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yIGdlbGVubGVyIGdhbG",
@@ -2628,23 +2643,6 @@
       ]
     },
     {
-      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBhbGV4IG",
-      "title": "TRANSFER NEWS: Introducing…Alex Mowatt - Derby County",
-      "description": "TRANSFER NEWS: Introducing…Alex Mowatt &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40OXdTdWhjWkJjZUtYRnV4SEd1RG9fc1pxSXdRUXVsUHZ4TTZvOWp5dnRiS0d1eHd6em9ydkZHUXFKcmxPZF94VHAyS3RYREFGSTMxeHY3TFRodnZUSDd5eGNnSVUzdHFPRHhDckFVTmQwcXRXMFFkSW1XQWo?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Alex Mowatt"
-      ]
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZpZnRoIHN1bW",
       "title": "Derby County complete fifth summer transfer after deal struck - Derbyshire Live",
       "description": "Derby County complete fifth summer transfer after deal struck &nbsp;&nbsp; Derbyshire Live",
@@ -2671,6 +2669,23 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Alex Mowatt"
+      ]
+    },
+    {
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBhbGV4IG",
+      "title": "TRANSFER NEWS: Introducing…Alex Mowatt - Derby County",
+      "description": "TRANSFER NEWS: Introducing…Alex Mowatt &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40OXdTdWhjWkJjZUtYRnV4SEd1RG9fc1pxSXdRUXVsUHZ4TTZvOWp5dnRiS0d1eHd6em9ydkZHUXFKcmxPZF94VHAyS3RYREFGSTMxeHY3TFRodnZUSDd5eGNnSVUzdHFPRHhDckFVTmQwcXRXMFFkSW1XQWo?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Alex Mowatt"
