@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T16:23:57.731Z",
+  "updatedAt": "2026-09-03T16:40:24.289Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -50,7 +50,7 @@
       "status": "Fading",
       "independentReports": 3,
       "totalStories": 6,
-      "bestSource": "bbc.co.uk",
+      "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 80,
       "lastMention": "2026-08-28T08:24:00.000Z",
@@ -115,7 +115,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "owngoalnigeria.com",
+      "bestSource": "OwnGoal Nigeria",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T12:42:29.000Z",
@@ -128,7 +128,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "owngoalnigeria.com",
+      "bestSource": "OwnGoal Nigeria",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T12:42:29.000Z",
@@ -269,10 +269,10 @@
   "stories": [
     {
       "id": "MjEgeWVhciBvbGQgbWlkZmllbGRlciB0YXJnZXQgc3",
-      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County - owngoalnigeria.com",
-      "description": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; owngoalnigeria.com",
+      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County - OwnGoal Nigeria",
+      "description": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; OwnGoal Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk0wS2tqYXFFVXFrRmhrMmplamRNZWItaTRVa0E4SUQxaG1QcHhxV0NiZW1EOGg2ZUI3M3RjUHo5SWg4UW1IbTM4a0V1MFJTeVlmNTZRNWJoTlJxb2FZbmNJQ0U2aHJKbGZIeHBNTDE4Rm5fa3ZNOXc5V054aGVCNnpQaDg3SVpjMEFTdmlCWlN0RmFrbmNpV3pwcWJHWWVtSWlmbXl1czRHckZmS0tNUXNkMA?oc=5",
-      "source": "owngoalnigeria.com",
+      "source": "OwnGoal Nigeria",
       "published": "2026-09-03T12:42:29.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -377,7 +377,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -392,7 +392,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -574,7 +574,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -658,7 +658,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -722,7 +722,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -947,7 +947,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1078,7 +1078,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1108,7 +1108,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1245,7 +1245,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Eiran Cashin"
@@ -1313,10 +1313,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "Transfery.info",
+      "source": "transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1575,7 +1575,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1688,7 +1688,7 @@
       "likelihood": 79,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1765,7 +1765,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1923,7 +1923,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -2074,10 +2074,10 @@
     },
     {
       "id": "aGFtemEgY2hvdWRodXJ5IGRlcmJ5IGNvdW50eSBleH",
-      "title": "Hamza Choudhury: Derby County exploring deal for Leicester midfielder - bbc.co.uk",
-      "description": "Hamza Choudhury: Derby County exploring deal for Leicester midfielder &nbsp;&nbsp; bbc.co.uk",
+      "title": "Hamza Choudhury: Derby County exploring deal for Leicester midfielder - BBC",
+      "description": "Hamza Choudhury: Derby County exploring deal for Leicester midfielder &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rM1NwRnIwQS1JN2Z6ZEx3NmdqWVdUSUpqMVV3VVVkX2VqRjhFeUJsdFFYMkRDOUYwUzN1QnBMckozTE5MdC0xaUZFUkFoME1DU0tqaDdrTXVic21JZVB6bkUzYVRBX3B0NEE?oc=5",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "published": "2026-08-27T09:55:21.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -3029,7 +3029,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
