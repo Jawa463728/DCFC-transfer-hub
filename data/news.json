@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:22:28.262Z",
+  "updatedAt": "2026-09-03T20:37:20.521Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -367,11 +367,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
-      "title": "Derby County - Transfermarkt",
-      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5fHRyYW5zZmVybWFya3QuYXQ",
+      "title": "Derby County - transfermarkt.at",
+      "description": "Derby County &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUFUyQ2Z4SDJIMUJva2xoYVI3RDM3ZkJwaE5QcE5wY1otQlVVdzVWVWtuek5NQUFENEpFZnBLcC10N0k5MjQ2TDY5U2RRdGRpLXBLN2s1TjA2SE5jcmhHb1BPajlieWFiTk5vNmgyTGc3T0RPUGFvYWVXd25DekFUOFV3WFFZRmh1NTZ6YUVKeWdYR0g0Z1dfUG5xbkJjM2xwN3BBczlEQUZJNVZYRmx3VU1CSnR3MldQMUx5WlFyOGlScWJmUHRhUzRHcFFaUk9nVktTWUd1aW1PRlBJZ0V2ZWRLb2RMdm5aUnFTUERfTklreWM?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-02T20:37:15.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -1737,7 +1737,7 @@
       "likelihood": 79,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1873,10 +1873,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -3063,7 +3063,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
