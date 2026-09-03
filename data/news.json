@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T21:18:27.009Z",
+  "updatedAt": "2026-09-03T21:31:51.758Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -121,6 +121,19 @@
       "lastMention": "2026-08-25T17:43:27.000Z",
       "firstSeen": "2026-08-25T23:27:22.911Z",
       "isNew": false
+    },
+    {
+      "name": "Curtis Davies",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-02T08:13:42.000Z",
+      "firstSeen": "2026-09-03T21:31:51.757Z",
+      "isNew": true
     },
     {
       "name": "Yorkshire Post",
@@ -251,19 +264,6 @@
       "lastMention": "2026-08-30T15:30:00.000Z",
       "firstSeen": "2026-09-03T07:00:12.291Z",
       "isNew": false
-    },
-    {
-      "name": "Fresh Anis Mehmeti",
-      "score": 42,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Yahoo Sports UK",
-      "bestSourceScore": 70,
-      "maxLikelihood": 57,
-      "lastMention": "2026-08-30T13:24:07.000Z",
-      "firstSeen": "2026-09-03T07:00:12.291Z",
-      "isNew": false
     }
   ],
   "stories": [
@@ -367,11 +367,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5fHRyYW5zZmVybWFya3QuYXQ",
-      "title": "Derby County - transfermarkt.at",
-      "description": "Derby County &nbsp;&nbsp; transfermarkt.at",
+      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
+      "title": "Derby County - Transfermarkt",
+      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUFUyQ2Z4SDJIMUJva2xoYVI3RDM3ZkJwaE5QcE5wY1otQlVVdzVWVWtuek5NQUFENEpFZnBLcC10N0k5MjQ2TDY5U2RRdGRpLXBLN2s1TjA2SE5jcmhHb1BPajlieWFiTk5vNmgyTGc3T0RPUGFvYWVXd25DekFUOFV3WFFZRmh1NTZ6YUVKeWdYR0g0Z1dfUG5xbkJjM2xwN3BBczlEQUZJNVZYRmx3VU1CSnR3MldQMUx5WlFyOGlScWJmUHRhUzRHcFFaUk9nVktTWUd1aW1PRlBJZ0V2ZWRLb2RMdm5aUnFTUERfTklreWM?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-02T20:37:15.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -424,7 +424,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -441,7 +441,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -493,6 +493,24 @@
       "overseas": true,
       "players": [
         "David Ozoh"
+      ]
+    },
+    {
+      "id": "ZWlyYW4gY2FzaGluIHNlbmRzIG1lc3NhZ2UgdG8gY3",
+      "title": "Eiran Cashin sends message to Curtis Davies as Derby County deal is confirmed - Football League World",
+      "description": "Eiran Cashin sends message to Curtis Davies as Derby County deal is confirmed &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmtJQXpwRjE5QWx2S19zTzdlN3I4MjZ3ZUEwNzJzcGlZTWQyR010VTc1RnlBeUNvOXNkTm9HY2FuQVdxWjBwQkJGU1JFTFF5TDNWX3N0cl9sYWtZMkV6dURGVVJ5VmhXZ2YyeHIwbFV6TzR5amNiNFZTV3NVS0Q1S2s4Z0wwMXJrRnRzcFdRUU5oRFByclJWb0JhLUlXdw?oc=5",
+      "source": "Football League World",
+      "published": "2026-09-02T08:13:42.000Z",
+      "reputation": 61,
+      "likelihood": 73,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Eiran Cashin",
+        "Curtis Davies"
       ]
     },
     {
@@ -998,7 +1016,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1206,7 +1224,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1327,6 +1345,21 @@
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRvIHBpcCBibGFja2J1cm4gcm",
+      "title": "Derby County to pip Blackburn Rovers to £9m defender? Rams loan offer submitted - Football League World",
+      "description": "Derby County to pip Blackburn Rovers to £9m defender? Rams loan offer submitted &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakY1c1YxZzNBYnFNeXdGemE4TmFtaVMtLTlLMUxPSXJXX2t4VEVpV1FhbThsZVVmb3hjRzkwOEtGWFYxTzBXN0hCN2FJcVAxUXlCRC1yZ2hZOXE2WnotYVJHUVlWbXltcDJFSVpsZ0FpbmxuaGNhdkE4UXdDcjc0Q3BKangxdlZGV1hHQVRvaFlCVzMxR2hoRHNCdWV0TXV5OTgtYURjWld5SkJZdTBmY25xaw?oc=5",
+      "source": "Football League World",
+      "published": "2026-09-01T10:08:27.000Z",
+      "reputation": 61,
+      "likelihood": 59,
+      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
@@ -1683,10 +1716,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmEgYSBnaW9jYX",
-      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - napolimagazine.com",
-      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; napolimagazine.com",
+      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - Napoli Magazine",
+      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; Napoli Magazine",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRVRoZ2pYa09PVXQ5WjVQckkydVJUTG82Vy1ReTlhcTBPVHI0SDhuMlBneXF6QUlRZE1ha0JaaGRBeElIU3gwTjJvQ2FJN1FFNGVtdmZNdF84aFJpMURzQTBxdk9fSk1halpBTGhTaVlMbEE2ZDZqUWFHcW55MWVYbUZSbEVucTctbjdKRm9vSEFkM1drVHl5dTUwQmg1cGRVN0NMN0VuWFphV2Y0anRieXJVS1FCSWkxeVRwRXdDdHRocDhKb1k4VlFhd0h4NEFFTU1qOEQyVy1kTmc1c2hfX2N3?oc=5",
-      "source": "napolimagazine.com",
+      "source": "Napoli Magazine",
       "published": "2026-08-30T15:00:05.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1694,7 +1727,9 @@
       "status": "rumour",
       "edition": "it",
       "overseas": true,
-      "players": []
+      "players": [
+        "Napoli Magazine"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdyZXhoYW0gbWlsbHdhbGwgaW",
@@ -1754,7 +1789,7 @@
       "likelihood": 79,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1890,10 +1925,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2044,7 +2079,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -3060,7 +3095,7 @@
       "description": "Derby County prospect explains transfer to rejoin Celtic legend as deal sanctioned &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZi1iSG80a3FuWEpjazNkdVBJa2lEdjhhckVXRVV3enlneTNzSXdvdGVrM2hvQkJKSFBmQW1YZUJzRDBnc1M1QU10YXpQbk9GNGdfVm5MQ3JJLXk1S0xuSm9jLWY3Y2xURk1Bb3FNLWQzTVhQVDN5T080M0xHVzhMZHoyaDhNZmktOUVTNDF2bkx0X0t3akxQYklGY1dQS1BVaXRFeUJJSVZFZzBF?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-08-18T08:34:00.000Z",
+      "published": "2026-08-18T07:00:00.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
@@ -3080,7 +3115,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -3113,38 +3148,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "YWNhZGVteSBuZXdzIHR1cmxleSBtYWtlcyBkdW5mZX",
-      "title": "ACADEMY NEWS: Turley makes Dunfermline loan return - Derby County",
-      "description": "ACADEMY NEWS: Turley makes Dunfermline loan return &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEJON1NJa2tLRWR6SXo5TE1Oc21obnVka0hsZHowbVNCWGJvSlVEU3JwZjM3Z3FTYWlWSUYyZHpYWloyM3lSQlRGRV9IRk9zbjh3N3c2MTdqRWcxRjdYdnEwYm9HUThTcTBHWGxwZVpSaHc1Y3FmWVBvX0N2dlFVZjB1SVFIUVVmNDZabzhB?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-15T12:55:19.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Alex Mowatt. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Alex Mowatt. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93NWZUNEkxdmhOLUN1OWtnbmV2YTdJU1g3SEg2YmdnREwxbGJ3OXpfQ1c3cE00c0JTU1RoR3V5QWRrcEw1Nl9NaHlTMjA5UnJLV0hjQ1JPMA?oc=5",
-      "source": "OneFootball",
-      "published": "2026-08-14T14:30:20.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
-      "players": [
-        "Alex Mowatt"
-      ]
     }
   ]
 }
