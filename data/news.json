@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:37:52.384Z",
+  "updatedAt": "2026-09-03T12:54:14.707Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 176,
@@ -71,19 +71,6 @@
       "isNew": false
     },
     {
-      "name": "Radio Derbyshire",
-      "score": 62,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-02T00:45:26.000Z",
-      "firstSeen": "2026-09-01T19:44:41.816Z",
-      "isNew": false
-    },
-    {
       "name": "Le Soir",
       "score": 62,
       "status": "Developing",
@@ -95,6 +82,19 @@
       "lastMention": "2026-09-01T21:40:00.000Z",
       "firstSeen": "2026-09-03T09:27:14.685Z",
       "isNew": true
+    },
+    {
+      "name": "Radio Derbyshire",
+      "score": 61,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-09-02T00:45:26.000Z",
+      "firstSeen": "2026-09-01T19:44:41.816Z",
+      "isNew": false
     },
     {
       "name": "Ben Brereton-",
@@ -459,21 +459,6 @@
       "players": [
         "Mohammed Fuseini"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHVRTUI4dEhUbVBFNzVNWGRfd1Y4dEpDMW9Pb2Vzb3dXZjlRM29hWkxSZElZSTlHMjNadVVjNlI2ZzBQb3k4SGtNRWdDa1kza1lQbXdUUFZQTEhCZUJaTXNjZDhtVkFkV2ctMzJyZFlkLVBSRF9VUGhfLWNEanZHMXBvMkNmN1pTOGhtMQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-02T02:03:07.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
@@ -1978,6 +1963,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-28T00:18:06.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHUyMSByZWtvcmQgenVnIG5nZS",
       "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - Transfermarkt",
       "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; Transfermarkt",
@@ -2792,21 +2792,6 @@
       "players": []
     },
     {
-      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
-      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
       "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
       "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -2822,6 +2807,21 @@
       "players": [
         "Ryan Hedges"
       ]
+    },
+    {
+      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
+      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
+      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
