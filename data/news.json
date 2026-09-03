@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T08:21:18.369Z",
+  "updatedAt": "2026-09-03T08:38:29.005Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 171,
@@ -227,19 +227,6 @@
       "isNew": false
     },
     {
-      "name": "Loan Signing",
-      "score": 42,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "News Ghana",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T23:32:54.000Z",
-      "firstSeen": "2026-09-02T11:26:39.911Z",
-      "isNew": false
-    },
-    {
       "name": "Mattie Pollock",
       "score": 42,
       "status": "Fading",
@@ -264,6 +251,19 @@
       "lastMention": "2026-08-30T13:24:07.000Z",
       "firstSeen": "2026-09-03T07:00:12.291Z",
       "isNew": true
+    },
+    {
+      "name": "Loan Signing",
+      "score": 41,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "News Ghana",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T23:32:54.000Z",
+      "firstSeen": "2026-09-02T11:26:39.911Z",
+      "isNew": false
     }
   ],
   "stories": [
@@ -358,7 +358,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -848,7 +848,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -925,21 +925,6 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
-      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
-      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T15:15:24.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
       "title": "Derby County transfer deadline day recap as Rams in urgent search for signings - Derbyshire Live",
       "description": "Derby County transfer deadline day recap as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWhwUU41UUtFa2JZVlpHMWVmV29TcC1jSFZaMEV6SW1wX1JLNjZhZ3hERkN5VTBHZUMtdElqWHpDLURMaFRIYmk2dEhhUUNqTkNJMUx2X2l2bjFSYjBUbXlibHhBZDFYWlJ3SDllSWlHN1dDdG5NYzBtMlFsYTJwVzFwSGF2MmlGU3dPYUNOQUJWRnRRVHFaNE9jVDFPV21YZk51Q2NR?oc=5",
@@ -994,7 +979,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1130,6 +1115,21 @@
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGRlYWRsaW5lIG",
+      "title": "Derby County transfer deadline day LIVE as Rams in urgent search for signings - Derbyshire Live",
+      "description": "Derby County transfer deadline day LIVE as Rams in urgent search for signings &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTFJcWFEYTA2QTk2bDYzT0JQaGRlRW9ELXJvQ2RNd19VT29JenJEc3VZVVhHbGZab25aOHowSUUxeEFJZzI3V0JxeUtqTjdrU2hMeFBxaUlva3c4RDhiSmlOQUp5TWF4VDM4QXN0V3E0M0J4dlpGZ1JkeHBtZk9HU1NDbHNYYVdkSDcwbFpXUlZ5SWdCQkxZVjR3WXpJTnVUdkFkMzdPQ00?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T11:33:50.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
@@ -1664,7 +1664,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2020,10 +2020,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - tuttomercatoweb.com",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; tuttomercatoweb.com",
+      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
+      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "tuttomercatoweb.com",
+      "source": "TUTTOmercatoWEB",
       "published": "2026-08-26T13:19:35.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2177,7 +2177,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -2879,7 +2879,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
