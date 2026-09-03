@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-03T11:43:04.110Z",
+  "updatedAt": "2026-09-03T11:54:38.886Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 174,
+  "storyCount": 175,
   "targetCount": 20,
   "targets": [
     {
@@ -108,6 +108,19 @@
       "lastMention": "2026-08-28T09:19:00.000Z",
       "firstSeen": "2026-08-28T21:52:36.458Z",
       "isNew": false
+    },
+    {
+      "name": "Following Jakub Stolarczyk Injury",
+      "score": 52,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football Lowdown",
+      "bestSourceScore": 48,
+      "maxLikelihood": 51,
+      "lastMention": "2026-09-03T11:47:53.000Z",
+      "firstSeen": "2026-09-03T11:54:38.885Z",
+      "isNew": true
     },
     {
       "name": "Stephen Mfuni",
@@ -251,22 +264,26 @@
       "lastMention": "2026-08-30T13:24:07.000Z",
       "firstSeen": "2026-09-03T07:00:12.291Z",
       "isNew": true
-    },
-    {
-      "name": "Loan Signing",
-      "score": 41,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "News Ghana",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T23:32:54.000Z",
-      "firstSeen": "2026-09-02T11:26:39.911Z",
-      "isNew": false
     }
   ],
   "stories": [
+    {
+      "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
+      "source": "Football Lowdown",
+      "published": "2026-09-03T11:47:53.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Following Jakub Stolarczyk Injury"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHNpZ25pbmcgcyBhZ2VudCBhZG",
       "title": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama - Derbyshire Live",
@@ -361,10 +378,10 @@
     },
     {
       "id": "bW9oYW1tZWQgZnVzZWluaSBqb2lucyBkZXJieSBjb3",
-      "title": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise - 3News",
-      "description": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise &nbsp;&nbsp; 3News",
+      "title": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise - 3news.com",
+      "description": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise &nbsp;&nbsp; 3news.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmpZZUkzV193M0ZKRk9Sd1ZLN0xJUlJOdnQ5VFF5d0ItdDNOdzdFLXMwU3JMUVUyUlFKdnFjbG5ibFFmLVk3ejRZcHdIYjQxU0p5R2hyX2lqcTI3bVprOUdXeUdhNjV1eDRTTFFNWkVWYy1qWkVsbTFxcllMV2VENXZsejVfbzJtR1BiYW94QjY4cWV5VXVxT3c4UEdGVFVOazFLamRpdTlNZw?oc=5",
-      "source": "3News",
+      "source": "3news.com",
       "published": "2026-09-02T09:50:52.000Z",
       "reputation": 48,
       "likelihood": 65,
@@ -727,10 +744,10 @@
     },
     {
       "id": "ZnVzZWluaSBzZXQgdG8gam9pbiBkZXJieSBjb3VudH",
-      "title": "Fuseini set to join Derby County on loan after Birmingham move collapse - flashscore.co.uk",
-      "description": "Fuseini set to join Derby County on loan after Birmingham move collapse &nbsp;&nbsp; flashscore.co.uk",
+      "title": "Fuseini set to join Derby County on loan after Birmingham move collapse - Flashscore UK",
+      "description": "Fuseini set to join Derby County on loan after Birmingham move collapse &nbsp;&nbsp; Flashscore UK",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDZnbjdadHBoWGpYZlE2elZiWHNzaG1hOEZnTHBzQkgtOXQ1V014RjdBU1REdlVRYmRRNFhQQjdRUUtzaEdmUXFxWV9GbEd2aXEtMS10N001YW9IQUx3WEdmWnhxYnNzMExRaWNqZzVvQS0wT2hzLVhWU2NrVkxEVmdCT0I3a0s3clp2NVFQWEQyUzByQ3oweFVXUXF1cUo2YjRoZUVndmU0V0hjZEZpUnlYRVBjdw?oc=5",
-      "source": "flashscore.co.uk",
+      "source": "Flashscore UK",
       "published": "2026-09-01T19:28:55.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1465,10 +1482,10 @@
     },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
-      "source": "fotmob.com",
+      "source": "FotMob",
       "published": "2026-08-30T16:43:35.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -1757,10 +1774,10 @@
     },
     {
       "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
-      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - fotmob.com",
-      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
-      "source": "fotmob.com",
+      "source": "FotMob",
       "published": "2026-08-29T03:17:20.000Z",
       "reputation": 48,
       "likelihood": 51,
