@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T02:10:43.548Z",
+  "updatedAt": "2026-09-03T05:09:12.093Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 172,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 91,
+      "score": 90,
       "status": "Hot",
       "independentReports": 7,
       "totalStories": 9,
@@ -20,7 +20,7 @@
     },
     {
       "name": "David Ozoh",
-      "score": 81,
+      "score": 80,
       "status": "Strong",
       "independentReports": 3,
       "totalStories": 5,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Eiran Cashin",
-      "score": 80,
+      "score": 79,
       "status": "Strong",
       "independentReports": 3,
       "totalStories": 6,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Union Saint-",
-      "score": 72,
+      "score": 71,
       "status": "Strong",
       "independentReports": 3,
       "totalStories": 3,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Radio Derbyshire",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Le Soir",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -254,7 +254,7 @@
     },
     {
       "name": "Loan Signing",
-      "score": 43,
+      "score": 42,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -395,6 +395,21 @@
       "players": [
         "Mohammed Fuseini"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHVRTUI4dEhUbVBFNzVNWGRfd1Y4dEpDMW9Pb2Vzb3dXZjlRM29hWkxSZElZSTlHMjNadVVjNlI2ZzBQb3k4SGtNRWdDa1kza1lQbXdUUFZQTEhCZUJaTXNjZDhtVkFkV2ctMzJyZFlkLVBSRF9VUGhfLWNEanZHMXBvMkNmN1pTOGhtMQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-02T02:03:07.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
@@ -1861,21 +1876,6 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-28T00:18:06.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
       "overseas": false,
       "players": []
     },
