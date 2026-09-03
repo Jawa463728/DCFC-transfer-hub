@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T13:10:56.136Z",
+  "updatedAt": "2026-09-03T13:28:40.284Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 176,
@@ -214,32 +214,6 @@
       "isNew": false
     },
     {
-      "name": "Late Barnsley",
-      "score": 42,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 40,
-      "lastMention": "2026-09-01T15:48:14.000Z",
-      "firstSeen": "2026-09-01T18:38:56.477Z",
-      "isNew": false
-    },
-    {
-      "name": "Reyes Cleary",
-      "score": 42,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 40,
-      "lastMention": "2026-09-01T15:48:14.000Z",
-      "firstSeen": "2026-09-01T18:38:56.477Z",
-      "isNew": false
-    },
-    {
       "name": "Mattie Pollock",
       "score": 42,
       "status": "Fading",
@@ -264,6 +238,32 @@
       "lastMention": "2026-08-30T13:24:07.000Z",
       "firstSeen": "2026-09-03T07:00:12.291Z",
       "isNew": true
+    },
+    {
+      "name": "Late Barnsley",
+      "score": 41,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 40,
+      "lastMention": "2026-09-01T15:48:14.000Z",
+      "firstSeen": "2026-09-01T18:38:56.477Z",
+      "isNew": false
+    },
+    {
+      "name": "Reyes Cleary",
+      "score": 41,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 40,
+      "lastMention": "2026-09-01T15:48:14.000Z",
+      "firstSeen": "2026-09-01T18:38:56.477Z",
+      "isNew": false
     }
   ],
   "stories": [
@@ -471,7 +471,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Mohammed Fuseini"
@@ -1523,7 +1523,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1653,7 +1653,7 @@
       "likelihood": 79,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1843,7 +1843,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2802,7 +2802,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Ryan Hedges"
