@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-03T11:54:38.886Z",
+  "updatedAt": "2026-09-03T12:15:53.448Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 175,
+  "storyCount": 176,
   "targetCount": 20,
   "targets": [
     {
@@ -378,10 +378,10 @@
     },
     {
       "id": "bW9oYW1tZWQgZnVzZWluaSBqb2lucyBkZXJieSBjb3",
-      "title": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise - 3news.com",
-      "description": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise &nbsp;&nbsp; 3news.com",
+      "title": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise - 3News",
+      "description": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise &nbsp;&nbsp; 3News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmpZZUkzV193M0ZKRk9Sd1ZLN0xJUlJOdnQ5VFF5d0ItdDNOdzdFLXMwU3JMUVUyUlFKdnFjbG5ibFFmLVk3ejRZcHdIYjQxU0p5R2hyX2lqcTI3bVprOUdXeUdhNjV1eDRTTFFNWkVWYy1qWkVsbTFxcllMV2VENXZsejVfbzJtR1BiYW94QjY4cWV5VXVxT3c4UEdGVFVOazFLamRpdTlNZw?oc=5",
-      "source": "3news.com",
+      "source": "3News",
       "published": "2026-09-02T09:50:52.000Z",
       "reputation": 48,
       "likelihood": 65,
@@ -1788,6 +1788,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U18 - transfermarkt.de",
+      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
+      "source": "transfermarkt.de",
+      "published": "2026-08-29T03:03:45.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
       "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -1948,11 +1963,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U21 - transfermarkt.com",
-      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2040,11 +2055,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - transfermarkt.de",
+      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVks5c3VuYUg5RHBBcU42TDVqS29iQ29mMWIwT1YyTzl2cVRfeXJQU2I2TTRiZFZ6ZTBjZDhoVjUyS2hSaHk0SVBtWTByV29rWmNaOVBsUnJ2aG92TVRDYzdCcU1idm5OZ1U0SWpwYlF1Z0EwcTB3YnJtRHNySWdsalF5WnFXSWhmazlUVVJhOFg?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-27T05:22:25.000Z",
       "reputation": 94,
       "likelihood": 72,
