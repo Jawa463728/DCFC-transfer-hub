@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:06:05.507Z",
+  "updatedAt": "2026-09-03T20:22:28.262Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -189,7 +189,7 @@
     },
     {
       "name": "Following Jakub Stolarczyk Injury",
-      "score": 50,
+      "score": 49,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -1666,10 +1666,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmEgYSBnaW9jYX",
-      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - Napoli Magazine",
-      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; Napoli Magazine",
+      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - napolimagazine.com",
+      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; napolimagazine.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRVRoZ2pYa09PVXQ5WjVQckkydVJUTG82Vy1ReTlhcTBPVHI0SDhuMlBneXF6QUlRZE1ha0JaaGRBeElIU3gwTjJvQ2FJN1FFNGVtdmZNdF84aFJpMURzQTBxdk9fSk1halpBTGhTaVlMbEE2ZDZqUWFHcW55MWVYbUZSbEVucTctbjdKRm9vSEFkM1drVHl5dTUwQmg1cGRVN0NMN0VuWFphV2Y0anRieXJVS1FCSWkxeVRwRXdDdHRocDhKb1k4VlFhd0h4NEFFTU1qOEQyVy1kTmc1c2hfX2N3?oc=5",
-      "source": "Napoli Magazine",
+      "source": "napolimagazine.com",
       "published": "2026-08-30T15:00:05.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1677,9 +1677,7 @@
       "status": "rumour",
       "edition": "it",
       "overseas": true,
-      "players": [
-        "Napoli Magazine"
-      ]
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdyZXhoYW0gbWlsbHdhbGwgaW",
