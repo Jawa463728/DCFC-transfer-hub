@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-03T16:05:38.928Z",
+  "updatedAt": "2026-09-03T16:23:57.731Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 178,
+  "storyCount": 180,
   "targetCount": 20,
   "targets": [
     {
@@ -37,7 +37,7 @@
       "status": "Developing",
       "independentReports": 3,
       "totalStories": 3,
-      "bestSource": "lesoir.be",
+      "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-02T09:50:52.000Z",
@@ -50,7 +50,7 @@
       "status": "Fading",
       "independentReports": 3,
       "totalStories": 6,
-      "bestSource": "BBC",
+      "bestSource": "bbc.co.uk",
       "bestSourceScore": 94,
       "maxLikelihood": 80,
       "lastMention": "2026-08-28T08:24:00.000Z",
@@ -69,6 +69,19 @@
       "lastMention": "2026-09-02T00:45:26.000Z",
       "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 61,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-03T16:23:57.730Z",
+      "isNew": true
     },
     {
       "name": "Ben Brereton-",
@@ -102,7 +115,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OwnGoal Nigeria",
+      "bestSource": "owngoalnigeria.com",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T12:42:29.000Z",
@@ -115,24 +128,11 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OwnGoal Nigeria",
+      "bestSource": "owngoalnigeria.com",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T12:42:29.000Z",
       "firstSeen": "2026-09-03T16:05:38.927Z",
-      "isNew": true
-    },
-    {
-      "name": "Following Jakub Stolarczyk Injury",
-      "score": 51,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "footballlowdown.com",
-      "bestSourceScore": 48,
-      "maxLikelihood": 51,
-      "lastMention": "2026-09-03T11:47:53.000Z",
-      "firstSeen": "2026-09-03T11:54:38.885Z",
       "isNew": true
     },
     {
@@ -173,6 +173,19 @@
       "lastMention": "2026-08-26T10:05:00.000Z",
       "firstSeen": "2026-08-26T11:51:18.056Z",
       "isNew": false
+    },
+    {
+      "name": "Following Jakub Stolarczyk Injury",
+      "score": 50,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football Lowdown",
+      "bestSourceScore": 48,
+      "maxLikelihood": 51,
+      "lastMention": "2026-09-03T11:47:53.000Z",
+      "firstSeen": "2026-09-03T11:54:38.885Z",
+      "isNew": true
     },
     {
       "name": "Omari Kellyman",
@@ -251,28 +264,15 @@
       "lastMention": "2026-09-01T15:48:14.000Z",
       "firstSeen": "2026-09-01T18:38:56.477Z",
       "isNew": false
-    },
-    {
-      "name": "Reyes Cleary",
-      "score": 41,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 40,
-      "lastMention": "2026-09-01T15:48:14.000Z",
-      "firstSeen": "2026-09-01T18:38:56.477Z",
-      "isNew": false
     }
   ],
   "stories": [
     {
       "id": "MjEgeWVhciBvbGQgbWlkZmllbGRlciB0YXJnZXQgc3",
-      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County - OwnGoal Nigeria",
-      "description": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; OwnGoal Nigeria",
+      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County - owngoalnigeria.com",
+      "description": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; owngoalnigeria.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk0wS2tqYXFFVXFrRmhrMmplamRNZWItaTRVa0E4SUQxaG1QcHhxV0NiZW1EOGg2ZUI3M3RjUHo5SWg4UW1IbTM4a0V1MFJTeVlmNTZRNWJoTlJxb2FZbmNJQ0U2aHJKbGZIeHBNTDE4Rm5fa3ZNOXc5V054aGVCNnpQaDg3SVpjMEFTdmlCWlN0RmFrbmNpV3pwcWJHWWVtSWlmbXl1czRHckZmS0tNUXNkMA?oc=5",
-      "source": "OwnGoal Nigeria",
+      "source": "owngoalnigeria.com",
       "published": "2026-09-03T12:42:29.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -304,10 +304,10 @@
     },
     {
       "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - footballlowdown.com",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; footballlowdown.com",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "footballlowdown.com",
+      "source": "Football Lowdown",
       "published": "2026-09-03T11:47:53.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -694,10 +694,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -707,7 +707,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
@@ -1396,7 +1397,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "In On Arthur Okonkwo"
@@ -1702,7 +1703,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1838,10 +1839,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1922,7 +1923,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -2007,7 +2008,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2073,10 +2074,10 @@
     },
     {
       "id": "aGFtemEgY2hvdWRodXJ5IGRlcmJ5IGNvdW50eSBleH",
-      "title": "Hamza Choudhury: Derby County exploring deal for Leicester midfielder - BBC",
-      "description": "Hamza Choudhury: Derby County exploring deal for Leicester midfielder &nbsp;&nbsp; BBC",
+      "title": "Hamza Choudhury: Derby County exploring deal for Leicester midfielder - bbc.co.uk",
+      "description": "Hamza Choudhury: Derby County exploring deal for Leicester midfielder &nbsp;&nbsp; bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rM1NwRnIwQS1JN2Z6ZEx3NmdqWVdUSUpqMVV3VVVkX2VqRjhFeUJsdFFYMkRDOUYwUzN1QnBMckozTE5MdC0xaUZFUkFoME1DU0tqaDdrTXVic21JZVB6bkUzYVRBX3B0NEE?oc=5",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "published": "2026-08-27T09:55:21.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2561,6 +2562,23 @@
     },
     {
       "id": "bWFzc2l2ZSByZWJ1aWxkIDEzIHBsYXllcnMgb3V0IG",
+      "title": "🚨 MASSIVE REBUILD! 13 PLAYERS OUT?! Derby County’s HUGE Transfer Plans REVEALED! Mark Kelly (UuhnlACUTu) - Mshale",
+      "description": "🚨 MASSIVE REBUILD! 13 PLAYERS OUT?! Derby County’s HUGE Transfer Plans REVEALED! Mark Kelly (UuhnlACUTu) &nbsp;&nbsp; Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SlViRG1rWFNCMTlyZlN0a0RIWXhqc2tjMV9vYV85OEpLZTNDUXNfYnl4ZV9FNnJZWDVxZVl4UFZ2aktGc1NmblZwOGIzMmdLMDE4dTNjUXc0N3M?oc=5",
+      "source": "Mshale",
+      "published": "2026-08-24T11:48:05.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "Mark Kelly"
+      ]
+    },
+    {
+      "id": "bWFzc2l2ZSByZWJ1aWxkIDEzIHBsYXllcnMgb3V0IG",
       "title": "🚨 MASSIVE REBUILD! 13 PLAYERS OUT?! Derby County’s HUGE Transfer Plans REVEALED! Mark Kelly (uhnlACUTuM) - Mshale",
       "description": "🚨 MASSIVE REBUILD! 13 PLAYERS OUT?! Derby County’s HUGE Transfer Plans REVEALED! Mark Kelly (uhnlACUTuM) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SlViRG1rWFNCMTlyZlN0a0RIWXhqc2tjMV9vYV85OEpLZTNDUXNfYnl4ZV9FNnJZWDVxZVl4UFZ2aktGc1NmblZwOGIzMmdLMDE4dTNjUXc0N3M?oc=5",
@@ -2841,6 +2859,23 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHNpeHRoIHN1bW",
+      "title": "Derby County complete sixth summer signing after Derry Murkin blow - Derbyshire Live",
+      "description": "Derby County complete sixth summer signing after Derry Murkin blow &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWnhueGc0dDRFQ1pTYmhxRmdRVjN4d0hUTU10RzFiQkZ4dmlRb1I4OGxKMVFoaGRRRURaR2Y1emh0eERLNkE1YURWcGdoeHFHS2x2SV9FOTh1MnA0bnBiSTdKdkI1MnV5TTdJY1ZOd3R3blJWRXlXX0JsYndKckRHc3ZIMnRkVVRpQ2xYNWhCWWFVZEdTQWNIanhQeGctYXBrQ1MzWHdJdHE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Derry Murkin"
+      ]
+    },
+    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
       "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
       "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -2994,7 +3029,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
