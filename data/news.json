@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T17:26:09.543Z",
+  "updatedAt": "2026-09-03T17:42:22.526Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -562,21 +562,6 @@
       "players": [
         "David Ozoh Signs For"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEcwUE1KS1BDcDdkekNBWWpWM1JjNFlVdXY0cGFQTHluWlJtcWVEd0xKbzQ5dmhXeEczb1loT1pGQ08xa3BJS0cydlBUT0VlLWpGUGpVRlBrVEtiUU5TVHpaNFNBelZ3RW5EbjYycHFYLWk5Y3JPYXM4Tzl3cDN0c1dpd3hGTjRoU05aZ2pmSXNUZ3hpWTBmOEgtZVRRMUVYeW53TWg4ZUtzNTEydEpWMWFOU1EzZlc2MDAtRQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-02T00:07:08.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZ1c2VpbmkgbG",
@@ -1178,16 +1163,16 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHB1c2ggdG8gc2lnbiBmb3JtZX",
-      "title": "Derby County push to sign former loan star permanently - the72.co.uk",
-      "description": "Derby County push to sign former loan star permanently &nbsp;&nbsp; the72.co.uk",
+      "title": "Derby County push to sign former loan star permanently - The72",
+      "description": "Derby County push to sign former loan star permanently &nbsp;&nbsp; The72",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVBPWURQNWhxa1VJRVJfbV9wc1dzd2dVY1l6eU44T1BFWlk0UG1EVV93cnNSeUNmc3hvd2FMYThDbTN5SUVrb0xqT0IzUWZYZ2NGV1lsY3RDdUd0d1lrVGt6SUI4ODQwdHNpUmJRY3VodmYtMUtacDg0Snlya2tzSERFaXZHTnR6VXNzcXBn?oc=5",
-      "source": "the72.co.uk",
+      "source": "The72",
       "published": "2026-09-01T11:50:05.000Z",
       "reputation": 66,
       "likelihood": 54,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1737,7 +1722,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1857,21 +1842,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-29T03:03:45.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
       "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -1957,7 +1927,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ben Brereton-"
@@ -2028,6 +1998,21 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-28T00:18:06.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -3048,7 +3033,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -3095,6 +3080,23 @@
       "status": "rumour",
       "edition": "es",
       "overseas": true,
+      "players": [
+        "Alex Mowatt"
+      ]
+    },
+    {
+      "id": "c2lnbmluZyBhbGV4IG1vd2F0dCBqb2lucyBkZXJieS",
+      "title": "SIGNING: Alex Mowatt joins Derby County - Derby County",
+      "description": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-14T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 97,
+      "ratingLabel": "Very strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
       "players": [
         "Alex Mowatt"
       ]
