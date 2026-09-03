@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-03T15:51:38.770Z",
+  "updatedAt": "2026-09-03T16:05:38.928Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 177,
+  "storyCount": 178,
   "targetCount": 20,
   "targets": [
     {
@@ -97,12 +97,38 @@
       "isNew": false
     },
     {
+      "name": "Year Old Midfielder Target",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "OwnGoal Nigeria",
+      "bestSourceScore": 48,
+      "maxLikelihood": 51,
+      "lastMention": "2026-09-03T12:42:29.000Z",
+      "firstSeen": "2026-09-03T16:05:38.927Z",
+      "isNew": true
+    },
+    {
+      "name": "Super Eagles Spot After",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "OwnGoal Nigeria",
+      "bestSourceScore": 48,
+      "maxLikelihood": 51,
+      "lastMention": "2026-09-03T12:42:29.000Z",
+      "firstSeen": "2026-09-03T16:05:38.927Z",
+      "isNew": true
+    },
+    {
       "name": "Following Jakub Stolarczyk Injury",
       "score": 51,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Football Lowdown",
+      "bestSource": "footballlowdown.com",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T11:47:53.000Z",
@@ -238,35 +264,27 @@
       "lastMention": "2026-09-01T15:48:14.000Z",
       "firstSeen": "2026-09-01T18:38:56.477Z",
       "isNew": false
-    },
-    {
-      "name": "Loan Signing",
-      "score": 40,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "News Ghana",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T23:32:54.000Z",
-      "firstSeen": "2026-09-03T13:57:33.164Z",
-      "isNew": true
-    },
-    {
-      "name": "Calciomercato Pisa",
-      "score": 39,
-      "status": "Fading",
-      "independentReports": 2,
-      "totalStories": 2,
-      "bestSource": "sestaporta.news",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-08-30T16:24:01.000Z",
-      "firstSeen": "2026-09-03T15:39:02.278Z",
-      "isNew": true
     }
   ],
   "stories": [
+    {
+      "id": "MjEgeWVhciBvbGQgbWlkZmllbGRlciB0YXJnZXQgc3",
+      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County - OwnGoal Nigeria",
+      "description": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; OwnGoal Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk0wS2tqYXFFVXFrRmhrMmplamRNZWItaTRVa0E4SUQxaG1QcHhxV0NiZW1EOGg2ZUI3M3RjUHo5SWg4UW1IbTM4a0V1MFJTeVlmNTZRNWJoTlJxb2FZbmNJQ0U2aHJKbGZIeHBNTDE4Rm5fa3ZNOXc5V054aGVCNnpQaDg3SVpjMEFTdmlCWlN0RmFrbmNpV3pwcWJHWWVtSWlmbXl1czRHckZmS0tNUXNkMA?oc=5",
+      "source": "OwnGoal Nigeria",
+      "published": "2026-09-03T12:42:29.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Year Old Midfielder Target",
+        "Super Eagles Spot After"
+      ]
+    },
     {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGVpcmFuIGNhc2",
       "title": "NEW SIGNING INTERVIEW: Eiran Cashin - Derby County",
@@ -286,10 +304,10 @@
     },
     {
       "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - footballlowdown.com",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-09-03T11:47:53.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -312,7 +330,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -359,7 +377,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -374,7 +392,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -488,7 +506,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Mohammed Fuseini"
@@ -556,7 +574,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -640,7 +658,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -703,7 +721,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -784,7 +802,7 @@
       "likelihood": 94,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh",
@@ -928,7 +946,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1059,7 +1077,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1089,7 +1107,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1226,7 +1244,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Eiran Cashin"
@@ -1354,10 +1372,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) - transfermarkt.de",
-      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
+      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWtxdUw3VjBKTFlySXVuN1FIeDdEd3doZFpqUXc1b2ZjZXM2OGhqbk9oNXFmT09qam1WOF9ENDc2bk5Ddk9rbElWMlRBd3ZjWmE0cDlld293SUszRHJ4MWhtZ3V2emlrc1lMdnZVMTFwRmxKUHRjT29FQXZlaFFlX1JhTmE4cFY5SkFEY3FwQlNqOExMZkJjV1dvS0NBVUZPLUx0UmlLdzdjOFRsbC1QRm02R3VzUWRkdEktLTJJZDR5VjNwQzdB?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-31T01:02:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1539,7 +1557,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1556,7 +1574,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1669,7 +1687,7 @@
       "likelihood": 79,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1746,7 +1764,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1804,11 +1822,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.de",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-29T03:03:45.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1820,10 +1838,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1995,10 +2013,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSByZWtvcmQgenVnIG5nZS",
-      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - transfermarkt.de",
-      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - Transfermarkt",
+      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzRTMTVpUk5xd1NnRXFsMEhKQ25UWGNHcWkzSWpNQ1A4WTYxNUwzSmpCTm95TTc5dnVkTnNjSVFTclB6bHpsd0ZhczlKc0g4TU85VVRqWkRxNGhqNkJHMTJJd3hvcUk0Ym1iTHQzbkx3N2ZBX2FGYWQtMzFsMmJLNUg4dGdDbThHUmRackZQa0lpZVZqM3Jmdnd6dURvRUtiNjdaOUszRWNnbjhIUGQwMW1objhrVFdpbFlGaU14VWppZThZQWpUQ2Z1enM?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-27T23:31:59.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2064,18 +2082,18 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Hamza Choudhury"
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - transfermarkt.de",
-      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVks5c3VuYUg5RHBBcU42TDVqS29iQ29mMWIwT1YyTzl2cVRfeXJQU2I2TTRiZFZ6ZTBjZDhoVjUyS2hSaHk0SVBtWTByV29rWmNaOVBsUnJ2aG92TVRDYzdCcU1idm5OZ1U0SWpwYlF1Z0EwcTB3YnJtRHNySWdsalF5WnFXSWhmazlUVVJhOFg?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-27T05:22:25.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2808,6 +2826,21 @@
       "players": []
     },
     {
+      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
+      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
+      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyByeWFuIG",
       "title": "TRANSFER NEWS: Introducing…Ryan Hedges - Derby County",
       "description": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -2823,21 +2856,6 @@
       "players": [
         "Ryan Hedges"
       ]
-    },
-    {
-      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
-      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
