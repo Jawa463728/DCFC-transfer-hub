@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T16:53:48.245Z",
+  "updatedAt": "2026-09-03T17:09:16.561Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -22,8 +22,8 @@
       "name": "David Ozoh",
       "score": 86,
       "status": "Hot",
-      "independentReports": 4,
-      "totalStories": 6,
+      "independentReports": 5,
+      "totalStories": 7,
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
@@ -58,19 +58,6 @@
       "isNew": false
     },
     {
-      "name": "Le Soir",
-      "score": 61,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Le Soir",
-      "bestSourceScore": 96,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-01T21:40:00.000Z",
-      "firstSeen": "2026-09-03T16:23:57.730Z",
-      "isNew": true
-    },
-    {
       "name": "Radio Derbyshire",
       "score": 60,
       "status": "Developing",
@@ -82,6 +69,19 @@
       "lastMention": "2026-09-02T00:45:26.000Z",
       "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 60,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-03T16:23:57.730Z",
+      "isNew": true
     },
     {
       "name": "Ben Brereton-",
@@ -377,9 +377,26 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggdHJhbnNmZX",
+      "title": "Derby County: David Ozoh transfer truth revealed over finances in Crystal Palace deal - Football League World",
+      "description": "Derby County: David Ozoh transfer truth revealed over finances in Crystal Palace deal &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2Z1QXE5WXJXM3hxWXB2anBaYy14TGppTzdiLV9weENGMTdZanN0QTk5clQ1dzZMYW9zOTMyTndaTjNVMzBlNS13cld5allhZnVpLTlLR1h5ZmFfVFVybnR1c0JRcm5GelNVSzR6QkQ5bzZUMjR6TjdZS2lBX01BeExSYWhoSEk2eWhSMmNvekZabV91WnlycGZQT0JnUW1jaXhPQ3A5Y3V2TERVQXcxZFVCUFhNRVR5Qndz?oc=5",
+      "source": "Football League World",
+      "published": "2026-09-02T11:16:33.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "David Ozoh"
+      ]
     },
     {
       "id": "aG93IGRlcmJ5IGNvdW50eSBzYWx2YWdlZCB0aGVpci",
@@ -547,6 +564,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEcwUE1KS1BDcDdkekNBWWpWM1JjNFlVdXY0cGFQTHluWlJtcWVEd0xKbzQ5dmhXeEczb1loT1pGQ08xa3BJS0cydlBUT0VlLWpGUGpVRlBrVEtiUU5TVHpaNFNBelZ3RW5EbjYycHFYLWk5Y3JPYXM4Tzl3cDN0c1dpd3hGTjRoU05aZ2pmSXNUZ3hpWTBmOEgtZVRRMUVYeW53TWg4ZUtzNTEydEpWMWFOU1EzZlc2MDAtRQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-02T00:07:08.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGZ1c2VpbmkgbG",
       "title": "Derby County Complete Fuseini Loan Signing - News Ghana",
       "description": "Derby County Complete Fuseini Loan Signing &nbsp;&nbsp; News Ghana",
@@ -574,7 +606,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -658,7 +690,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -722,7 +754,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -947,7 +979,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1063,7 +1095,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1078,7 +1110,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1093,7 +1125,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1108,7 +1140,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1140,22 +1172,22 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHB1c2ggdG8gc2lnbiBmb3JtZX",
-      "title": "Derby County push to sign former loan star permanently - The72",
-      "description": "Derby County push to sign former loan star permanently &nbsp;&nbsp; The72",
+      "title": "Derby County push to sign former loan star permanently - the72.co.uk",
+      "description": "Derby County push to sign former loan star permanently &nbsp;&nbsp; the72.co.uk",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVBPWURQNWhxa1VJRVJfbV9wc1dzd2dVY1l6eU44T1BFWlk0UG1EVV93cnNSeUNmc3hvd2FMYThDbTN5SUVrb0xqT0IzUWZYZ2NGV1lsY3RDdUd0d1lrVGt6SUI4ODQwdHNpUmJRY3VodmYtMUtacDg0Snlya2tzSERFaXZHTnR6VXNzcXBn?oc=5",
-      "source": "The72",
+      "source": "the72.co.uk",
       "published": "2026-09-01T11:50:05.000Z",
       "reputation": 66,
       "likelihood": 54,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1185,7 +1217,7 @@
       "likelihood": 95,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1245,7 +1277,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Eiran Cashin"
@@ -1367,7 +1399,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1438,18 +1470,20 @@
     },
     {
       "id": "aGFtemEgY2hvdWRodXJ5IHRyYW5zZmVyIG5ld3Mgc2",
-      "title": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder - sundayguardianlive.com",
-      "description": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder &nbsp;&nbsp; sundayguardianlive.com",
+      "title": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder - The Sunday Guardian",
+      "description": "Hamza Choudhury Transfer News: Sheffield United Hijack Derby County Move For Leicester City Midfielder &nbsp;&nbsp; The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbnk2WERKMFI3TllkOVAtTGItdllBUHpXcmdDcy0wOTRTY1hDbmIwaFZpMFNFUjU1d2tfbWRveVYwelpLbElTNkZtdGpyZlNrR3V0cUhPd2xCTU0wRldsSHo2UEl6OXR3MHR0WVV5bVNlT1UtSzBIUG1KbEk4YnVaODY4MFZWYWE0dERraEc5VnpsUGRoRlhpbVRrUGcwSGZuVzQtRUw0UU1qcDI4b00xc0VfVE5aR3FTVjMzOVFPcUhkd3R5YWdYQVdFMXgwdVBLR1l2cm5vMTNuUGpFMmVYQ05BbEFxeE0wWklRV2VR0gHzAUFVX3lxTE5HMVdDYmRMVTFXaHhHX3JPSHYxNGFfT0FkV1J5aGdtTkY2b01yLU1pMHpoOFBHMThrMFRyN0xnS3NLVVJaSlVlbG1qZjFaSGFPZldDVHhvN1ZhSU1vMDh1Szlkd19lUlRzVTEyWkN2T2UzQ0pkY2wwTUFocy15bkU2RERYSXo0TjRiT0ROdG4yQkpSSWgwU3RGOFhGUG1qcy0tZm5wMWY0VDJSTFRTZXpKdlUtQ2xKcmNGNDEyT1BEcFczU2tBMkpNZ0syZGhELWU0R2FrTGtYQ1paMWlVVmkxU1F4X3RKYlZ0Rmh5QklwRWU4WQ?oc=5",
-      "source": "sundayguardianlive.com",
+      "source": "The Sunday Guardian",
       "published": "2026-08-30T18:56:43.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
-      "players": []
+      "players": [
+        "The Sunday Guardian"
+      ]
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
@@ -1517,10 +1551,10 @@
     },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
-      "source": "FotMob",
+      "source": "fotmob.com",
       "published": "2026-08-30T16:43:35.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -1575,7 +1609,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1641,7 +1675,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1688,7 +1722,7 @@
       "likelihood": 79,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1703,7 +1737,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1765,7 +1799,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1809,10 +1843,10 @@
     },
     {
       "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
-      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - fotmob.com",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
-      "source": "FotMob",
+      "source": "fotmob.com",
       "published": "2026-08-29T03:17:20.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -1994,21 +2028,6 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-28T00:18:06.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -3123,23 +3142,6 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Alex Mowatt"
-      ]
-    },
-    {
-      "id": "c2lnbmluZyBhbGV4IG1vd2F0dCBqb2lucyBkZXJieS",
-      "title": "SIGNING: Alex Mowatt joins Derby County - Derby County",
-      "description": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-14T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 97,
-      "ratingLabel": "Very strong",
-      "status": "confirmed",
       "edition": "gb",
       "overseas": false,
       "players": [
