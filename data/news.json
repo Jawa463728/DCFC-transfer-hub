@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-03T11:28:37.091Z",
+  "updatedAt": "2026-09-03T11:43:04.110Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 173,
+  "storyCount": 174,
   "targetCount": 20,
   "targets": [
     {
@@ -20,14 +20,14 @@
     },
     {
       "name": "David Ozoh",
-      "score": 79,
+      "score": 81,
       "status": "Strong",
       "independentReports": 3,
-      "totalStories": 5,
+      "totalStories": 6,
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
-      "lastMention": "2026-09-02T08:26:27.000Z",
+      "lastMention": "2026-09-02T19:53:49.000Z",
       "firstSeen": "2026-09-01T12:55:00.883Z",
       "isNew": false
     },
@@ -298,6 +298,23 @@
       "players": []
     },
     {
+      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
+      "title": "Transferência confirmada: Derby County FC fechou com David Ozoh. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com David Ozoh. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOV01wSUFSOGJUX2pTY1ZjcDBzNHdCRUVHMl9KeVpGb1ZPVm5JLWx5cjhzUnBpN2czdUtsYWxRME1QSGh4d0FiSDBtZkIwVktLc2paVW9BWnNHaU9scmFKMDBVYw?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-02T19:53:49.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "pt",
+      "overseas": true,
+      "players": [
+        "David Ozoh"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGhhdmUgZmlsbGVkIHRyYW5zZm",
       "title": "Derby County have filled transfer holes but John Eustace still has a big job on his hands - Derbyshire Live",
       "description": "Derby County have filled transfer holes but John Eustace still has a big job on his hands &nbsp;&nbsp; Derbyshire Live",
@@ -344,10 +361,10 @@
     },
     {
       "id": "bW9oYW1tZWQgZnVzZWluaSBqb2lucyBkZXJieSBjb3",
-      "title": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise - 3news.com",
-      "description": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise &nbsp;&nbsp; 3news.com",
+      "title": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise - 3News",
+      "description": "Mohammed Fuseini joins Derby County on season-long loan from Union Saint-Gilloise &nbsp;&nbsp; 3News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmpZZUkzV193M0ZKRk9Sd1ZLN0xJUlJOdnQ5VFF5d0ItdDNOdzdFLXMwU3JMUVUyUlFKdnFjbG5ibFFmLVk3ejRZcHdIYjQxU0p5R2hyX2lqcTI3bVprOUdXeUdhNjV1eDRTTFFNWkVWYy1qWkVsbTFxcllMV2VENXZsejVfbzJtR1BiYW94QjY4cWV5VXVxT3c4UEdGVFVOazFLamRpdTlNZw?oc=5",
-      "source": "3news.com",
+      "source": "3News",
       "published": "2026-09-02T09:50:52.000Z",
       "reputation": 48,
       "likelihood": 65,
@@ -1448,10 +1465,10 @@
     },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
-      "source": "FotMob",
+      "source": "fotmob.com",
       "published": "2026-08-30T16:43:35.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -1740,10 +1757,10 @@
     },
     {
       "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
-      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - fotmob.com",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
-      "source": "FotMob",
+      "source": "fotmob.com",
       "published": "2026-08-29T03:17:20.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -2134,10 +2151,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T11:41:08.000Z",
       "reputation": 48,
       "likelihood": 43,
