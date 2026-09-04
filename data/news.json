@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T17:52:14.421Z",
+  "updatedAt": "2026-09-04T18:07:27.043Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -936,10 +936,10 @@
     },
     {
       "id": "aXJpc2ggc3RhciBzZWFscyBkZXJieSBjb3VudHkgcm",
-      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - thesun.ie",
-      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; thesun.ie",
+      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - The Irish Sun",
+      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; The Irish Sun",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjQ5M09icmRGQmtwdGpBUmpNTzBCSmk4bC1mSGlod05Kc3cwVHhoLXZpUjV0c1pQbVphUlBfYzBaU3F0Ynd2YVE5X3FVS2ZRdzVTem9ZTjlLVmozT0pJaFpXU3dqSFowTmJKQVVpNDdwMjZBbmxTT1hxM3V2MDFUcUVSUXlKY204TFlrY2pWNHliMTVKdXowcFFR?oc=5",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "published": "2026-09-01T20:37:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -947,7 +947,9 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
+      "players": [
+        "The Irish Sun"
+      ]
     },
     {
       "id": "bW9oYW1tZWQgZnVzZWluaSBzZXQgdG8gam9pbiBkZX",
@@ -2474,24 +2476,6 @@
       ]
     },
     {
-      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
-      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
-      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Southampton's Ben Brereton Diaz",
-        "Yorkshire Post"
-      ]
-    },
-    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -2538,6 +2522,24 @@
       "overseas": true,
       "players": [
         "Calciomercato Pisa"
+      ]
+    },
+    {
+      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
+      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
+      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 78,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
       ]
     },
     {
