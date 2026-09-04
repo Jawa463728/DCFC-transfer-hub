@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T20:26:21.867Z",
+  "updatedAt": "2026-09-04T20:40:57.587Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -33,14 +33,14 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 70,
+      "score": 72,
       "status": "Strong",
-      "independentReports": 1,
-      "totalStories": 1,
+      "independentReports": 2,
+      "totalStories": 2,
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
-      "lastMention": "2026-09-04T17:03:27.000Z",
+      "lastMention": "2026-09-04T20:29:16.000Z",
       "firstSeen": "2026-09-04T17:13:39.913Z",
       "isNew": true
     },
@@ -97,19 +97,6 @@
       "isNew": false
     },
     {
-      "name": "Radio Derbyshire",
-      "score": 54,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-02T00:45:26.000Z",
-      "firstSeen": "2026-09-01T19:44:41.816Z",
-      "isNew": false
-    },
-    {
       "name": "Le Soir",
       "score": 54,
       "status": "Watch",
@@ -121,6 +108,19 @@
       "lastMention": "2026-09-01T21:40:00.000Z",
       "firstSeen": "2026-09-04T20:10:03.374Z",
       "isNew": true
+    },
+    {
+      "name": "Radio Derbyshire",
+      "score": 53,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-09-02T00:45:26.000Z",
+      "firstSeen": "2026-09-01T19:44:41.816Z",
+      "isNew": false
     },
     {
       "name": "Southampton's Ben Brereton Diaz",
@@ -267,6 +267,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
+      "title": "Fichaje confirmado: Derby County firma a Nicholas Bilokapic. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTQ2ZTQy1wc1BKaWVMU0c2dFpZRkkxcko4TlVFU1o3MGFNMlRZUUJfWXN4Y3pqblNxVTZUNXBoOTZRODFZbWx3RnR3LWZ1cl9HZlg5ZEFRRQ?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-04T20:29:16.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
+      "overseas": true,
+      "players": [
+        "Nicholas Bilokapic"
+      ]
+    },
     {
       "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
       "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - BBC",
@@ -1983,10 +2000,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
+      "source": "tribalfootball.com",
       "published": "2026-08-29T23:51:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -3131,23 +3148,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
     }
   ]
 }
