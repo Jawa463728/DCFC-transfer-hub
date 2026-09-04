@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T14:58:55.254Z",
+  "updatedAt": "2026-09-04T15:18:31.009Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Union Saint-",
-      "score": 69,
+      "score": 68,
       "status": "Developing",
       "independentReports": 4,
       "totalStories": 4,
@@ -219,7 +219,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "footballlowdown.com",
+      "bestSource": "Football Lowdown",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T11:47:53.000Z",
@@ -360,21 +360,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWQ0WWF6YXI2c3ViN1BFVmVJVUtTQ2YyeHljS2Vzbll3NVMwWWsyYkxFN0F1REJVVTNtY2ExLUJoMkpyYUlLSHp3ZHVPeTBJYlRnTTVHRU10SWdfY0dES0NoWllNWFhCdDJ5eGpDd2xQRXlSSEZXRWRzcUVYVEFtZnlIVXVhSkhSQl9B?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-03T17:08:26.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IGNvbmZpcm0gb3dlbiBlYW1lcy",
       "title": "Derby County confirm Owen Eames transfer as move sanctioned - Derbyshire Live",
       "description": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Derbyshire Live",
@@ -426,10 +411,10 @@
     },
     {
       "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - footballlowdown.com",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; footballlowdown.com",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "footballlowdown.com",
+      "source": "Football Lowdown",
       "published": "2026-09-03T11:47:53.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -655,21 +640,6 @@
       "players": [
         "Mohammed Fuseini"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHVRTUI4dEhUbVBFNzVNWGRfd1Y4dEpDMW9Pb2Vzb3dXZjlRM29hWkxSZElZSTlHMjNadVVjNlI2ZzBQb3k4SGtNRWdDa1kza1lQbXdUUFZQTEhCZUJaTXNjZDhtVkFkV2ctMzJyZFlkLVBSRF9VUGhfLWNEanZHMXBvMkNmN1pTOGhtMQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-02T02:03:07.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
@@ -1071,10 +1041,10 @@
     },
     {
       "id": "ZmMgcG9ydHNtb3V0aCBkZXJieSBjb3VudHkgMDEgMD",
-      "title": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht - transfermarkt.de",
+      "description": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hbUl6MnVid2tMdEZCUV9nMDYxRmNkVUVXUVU5d1o3bmk0RmlNT2lHM1dUdExFa2JmekJBVHRadVlEVEMtVGNGVXR2LTFxcVFVdFdHNHkwRzkxY25lYmJmQkw3ZV9GVDlWaXN2eTR5ODVjNkxjVng4?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-01T18:45:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1596,10 +1566,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
-      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Rekord-Zugänge (Galerie) - transfermarkt.de",
+      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWtxdUw3VjBKTFlySXVuN1FIeDdEd3doZFpqUXc1b2ZjZXM2OGhqbk9oNXFmT09qam1WOF9ENDc2bk5Ddk9rbElWMlRBd3ZjWmE0cDlld293SUszRHJ4MWhtZ3V2emlrc1lMdnZVMTFwRmxKUHRjT29FQXZlaFFlX1JhTmE4cFY5SkFEY3FwQlNqOExMZkJjV1dvS0NBVUZPLUx0UmlLdzdjOFRsbC1QRm02R3VzUWRkdEktLTJJZDR5VjNwQzdB?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-31T01:02:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1919,10 +1889,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
-      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - footballlowdown.com",
-      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; footballlowdown.com",
+      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
+      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; Football Lowdown",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTcwbU54S1pqbTVvcVB1RWNMQlhKN2NqQ2dVYV85ZVhmQ0ZvejdIMG9ObzlWLUxHVXJRMWpZaUlCZFl6XzJSSnJ5c0l2YnJrWnpGZE5fNkVwYlA3V2dEb0phekZnVG1qOUFMQWFqUU9fb2VKODlvR3Iwdk5HaXFiYS1FR1hIWWZwM2FnbFE4MTBpY3ZrMllCUG1hLWJxNTU4cUktdzVzVGJtS1BJZGc?oc=5",
-      "source": "footballlowdown.com",
+      "source": "Football Lowdown",
       "published": "2026-08-30T11:09:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2045,6 +2015,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.de",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.de",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHVCakpDQWZieU1GVGxjUGZXcHBWYnFiRjd1UkFWdWx0OVZjVHpoYVA2TWRRMEp5VHkxNGIydkJDSlZrTVBjbldrT3FoT3g4MWQ0blhIX2VEeHdldzhjZlpQOHc3RFk2RjF0OUd5SThEWmIxenhmR3RvSGZOTkNUcTV6b1dvdEM4eVdxag?oc=5",
+      "source": "transfermarkt.de",
+      "published": "2026-08-29T00:26:36.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -2209,10 +2194,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSByZWtvcmQgenVnIG5nZS",
-      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - Transfermarkt",
-      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - transfermarkt.de",
+      "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzRTMTVpUk5xd1NnRXFsMEhKQ25UWGNHcWkzSWpNQ1A4WTYxNUwzSmpCTm95TTc5dnVkTnNjSVFTclB6bHpsd0ZhczlKc0g4TU85VVRqWkRxNGhqNkJHMTJJd3hvcUk0Ym1iTHQzbkx3N2ZBX2FGYWQtMzFsMmJLNUg4dGdDbThHUmRackZQa0lpZVZqM3Jmdnd6dURvRUtiNjdaOUszRWNnbjhIUGQwMW1objhrVFdpbFlGaU14VWppZThZQWpUQ2Z1enM?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-27T23:31:59.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2285,11 +2270,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - transfermarkt.de",
+      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVks5c3VuYUg5RHBBcU42TDVqS29iQ29mMWIwT1YyTzl2cVRfeXJQU2I2TTRiZFZ6ZTBjZDhoVjUyS2hSaHk0SVBtWTByV29rWmNaOVBsUnJ2aG92TVRDYzdCcU1idm5OZ1U0SWpwYlF1Z0EwcTB3YnJtRHNySWdsalF5WnFXSWhmazlUVVJhOFg?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-27T05:22:25.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -3150,6 +3135,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. - OneFootball",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Alex Mowatt. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaGZXUkxNaW5zMi04MkQxVTk4VzRLcTVvUm00OGwtUWNMY3F0TTlDTF9EQzJXSGNxSE5ZWjZVY0pJMm4tV2VIWFh4cGRoNHhUWmlmaGxJM2E?oc=5",
+      "source": "OneFootball",
+      "published": "2026-08-18T20:20:57.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": [
+        "Alex Mowatt"
+      ]
     }
   ]
 }
