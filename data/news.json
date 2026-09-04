@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T21:21:43.315Z",
+  "updatedAt": "2026-09-04T21:34:52.836Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 83,
-      "status": "Hot",
-      "independentReports": 9,
+      "score": 80,
+      "status": "Strong",
+      "independentReports": 8,
       "totalStories": 10,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -24,7 +24,7 @@
       "status": "Strong",
       "independentReports": 4,
       "totalStories": 7,
-      "bestSource": "bbc.co.uk",
+      "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
       "lastMention": "2026-09-02T19:53:49.000Z",
@@ -102,7 +102,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "bbc.co.uk",
+      "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
       "lastMention": "2026-09-02T00:45:26.000Z",
@@ -175,19 +175,6 @@
       "isNew": false
     },
     {
-      "name": "Curtis Davies",
-      "score": 46,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-02T08:13:42.000Z",
-      "firstSeen": "2026-09-03T21:31:51.757Z",
-      "isNew": false
-    },
-    {
       "name": "Leicester Mercury",
       "score": 46,
       "status": "Fading",
@@ -198,6 +185,19 @@
       "maxLikelihood": 63,
       "lastMention": "2026-08-28T08:24:00.000Z",
       "firstSeen": "2026-09-02T10:01:31.212Z",
+      "isNew": false
+    },
+    {
+      "name": "Curtis Davies",
+      "score": 45,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-02T08:13:42.000Z",
+      "firstSeen": "2026-09-03T21:31:51.757Z",
       "isNew": false
     },
     {
@@ -288,7 +288,7 @@
       "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
       "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - BBC",
       "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUGxYcDBzbTV5S0Ixd2s4MFJjQ0xtT3RJNmdISDB2Ulg0R2h5cjYzSkNZY2E5NVg3UTl1WEEtTUd6VlZpbzhkY2kzSE42UlRQc1E3UlU4LU0zUGc0RWZJaVdVWU8xR01qNzFTMWRWaHJSRVNUQ2tyMXNEUjROZkY4YUd1SzR0UEZsTVVqaVIyWWhpSE9udTlFb1FLQlN1YkI3NzJZdkdIbkdZdXJKQ3lwc21BYXVncmV1Yng1cy1kc1dEbVZFS3RHWVJyYlhnWFR0dEZGNkV4SUJRMk9nTWlIYVh4UGtiaFJHdVVvZEptVUM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSWVqR1VsVjRxNFlpYkZtVXI1RE9oRHdockJXdEpfTldsWC0yekdILU1KRG0tY1doOUlRZTczdnFkYzFSQ1BWRU04aUV0MG1hai1sZDhIVWJwcmdfWE1XYndSTTJEejYyVFE?oc=5",
       "source": "BBC",
       "published": "2026-09-04T17:03:27.000Z",
       "reputation": 94,
@@ -481,7 +481,7 @@
       "description": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVlic2J5RVpkOWdZemU4MURRLVBLcEZnSHR0dl8yM3N3NUxnMzVsdDFlLTh5WDNEamhFU1ZhN082MGduSC1lb001OFZLdEZ2NlRPM2V1Y2dMVzI3SjBaSDhxOGhOZEptMWdodktRdlJXQWxoYllFcUIzVjhtckwyRXBESDJ3MGZ5dFlpNmdvdXhQckR1bVVUdVY1Q1NLVWtLUXcwTmRsd3N1SDVmXzBF?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-09-03T08:37:05.000Z",
+      "published": "2026-09-03T08:36:32.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
@@ -739,10 +739,10 @@
     },
     {
       "id": "dHJhbnNmZXIgZGVhZGxpbmUgZGF5IG9uIGJiYyByYW",
-      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - bbc.co.uk",
-      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; bbc.co.uk",
+      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - BBC",
+      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMW51d0sxbDgwSkRZZnV6RTRoR2MtMXA1ZFZjdHVkTmZpaHNiX0NwWmpkNmlpdnEzYWRqZlNZZ1BwSWQ0cFJKb01CQmpqR191U2hlYTJQSmZmb1pUODRyM3dtcjhmUQ?oc=5",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "published": "2026-09-02T00:45:26.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -1019,10 +1019,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
-      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - bbc.co.uk",
-      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; bbc.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tRGdVWVhfbnItM1lVVjktMGRXdGJaTXl2TlNmX3U2NGJFQnFITXZWVk9DcjhHdG93LWRUUkdaV3lDSzRHZFE0ZnROZkNlX3gwMTVKYThIVlJXX0Q0ME5sZXdoMXdyMXI1enc?oc=5",
-      "source": "bbc.co.uk",
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
+      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
+      "source": "BBC",
       "published": "2026-09-01T19:15:16.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -1579,7 +1579,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2869,21 +2869,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
-      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
-      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 76,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
       "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
       "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
@@ -2899,6 +2884,21 @@
       "players": [
         "Former Celtic"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
+      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
+      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 76,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
@@ -3108,7 +3108,7 @@
       "description": "Derby County 'exploring every avenue' as transfer search continues &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOEI1QjNpNWg1eFoxQXVlUmRLUDhuUlM3RXI2dG9ndXp4MDJRUEFMeWZGakFZVWlucndwNi1wd0EwTVFrZ2pzUXpzUG01Sy1YR1RJUTFEcjlBc29tNEgtX1A3Ukl3S3h3YUxmYmxlUWRuLVR5Q1dORDNudFNLaGpqallJbGdTYjBsWHNZdTljZllWNDAxclBPQVpVT3B3cG5jTXlCRnBJOFU3dw?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-08-21T10:01:00.000Z",
+      "published": "2026-08-21T07:00:00.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
