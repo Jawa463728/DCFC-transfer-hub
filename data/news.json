@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T21:46:10.182Z",
+  "updatedAt": "2026-09-04T21:57:25.052Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -2475,24 +2475,6 @@
       ]
     },
     {
-      "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
-      "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer - Derbyshire Live",
-      "description": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmNwTEtQRU1CM1BQSl9kdzkyRkNLbG5GeW50RGNpX2cta1hTTWdIT05fbnB4Uzg3WWI5UG1kWW5BTlF5WkRXOEFSS3N6YUc4NVJCTl9BX1JtVUJucFJCSXQwRFdMNFJaaVlsZVRkSENYc1FoTGFnc1lSaG1tQklrcV9DYWNoemN5cjVKeU45eUlVa3lNR3QxRzJHbVR5Ykg3dXFWZkllakxoeG5mc2c?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Russell Martin",
-        "Hamza Choudhury"
-      ]
-    },
-    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -2539,6 +2521,24 @@
       "overseas": true,
       "players": [
         "Calciomercato Pisa"
+      ]
+    },
+    {
+      "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
+      "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer - Derbyshire Live",
+      "description": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmNwTEtQRU1CM1BQSl9kdzkyRkNLbG5GeW50RGNpX2cta1hTTWdIT05fbnB4Uzg3WWI5UG1kWW5BTlF5WkRXOEFSS3N6YUc4NVJCTl9BX1JtVUJucFJCSXQwRFdMNFJaaVlsZVRkSENYc1FoTGFnc1lSaG1tQklrcV9DYWNoemN5cjVKeU45eUlVa3lNR3QxRzJHbVR5Ykg3dXFWZkllakxoeG5mc2c?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Russell Martin",
+        "Hamza Choudhury"
       ]
     },
     {
@@ -3089,10 +3089,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNhcmRpZmYgY2l0eSBxdW90ZS",
-      "title": "Derby County-Cardiff City – Quote e Pronostici Championship – 22/08/2026 - ToffeeWeb",
-      "description": "Derby County-Cardiff City – Quote e Pronostici Championship – 22/08/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Derby County-Cardiff City – Quote e Pronostici Championship – 22/08/2026 - toffeeweb.com",
+      "description": "Derby County-Cardiff City – Quote e Pronostici Championship – 22/08/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDVxTGFQYXUwNW55YThlcXJmeHpoNWRvVy1LT1gyUDJQVXZPbi1VUVlnamdISG5QZ1dZbS00Xy1Ka3hGdmlYY2ZTVEY2cDZQNmRvTFVnTnk0eFZlTWlqXzhBMHBjVXEwM0tFbDZkcTNSS2twbERFdko2QUZPajFEdEt4QVdEZnBrY0w3Y3ozWDVvTHlKbmFQbllkQVlMXzg?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-08-22T00:35:02.000Z",
       "reputation": 48,
       "likelihood": 43,
