@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T08:48:48.066Z",
+  "updatedAt": "2026-09-04T09:00:13.453Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -71,19 +71,6 @@
       "isNew": false
     },
     {
-      "name": "Le Soir",
-      "score": 57,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Le Soir",
-      "bestSourceScore": 96,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-01T21:40:00.000Z",
-      "firstSeen": "2026-09-04T08:48:48.066Z",
-      "isNew": true
-    },
-    {
       "name": "Radio Derbyshire",
       "score": 56,
       "status": "Developing",
@@ -95,6 +82,19 @@
       "lastMention": "2026-09-02T00:45:26.000Z",
       "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 56,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-04T08:48:48.066Z",
+      "isNew": true
     },
     {
       "name": "Ben Brereton-",
@@ -232,7 +232,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "footballlowdown.com",
+      "bestSource": "Football Lowdown",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T11:47:53.000Z",
@@ -351,10 +351,10 @@
     },
     {
       "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - footballlowdown.com",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; footballlowdown.com",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "footballlowdown.com",
+      "source": "Football Lowdown",
       "published": "2026-09-03T11:47:53.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -810,10 +810,10 @@
     },
     {
       "id": "aXJpc2ggc3RhciBzZWFscyBkZXJieSBjb3VudHkgcm",
-      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - thesun.ie",
-      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; thesun.ie",
+      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - The Irish Sun",
+      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; The Irish Sun",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjQ5M09icmRGQmtwdGpBUmpNTzBCSmk4bC1mSGlod05Kc3cwVHhoLXZpUjV0c1pQbVphUlBfYzBaU3F0Ynd2YVE5X3FVS2ZRdzVTem9ZTjlLVmozT0pJaFpXU3dqSFowTmJKQVVpNDdwMjZBbmxTT1hxM3V2MDFUcUVSUXlKY204TFlrY2pWNHliMTVKdXowcFFR?oc=5",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "published": "2026-09-01T20:37:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -821,7 +821,9 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
+      "players": [
+        "The Irish Sun"
+      ]
     },
     {
       "id": "bW9oYW1tZWQgZnVzZWluaSBzZXQgdG8gam9pbiBkZX",
@@ -975,10 +977,10 @@
     },
     {
       "id": "ZmMgcG9ydHNtb3V0aCBkZXJieSBjb3VudHkgMDEgMD",
-      "title": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht - transfermarkt.de",
-      "description": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
+      "title": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hbUl6MnVid2tMdEZCUV9nMDYxRmNkVUVXUVU5d1o3bmk0RmlNT2lHM1dUdExFa2JmekJBVHRadVlEVEMtVGNGVXR2LTFxcVFVdFdHNHkwRzkxY25lYmJmQkw3ZV9GVDlWaXN2eTR5ODVjNkxjVng4?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-01T18:45:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1099,10 +1101,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdpdGggbG9uZyB3YXkgdG8gZ2",
-      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - insidefutbol.com",
-      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; insidefutbol.com",
+      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - Inside Futbol",
+      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; Inside Futbol",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnBaZkVYYmlIbmY5N3hHdUdOTktOZFlSR2d1V3NWejJYSlZCZWdNcDZOaGhia2pJbUg0ZlVSNTU1OURNSWxQWmFlbTRqX0tlWmFvLTdIdlk0dGVIQWF2ZEtJNGFFUEh0QURETVl3N2FjbV9XWGpTNUViMjFRZUhoTUs4bFBTYU5SOUc4SS0xR2FOTmZvQjJWbDhNWW5rcUd5bnhweHU5THZZdw?oc=5",
-      "source": "insidefutbol.com",
+      "source": "Inside Futbol",
       "published": "2026-09-01T16:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1235,7 +1237,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -1823,10 +1825,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
-      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - footballlowdown.com",
-      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; footballlowdown.com",
+      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
+      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; Football Lowdown",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTcwbU54S1pqbTVvcVB1RWNMQlhKN2NqQ2dVYV85ZVhmQ0ZvejdIMG9ObzlWLUxHVXJRMWpZaUlCZFl6XzJSSnJ5c0l2YnJrWnpGZE5fNkVwYlA3V2dEb0phekZnVG1qOUFMQWFqUU9fb2VKODlvR3Iwdk5HaXFiYS1FR1hIWWZwM2FnbFE4MTBpY3ZrMllCUG1hLWJxNTU4cUktdzVzVGJtS1BJZGc?oc=5",
-      "source": "footballlowdown.com",
+      "source": "Football Lowdown",
       "published": "2026-08-30T11:09:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2204,11 +2206,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - transfermarkt.de",
-      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVks5c3VuYUg5RHBBcU42TDVqS29iQ29mMWIwT1YyTzl2cVRfeXJQU2I2TTRiZFZ6ZTBjZDhoVjUyS2hSaHk0SVBtWTByV29rWmNaOVBsUnJ2aG92TVRDYzdCcU1idm5OZ1U0SWpwYlF1Z0EwcTB3YnJtRHNySWdsalF5WnFXSWhmazlUVVJhOFg?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-27T05:22:25.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2348,24 +2350,6 @@
       ]
     },
     {
-      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
-      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
-      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Southampton's Ben Brereton Diaz",
-        "Yorkshire Post"
-      ]
-    },
-    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -2412,6 +2396,24 @@
       "overseas": true,
       "players": [
         "Calciomercato Pisa"
+      ]
+    },
+    {
+      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
+      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
+      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 78,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
       ]
     },
     {
@@ -2749,7 +2751,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Former Celtic"
@@ -2958,17 +2960,17 @@
       "players": []
     },
     {
-      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
+      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
+      "title": "NEW SIGNING INTERVIEW: Ryan Hedges - Derby County",
+      "description": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWxhdHJwbEVkZ25DMkp6LU91UURlUkhaWVVETmI2UmVrWnhRRENrckdsVlNxVFUyMkxLQnVUTnIzR004UVFILV9Yd09DOElrckp4Wno2eDgzbHcwS1pCZi1OUVJyVE9fRjQ5ZVlFVi0wa3VsTExmMVF3eURPS0lPOEtR?oc=5",
+      "source": "Derby County",
       "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ryan Hedges"
@@ -2988,6 +2990,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
+      "source": "BBC",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHNpeHRoIHN1bW",
@@ -3018,23 +3037,6 @@
       "ratingLabel": "Strong",
       "status": "rumour",
       "edition": "us",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
-    },
-    {
-      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
-      "title": "NEW SIGNING INTERVIEW: Ryan Hedges - Derby County",
-      "description": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWxhdHJwbEVkZ25DMkp6LU91UURlUkhaWVVETmI2UmVrWnhRRENrckdsVlNxVFUyMkxLQnVUTnIzR004UVFILV9Yd09DOElrckp4Wno2eDgzbHcwS1pCZi1OUVJyVE9fRjQ5ZVlFVi0wa3VsTExmMVF3eURPS0lPOEtR?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
       "overseas": false,
       "players": [
         "Ryan Hedges"
@@ -3103,6 +3105,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHByb3NwZWN0IGV4cGxhaW5zIH",
+      "title": "Derby County prospect explains transfer to rejoin Celtic legend as deal sanctioned - Derbyshire Live",
+      "description": "Derby County prospect explains transfer to rejoin Celtic legend as deal sanctioned &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZi1iSG80a3FuWEpjazNkdVBJa2lEdjhhckVXRVV3enlneTNzSXdvdGVrM2hvQkJKSFBmQW1YZUJzRDBnc1M1QU10YXpQbk9GNGdfVm5MQ3JJLXk1S0xuSm9jLWY3Y2xURk1Bb3FNLWQzTVhQVDN5T080M0xHVzhMZHoyaDhNZmktOUVTNDF2bkx0X0t3akxQYklGY1dQS1BVaXRFeUJJSVZFZzBF?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-18T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHN0YXIgc3ViamVjdCBvZiBzZX",
       "title": "Derby County star subject of Serie A transfer offer including huge sell-on clause - Yahoo Sports UK",
       "description": "Derby County star subject of Serie A transfer offer including huge sell-on clause &nbsp;&nbsp; Yahoo Sports UK",
@@ -3114,21 +3131,6 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHByb3NwZWN0IGV4cGxhaW5zIH",
-      "title": "Derby County prospect explains transfer to rejoin Celtic legend as deal sanctioned - Derbyshire Live",
-      "description": "Derby County prospect explains transfer to rejoin Celtic legend as deal sanctioned &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZi1iSG80a3FuWEpjazNkdVBJa2lEdjhhckVXRVV3enlneTNzSXdvdGVrM2hvQkJKSFBmQW1YZUJzRDBnc1M1QU10YXpQbk9GNGdfVm5MQ3JJLXk1S0xuSm9jLWY3Y2xURk1Bb3FNLWQzTVhQVDN5T080M0xHVzhMZHoyaDhNZmktOUVTNDF2bkx0X0t3akxQYklGY1dQS1BVaXRFeUJJSVZFZzBF?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-18T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
       "overseas": false,
       "players": []
     },
