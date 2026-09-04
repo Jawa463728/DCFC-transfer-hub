@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T21:06:04.957Z",
+  "updatedAt": "2026-09-04T21:21:43.315Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -102,7 +102,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "BBC",
+      "bestSource": "bbc.co.uk",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
       "lastMention": "2026-09-02T00:45:26.000Z",
@@ -202,7 +202,7 @@
     },
     {
       "name": "Year Old Midfielder Target",
-      "score": 44,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -215,7 +215,7 @@
     },
     {
       "name": "Super Eagles Spot After",
-      "score": 44,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -409,21 +409,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWQ0WWF6YXI2c3ViN1BFVmVJVUtTQ2YyeHljS2Vzbll3NVMwWWsyYkxFN0F1REJVVTNtY2ExLUJoMkpyYUlLSHp3ZHVPeTBJYlRnTTVHRU10SWdfY0dES0NoWllNWFhCdDJ5eGpDd2xQRXlSSEZXRWRzcUVYVEFtZnlIVXVhSkhSQl9B?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-03T17:08:26.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IGNvbmZpcm0gb3dlbiBlYW1lcy",
       "title": "Derby County confirm Owen Eames transfer as move sanctioned - Derbyshire Live",
       "description": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Derbyshire Live",
@@ -489,6 +474,21 @@
       "players": [
         "Following Jakub Stolarczyk Injury"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHNpZ25pbmcgcyBhZ2VudCBhZG",
+      "title": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama | Derbyshire Live - Derbyshire Live",
+      "description": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVlic2J5RVpkOWdZemU4MURRLVBLcEZnSHR0dl8yM3N3NUxnMzVsdDFlLTh5WDNEamhFU1ZhN082MGduSC1lb001OFZLdEZ2NlRPM2V1Y2dMVzI3SjBaSDhxOGhOZEptMWdodktRdlJXQWxoYllFcUIzVjhtckwyRXBESDJ3MGZ5dFlpNmdvdXhQckR1bVVUdVY1Q1NLVWtLUXcwTmRsd3N1SDVmXzBF?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-03T08:37:05.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHNpZ25pbmcgcyBhZ2VudCBhZG",
@@ -739,10 +739,10 @@
     },
     {
       "id": "dHJhbnNmZXIgZGVhZGxpbmUgZGF5IG9uIGJiYyByYW",
-      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - BBC",
-      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; BBC",
+      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - bbc.co.uk",
+      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMW51d0sxbDgwSkRZZnV6RTRoR2MtMXA1ZFZjdHVkTmZpaHNiX0NwWmpkNmlpdnEzYWRqZlNZZ1BwSWQ0cFJKb01CQmpqR191U2hlYTJQSmZmb1pUODRyM3dtcjhmUQ?oc=5",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "published": "2026-09-02T00:45:26.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -1832,7 +1832,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1849,7 +1849,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1977,7 +1977,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2000,10 +2000,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
+      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "tribalfootball.com",
+      "source": "TribalFootball",
       "published": "2026-08-29T23:51:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -3128,7 +3128,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Ryan Hedges"
