@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T22:29:20.465Z",
+  "updatedAt": "2026-09-04T22:42:00.308Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -10,7 +10,7 @@
       "score": 90,
       "status": "Hot",
       "independentReports": 4,
-      "totalStories": 8,
+      "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
@@ -285,25 +285,10 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbXFpQi1rLW51WHVraEozVVFCSjlvcjJQbjZmT2tnRGdVTHVxcHM0ekY2aTJlV2tGWFFLWF9XdzNXWnlzOE84Q3puUVpSTk84RmdWU2tUYk51a3FHc3Q2VW9GSzdkMTBwVUY3by1CSHc4MzA2MTdBTGlBaWV5UTdUSWY2cUN6MUpxNE90QUJrZkdwVG9n?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-04T18:17:43.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
       "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - BBC",
       "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUGxYcDBzbTV5S0Ixd2s4MFJjQ0xtT3RJNmdISDB2Ulg0R2h5cjYzSkNZY2E5NVg3UTl1WEEtTUd6VlZpbzhkY2kzSE42UlRQc1E3UlU4LU0zUGc0RWZJaVdVWU8xR01qNzFTMWRWaHJSRVNUQ2tyMXNEUjROZkY4YUd1SzR0UEZsTVVqaVIyWWhpSE9udTlFb1FLQlN1YkI3NzJZdkdIbkdZdXJKQ3lwc21BYXVncmV1Yng1cy1kc1dEbVZFS3RHWVJyYlhnWFR0dEZGNkV4SUJRMk9nTWlIYVh4UGtiaFJHdVVvZEptVUM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSWVqR1VsVjRxNFlpYkZtVXI1RE9oRHdockJXdEpfTldsWC0yekdILU1KRG0tY1doOUlRZTczdnFkYzFSQ1BWRU04aUV0MG1hai1sZDhIVWJwcmdfWE1XYndSTTJEejYyVFE?oc=5",
       "source": "BBC",
       "published": "2026-09-04T17:03:27.000Z",
       "reputation": 94,
@@ -441,6 +426,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWQ0WWF6YXI2c3ViN1BFVmVJVUtTQ2YyeHljS2Vzbll3NVMwWWsyYkxFN0F1REJVVTNtY2ExLUJoMkpyYUlLSHp3ZHVPeTBJYlRnTTVHRU10SWdfY0dES0NoWllNWFhCdDJ5eGpDd2xQRXlSSEZXRWRzcUVYVEFtZnlIVXVhSkhSQl9B?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-03T17:08:26.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbmZpcm0gb3dlbiBlYW1lcy",
       "title": "Derby County confirm Owen Eames transfer as move sanctioned - Derbyshire Live",
       "description": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Derbyshire Live",
@@ -536,6 +536,24 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGZhbnMgd2lsbCBsb3ZlIGhvdy",
+      "title": "Derby County fans will love how Eiran Cashin reacted to David Ozoh re-signing - Football League World",
+      "description": "Derby County fans will love how Eiran Cashin reacted to David Ozoh re-signing &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnY2VG9YME1kVG42b1VGclVBWlZaSVNlMzJ4dFBydUNwX1pPNXVjSXV0T3czczFvakFTWGxzNFFVUWtfSnJQN1E1bWRrLXNLeXVnWGNUaDI5c0FGSFhTVzZiYzFCd1VRcURsSkt3RmxGYUFaY1ZLd2R3dEE5Q0ZtTXZWTHMxMF8waEtlV3JkY0JLcTJ2ckNxT1BEWXhNbl9PZ2xfLUJxakFobms?oc=5",
+      "source": "Football League World",
+      "published": "2026-09-03T05:45:11.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Eiran Cashin",
+        "David Ozoh"
+      ]
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
@@ -3132,21 +3150,6 @@
       "status": "rumour",
       "edition": "it",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGV4cGxvcmluZyBldmVyeSBhdm",
-      "title": "Derby County 'exploring every avenue' as transfer search continues - Derbyshire Live",
-      "description": "Derby County 'exploring every avenue' as transfer search continues &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOEI1QjNpNWg1eFoxQXVlUmRLUDhuUlM3RXI2dG9ndXp4MDJRUEFMeWZGakFZVWlucndwNi1wd0EwTVFrZ2pzUXpzUG01Sy1YR1RJUTFEcjlBc29tNEgtX1A3Ukl3S3h3YUxmYmxlUWRuLVR5Q1dORDNudFNLaGpqallJbGdTYjBsWHNZdTljZllWNDAxclBPQVpVT3B3cG5jTXlCRnBJOFU3dw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-21T10:01:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
