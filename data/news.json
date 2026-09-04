@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T20:52:24.397Z",
+  "updatedAt": "2026-09-04T21:06:04.957Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 80,
-      "status": "Strong",
-      "independentReports": 8,
+      "score": 83,
+      "status": "Hot",
+      "independentReports": 9,
       "totalStories": 10,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -24,7 +24,7 @@
       "status": "Strong",
       "independentReports": 4,
       "totalStories": 7,
-      "bestSource": "BBC",
+      "bestSource": "bbc.co.uk",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
       "lastMention": "2026-09-02T19:53:49.000Z",
@@ -97,19 +97,6 @@
       "isNew": false
     },
     {
-      "name": "Le Soir",
-      "score": 54,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Le Soir",
-      "bestSourceScore": 96,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-01T21:40:00.000Z",
-      "firstSeen": "2026-09-04T20:10:03.374Z",
-      "isNew": true
-    },
-    {
       "name": "Radio Derbyshire",
       "score": 53,
       "status": "Watch",
@@ -121,6 +108,19 @@
       "lastMention": "2026-09-02T00:45:26.000Z",
       "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 53,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-04T20:10:03.374Z",
+      "isNew": true
     },
     {
       "name": "Southampton's Ben Brereton Diaz",
@@ -288,7 +288,7 @@
       "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
       "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - BBC",
       "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSWVqR1VsVjRxNFlpYkZtVXI1RE9oRHdockJXdEpfTldsWC0yekdILU1KRG0tY1doOUlRZTczdnFkYzFSQ1BWRU04aUV0MG1hai1sZDhIVWJwcmdfWE1XYndSTTJEejYyVFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUGxYcDBzbTV5S0Ixd2s4MFJjQ0xtT3RJNmdISDB2Ulg0R2h5cjYzSkNZY2E5NVg3UTl1WEEtTUd6VlZpbzhkY2kzSE42UlRQc1E3UlU4LU0zUGc0RWZJaVdVWU8xR01qNzFTMWRWaHJSRVNUQ2tyMXNEUjROZkY4YUd1SzR0UEZsTVVqaVIyWWhpSE9udTlFb1FLQlN1YkI3NzJZdkdIbkdZdXJKQ3lwc21BYXVncmV1Yng1cy1kc1dEbVZFS3RHWVJyYlhnWFR0dEZGNkV4SUJRMk9nTWlIYVh4UGtiaFJHdVVvZEptVUM?oc=5",
       "source": "BBC",
       "published": "2026-09-04T17:03:27.000Z",
       "reputation": 94,
@@ -1019,10 +1019,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
-      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
-      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - bbc.co.uk",
+      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tRGdVWVhfbnItM1lVVjktMGRXdGJaTXl2TlNmX3U2NGJFQnFITXZWVk9DcjhHdG93LWRUUkdaV3lDSzRHZFE0ZnROZkNlX3gwMTVKYThIVlJXX0Q0ME5sZXdoMXdyMXI1enc?oc=5",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "published": "2026-09-01T19:15:16.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -1579,7 +1579,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1832,7 +1832,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -1849,7 +1849,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1977,7 +1977,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2000,10 +2000,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
+      "source": "tribalfootball.com",
       "published": "2026-08-29T23:51:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -3118,6 +3118,23 @@
       "players": []
     },
     {
+      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
+      "source": "BBC",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
+    },
+    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges - Derby County",
       "description": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -3133,21 +3150,6 @@
       "players": [
         "Ryan Hedges"
       ]
-    },
-    {
-      "id": "aW50ZXJ2aWV3IGhlZGdlcyBkZWxpZ2h0ZWQgYWZ0ZX",
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move - Derby County",
-      "description": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     }
   ]
 }
