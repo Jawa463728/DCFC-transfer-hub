@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T06:53:57.965Z",
+  "updatedAt": "2026-09-04T07:10:06.125Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 83,
+      "score": 86,
       "status": "Hot",
-      "independentReports": 7,
+      "independentReports": 8,
       "totalStories": 9,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -24,24 +24,11 @@
       "status": "Hot",
       "independentReports": 4,
       "totalStories": 7,
-      "bestSource": "BBC",
+      "bestSource": "bbc.com",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
       "lastMention": "2026-09-02T19:53:49.000Z",
       "firstSeen": "2026-09-01T12:55:00.883Z",
-      "isNew": false
-    },
-    {
-      "name": "Hamza Choudhury",
-      "score": 67,
-      "status": "Fading",
-      "independentReports": 3,
-      "totalStories": 6,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 80,
-      "lastMention": "2026-08-28T08:24:00.000Z",
-      "firstSeen": "2026-08-25T23:27:22.911Z",
       "isNew": false
     },
     {
@@ -55,6 +42,19 @@
       "maxLikelihood": 73,
       "lastMention": "2026-09-02T09:50:52.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
+      "isNew": false
+    },
+    {
+      "name": "Hamza Choudhury",
+      "score": 64,
+      "status": "Fading",
+      "independentReports": 3,
+      "totalStories": 4,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-08-28T08:24:00.000Z",
+      "firstSeen": "2026-08-25T23:27:22.911Z",
       "isNew": false
     },
     {
@@ -219,7 +219,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Football Lowdown",
+      "bestSource": "footballlowdown.com",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T11:47:53.000Z",
@@ -285,11 +285,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.at",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.at",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWQ0WWF6YXI2c3ViN1BFVmVJVUtTQ2YyeHljS2Vzbll3NVMwWWsyYkxFN0F1REJVVTNtY2ExLUJoMkpyYUlLSHp3ZHVPeTBJYlRnTTVHRU10SWdfY0dES0NoWllNWFhCdDJ5eGpDd2xQRXlSSEZXRWRzcUVYVEFtZnlIVXVhSkhSQl9B?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-03T17:08:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -351,10 +351,10 @@
     },
     {
       "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - footballlowdown.com",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-09-03T11:47:53.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -382,11 +382,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5fHRyYW5zZmVybWFya3QuYXQ",
-      "title": "Derby County - transfermarkt.at",
-      "description": "Derby County &nbsp;&nbsp; transfermarkt.at",
+      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
+      "title": "Derby County - Transfermarkt",
+      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUFUyQ2Z4SDJIMUJva2xoYVI3RDM3ZkJwaE5QcE5wY1otQlVVdzVWVWtuek5NQUFENEpFZnBLcC10N0k5MjQ2TDY5U2RRdGRpLXBLN2s1TjA2SE5jcmhHb1BPajlieWFiTk5vNmgyTGc3T0RPUGFvYWVXd25DekFUOFV3WFFZRmh1NTZ6YUVKeWdYR0g0Z1dfUG5xbkJjM2xwN3BBczlEQUZJNVZYRmx3VU1CSnR3MldQMUx5WlFyOGlScWJmUHRhUzRHcFFaUk9nVktTWUd1aW1PRlBJZ0V2ZWRLb2RMdm5aUnFTUERfTklreWM?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-02T20:37:15.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -876,10 +876,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
-      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
-      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - bbc.com",
+      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-09-01T19:15:16.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -1101,10 +1101,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdpdGggbG9uZyB3YXkgdG8gZ2",
-      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - Inside Futbol",
-      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; Inside Futbol",
+      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - insidefutbol.com",
+      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; insidefutbol.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnBaZkVYYmlIbmY5N3hHdUdOTktOZFlSR2d1V3NWejJYSlZCZWdNcDZOaGhia2pJbUg0ZlVSNTU1OURNSWxQWmFlbTRqX0tlWmFvLTdIdlk0dGVIQWF2ZEtJNGFFUEh0QURETVl3N2FjbV9XWGpTNUViMjFRZUhoTUs4bFBTYU5SOUc4SS0xR2FOTmZvQjJWbDhNWW5rcUd5bnhweHU5THZZdw?oc=5",
-      "source": "Inside Futbol",
+      "source": "insidefutbol.com",
       "published": "2026-09-01T16:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1825,10 +1825,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
-      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
-      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; Football Lowdown",
+      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - footballlowdown.com",
+      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTcwbU54S1pqbTVvcVB1RWNMQlhKN2NqQ2dVYV85ZVhmQ0ZvejdIMG9ObzlWLUxHVXJRMWpZaUlCZFl6XzJSSnJ5c0l2YnJrWnpGZE5fNkVwYlA3V2dEb0phekZnVG1qOUFMQWFqUU9fb2VKODlvR3Iwdk5HaXFiYS1FR1hIWWZwM2FnbFE4MTBpY3ZrMllCUG1hLWJxNTU4cUktdzVzVGJtS1BJZGc?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-08-30T11:09:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2114,17 +2114,17 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U21 - transfermarkt.com",
-      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2741,6 +2741,23 @@
       "players": []
     },
     {
+      "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
+      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
+      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
+      "source": "GlasgowWorld",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Former Celtic"
+      ]
+    },
+    {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
       "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - BBC",
       "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
@@ -2787,23 +2804,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
-      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
-      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
-      "source": "GlasgowWorld",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Former Celtic"
-      ]
     },
     {
       "id": "ZmMgYXJzZW5hbCBkZXJieSBjb3VudHkgMDIgMDUgMT",
@@ -2961,10 +2961,10 @@
     },
     {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - bbc.com",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-20T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -3135,10 +3135,10 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGluIGRvdWJsZSBibG93IGFzIG",
-      "title": "Derby County in double blow as deja vu sparks 'obvious' transfer need - Derbyshire Live",
-      "description": "Derby County in double blow as deja vu sparks 'obvious' transfer need &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0lRQWk0ejBBOFBUZTgzV1BaUG13LUtGQklaVnVGSUJRNnAtb0RUVzhnd1Nkd1c0YzhWeWZnWUtYaW5samRJeTNpdW9uYlhiX2xzUDVpaUF0aHl3Zy16ZnI4ZzV2eXdnOFFwaDl3cmthVTB1dl9LM2FwWUtQMXVHNjk1Y0FpRFRNc1RldHFkamFWdVo5ai1xNXNqeE5YSXZrX3VUU1lvWnI0bnPSAbABQVVfeXFMT2JZX1Fobmt5NnJJQ2tjVzJvMHZUMGNkbEw1OXNCdjNtQzFOSjNKMEt0TzlZOEtKeHl1Y05lMW1vLW9lV2VHYjVZSm1Rd2locURXQWFCemZGUFRzOUJYeDBxeG5OYmU4VzI4YWozaDVzdlRVNmdqVDNRcVhJbDFENG9sWG52cHU4UTQzdy1CT1JuZ0NpcWZwVTFJRDZESGFBQ29yVFN0bzRrMEZWeHM3NGI?oc=5",
+      "id": "d2VzdCBicm9tIGJvc3MgcmVhY3RzIHRvIGRlcmJ5IG",
+      "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' - Derbyshire Live",
+      "description": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5COW93Z0JzWnhvOGt5d09QczlkZUpCajZ3aExfUG9PdUxFSmswZTFNcFFWNk1aOXBjbUU3ZVpmUUhyYmdqU2Y0NW9DV01TVWFvSFRpNzdhRUp4OXpBWDhXaXBTeFRsU2Fja3p2T21WalljUnhac0N1eTN0R0Y3MmZacnJyWXg4S21zSFJoZzV3WUdvZHJIYmViYVExRGZxdjB1TkkxYw?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-08-16T07:00:00.000Z",
       "reputation": 87,
