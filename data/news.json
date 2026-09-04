@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:21:13.886Z",
+  "updatedAt": "2026-09-04T23:32:51.909Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "David Ozoh",
       "score": 89,
       "status": "Hot",
-      "independentReports": 5,
+      "independentReports": 4,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -318,10 +318,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1694,6 +1694,23 @@
       "players": []
     },
     {
+      "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmEgYSBnaW9jYX",
+      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - Napoli Magazine",
+      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; Napoli Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRVRoZ2pYa09PVXQ5WjVQckkydVJUTG82Vy1ReTlhcTBPVHI0SDhuMlBneXF6QUlRZE1ha0JaaGRBeElIU3gwTjJvQ2FJN1FFNGVtdmZNdF84aFJpMURzQTBxdk9fSk1halpBTGhTaVlMbEE2ZDZqUWFHcW55MWVYbUZSbEVucTctbjdKRm9vSEFkM1drVHl5dTUwQmg1cGRVN0NMN0VuWFphV2Y0anRieXJVS1FCSWkxeVRwRXdDdHRocDhKb1k4VlFhd0h4NEFFTU1qOEQyVy1kTmc1c2hfX2N3?oc=5",
+      "source": "Napoli Magazine",
+      "published": "2026-08-31T06:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": [
+        "Napoli Magazine"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
       "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
       "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
@@ -1935,23 +1952,6 @@
       "overseas": false,
       "players": [
         "Mattie Pollock"
-      ]
-    },
-    {
-      "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmEgYSBnaW9jYX",
-      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - Napoli Magazine",
-      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; Napoli Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRVRoZ2pYa09PVXQ5WjVQckkydVJUTG82Vy1ReTlhcTBPVHI0SDhuMlBneXF6QUlRZE1ha0JaaGRBeElIU3gwTjJvQ2FJN1FFNGVtdmZNdF84aFJpMURzQTBxdk9fSk1halpBTGhTaVlMbEE2ZDZqUWFHcW55MWVYbUZSbEVucTctbjdKRm9vSEFkM1drVHl5dTUwQmg1cGRVN0NMN0VuWFphV2Y0anRieXJVS1FCSWkxeVRwRXdDdHRocDhKb1k4VlFhd0h4NEFFTU1qOEQyVy1kTmc1c2hfX2N3?oc=5",
-      "source": "Napoli Magazine",
-      "published": "2026-08-30T15:00:05.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": [
-        "Napoli Magazine"
       ]
     },
     {
