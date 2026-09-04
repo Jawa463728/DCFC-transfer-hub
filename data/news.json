@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T15:33:52.605Z",
+  "updatedAt": "2026-09-04T15:46:50.965Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,8 +7,8 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 82,
-      "status": "Hot",
+      "score": 81,
+      "status": "Strong",
       "independentReports": 8,
       "totalStories": 10,
       "bestSource": "Derby County",
@@ -2429,6 +2429,24 @@
       ]
     },
     {
+      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
+      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
+      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 78,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
+      ]
+    },
+    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -2475,24 +2493,6 @@
       "overseas": true,
       "players": [
         "Calciomercato Pisa"
-      ]
-    },
-    {
-      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
-      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
-      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Southampton's Ben Brereton Diaz",
-        "Yorkshire Post"
       ]
     },
     {
@@ -3039,6 +3039,23 @@
       "players": []
     },
     {
+      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
+      "source": "BBC",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
+    },
+    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges - Derby County",
       "description": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -3069,23 +3086,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHNpeHRoIHN1bW",
