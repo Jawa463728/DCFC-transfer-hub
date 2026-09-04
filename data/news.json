@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T01:04:53.354Z",
+  "updatedAt": "2026-09-04T01:18:18.197Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -175,8 +175,21 @@
       "isNew": false
     },
     {
-      "name": "Year Old Midfielder Target",
+      "name": "Omari Kellyman",
       "score": 49,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-08-25T11:17:00.000Z",
+      "firstSeen": "2026-08-25T23:27:22.911Z",
+      "isNew": false
+    },
+    {
+      "name": "Year Old Midfielder Target",
+      "score": 48,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -189,7 +202,7 @@
     },
     {
       "name": "Super Eagles Spot After",
-      "score": 49,
+      "score": 48,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -199,19 +212,6 @@
       "lastMention": "2026-09-03T12:42:29.000Z",
       "firstSeen": "2026-09-03T16:05:38.927Z",
       "isNew": true
-    },
-    {
-      "name": "Omari Kellyman",
-      "score": 49,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-08-25T11:17:00.000Z",
-      "firstSeen": "2026-08-25T23:27:22.911Z",
-      "isNew": false
     },
     {
       "name": "Following Jakub Stolarczyk Injury",
