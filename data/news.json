@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T11:46:24.745Z",
+  "updatedAt": "2026-09-04T11:58:16.186Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -76,7 +76,7 @@
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "bbc.co.uk",
+      "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
       "lastMention": "2026-09-02T00:45:26.000Z",
@@ -612,6 +612,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHVRTUI4dEhUbVBFNzVNWGRfd1Y4dEpDMW9Pb2Vzb3dXZjlRM29hWkxSZElZSTlHMjNadVVjNlI2ZzBQb3k4SGtNRWdDa1kza1lQbXdUUFZQTEhCZUJaTXNjZDhtVkFkV2ctMzJyZFlkLVBSRF9VUGhfLWNEanZHMXBvMkNmN1pTOGhtMQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-02T02:03:07.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
       "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini - Derby County",
       "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
@@ -630,10 +645,10 @@
     },
     {
       "id": "dHJhbnNmZXIgZGVhZGxpbmUgZGF5IG9uIGJiYyByYW",
-      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - bbc.co.uk",
-      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; bbc.co.uk",
+      "title": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion - BBC",
+      "description": "Transfer deadline day on BBC Radio Derbyshire: Latest on Derby County and Burton Albion &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMW51d0sxbDgwSkRZZnV6RTRoR2MtMXA1ZFZjdHVkTmZpaHNiX0NwWmpkNmlpdnEzYWRqZlNZZ1BwSWQ0cFJKb01CQmpqR191U2hlYTJQSmZmb1pUODRyM3dtcjhmUQ?oc=5",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "published": "2026-09-02T00:45:26.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -1891,10 +1906,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
+      "source": "tribalfootball.com",
       "published": "2026-08-29T23:51:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2148,21 +2163,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U21 - transfermarkt.com",
-      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "transfermarkt.com",
-      "published": "2026-08-28T00:18:06.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHUyMSByZWtvcmQgenVnIG5nZS",
       "title": "Derby County U21 - Rekord-Zugänge | Seite 3 - Transfermarkt",
       "description": "Derby County U21 - Rekord-Zugänge | Seite 3 &nbsp;&nbsp; Transfermarkt",
@@ -2384,6 +2384,24 @@
       ]
     },
     {
+      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
+      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
+      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 78,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
+      ]
+    },
+    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -2430,24 +2448,6 @@
       "overseas": true,
       "players": [
         "Calciomercato Pisa"
-      ]
-    },
-    {
-      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
-      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
-      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Southampton's Ben Brereton Diaz",
-        "Yorkshire Post"
       ]
     },
     {
@@ -2776,10 +2776,10 @@
     },
     {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
-      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
-      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
+      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - glasgowworld.com",
+      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; glasgowworld.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
-      "source": "GlasgowWorld",
+      "source": "glasgowworld.com",
       "published": "2026-08-24T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
