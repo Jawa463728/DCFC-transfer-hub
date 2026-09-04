@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T00:52:07.304Z",
+  "updatedAt": "2026-09-04T01:04:53.354Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -71,19 +71,6 @@
       "isNew": true
     },
     {
-      "name": "Le Soir",
-      "score": 59,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Le Soir",
-      "bestSourceScore": 96,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-01T21:40:00.000Z",
-      "firstSeen": "2026-09-03T23:29:09.757Z",
-      "isNew": true
-    },
-    {
       "name": "Radio Derbyshire",
       "score": 58,
       "status": "Developing",
@@ -95,6 +82,19 @@
       "lastMention": "2026-09-02T00:45:26.000Z",
       "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 58,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-03T23:29:09.757Z",
+      "isNew": true
     },
     {
       "name": "Ben Brereton-",
@@ -136,11 +136,11 @@
       "isNew": true
     },
     {
-      "name": "Yorkshire Post",
+      "name": "Southampton's Ben Brereton Diaz",
       "score": 51,
       "status": "Fading",
       "independentReports": 1,
-      "totalStories": 4,
+      "totalStories": 2,
       "bestSource": "Yorkshire Post",
       "bestSourceScore": 78,
       "maxLikelihood": 84,
@@ -149,11 +149,11 @@
       "isNew": false
     },
     {
-      "name": "Southampton's Ben Brereton Diaz",
+      "name": "Yorkshire Post",
       "score": 51,
       "status": "Fading",
       "independentReports": 1,
-      "totalStories": 2,
+      "totalStories": 4,
       "bestSource": "Yorkshire Post",
       "bestSourceScore": 78,
       "maxLikelihood": 84,
@@ -1633,10 +1633,10 @@
     },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
-      "source": "fotmob.com",
+      "source": "FotMob",
       "published": "2026-08-30T16:43:35.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -1804,7 +1804,7 @@
       "likelihood": 79,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2031,23 +2031,6 @@
       ]
     },
     {
-      "id": "Zm9yd2FyZCBkdWUgZm9yIHNoZWZmaWVsZCB1bml0ZW",
-      "title": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links - Yorkshire Post",
-      "description": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbF9Xc2k3bE9QWXlGLXV5SHRjODVpemJiYl81Nk8xVDdsRUtGN3lqUVJUaVBYcUFfUVpHbVBGVlFLLVkyaDl2a0JZWGNVLXc1NmdqS2M5MS13dHIwVGdHdHRjbHMtNlVzdnJyM3hGUmJpTkg1UUJQLURsYlU3ZzJIZ1dLZ0ctTTNMSEZ6VzQzX0xqQm5fN1k0VDkxelR1VGdKWlhxYTRDRkhHTmVyLTlWdGJEVU1fblBPTkVuc3RzdzN2Vmc?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-28T09:06:00.000Z",
-      "reputation": 78,
-      "likelihood": 84,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Yorkshire Post"
-      ]
-    },
-    {
       "id": "c291dGhhbXB0b24gcyBiZW4gYnJlcmV0b24gZGlhei",
       "title": "Southampton's Ben Brereton Diaz 'due' for Sheffield United medical despite Stoke City and Derby County links - Yorkshire Post",
       "description": "Southampton's Ben Brereton Diaz 'due' for Sheffield United medical despite Stoke City and Derby County links &nbsp;&nbsp; Yorkshire Post",
@@ -2062,6 +2045,23 @@
       "overseas": false,
       "players": [
         "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
+      ]
+    },
+    {
+      "id": "Zm9yd2FyZCBkdWUgZm9yIHNoZWZmaWVsZCB1bml0ZW",
+      "title": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links - Yorkshire Post",
+      "description": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbF9Xc2k3bE9QWXlGLXV5SHRjODVpemJiYl81Nk8xVDdsRUtGN3lqUVJUaVBYcUFfUVpHbVBGVlFLLVkyaDl2a0JZWGNVLXc1NmdqS2M5MS13dHIwVGdHdHRjbHMtNlVzdnJyM3hGUmJpTkg1UUJQLURsYlU3ZzJIZ1dLZ0ctTTNMSEZ6VzQzX0xqQm5fN1k0VDkxelR1VGdKWlhxYTRDRkhHTmVyLTlWdGJEVU1fblBPTkVuc3RzdzN2Vmc?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-28T09:06:00.000Z",
+      "reputation": 78,
+      "likelihood": 84,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
         "Yorkshire Post"
       ]
     },
@@ -2252,24 +2252,6 @@
     },
     {
       "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
-      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
-      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-26T12:52:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Southampton's Ben Brereton Diaz",
-        "Yorkshire Post"
-      ]
-    },
-    {
-      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton attacker - Yorkshire Post",
       "description": "Sheffield United and Derby County 'vying' for signature of Southampton attacker &nbsp;&nbsp; Yorkshire Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
@@ -2367,6 +2349,24 @@
       "players": [
         "Russell Martin",
         "Hamza Choudhury"
+      ]
+    },
+    {
+      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
+      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
+      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 78,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
       ]
     },
     {
@@ -2940,7 +2940,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
