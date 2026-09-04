@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T02:15:14.020Z",
+  "updatedAt": "2026-09-04T02:31:00.051Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -1939,6 +1939,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-29T03:03:45.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
       "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -2940,7 +2955,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -3124,21 +3139,6 @@
       "title": "Derby County in double blow as deja vu sparks 'obvious' transfer need - Derbyshire Live",
       "description": "Derby County in double blow as deja vu sparks 'obvious' transfer need &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0lRQWk0ejBBOFBUZTgzV1BaUG13LUtGQklaVnVGSUJRNnAtb0RUVzhnd1Nkd1c0YzhWeWZnWUtYaW5samRJeTNpdW9uYlhiX2xzUDVpaUF0aHl3Zy16ZnI4ZzV2eXdnOFFwaDl3cmthVTB1dl9LM2FwWUtQMXVHNjk1Y0FpRFRNc1RldHFkamFWdVo5ai1xNXNqeE5YSXZrX3VUU1lvWnI0bnPSAbABQVVfeXFMT2JZX1Fobmt5NnJJQ2tjVzJvMHZUMGNkbEw1OXNCdjNtQzFOSjNKMEt0TzlZOEtKeHl1Y05lMW1vLW9lV2VHYjVZSm1Rd2locURXQWFCemZGUFRzOUJYeDBxeG5OYmU4VzI4YWozaDVzdlRVNmdqVDNRcVhJbDFENG9sWG52cHU4UTQzdy1CT1JuZ0NpcWZwVTFJRDZESGFBQ29yVFN0bzRrMEZWeHM3NGI?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-16T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "d2VzdCBicm9tIGJvc3MgcmVhY3RzIHRvIGRlcmJ5IG",
-      "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' - Derbyshire Live",
-      "description": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5COW93Z0JzWnhvOGt5d09QczlkZUpCajZ3aExfUG9PdUxFSmswZTFNcFFWNk1aOXBjbUU3ZVpmUUhyYmdqU2Y0NW9DV01TVWFvSFRpNzdhRUp4OXpBWDhXaXBTeFRsU2Fja3p2T21WalljUnhac0N1eTN0R0Y3MmZacnJyWXg4S21zSFJoZzV3WUdvZHJIYmViYVExRGZxdjB1TkkxYw?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-08-16T07:00:00.000Z",
       "reputation": 87,
