@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T02:31:00.051Z",
+  "updatedAt": "2026-09-04T02:44:38.749Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 87,
+      "score": 84,
       "status": "Hot",
-      "independentReports": 8,
+      "independentReports": 7,
       "totalStories": 9,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -24,7 +24,7 @@
       "status": "Hot",
       "independentReports": 4,
       "totalStories": 7,
-      "bestSource": "bbc.com",
+      "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
       "lastMention": "2026-09-02T19:53:49.000Z",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Union Saint-",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 3,
       "totalStories": 3,
@@ -219,7 +219,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Football Lowdown",
+      "bestSource": "footballlowdown.com",
       "bestSourceScore": 48,
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T11:47:53.000Z",
@@ -267,6 +267,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGVpcmFuIGNhc2",
+      "title": "NEW SIGNING INTERVIEW: Eiran Cashin - Derby County",
+      "description": "NEW SIGNING INTERVIEW: Eiran Cashin &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54VnFKUnlQMDROWmktVzV3bzMyUU8xV0lOdW1EbnZ1c1VwZ1hMaEhNVU1YSm9EZHJnd3pFako3Tkt3SGxINU1SZVhIRmttLXVvT0V0bEo0eFotVk1SdXJWSUZxVF9pR1dZZEdIQkdyRTE3TlJrdEF6QW1R?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-04T00:40:57.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Eiran Cashin"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWQ0WWF6YXI2c3ViN1BFVmVJVUtTQ2YyeHljS2Vzbll3NVMwWWsyYkxFN0F1REJVVTNtY2ExLUJoMkpyYUlLSHp3ZHVPeTBJYlRnTTVHRU10SWdfY0dES0NoWllNWFhCdDJ5eGpDd2xQRXlSSEZXRWRzcUVYVEFtZnlIVXVhSkhSQl9B?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-03T17:08:26.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbmZpcm0gb3dlbiBlYW1lcy",
       "title": "Derby County confirm Owen Eames transfer as move sanctioned - Derbyshire Live",
@@ -318,28 +350,11 @@
       ]
     },
     {
-      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGVpcmFuIGNhc2",
-      "title": "NEW SIGNING INTERVIEW: Eiran Cashin - Derby County",
-      "description": "NEW SIGNING INTERVIEW: Eiran Cashin &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54VnFKUnlQMDROWmktVzV3bzMyUU8xV0lOdW1EbnZ1c1VwZ1hMaEhNVU1YSm9EZHJnd3pFako3Tkt3SGxINU1SZVhIRmttLXVvT0V0bEo0eFotVk1SdXJWSUZxVF9pR1dZZEdIQkdyRTE3TlJrdEF6QW1R?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-03T12:20:38.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Eiran Cashin"
-      ]
-    },
-    {
       "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - footballlowdown.com",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-09-03T11:47:53.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -861,10 +876,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
-      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - bbc.com",
-      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; bbc.com",
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
+      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "published": "2026-09-01T19:15:16.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -1086,10 +1101,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdpdGggbG9uZyB3YXkgdG8gZ2",
-      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - Inside Futbol",
-      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; Inside Futbol",
+      "title": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time - insidefutbol.com",
+      "description": "Derby County With ‘Long Way To Go’ To Get Deal Over Line In Time &nbsp;&nbsp; insidefutbol.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnBaZkVYYmlIbmY5N3hHdUdOTktOZFlSR2d1V3NWejJYSlZCZWdNcDZOaGhia2pJbUg0ZlVSNTU1OURNSWxQWmFlbTRqX0tlWmFvLTdIdlk0dGVIQWF2ZEtJNGFFUEh0QURETVl3N2FjbV9XWGpTNUViMjFRZUhoTUs4bFBTYU5SOUc4SS0xR2FOTmZvQjJWbDhNWW5rcUd5bnhweHU5THZZdw?oc=5",
-      "source": "Inside Futbol",
+      "source": "insidefutbol.com",
       "published": "2026-09-01T16:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1810,10 +1825,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
-      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
-      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; Football Lowdown",
+      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - footballlowdown.com",
+      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTcwbU54S1pqbTVvcVB1RWNMQlhKN2NqQ2dVYV85ZVhmQ0ZvejdIMG9ObzlWLUxHVXJRMWpZaUlCZFl6XzJSSnJ5c0l2YnJrWnpGZE5fNkVwYlA3V2dEb0phekZnVG1qOUFMQWFqUU9fb2VKODlvR3Iwdk5HaXFiYS1FR1hIWWZwM2FnbFE4MTBpY3ZrMllCUG1hLWJxNTU4cUktdzVzVGJtS1BJZGc?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-08-30T11:09:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1936,21 +1951,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-29T03:03:45.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     },
     {
@@ -2114,11 +2114,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2955,7 +2955,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
