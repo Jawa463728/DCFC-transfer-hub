@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T15:46:50.965Z",
+  "updatedAt": "2026-09-04T15:57:53.605Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -1521,10 +1521,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "Transfery.info",
+      "source": "transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1613,10 +1613,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2033,21 +2033,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHVCakpDQWZieU1GVGxjUGZXcHBWYnFiRjd1UkFWdWx0OVZjVHpoYVA2TWRRMEp5VHkxNGIydkJDSlZrTVBjbldrT3FoT3g4MWQ0blhIX2VEeHdldzhjZlpQOHc3RFk2RjF0OUd5SThEWmIxenhmR3RvSGZOTkNUcTV6b1dvdEM4eVdxag?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-29T00:26:36.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
       "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -2202,6 +2187,21 @@
       "reputation": 70,
       "likelihood": 65,
       "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-28T00:18:06.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "us",
       "overseas": false,
@@ -2429,24 +2429,6 @@
       ]
     },
     {
-      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
-      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
-      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Southampton's Ben Brereton Diaz",
-        "Yorkshire Post"
-      ]
-    },
-    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -2493,6 +2475,24 @@
       "overseas": true,
       "players": [
         "Calciomercato Pisa"
+      ]
+    },
+    {
+      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
+      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
+      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 78,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
       ]
     },
     {
