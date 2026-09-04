@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T08:16:09.437Z",
+  "updatedAt": "2026-09-04T08:33:35.681Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -201,19 +201,6 @@
       "isNew": false
     },
     {
-      "name": "Following Jakub Stolarczyk Injury",
-      "score": 47,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football Lowdown",
-      "bestSourceScore": 48,
-      "maxLikelihood": 51,
-      "lastMention": "2026-09-03T11:47:53.000Z",
-      "firstSeen": "2026-09-03T11:54:38.885Z",
-      "isNew": false
-    },
-    {
       "name": "Russell Martin",
       "score": 47,
       "status": "Fading",
@@ -224,6 +211,19 @@
       "maxLikelihood": 57,
       "lastMention": "2026-08-26T07:00:00.000Z",
       "firstSeen": "2026-09-02T06:48:52.466Z",
+      "isNew": false
+    },
+    {
+      "name": "Following Jakub Stolarczyk Injury",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football Lowdown",
+      "bestSourceScore": 48,
+      "maxLikelihood": 51,
+      "lastMention": "2026-09-03T11:47:53.000Z",
+      "firstSeen": "2026-09-03T11:54:38.885Z",
       "isNew": false
     },
     {
@@ -1533,10 +1533,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2741,10 +2741,10 @@
     },
     {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
-      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - glasgowworld.com",
-      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; glasgowworld.com",
+      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
+      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
-      "source": "glasgowworld.com",
+      "source": "GlasgowWorld",
       "published": "2026-08-24T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
