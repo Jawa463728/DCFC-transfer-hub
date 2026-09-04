@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T14:17:25.711Z",
+  "updatedAt": "2026-09-04T14:32:51.743Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -889,10 +889,10 @@
     },
     {
       "id": "aXJpc2ggc3RhciBzZWFscyBkZXJieSBjb3VudHkgcm",
-      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - The Irish Sun",
-      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; The Irish Sun",
+      "title": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion - thesun.ie",
+      "description": "Irish star seals Derby County return on season-long loan from Brighton and Hove Albion &nbsp;&nbsp; thesun.ie",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjQ5M09icmRGQmtwdGpBUmpNTzBCSmk4bC1mSGlod05Kc3cwVHhoLXZpUjV0c1pQbVphUlBfYzBaU3F0Ynd2YVE5X3FVS2ZRdzVTem9ZTjlLVmozT0pJaFpXU3dqSFowTmJKQVVpNDdwMjZBbmxTT1hxM3V2MDFUcUVSUXlKY204TFlrY2pWNHliMTVKdXowcFFR?oc=5",
-      "source": "The Irish Sun",
+      "source": "thesun.ie",
       "published": "2026-09-01T20:37:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -900,9 +900,7 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "The Irish Sun"
-      ]
+      "players": []
     },
     {
       "id": "bW9oYW1tZWQgZnVzZWluaSBzZXQgdG8gam9pbiBkZX",
@@ -2033,6 +2031,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHVCakpDQWZieU1GVGxjUGZXcHBWYnFiRjd1UkFWdWx0OVZjVHpoYVA2TWRRMEp5VHkxNGIydkJDSlZrTVBjbldrT3FoT3g4MWQ0blhIX2VEeHdldzhjZlpQOHc3RFk2RjF0OUd5SThEWmIxenhmR3RvSGZOTkNUcTV6b1dvdEM4eVdxag?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-29T00:26:36.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
       "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -2187,21 +2200,6 @@
       "reputation": 70,
       "likelihood": 65,
       "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-28T00:18:06.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "us",
       "overseas": false,
@@ -3040,10 +3038,10 @@
     },
     {
       "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - bbc.com",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; bbc.com",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - BBC",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "published": "2026-08-20T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 72,
