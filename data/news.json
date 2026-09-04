@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T01:31:03.482Z",
+  "updatedAt": "2026-09-04T01:45:37.043Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Owen Eames",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
