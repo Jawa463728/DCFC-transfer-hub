@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T06:37:12.211Z",
+  "updatedAt": "2026-09-04T06:53:57.965Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Union Saint-",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 3,
       "totalStories": 3,
