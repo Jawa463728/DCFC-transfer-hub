@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T09:34:53.997Z",
+  "updatedAt": "2026-09-04T09:49:24.292Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,14 +7,14 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 85,
+      "score": 86,
       "status": "Hot",
-      "independentReports": 8,
-      "totalStories": 9,
+      "independentReports": 10,
+      "totalStories": 10,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
       "maxLikelihood": 94,
-      "lastMention": "2026-09-02T09:50:52.000Z",
+      "lastMention": "2026-09-02T11:02:35.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": false
     },
@@ -22,7 +22,7 @@
       "name": "David Ozoh",
       "score": 82,
       "status": "Hot",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 7,
       "bestSource": "bbc.com",
       "bestSourceScore": 94,
@@ -33,14 +33,14 @@
     },
     {
       "name": "Union Saint-",
-      "score": 64,
-      "status": "Developing",
-      "independentReports": 3,
-      "totalStories": 3,
+      "score": 70,
+      "status": "Strong",
+      "independentReports": 4,
+      "totalStories": 4,
       "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
-      "lastMention": "2026-09-02T09:50:52.000Z",
+      "lastMention": "2026-09-02T11:02:35.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": false
     },
@@ -59,7 +59,7 @@
     },
     {
       "name": "Owen Eames",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -253,17 +253,17 @@
       "isNew": false
     },
     {
-      "name": "Mattie Pollock",
-      "score": 42,
-      "status": "Fading",
+      "name": "Modern Ghana",
+      "score": 43,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Yahoo Sports UK",
-      "bestSourceScore": 70,
-      "maxLikelihood": 57,
-      "lastMention": "2026-08-30T15:30:00.000Z",
-      "firstSeen": "2026-09-03T07:00:12.291Z",
-      "isNew": false
+      "bestSource": "Modern Ghana",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-09-02T11:02:35.000Z",
+      "firstSeen": "2026-09-04T09:49:24.292Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -377,7 +377,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -398,10 +398,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com David Ozoh. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com David Ozoh. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOV01wSUFSOGJUX2pTY1ZjcDBzNHdCRUVHMl9KeVpGb1ZPVm5JLWx5cjhzUnBpN2czdUtsYWxRME1QSGh4d0FiSDBtZkIwVktLc2paVW9BWnNHaU9scmFKMDBVYw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T19:53:49.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -424,7 +424,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -461,6 +461,25 @@
       "players": []
     },
     {
+      "id": "bW9oYW1tZWQgZnVzZWluaSBqb2lucyBkZXJieSBjb3",
+      "title": "Mohammed Fuseini joins Derby County on loan from Union Saint-Gilloise - Modern Ghana",
+      "description": "Mohammed Fuseini joins Derby County on loan from Union Saint-Gilloise &nbsp;&nbsp; Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTJOV2k3dnhPeEQxamJkdXRZZDlaVXJMdFdqdjlSZ1pGYXVnYmZkWjJNQlZJOU1BT2tlYzdJZVNSTUwwblFCZVZzQ1JpZkYyODd5MXR1VEV6QXpsbEJ5WDdQRW9nNnE3X0ZtazFDZDVTZElmb2Q0eWFQblNFV0pLUkl4UjlDRHA4ME00WFdOT1YtVFpFV0xva1RrWXTSAZsBQVVfeXFMTXhaQWxkX3B3eFZlb2dYLVd2TXNNTllpWlVmTkE5MWZxRnBUenFzbVNaTXhGQktnbVlTRl81RzBzQnlDVGZHYzFUeHBDSXl6VVp5dmtvcXFCM2xMMG9LdlRTczFkaENQbFIwdDFFVFpDVkgycndaMUM2OFlaTzhPc1VPSlduSTRncVljN3VXaXFhY09HOXpVSjdJY0E?oc=5",
+      "source": "Modern Ghana",
+      "published": "2026-09-02T11:02:35.000Z",
+      "reputation": 48,
+      "likelihood": 65,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Mohammed Fuseini",
+        "Union Saint-",
+        "Modern Ghana"
+      ]
+    },
+    {
       "id": "cG9sbCBqb2luIHRoZSBiaWcgZGViYXRlIG9uIGRlcm",
       "title": "POLL: Join the big debate on Derby County's transfer window - Derbyshire Live",
       "description": "POLL: Join the big debate on Derby County's transfer window &nbsp;&nbsp; Derbyshire Live",
@@ -471,7 +490,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -539,16 +558,16 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RFJCYll1Rk9yQXBMVFdObHRyM3F1dHRhbld6bHNmZkRma2JyZjQtdVlDaE9DcXBUYkROWTJtaHh1cGEtcjI0OEhteF9jTk9BbVFxdXJNbXZEUDhOeS1UOUdycw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T05:57:42.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -562,10 +581,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkswUVFubjh4VWtaOWJENEllUTRIZlpGVjdwMWZGRUV6RUxkN3pNY0NrVjl6TEg0bWY2ZGVTQ0JoSUxCZmZjekpuWFhYU0pjTWF4QnhXeW1tNWI3c0UzNmxhSQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T05:43:57.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -656,7 +675,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -740,7 +759,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -755,7 +774,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -804,7 +823,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -954,16 +973,16 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-01T18:45:18.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1061,7 +1080,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1192,7 +1211,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1222,7 +1241,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1237,7 +1256,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -1534,16 +1553,16 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Gavin Bazunu Move",
@@ -1616,10 +1635,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - tuttomercatoweb.com",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; tuttomercatoweb.com",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "tuttomercatoweb.com",
+      "source": "TUTTOmercatoWEB",
       "published": "2026-08-30T16:56:36.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1896,7 +1915,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2114,17 +2133,17 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U21 - transfermarkt.com",
-      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2199,7 +2218,7 @@
       "likelihood": 72,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Hamza Choudhury"
@@ -2342,7 +2361,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -2369,10 +2388,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - vtrend.it",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; vtrend.it",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "VTrend",
+      "source": "vtrend.it",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2386,10 +2405,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - tuttomercatoweb.com",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; tuttomercatoweb.com",
+      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
+      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "tuttomercatoweb.com",
+      "source": "TUTTOmercatoWEB",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2534,10 +2553,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "derbytelegraph.co.uk",
+      "source": "Derbyshire Live",
       "published": "2026-08-25T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
@@ -2876,7 +2895,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Sam Szmodics"
@@ -2960,23 +2979,6 @@
       "players": []
     },
     {
-      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - bbc.com",
-      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "bbc.com",
-      "published": "2026-08-20T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
-    },
-    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IHJ5YW4gaGVkZ2",
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges - Derby County",
       "description": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
@@ -3007,6 +3009,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "cnlhbiBoZWRnZXMgZGVyYnkgY291bnR5IHNpZ24gZX",
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger - bbc.com",
+      "description": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
+      "source": "bbc.com",
+      "published": "2026-08-20T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHNpeHRoIHN1bW",
@@ -3130,22 +3149,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "d2VzdCBicm9tIGJvc3MgcmVhY3RzIHRvIGRlcmJ5IG",
-      "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' - Derbyshire Live",
-      "description": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5COW93Z0JzWnhvOGt5d09QczlkZUpCajZ3aExfUG9PdUxFSmswZTFNcFFWNk1aOXBjbUU3ZVpmUUhyYmdqU2Y0NW9DV01TVWFvSFRpNzdhRUp4OXpBWDhXaXBTeFRsU2Fja3p2T21WalljUnhac0N1eTN0R0Y3MmZacnJyWXg4S21zSFJoZzV3WUdvZHJIYmViYVExRGZxdjB1TkkxYw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-16T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     }
