@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T16:19:35.442Z",
+  "updatedAt": "2026-09-04T16:33:11.033Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -14,7 +14,7 @@
       "bestSource": "Derby County",
       "bestSourceScore": 99,
       "maxLikelihood": 94,
-      "lastMention": "2026-09-02T11:02:35.000Z",
+      "lastMention": "2026-09-02T11:03:07.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": false
     },
@@ -40,7 +40,7 @@
       "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
-      "lastMention": "2026-09-02T11:02:35.000Z",
+      "lastMention": "2026-09-02T11:03:07.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": false
     },
@@ -215,7 +215,7 @@
     },
     {
       "name": "Following Jakub Stolarczyk Injury",
-      "score": 45,
+      "score": 44,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -235,7 +235,7 @@
       "bestSource": "Modern Ghana",
       "bestSourceScore": 48,
       "maxLikelihood": 65,
-      "lastMention": "2026-09-02T11:02:35.000Z",
+      "lastMention": "2026-09-02T11:03:07.000Z",
       "firstSeen": "2026-09-04T09:49:24.292Z",
       "isNew": true
     },
@@ -526,7 +526,7 @@
       "description": "Mohammed Fuseini joins Derby County on loan from Union Saint-Gilloise &nbsp;&nbsp; Modern Ghana",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTJOV2k3dnhPeEQxamJkdXRZZDlaVXJMdFdqdjlSZ1pGYXVnYmZkWjJNQlZJOU1BT2tlYzdJZVNSTUwwblFCZVZzQ1JpZkYyODd5MXR1VEV6QXpsbEJ5WDdQRW9nNnE3X0ZtazFDZDVTZElmb2Q0eWFQblNFV0pLUkl4UjlDRHA4ME00WFdOT1YtVFpFV0xva1RrWXTSAZsBQVVfeXFMTXhaQWxkX3B3eFZlb2dYLVd2TXNNTllpWlVmTkE5MWZxRnBUenFzbVNaTXhGQktnbVlTRl81RzBzQnlDVGZHYzFUeHBDSXl6VVp5dmtvcXFCM2xMMG9LdlRTczFkaENQbFIwdDFFVFpDVkgycndaMUM2OFlaTzhPc1VPSlduSTRncVljN3VXaXFhY09HOXpVSjdJY0E?oc=5",
       "source": "Modern Ghana",
-      "published": "2026-09-02T11:02:35.000Z",
+      "published": "2026-09-02T11:03:07.000Z",
       "reputation": 48,
       "likelihood": 65,
       "ratingLabel": "Watch",
@@ -1110,7 +1110,7 @@
       "likelihood": 32,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1521,10 +1521,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "transfery.info",
+      "source": "Transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1613,10 +1613,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "mshale.com",
+      "source": "Mshale",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2193,11 +2193,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWV2ZndCeHd4cjJCMk9SOHRpdTgwU1ptMDZFU1VQTkk2TllWQ2pGR1pFdUFIeEVobHhUU0thaHJDNXRMa3JZRXJLMU5iZ2dHNS1raGdNVS1mRGNuYlBfcFdzX2lEamltTnR5bTBLUnRPMm83QnIwUHVTdVZkamVaRERWb2VHUW9hUUdzYWR3?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-08-28T00:18:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2238,21 +2238,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGNsb3NpbmcgaW4gb24gbW92ZS",
-      "title": "Derby County closing in on move to sign £9million-rated forward - news.bet365.com",
-      "description": "Derby County closing in on move to sign £9million-rated forward &nbsp;&nbsp; news.bet365.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1lVOXV4bEJtZEthWkhaV1c2eE9MYlo0bU8yLUhmc25TY1otb0JkaFFzXy1pYndfTF84eVphVXRXem1vdE5XVkZKOXJlOGJGZlAwSHpvenh1el9uV1cxQlNFaldTMUdzZ2VER1V1VnFIVXBuNUI4RVZDUGpVZHVOQ3VZcDdzd2ZmcHBZLUpZTmF1SmFJZldoUUhsQ0g1dExacE9pd3h1cWJQdzl3OGNvTzM0cF94Ml9KZzhRcE5MUlhMUTA?oc=5",
-      "source": "news.bet365.com",
-      "published": "2026-08-27T12:33:48.000Z",
-      "reputation": 48,
-      "likelihood": 65,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "d2VzdCBoYW0gdW5pdGVkIGRlcmJ5IGNvdW50eSAwNS",
       "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -2283,6 +2268,21 @@
       "players": [
         "Hamza Choudhury"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNsb3NpbmcgaW4gb24gbW92ZS",
+      "title": "Derby County closing in on move to sign £9million-rated forward - news.bet365.com",
+      "description": "Derby County closing in on move to sign £9million-rated forward &nbsp;&nbsp; news.bet365.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1lVOXV4bEJtZEthWkhaV1c2eE9MYlo0bU8yLUhmc25TY1otb0JkaFFzXy1pYndfTF84eVphVXRXem1vdE5XVkZKOXJlOGJGZlAwSHpvenh1el9uV1cxQlNFaldTMUdzZ2VER1V1VnFIVXBuNUI4RVZDUGpVZHVOQ3VZcDdzd2ZmcHBZLUpZTmF1SmFJZldoUUhsQ0g1dExacE9pd3h1cWJQdzl3OGNvTzM0cF94Ml9KZzhRcE5MUlhMUTA?oc=5",
+      "source": "news.bet365.com",
+      "published": "2026-08-27T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 65,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
@@ -2411,6 +2411,24 @@
       ]
     },
     {
+      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
+      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
+      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 78,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Southampton's Ben Brereton Diaz",
+        "Yorkshire Post"
+      ]
+    },
+    {
       "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
       "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer - Derbyshire Live",
       "description": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer &nbsp;&nbsp; Derbyshire Live",
@@ -2478,24 +2496,6 @@
       ]
     },
     {
-      "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
-      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
-      "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 78,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Southampton's Ben Brereton Diaz",
-        "Yorkshire Post"
-      ]
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IGZjIGJhcm5zbGV5IDExIDExID",
       "title": "Derby County - FC Barnsley, 11.11.2023 - League One - Spielbericht - Transfermarkt",
       "description": "Derby County - FC Barnsley, 11.11.2023 - League One - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -2525,23 +2525,6 @@
       "overseas": false,
       "players": [
         "Stephen Mfuni"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGtlZW4gdG8gc3RyaWtlIHBlcm",
-      "title": "Derby County keen to strike permanent deal for South American star - news.bet365.com",
-      "description": "Derby County keen to strike permanent deal for South American star &nbsp;&nbsp; news.bet365.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEU0ODQyWF9iMGxPckgxQU01cjhsYWV3OGtnV2RVZzFUNUpEWkpvdDd2MWx3NjJDbTBaODhSYzlkc0pvaS1PdUg1MkJEd2daY0tsZWgyamd6QjBXYUhIcTFQek9teUMtUFFqa3VWUFZ0dE5POVBLaHYxei13b01uRWRWVzVyR2ZNLVcwQnhOZmVoYzNQRkNobU1CaDZlWTV6TkNDNE1qZTZWcVV5ZFRxQVFMNmhtZy1nUkVmdVdtYUtZUQ?oc=5",
-      "source": "news.bet365.com",
-      "published": "2026-08-25T14:44:08.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "South American"
       ]
     },
     {
@@ -2609,6 +2592,23 @@
       "players": [
         "Hamza Choudhury",
         "Leicester Mercury"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGtlZW4gdG8gc3RyaWtlIHBlcm",
+      "title": "Derby County keen to strike permanent deal for South American star - news.bet365.com",
+      "description": "Derby County keen to strike permanent deal for South American star &nbsp;&nbsp; news.bet365.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEU0ODQyWF9iMGxPckgxQU01cjhsYWV3OGtnV2RVZzFUNUpEWkpvdDd2MWx3NjJDbTBaODhSYzlkc0pvaS1PdUg1MkJEd2daY0tsZWgyamd6QjBXYUhIcTFQek9teUMtUFFqa3VWUFZ0dE5POVBLaHYxei13b01uRWRWVzVyR2ZNLVcwQnhOZmVoYzNQRkNobU1CaDZlWTV6TkNDNE1qZTZWcVV5ZFRxQVFMNmhtZy1nUkVmdVdtYUtZUQ?oc=5",
+      "source": "news.bet365.com",
+      "published": "2026-08-25T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "South American"
       ]
     },
     {
@@ -2805,21 +2805,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
-      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
-      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 76,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
       "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
       "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
@@ -2835,6 +2820,21 @@
       "players": [
         "Former Celtic"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
+      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
+      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 76,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
@@ -2945,6 +2945,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGV4cGxvcmUgZGVhbCBmb3Igd2",
+      "title": "Derby County explore deal for West Brom winger - news.bet365.com",
+      "description": "Derby County explore deal for West Brom winger &nbsp;&nbsp; news.bet365.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkhWNXo3a0I4N2xFSHJQVEpKOHo1TUZmSV8tSXNDRWVYaWV3Yy1YRzc2ZXRMc2J1TTdLYmZ3Tl9ZOUhWbDNrOE5CV0FrZ3NVajVXVnp6MUZ3ZGxpMThCZmN5a24wT2trb2lmSTZRV2ZTTWRVWE5SdjVPMEl1a1lLendqVzc3X1JRYXlkdUpGWTVyeXljUC03VnE0bUJVWnlYVXY5Mkpfdw?oc=5",
+      "source": "news.bet365.com",
+      "published": "2026-08-23T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "c2FtIHN6bW9kaWNzIGxhdGVzdCBhcyBqb2huIGV1c3",
       "title": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope - Derbyshire Live",
       "description": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope &nbsp;&nbsp; Derbyshire Live",
@@ -3034,7 +3049,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -3134,21 +3149,6 @@
       "status": "rumour",
       "edition": "tr",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHZlcmRpY3QgaXNzdWVkIGJ5IG",
-      "title": "Derby County verdict issued by EFL expert and 'important' transfer need - Derbyshire Live",
-      "description": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-19T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
