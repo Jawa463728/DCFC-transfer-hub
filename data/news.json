@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:32:51.909Z",
+  "updatedAt": "2026-09-04T23:43:49.078Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Mohammed Fuseini",
-      "score": 80,
+      "score": 79,
       "status": "Strong",
       "independentReports": 8,
       "totalStories": 10,
