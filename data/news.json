@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T05:45:50.173Z",
+  "updatedAt": "2026-09-05T05:56:55.874Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -376,7 +376,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -813,7 +813,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Mohammed Fuseini"
@@ -1931,7 +1931,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
