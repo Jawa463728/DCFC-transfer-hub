@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T01:23:45.442Z",
+  "updatedAt": "2026-09-05T01:37:18.802Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -162,6 +162,19 @@
       "isNew": false
     },
     {
+      "name": "Falkirk Herald",
+      "score": 50,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Falkirk Herald",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-05T01:32:00.000Z",
+      "firstSeen": "2026-09-05T01:37:18.802Z",
+      "isNew": true
+    },
+    {
       "name": "Russell Martin",
       "score": 47,
       "status": "Fading",
@@ -189,7 +202,7 @@
     },
     {
       "name": "Curtis Davies",
-      "score": 45,
+      "score": 44,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -251,22 +264,26 @@
       "lastMention": "2026-08-30T15:30:00.000Z",
       "firstSeen": "2026-09-04T11:19:03.673Z",
       "isNew": false
-    },
-    {
-      "name": "Fresh Anis Mehmeti",
-      "score": 42,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Yahoo Sports UK",
-      "bestSourceScore": 70,
-      "maxLikelihood": 57,
-      "lastMention": "2026-08-30T13:24:07.000Z",
-      "firstSeen": "2026-09-04T13:47:37.949Z",
-      "isNew": true
     }
   ],
   "stories": [
+    {
+      "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
+      "source": "Falkirk Herald",
+      "published": "2026-09-05T01:32:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Falkirk Herald"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
@@ -359,7 +376,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -518,7 +535,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -583,7 +600,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -664,7 +681,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -849,7 +866,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -1415,7 +1432,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1744,10 +1761,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - Mshale",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; Mshale",
+      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
+      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "Mshale",
+      "source": "mshale.com",
       "published": "2026-08-30T22:21:26.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1826,10 +1843,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - tuttomercatoweb.com",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; tuttomercatoweb.com",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "tuttomercatoweb.com",
+      "source": "TUTTOmercatoWEB",
       "published": "2026-08-30T16:56:36.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1873,10 +1890,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIHVmZmljaWFsZSBtZW",
-      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - sestaporta.news",
-      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa. Ufficiale, Meister al Derby County in prestito con diritto di riscatto: \"Entusiasta dell'intensità della Championship\". Gli ultimi affari di mercato, Vignato verso i paesi arabi &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVmQ4Nk5COG5CSHBuUGtzazdneUZOMVdEZGFyd1hmRWVaYUdIV2Fxb1hoZlM2MEJCeXBHcGUtcXJMWWJnSEZ0TGlFMU1TeXpscU4ybThnYU0tMkhQbUJCN0ZPNHA4aUh3elBON1g4X2JhOFByLU1kaUo1TzZTTGxRakg2bHpUXzVYci1HNUN6R3BoVG9lN1RpWEs1QTJyWXdfeWZHQzJ0WE5ob2prbW9IbTc1MDNZZkxIN0RKX1VSYU5oR1lxNFE1SW1mYXRxb2kzUDFxVjFudlRBZVZTZWREaURBUWJra1N0U3AwSFpCWTFqNGxfSzdkUV9jbGNidFNNOE9PVjNjdEJaWEhKSW95QUVmdlAzWWxjMUl1aXlOdWhTWVpuZWtlc0ZicjhJVUdoazVfNkF2V2l2dUNnb3FDWElQT2hFbWYxRGU1XzJ4VTZhRzA?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-30T16:24:01.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1916,7 +1933,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2089,7 +2106,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2535,7 +2552,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -2544,10 +2561,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - vtrend.it",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; vtrend.it",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "vtrend.it",
+      "source": "VTrend",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2561,10 +2578,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - tuttomercatoweb.com",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; tuttomercatoweb.com",
+      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
+      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "tuttomercatoweb.com",
+      "source": "TUTTOmercatoWEB",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2576,10 +2593,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2710,10 +2727,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "Derbyshire Live",
+      "source": "derbytelegraph.co.uk",
       "published": "2026-08-25T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
@@ -3136,21 +3153,6 @@
       "players": [
         "Ryan Hedges"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNhcmRpZmYgY2l0eSBxdW90ZS",
-      "title": "Derby County-Cardiff City – Quote e Pronostici Championship – 22/08/2026 - ToffeeWeb",
-      "description": "Derby County-Cardiff City – Quote e Pronostici Championship – 22/08/2026 &nbsp;&nbsp; ToffeeWeb",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDVxTGFQYXUwNW55YThlcXJmeHpoNWRvVy1LT1gyUDJQVXZPbi1VUVlnamdISG5QZ1dZbS00Xy1Ka3hGdmlYY2ZTVEY2cDZQNmRvTFVnTnk0eFZlTWlqXzhBMHBjVXEwM0tFbDZkcTNSS2twbERFdko2QUZPajFEdEt4QVdEZnBrY0w3Y3ozWDVvTHlKbmFQbllkQVlMXzg?oc=5",
-      "source": "ToffeeWeb",
-      "published": "2026-08-22T00:35:02.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": []
     }
   ]
 }
