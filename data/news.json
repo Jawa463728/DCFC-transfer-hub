@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T16:20:01.896Z",
+  "updatedAt": "2026-09-05T16:33:38.325Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "David Ozoh",
       "score": 85,
       "status": "Hot",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -37,7 +37,7 @@
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 3,
-      "bestSource": "BBC",
+      "bestSource": "bbc.co.uk",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
       "lastMention": "2026-09-05T04:45:48.000Z",
@@ -211,7 +211,7 @@
       "maxLikelihood": 57,
       "lastMention": "2026-08-30T13:24:07.000Z",
       "firstSeen": "2026-09-05T04:27:13.328Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Year Old Midfielder Target",
@@ -241,7 +241,7 @@
     },
     {
       "name": "Following Jakub Stolarczyk Injury",
-      "score": 39,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -350,10 +350,10 @@
     },
     {
       "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
-      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - BBC",
-      "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
+      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - bbc.co.uk",
+      "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSWVqR1VsVjRxNFlpYkZtVXI1RE9oRHdockJXdEpfTldsWC0yekdILU1KRG0tY1doOUlRZTczdnFkYzFSQ1BWRU04aUV0MG1hai1sZDhIVWJwcmdfWE1XYndSTTJEejYyVFE?oc=5",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "published": "2026-09-04T17:03:27.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -367,10 +367,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -381,6 +381,21 @@
       "players": [
         "David Ozoh"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.at",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.at",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajlBblJReVd4Z013UGNDOFNOX3BUdk8wVE5RaHlUdS1ac3oyUjdUYUE4U1BsaWl3NnM2MVdfVkN5Si1PT25fT3g4VlAwUktuQllmdnVJU0NuR0tjVkZJTW1fNTVQd0NJbVc5cUdyWV80Qk5PWlBCOWJXcU5xNkVVRnppTjRBODI3VjRj?oc=5",
+      "source": "transfermarkt.at",
+      "published": "2026-09-04T15:25:11.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmV3cyBiaWxva2FwaWMgYWRkZWQgdG",
@@ -2196,21 +2211,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHVCakpDQWZieU1GVGxjUGZXcHBWYnFiRjd1UkFWdWx0OVZjVHpoYVA2TWRRMEp5VHkxNGIydkJDSlZrTVBjbldrT3FoT3g4MWQ0blhIX2VEeHdldzhjZlpQOHc3RFk2RjF0OUd5SThEWmIxenhmR3RvSGZOTkNUcTV6b1dvdEM4eVdxag?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-29T00:26:36.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
       "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
       "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
@@ -2969,10 +2969,10 @@
     },
     {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
-      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
-      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
+      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - glasgowworld.com",
+      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; glasgowworld.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
-      "source": "GlasgowWorld",
+      "source": "glasgowworld.com",
       "published": "2026-08-24T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
