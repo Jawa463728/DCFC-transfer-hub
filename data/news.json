@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T17:59:58.034Z",
+  "updatedAt": "2026-09-05T18:20:15.218Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -278,7 +278,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -383,11 +383,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.at",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajlBblJReVd4Z013UGNDOFNOX3BUdk8wVE5RaHlUdS1ac3oyUjdUYUE4U1BsaWl3NnM2MVdfVkN5Si1PT25fT3g4VlAwUktuQllmdnVJU0NuR0tjVkZJTW1fNTVQd0NJbVc5cUdyWV80Qk5PWlBCOWJXcU5xNkVVRnppTjRBODI3VjRj?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-04T15:25:11.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -423,7 +423,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -458,11 +458,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
-      "title": "Derby County - Transfermarkt",
-      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5fHRyYW5zZmVybWFya3QuYXQ",
+      "title": "Derby County - transfermarkt.at",
+      "description": "Derby County &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHd3dHY4UFN6NXhtZHNZQUxBcmNDZUlzZ1ItUWpYRW5ZMWh4LV9XUGcwNFEwZGd5al9JMS1XeFlEcFdkWWd0aXJiUEtuR3lrT0txbG5nMWNjX2gydGNjUC1uSHc5clNwV3ZJbjhNNkhpcFRkTldsVWpBb3MzWmVEdG1CRldpeVNIeXJqSEtVQ1dWRW5SVnBIWGZ6ZDhSLXI4?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-04T02:33:53.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -491,10 +491,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGh1ZGRlcnNmaWVsZCB0b3duID",
-      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - Transfermarkt",
-      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnFrSzNrQXljYVV6MHFzRjNFZFhxdy1tNl9XbVBKQmpjRFFoVHR0TVFLOVFDOWxncUx4N0R1RERZTG5JemFhQWcxVEJZSmVuVU9RTlRqNmZsMXpnNW5QblJZbEtjcnNUNTQyWjYyWllzN2FET0p1Tkh5Z3lhdUM1TXZhZWp4MXVrYVo1YzFoRQ?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-03T23:42:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -597,7 +597,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -647,7 +647,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -728,7 +728,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1479,7 +1479,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2153,7 +2153,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2212,10 +2212,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2584,7 +2584,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -2759,10 +2759,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "Derbyshire Live",
+      "source": "derbytelegraph.co.uk",
       "published": "2026-08-25T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
