@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T00:40:23.545Z",
+  "updatedAt": "2026-09-05T00:54:34.497Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -97,19 +97,6 @@
       "isNew": false
     },
     {
-      "name": "Radio Derbyshire",
-      "score": 53,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-02T00:45:26.000Z",
-      "firstSeen": "2026-09-01T19:44:41.816Z",
-      "isNew": false
-    },
-    {
       "name": "Le Soir",
       "score": 53,
       "status": "Fading",
@@ -121,6 +108,19 @@
       "lastMention": "2026-09-01T21:40:00.000Z",
       "firstSeen": "2026-09-04T20:10:03.374Z",
       "isNew": true
+    },
+    {
+      "name": "Radio Derbyshire",
+      "score": 52,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-09-02T00:45:26.000Z",
+      "firstSeen": "2026-09-01T19:44:41.816Z",
+      "isNew": false
     },
     {
       "name": "Southampton's Ben Brereton Diaz",
@@ -268,6 +268,21 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-05T00:43:53.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
       "title": "Fichaje confirmado: Derby County firma a Nicholas Bilokapic. - OneFootball",
       "description": "Fichaje confirmado: Derby County firma a Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
@@ -283,21 +298,6 @@
       "players": [
         "Nicholas Bilokapic"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbXFpQi1rLW51WHVraEozVVFCSjlvcjJQbjZmT2tnRGdVTHVxcHM0ekY2aTJlV2tGWFFLWF9XdzNXWnlzOE84Q3puUVpSTk84RmdWU2tUYk51a3FHc3Q2VW9GSzdkMTBwVUY3by1CSHc4MzA2MTdBTGlBaWV5UTdUSWY2cUN6MUpxNE90QUJrZkdwVG9n?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-04T18:17:43.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
