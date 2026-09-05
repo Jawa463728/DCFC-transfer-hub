@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T12:09:11.302Z",
+  "updatedAt": "2026-09-05T12:29:11.267Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -241,7 +241,7 @@
     },
     {
       "name": "Following Jakub Stolarczyk Injury",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
