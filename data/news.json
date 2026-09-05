@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:02:58.628Z",
+  "updatedAt": "2026-09-05T11:18:52.518Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "David Ozoh",
-      "score": 87,
+      "score": 86,
       "status": "Hot",
       "independentReports": 4,
       "totalStories": 9,
@@ -21,7 +21,7 @@
     {
       "name": "Mohammed Fuseini",
       "score": 77,
-      "status": "Strong",
+      "status": "Fading",
       "independentReports": 8,
       "totalStories": 10,
       "bestSource": "Derby County",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 71,
+      "score": 70,
       "status": "Strong",
       "independentReports": 2,
       "totalStories": 3,
@@ -47,10 +47,10 @@
     {
       "name": "Union Saint-",
       "score": 64,
-      "status": "Developing",
+      "status": "Fading",
       "independentReports": 4,
       "totalStories": 4,
-      "bestSource": "Le Soir",
+      "bestSource": "lesoir.be",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-02T11:03:07.000Z",
@@ -95,19 +95,6 @@
       "lastMention": "2026-08-28T09:19:00.000Z",
       "firstSeen": "2026-08-28T21:52:36.458Z",
       "isNew": false
-    },
-    {
-      "name": "Le Soir",
-      "score": 53,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Le Soir",
-      "bestSourceScore": 96,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-01T21:40:00.000Z",
-      "firstSeen": "2026-09-05T08:40:30.215Z",
-      "isNew": true
     },
     {
       "name": "Radio Derbyshire",
@@ -264,6 +251,19 @@
       "lastMention": "2026-08-29T06:15:11.000Z",
       "firstSeen": "2026-09-05T10:11:53.510Z",
       "isNew": true
+    },
+    {
+      "name": "West Ham",
+      "score": 38,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-08-26T11:30:11.000Z",
+      "firstSeen": "2026-09-05T11:18:52.518Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -381,21 +381,6 @@
       "players": [
         "David Ozoh"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajlBblJReVd4Z013UGNDOFNOX3BUdk8wVE5RaHlUdS1ac3oyUjdUYUE4U1BsaWl3NnM2MVdfVkN5Si1PT25fT3g4VlAwUktuQllmdnVJU0NuR0tjVkZJTW1fNTVQd0NJbVc5cUdyWV80Qk5PWlBCOWJXcU5xNkVVRnppTjRBODI3VjRj?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-04T15:25:11.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmV3cyBiaWxva2FwaWMgYWRkZWQgdG",
@@ -1033,10 +1018,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "Le Soir",
+      "source": "lesoir.be",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1046,8 +1031,7 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-",
-        "Le Soir"
+        "Union Saint-"
       ]
     },
     {
@@ -1699,10 +1683,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "transfery.info",
+      "source": "Transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2208,6 +2192,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHVCakpDQWZieU1GVGxjUGZXcHBWYnFiRjd1UkFWdWx0OVZjVHpoYVA2TWRRMEp5VHkxNGIydkJDSlZrTVBjbldrT3FoT3g4MWQ0blhIX2VEeHdldzhjZlpQOHc3RFk2RjF0OUd5SThEWmIxenhmR3RvSGZOTkNUcTV6b1dvdEM4eVdxag?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-08-29T00:26:36.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -2969,10 +2968,10 @@
     },
     {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
-      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
-      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
+      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - glasgowworld.com",
+      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; glasgowworld.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
-      "source": "GlasgowWorld",
+      "source": "glasgowworld.com",
       "published": "2026-08-24T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
