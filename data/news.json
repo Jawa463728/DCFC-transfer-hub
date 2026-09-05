@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T10:11:53.510Z",
+  "updatedAt": "2026-09-05T10:26:09.567Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -150,7 +150,7 @@
     },
     {
       "name": "Falkirk Herald",
-      "score": 48,
+      "score": 47,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
