@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T07:02:03.144Z",
+  "updatedAt": "2026-09-05T07:17:31.691Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "David Ozoh",
-      "score": 88,
+      "score": 87,
       "status": "Hot",
       "independentReports": 4,
       "totalStories": 9,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 72,
+      "score": 71,
       "status": "Strong",
       "independentReports": 2,
       "totalStories": 3,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Union Saint-",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 4,
       "totalStories": 4,
@@ -1950,7 +1950,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
