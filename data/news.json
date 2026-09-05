@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T21:40:05.193Z",
+  "updatedAt": "2026-09-05T21:51:19.474Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "David Ozoh",
       "score": 84,
       "status": "Hot",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -33,9 +33,9 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 73,
-      "status": "Strong",
-      "independentReports": 3,
+      "score": 68,
+      "status": "Developing",
+      "independentReports": 2,
       "totalStories": 3,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Owen Eames",
-      "score": 54,
+      "score": 53,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -284,10 +284,10 @@
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - onefootball.com",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-05T04:45:48.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -367,10 +367,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -381,6 +381,21 @@
       "players": [
         "David Ozoh"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajlBblJReVd4Z013UGNDOFNOX3BUdk8wVE5RaHlUdS1ac3oyUjdUYUE4U1BsaWl3NnM2MVdfVkN5Si1PT25fT3g4VlAwUktuQllmdnVJU0NuR0tjVkZJTW1fNTVQd0NJbVc5cUdyWV80Qk5PWlBCOWJXcU5xNkVVRnppTjRBODI3VjRj?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-04T15:25:11.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmV3cyBiaWxva2FwaWMgYWRkZWQgdG",
@@ -2067,10 +2082,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGhhbmRlZCB0cmFuc2ZlciBibG",
-      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - Football Lowdown",
-      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; Football Lowdown",
+      "title": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move - footballlowdown.com",
+      "description": "Derby County Handed Transfer Blow As Sheffield United Clinch Leicester City Move &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTcwbU54S1pqbTVvcVB1RWNMQlhKN2NqQ2dVYV85ZVhmQ0ZvejdIMG9ObzlWLUxHVXJRMWpZaUlCZFl6XzJSSnJ5c0l2YnJrWnpGZE5fNkVwYlA3V2dEb0phekZnVG1qOUFMQWFqUU9fb2VKODlvR3Iwdk5HaXFiYS1FR1hIWWZwM2FnbFE4MTBpY3ZrMllCUG1hLWJxNTU4cUktdzVzVGJtS1BJZGc?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-08-30T11:09:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -3138,23 +3153,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "am9obiBldXN0YWNlIGlzc3VlcyBjaGFsbGVuZ2UgdG",
-      "title": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point - Derbyshire Live",
-      "description": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhvLTlMZENtLW1WR0puNTJ3MGM0bjZiMmluVFVHSVYtencyWUtQd1hpWGtueldjbFBheFNyRGxRRmtpV25rNXItdmtkRDY0UHc2SWtvLU5QQjEwTVo5emxTVWFONjV6ZkxwWjV2MnFKT21BNWhtNWphNE9LYzg0cHNDcVZyUDhUcmxmZmhqSlM0OFJnLTRDVWhOYUg3Z2pMQW9sUXBOUQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-22T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Ryan Hedges"
-      ]
     }
   ]
 }
