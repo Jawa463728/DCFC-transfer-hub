@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:46:27.370Z",
+  "updatedAt": "2026-09-06T22:57:44.511Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -55,7 +55,7 @@
       "maxLikelihood": 76,
       "lastMention": "2026-09-06T07:00:00.000Z",
       "firstSeen": "2026-09-06T10:46:28.414Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Union Saint-",
@@ -2222,6 +2222,23 @@
       "players": []
     },
     {
+      "id": "am9obiBldXN0YWNlIGlzc3VlcyBoZW5yaWsgbWVpc3",
+      "title": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target - Derbyshire Live",
+      "description": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOC1kTWt5V0MyRU5pUkpKSWplc2lzNFlLY2Y4TUprUEl3ZU1tYjl5NWRqbjJ4a1Bvc2FVOW51ZnFUcGVCcDBOSXN0Ml9lMkU0QUVKendTSTJCOUlab1hQaC1UT25JOVJrN1MzMVhKTmFBT1VGbG5pLXlCYkVkVlR2clBrc0ZTTHpwMXdFazc5WGNWYV9rOHdYTTlUN3lOLXlZMDNHdEJEcw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-29T14:24:00.000Z",
+      "reputation": 87,
+      "likelihood": 76,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGluIGFkdmFuY2VkIHRhbGtzIH",
       "title": "🚨 Derby County In ADVANCED Talks To Re-Sign Sammie Szmodics! | John Percy Exclusive Marina Mabrey (8f7MnKRWcE) - Mshale",
       "description": "🚨 Derby County In ADVANCED Talks To Re-Sign Sammie Szmodics! | John Percy Exclusive Marina Mabrey (8f7MnKRWcE) &nbsp;&nbsp; Mshale",
@@ -2238,23 +2255,6 @@
         "Talks To Re-",
         "Sign Sammie Szmodics",
         "John Percy Exclusive Marina"
-      ]
-    },
-    {
-      "id": "am9obiBldXN0YWNlIGlzc3VlcyBoZW5yaWsgbWVpc3",
-      "title": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target - Derbyshire Live",
-      "description": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOC1kTWt5V0MyRU5pUkpKSWplc2lzNFlLY2Y4TUprUEl3ZU1tYjl5NWRqbjJ4a1Bvc2FVOW51ZnFUcGVCcDBOSXN0Ml9lMkU0QUVKendTSTJCOUlab1hQaC1UT25JOVJrN1MzMVhKTmFBT1VGbG5pLXlCYkVkVlR2clBrc0ZTTHpwMXdFazc5WGNWYV9rOHdYTTlUN3lOLXlZMDNHdEJEcw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-29T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 76,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Henrik Meister"
       ]
     },
     {
