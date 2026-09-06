@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:46:15.409Z",
+  "updatedAt": "2026-09-06T20:57:13.148Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "David Ozoh",
       "score": 78,
       "status": "Strong",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -33,9 +33,9 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 75,
+      "score": 70,
       "status": "Strong",
-      "independentReports": 3,
+      "independentReports": 2,
       "totalStories": 4,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -348,10 +348,10 @@
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - onefootball.com",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-05T10:00:00.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -446,10 +446,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -2671,6 +2671,23 @@
       ]
     },
     {
+      "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
+      "source": "VTrend",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": [
+        "Mercato Pisa"
+      ]
+    },
+    {
       "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
       "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - tuttomercatoweb.com",
       "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; tuttomercatoweb.com",
@@ -2687,10 +2704,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2700,23 +2717,6 @@
       "overseas": true,
       "players": [
         "Calciomercato Pisa"
-      ]
-    },
-    {
-      "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "VTrend",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": [
-        "Mercato Pisa"
       ]
     },
     {
