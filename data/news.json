@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T19:14:17.520Z",
+  "updatedAt": "2026-09-06T19:27:14.769Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "David Ozoh",
-      "score": 79,
+      "score": 78,
       "status": "Strong",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -293,7 +293,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -325,7 +325,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -374,7 +374,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -446,10 +446,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -487,7 +487,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -792,7 +792,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1558,7 +1558,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2232,7 +2232,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2663,7 +2663,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Russell Martin",
