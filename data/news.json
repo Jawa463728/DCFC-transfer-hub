@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:30:16.846Z",
+  "updatedAt": "2026-09-06T12:47:31.696Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "David Ozoh",
       "score": 80,
       "status": "Strong",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -45,19 +45,6 @@
       "isNew": true
     },
     {
-      "name": "Nicholas Bilokapic",
-      "score": 65,
-      "status": "Developing",
-      "independentReports": 2,
-      "totalStories": 3,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-05T10:00:00.000Z",
-      "firstSeen": "2026-09-04T17:13:39.913Z",
-      "isNew": false
-    },
-    {
       "name": "Union Saint-",
       "score": 64,
       "status": "Fading",
@@ -68,6 +55,19 @@
       "maxLikelihood": 73,
       "lastMention": "2026-09-02T11:03:07.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
+      "isNew": false
+    },
+    {
+      "name": "Nicholas Bilokapic",
+      "score": 64,
+      "status": "Developing",
+      "independentReports": 2,
+      "totalStories": 3,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-09-05T04:45:48.000Z",
+      "firstSeen": "2026-09-04T17:13:39.913Z",
       "isNew": false
     },
     {
@@ -214,19 +214,6 @@
       "isNew": false
     },
     {
-      "name": "Falkirk Herald",
-      "score": 41,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Falkirk Herald",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-05T01:32:00.000Z",
-      "firstSeen": "2026-09-06T12:30:16.845Z",
-      "isNew": true
-    },
-    {
       "name": "Demarai Gray",
       "score": 38,
       "status": "Fading",
@@ -264,6 +251,19 @@
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-09-06T01:16:25.517Z",
       "isNew": true
+    },
+    {
+      "name": "Talks To Re-",
+      "score": 37,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-29T07:04:48.000Z",
+      "firstSeen": "2026-09-06T12:47:31.696Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -300,23 +300,6 @@
       "players": []
     },
     {
-      "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-05T10:00:00.000Z",
-      "reputation": 57,
-      "likelihood": 70,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Nicholas Bilokapic"
-      ]
-    },
-    {
       "id": "ZnJvbSB0YWtlb3ZlciB0dXJtb2lsIHRvIGRlcmJ5IG",
       "title": "From takeover turmoil to Derby County’s deadline-day triumph — and the bid leaked in 30 seconds - Derbyshire Live",
       "description": "From takeover turmoil to Derby County’s deadline-day triumph — and the bid leaked in 30 seconds &nbsp;&nbsp; Derbyshire Live",
@@ -332,11 +315,28 @@
       "players": []
     },
     {
+      "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-05T04:45:48.000Z",
+      "reputation": 57,
+      "likelihood": 70,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Nicholas Bilokapic"
+      ]
+    },
+    {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "source": "falkirkherald.co.uk",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -344,23 +344,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Falkirk Herald"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-05T00:43:53.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     },
     {
@@ -769,10 +752,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQndfLUhQbkJGZVVQV21ybDd2RWhmUDBWaDlnbTRoREVndnZJLWUtdWtZUy1wMFdWUVhqbGhIYVhOZnlDWlRLYktka1JrYXM0Sy1ua3RYRQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T08:26:27.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1133,10 +1116,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-01T19:47:04.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1731,10 +1714,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "Transfery.info",
+      "source": "transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1890,10 +1873,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLXptUG44RWNkSWJnOFQwQWdIc214OFVjM2JCUXFLUFM2N2ZwSUsxZ3hHS3U4T2pocHFYU2haXzJhYTRqdjY3aTRkX1BhUVUzYkNiN1hTYw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-08-30T18:20:41.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -3154,6 +3137,23 @@
       "overseas": false,
       "players": [
         "Sam Szmodics"
+      ]
+    },
+    {
+      "id": "am9obiBldXN0YWNlIGlzc3VlcyBjaGFsbGVuZ2UgdG",
+      "title": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point - Derbyshire Live",
+      "description": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhvLTlMZENtLW1WR0puNTJ3MGM0bjZiMmluVFVHSVYtencyWUtQd1hpWGtueldjbFBheFNyRGxRRmtpV25rNXItdmtkRDY0UHc2SWtvLU5QQjEwTVo5emxTVWFONjV6ZkxwWjV2MnFKT21BNWhtNWphNE9LYzg0cHNDcVZyUDhUcmxmZmhqSlM0OFJnLTRDVWhOYUg3Z2pMQW9sUXBOUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-22T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Ryan Hedges"
       ]
     }
   ]
