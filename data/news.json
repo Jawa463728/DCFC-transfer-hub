@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:33:16.036Z",
+  "updatedAt": "2026-09-06T15:44:50.733Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -32,6 +32,19 @@
       "isNew": false
     },
     {
+      "name": "Nicholas Bilokapic",
+      "score": 71,
+      "status": "Strong",
+      "independentReports": 2,
+      "totalStories": 4,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-09-06T11:19:06.000Z",
+      "firstSeen": "2026-09-04T17:13:39.913Z",
+      "isNew": false
+    },
+    {
       "name": "Patrick Agyemang",
       "score": 67,
       "status": "Developing",
@@ -43,19 +56,6 @@
       "lastMention": "2026-09-06T07:00:00.000Z",
       "firstSeen": "2026-09-06T10:46:28.414Z",
       "isNew": true
-    },
-    {
-      "name": "Nicholas Bilokapic",
-      "score": 65,
-      "status": "Developing",
-      "independentReports": 2,
-      "totalStories": 3,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-05T10:00:00.000Z",
-      "firstSeen": "2026-09-04T17:13:39.913Z",
-      "isNew": false
     },
     {
       "name": "Union Saint-",
@@ -281,6 +281,23 @@
       "edition": "de",
       "overseas": true,
       "players": []
+    },
+    {
+      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
+      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14QTRpMFVvSGJNWDdqVHl4dTdBZVlLUXJyVXdIbEJfdnc2TVh5em1UdXRFSzdDVzlTUGZMNnJhX0FVUTJFaDNBM1lpOEhtbzZ3VUZ0UG80X0JOZ3ktZ1U4U0kxWQ?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-06T11:19:06.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "pt",
+      "overseas": true,
+      "players": [
+        "Nicholas Bilokapic"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RlYWwgYS",
@@ -3132,21 +3149,6 @@
       "reputation": 61,
       "likelihood": 40,
       "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdhdGZvcmQgbG9hbiB0YXJnZX",
-      "title": "Derby County, Watford loan target set to join Premier League club instead - The72",
-      "description": "Derby County, Watford loan target set to join Premier League club instead &nbsp;&nbsp; The72",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmQ3QkpmOTQtS1B4ekJKU0FyX1RqQ0QzX1FLTE9peGthZExndzZsT0Fmc250UndUTmppaTF5R1BBQ0JWRlQ3dm5OcWtXWXRDSjExYkZ2N3I1UVlDZXZJVmxXdGk2ZlVBSlBlSV9RREdiX0RaMjVlamJKTGZ2blhqV0VuWHEtdE45NGpodGFB?oc=5",
-      "source": "The72",
-      "published": "2026-08-23T08:51:08.000Z",
-      "reputation": 66,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
