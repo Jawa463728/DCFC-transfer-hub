@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T10:20:53.916Z",
+  "updatedAt": "2026-09-06T10:34:54.593Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -175,19 +175,6 @@
       "isNew": false
     },
     {
-      "name": "Falkirk Herald",
-      "score": 42,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Falkirk Herald",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-05T01:32:00.000Z",
-      "firstSeen": "2026-09-06T09:51:14.656Z",
-      "isNew": true
-    },
-    {
       "name": "Mattie Pollock",
       "score": 42,
       "status": "Fading",
@@ -212,6 +199,19 @@
       "lastMention": "2026-08-30T13:24:07.000Z",
       "firstSeen": "2026-09-05T04:27:13.328Z",
       "isNew": false
+    },
+    {
+      "name": "Falkirk Herald",
+      "score": 41,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Falkirk Herald",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-05T01:32:00.000Z",
+      "firstSeen": "2026-09-06T09:51:14.656Z",
+      "isNew": true
     },
     {
       "name": "Demarai Gray",
