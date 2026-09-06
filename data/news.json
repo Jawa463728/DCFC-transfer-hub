@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:25:29.885Z",
+  "updatedAt": "2026-09-06T09:39:51.254Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -33,9 +33,9 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 70,
-      "status": "Strong",
-      "independentReports": 3,
+      "score": 65,
+      "status": "Developing",
+      "independentReports": 2,
       "totalStories": 3,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -175,19 +175,6 @@
       "isNew": false
     },
     {
-      "name": "Falkirk Herald",
-      "score": 42,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Falkirk Herald",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-05T01:32:00.000Z",
-      "firstSeen": "2026-09-06T08:42:22.493Z",
-      "isNew": true
-    },
-    {
       "name": "Mattie Pollock",
       "score": 42,
       "status": "Fading",
@@ -264,6 +251,19 @@
       "lastMention": "2026-08-29T07:04:48.000Z",
       "firstSeen": "2026-09-06T01:16:25.517Z",
       "isNew": true
+    },
+    {
+      "name": "Sign Sammie Szmodics",
+      "score": 37,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-29T07:04:48.000Z",
+      "firstSeen": "2026-09-06T09:39:51.254Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -299,10 +299,10 @@
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - onefootball.com",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-05T04:45:48.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -316,10 +316,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "source": "falkirkherald.co.uk",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -327,9 +327,7 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Falkirk Herald"
-      ]
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
@@ -1905,10 +1903,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - tuttomercatoweb.com",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; tuttomercatoweb.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "TUTTOmercatoWEB",
+      "source": "tuttomercatoweb.com",
       "published": "2026-08-30T16:56:36.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2129,10 +2127,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
+      "source": "tribalfootball.com",
       "published": "2026-08-29T23:51:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2608,10 +2606,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
+      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - tuttomercatoweb.com",
+      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; tuttomercatoweb.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "TUTTOmercatoWEB",
+      "source": "tuttomercatoweb.com",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2623,10 +2621,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
