@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T13:30:24.662Z",
+  "updatedAt": "2026-09-06T13:43:16.736Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "David Ozoh",
       "score": 80,
       "status": "Strong",
-      "independentReports": 5,
+      "independentReports": 4,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -45,29 +45,29 @@
       "isNew": true
     },
     {
-      "name": "Union Saint-",
-      "score": 64,
-      "status": "Fading",
-      "independentReports": 4,
-      "totalStories": 4,
-      "bestSource": "lesoir.be",
-      "bestSourceScore": 96,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-02T11:03:07.000Z",
-      "firstSeen": "2026-09-01T21:41:20.830Z",
-      "isNew": false
-    },
-    {
       "name": "Nicholas Bilokapic",
-      "score": 64,
+      "score": 65,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 3,
       "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
-      "lastMention": "2026-09-05T04:45:48.000Z",
+      "lastMention": "2026-09-05T10:00:00.000Z",
       "firstSeen": "2026-09-04T17:13:39.913Z",
+      "isNew": false
+    },
+    {
+      "name": "Union Saint-",
+      "score": 64,
+      "status": "Fading",
+      "independentReports": 4,
+      "totalStories": 4,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-02T11:03:07.000Z",
+      "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": false
     },
     {
@@ -82,6 +82,19 @@
       "lastMention": "2026-08-28T09:19:00.000Z",
       "firstSeen": "2026-08-28T21:52:36.458Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 53,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-06T13:43:16.736Z",
+      "isNew": true
     },
     {
       "name": "Radio Derbyshire",
@@ -251,19 +264,6 @@
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-09-06T01:16:25.517Z",
       "isNew": false
-    },
-    {
-      "name": "Talks To Re-",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-29T07:04:48.000Z",
-      "firstSeen": "2026-09-06T12:47:31.696Z",
-      "isNew": true
     }
   ],
   "stories": [
@@ -300,6 +300,23 @@
       "players": []
     },
     {
+      "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-05T10:00:00.000Z",
+      "reputation": 57,
+      "likelihood": 70,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Nicholas Bilokapic"
+      ]
+    },
+    {
       "id": "ZnJvbSB0YWtlb3ZlciB0dXJtb2lsIHRvIGRlcmJ5IG",
       "title": "From takeover turmoil to Derby County’s deadline-day triumph — and the bid leaked in 30 seconds - Derbyshire Live",
       "description": "From takeover turmoil to Derby County’s deadline-day triumph — and the bid leaked in 30 seconds &nbsp;&nbsp; Derbyshire Live",
@@ -313,23 +330,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-05T04:45:48.000Z",
-      "reputation": 57,
-      "likelihood": 70,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Nicholas Bilokapic"
-      ]
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
@@ -769,10 +769,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQndfLUhQbkJGZVVQV21ybDd2RWhmUDBWaDlnbTRoREVndnZJLWUtdWtZUy1wMFdWUVhqbGhIYVhOZnlDWlRLYktka1JrYXM0Sy1ua3RYRQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-02T08:26:27.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1065,10 +1065,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1078,7 +1078,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
@@ -1132,10 +1133,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-01T19:47:04.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1889,10 +1890,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLXptUG44RWNkSWJnOFQwQWdIc214OFVjM2JCUXFLUFM2N2ZwSUsxZ3hHS3U4T2pocHFYU2haXzJhYTRqdjY3aTRkX1BhUVUzYkNiN1hTYw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-08-30T18:20:41.000Z",
       "reputation": 57,
       "likelihood": 48,
