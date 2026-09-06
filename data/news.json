@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T00:59:44.938Z",
+  "updatedAt": "2026-09-06T01:16:25.517Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "David Ozoh",
       "score": 83,
       "status": "Hot",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -227,32 +227,6 @@
       "isNew": false
     },
     {
-      "name": "Year Old Midfielder Target",
-      "score": 37,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "OwnGoal Nigeria",
-      "bestSourceScore": 48,
-      "maxLikelihood": 51,
-      "lastMention": "2026-09-03T12:42:29.000Z",
-      "firstSeen": "2026-09-03T16:05:38.927Z",
-      "isNew": false
-    },
-    {
-      "name": "Super Eagles Spot After",
-      "score": 37,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "OwnGoal Nigeria",
-      "bestSourceScore": 48,
-      "maxLikelihood": 51,
-      "lastMention": "2026-09-03T12:42:29.000Z",
-      "firstSeen": "2026-09-03T16:05:38.927Z",
-      "isNew": false
-    },
-    {
       "name": "Modern Ghana",
       "score": 37,
       "status": "Fading",
@@ -263,6 +237,32 @@
       "maxLikelihood": 65,
       "lastMention": "2026-09-02T11:03:07.000Z",
       "firstSeen": "2026-09-06T00:23:44.941Z",
+      "isNew": true
+    },
+    {
+      "name": "In On Arthur Okonkwo",
+      "score": 37,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-30T22:50:10.000Z",
+      "firstSeen": "2026-09-06T01:16:25.517Z",
+      "isNew": true
+    },
+    {
+      "name": "Talks To Re-",
+      "score": 37,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-29T07:04:48.000Z",
+      "firstSeen": "2026-09-06T01:16:25.517Z",
       "isNew": true
     }
   ],
@@ -367,10 +367,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -2076,7 +2076,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
