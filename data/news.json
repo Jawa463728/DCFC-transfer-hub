@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:10:23.410Z",
+  "updatedAt": "2026-09-06T14:25:43.284Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Patrick Agyemang",
-      "score": 68,
+      "score": 67,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -215,7 +215,7 @@
     },
     {
       "name": "Falkirk Herald",
-      "score": 41,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
