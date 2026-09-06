@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:25:43.284Z",
+  "updatedAt": "2026-09-06T14:39:33.662Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -214,19 +214,6 @@
       "isNew": false
     },
     {
-      "name": "Falkirk Herald",
-      "score": 40,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Falkirk Herald",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-05T01:32:00.000Z",
-      "firstSeen": "2026-09-06T13:16:44.356Z",
-      "isNew": true
-    },
-    {
       "name": "Demarai Gray",
       "score": 38,
       "status": "Fading",
@@ -264,6 +251,19 @@
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-09-06T01:16:25.517Z",
       "isNew": false
+    },
+    {
+      "name": "Talks To Re-",
+      "score": 37,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-29T07:04:48.000Z",
+      "firstSeen": "2026-09-06T14:39:33.662Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -333,10 +333,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "source": "falkirkherald.co.uk",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -344,9 +344,7 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Falkirk Herald"
-      ]
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
@@ -1731,10 +1729,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "transfery.info",
+      "source": "Transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
