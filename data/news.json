@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T10:34:54.593Z",
+  "updatedAt": "2026-09-06T10:46:28.415Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -30,6 +30,19 @@
       "lastMention": "2026-09-02T11:03:07.000Z",
       "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": false
+    },
+    {
+      "name": "Patrick Agyemang",
+      "score": 68,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 76,
+      "lastMention": "2026-09-06T07:00:00.000Z",
+      "firstSeen": "2026-09-06T10:46:28.414Z",
+      "isNew": true
     },
     {
       "name": "Nicholas Bilokapic",
@@ -251,22 +264,26 @@
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-09-06T01:16:25.517Z",
       "isNew": true
-    },
-    {
-      "name": "Talks To Re-",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-29T07:04:48.000Z",
-      "firstSeen": "2026-09-06T01:16:25.517Z",
-      "isNew": true
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RlYWwgYS",
+      "title": "Derby County's transfer steal, a brutal welcome and why Patrick Agyemang offers hope - Derbyshire Live",
+      "description": "Derby County's transfer steal, a brutal welcome and why Patrick Agyemang offers hope &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT01uR3EycTFsbUd2dmNrSjN0djNwNUdYeXpBekdVbG9jOXFtMHFQeFRMVkVlQnlxZW9KUFRMTlBGR1pxQTRGRzczYVlHNko5SGhOTWNlM2NlUEZFQWV6LWFaV2pySEZIWUZlMTRkU2RMdXBnc19tTmJLS2VjaUhCY1Y3UkI3M0JxQlhyOF94QlRhWEZidGF6MVJva2hVenlROXc?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-06T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 76,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Patrick Agyemang"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
       "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - Transfermarkt",
@@ -3138,21 +3155,6 @@
       "players": [
         "Sam Szmodics"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGV4cGxvcmUgZGVhbCBmb3Igd2",
-      "title": "Derby County explore deal for West Brom winger - news.bet365.com",
-      "description": "Derby County explore deal for West Brom winger &nbsp;&nbsp; news.bet365.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkhWNXo3a0I4N2xFSHJQVEpKOHo1TUZmSV8tSXNDRWVYaWV3Yy1YRzc2ZXRMc2J1TTdLYmZ3Tl9ZOUhWbDNrOE5CV0FrZ3NVajVXVnp6MUZ3ZGxpMThCZmN5a24wT2trb2lmSTZRV2ZTTWRVWE5SdjVPMEl1a1lLendqVzc3X1JRYXlkdUpGWTVyeXljUC03VnE0bUJVWnlYVXY5Mkpfdw?oc=5",
-      "source": "news.bet365.com",
-      "published": "2026-08-23T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     }
   ]
 }
