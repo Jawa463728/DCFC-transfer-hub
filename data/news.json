@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T23:30:45.941Z",
+  "updatedAt": "2026-09-07T23:43:04.281Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -37,7 +37,7 @@
       "status": "Fading",
       "independentReports": 4,
       "totalStories": 4,
-      "bestSource": "lesoir.be",
+      "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-02T11:03:07.000Z",
@@ -69,6 +69,19 @@
       "lastMention": "2026-09-06T07:00:00.000Z",
       "firstSeen": "2026-09-06T10:46:28.414Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 53,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-07T23:43:04.281Z",
+      "isNew": true
     },
     {
       "name": "Radio Derbyshire",
@@ -251,22 +264,24 @@
       "lastMention": "2026-09-03T12:42:29.000Z",
       "firstSeen": "2026-09-07T18:39:24.075Z",
       "isNew": true
-    },
-    {
-      "name": "Super Eagles Spot After",
-      "score": 34,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "OwnGoal Nigeria",
-      "bestSourceScore": 48,
-      "maxLikelihood": 51,
-      "lastMention": "2026-09-03T12:42:29.000Z",
-      "firstSeen": "2026-09-07T23:30:45.940Z",
-      "isNew": true
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
+      "source": "ToffeeWeb",
+      "published": "2026-09-07T21:15:33.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGthZGVyIGltIGRldGFpbCA3My",
       "title": "Derby County - Kader im Detail 73/74 (Galerie) - Transfermarkt",
@@ -727,10 +742,10 @@
     },
     {
       "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - footballlowdown.com",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-09-03T11:47:53.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -883,7 +898,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1203,10 +1218,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1216,7 +1231,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
@@ -1648,7 +1664,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2341,7 +2357,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -3131,21 +3147,6 @@
       "reputation": 87,
       "likelihood": 76,
       "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG1pbGx3YWxsIGluIGNoYW1waW",
-      "title": "Derby County & Millwall in Championship transfer tussle for Ipswich Town promotion star - news.bet365.com",
-      "description": "Derby County & Millwall in Championship transfer tussle for Ipswich Town promotion star &nbsp;&nbsp; news.bet365.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa2dRVlVzOTVxeDZhX2lRbDNNV014Q2dJOGNCMnppTk4ybmV3UXRwLUN2NS14LVg3Y0NPZk1fejFUbUxaeDRaREI2emZodE9rQXI2cGpvbnlaaDRVOEprYVpvTFhVQ185YXJ2bmNDWlV0cTN1czNLSW5vSnBVa3hnYWphYV9BYU4zV1Utd0JRMWFZeFZzNUNoQTRxWXRZMjR1SkpFYnpnUldENjFXeVJRU2daMmpFZ0xPNkE4dUNxTnRxMHZ0NWZXNVhQT0V2bHpmY3dlcXRHdnRGa0RYYjFhQg?oc=5",
-      "source": "news.bet365.com",
-      "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
