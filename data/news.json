@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:46:05.177Z",
+  "updatedAt": "2026-09-07T01:58:43.515Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -63,7 +63,7 @@
       "status": "Fading",
       "independentReports": 4,
       "totalStories": 4,
-      "bestSource": "lesoir.be",
+      "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-02T11:03:07.000Z",
@@ -82,6 +82,19 @@
       "lastMention": "2026-08-28T09:19:00.000Z",
       "firstSeen": "2026-08-28T21:52:36.458Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 53,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-07T01:58:43.515Z",
+      "isNew": true
     },
     {
       "name": "Radio Derbyshire",
@@ -251,19 +264,6 @@
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-09-06T01:16:25.517Z",
       "isNew": false
-    },
-    {
-      "name": "Talks To Re-",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-29T07:04:48.000Z",
-      "firstSeen": "2026-09-07T01:30:57.801Z",
-      "isNew": true
     }
   ],
   "stories": [
@@ -1112,10 +1112,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1125,7 +1125,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
