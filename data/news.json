@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:30:57.801Z",
+  "updatedAt": "2026-09-07T01:46:05.177Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 69,
+      "score": 68,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 4,
