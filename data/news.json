@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T10:47:52.958Z",
+  "updatedAt": "2026-09-07T10:58:10.154Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 77,
+      "score": 79,
       "status": "Fading",
-      "independentReports": 8,
+      "independentReports": 9,
       "totalStories": 10,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -24,7 +24,7 @@
       "status": "Strong",
       "independentReports": 4,
       "totalStories": 9,
-      "bestSource": "BBC",
+      "bestSource": "bbc.com",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
       "lastMention": "2026-09-04T17:00:00.000Z",
@@ -50,7 +50,7 @@
       "status": "Fading",
       "independentReports": 4,
       "totalStories": 4,
-      "bestSource": "Le Soir",
+      "bestSource": "lesoir.be",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-02T11:03:07.000Z",
@@ -69,19 +69,6 @@
       "lastMention": "2026-09-06T07:00:00.000Z",
       "firstSeen": "2026-09-06T10:46:28.414Z",
       "isNew": false
-    },
-    {
-      "name": "Le Soir",
-      "score": 53,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Le Soir",
-      "bestSourceScore": 96,
-      "maxLikelihood": 73,
-      "lastMention": "2026-09-01T21:40:00.000Z",
-      "firstSeen": "2026-09-07T03:19:27.152Z",
-      "isNew": true
     },
     {
       "name": "Radio Derbyshire",
@@ -110,19 +97,6 @@
       "isNew": false
     },
     {
-      "name": "Wertvollste Zugänge",
-      "score": 43,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Transfermarkt",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-06T05:59:48.000Z",
-      "firstSeen": "2026-09-07T09:55:46.421Z",
-      "isNew": true
-    },
-    {
       "name": "Curtis Davies",
       "score": 43,
       "status": "Fading",
@@ -134,6 +108,19 @@
       "lastMention": "2026-09-02T08:13:42.000Z",
       "firstSeen": "2026-09-03T21:31:51.757Z",
       "isNew": false
+    },
+    {
+      "name": "Wertvollste Zugänge",
+      "score": 42,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Transfermarkt",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-06T05:59:48.000Z",
+      "firstSeen": "2026-09-07T09:55:46.421Z",
+      "isNew": true
     },
     {
       "name": "Mattie Pollock",
@@ -264,15 +251,28 @@
       "lastMention": "2026-09-01T15:48:14.000Z",
       "firstSeen": "2026-09-07T09:23:00.477Z",
       "isNew": true
+    },
+    {
+      "name": "Year Old Midfielder Target",
+      "score": 34,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "OwnGoal Nigeria",
+      "bestSourceScore": 48,
+      "maxLikelihood": 51,
+      "lastMention": "2026-09-03T12:42:29.000Z",
+      "firstSeen": "2026-09-07T10:58:10.154Z",
+      "isNew": true
     }
   ],
   "stories": [
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRmwwM3owU1dVM2pMWXVVV3JiUWg0VjRNNEI2LVl4V0V5SlE0aktJZk5qZFE5MGNWM1V0bjhOUFdUclBDX0poTXlBbDF1N05ndG5FSXE4UDZHQQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-07T00:11:17.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -283,11 +283,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.at",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.at",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMC1sRXZfcE50cjA4eFJTSkFxb1VnR01iZjFUdURaMGdnYS1zUWFvR1VkQlM2Tk5VdzdHQkhnZHZtUHdXZUZiVFJCdkYxSHdHX2pKbHFNTGpnUkxiX0FkZWlGc0pCTzVmQk5XUnBDdkk4bzhVSVU4bHlJM2daRk9PSjNxT0M1WDFvaFJvaUJB?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-06T14:26:16.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -444,7 +444,7 @@
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
       "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
       "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTdvWTZWMlFrcGhBVF92WmNRZHpvVnZOODFyekxoNEptUEVva05SWHpwakxfMktRbmZsMWJsYVZPUlNZTzRwdERXemRUYXFIYldfN1c5SHIxeUNBa0RZaEE3UFQ3THJNcHRJaUNCTWlGM0xEbXZ0elI1cHBHN1hfcUVpR0xqRDlQckVVM1ZMYUpnLXBxejlud01OOA?oc=5",
       "source": "Falkirk Herald",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
@@ -602,10 +602,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGh1ZGRlcnNmaWVsZCB0b3duID",
-      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - Transfermarkt",
+      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnFrSzNrQXljYVV6MHFzRjNFZFhxdy1tNl9XbVBKQmpjRFFoVHR0TVFLOVFDOWxncUx4N0R1RERZTG5JemFhQWcxVEJZSmVuVU9RTlRqNmZsMXpnNW5QblJZbEtjcnNUNTQyWjYyWllzN2FET0p1Tkh5Z3lhdUM1TXZhZWp4MXVrYVo1YzFoRQ?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-03T23:42:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1033,10 +1033,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSBrYWRlciBpbSBkZXRhaW",
-      "title": "Derby County U21 - Kader im Detail 26/27 - transfermarkt.at",
-      "description": "Derby County U21 - Kader im Detail 26/27 &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County U21 - Kader im Detail 26/27 - Transfermarkt",
+      "description": "Derby County U21 - Kader im Detail 26/27 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1BpQm9QbEpGblNRZUU0OUVQU1NlLVRCVDYxcE5Ca0NDVkhONmQxVXEyOFcyRUJ4eDNLT3J6MmhWMXRTanBzM1lmZVMxaGZfaTlNaFFNNTFJVFFPMG1JaGExT2FuTTdmdU5pbDJQaGxmWDgzWGpheDFxV2JqSklCakNUdjQ0QQ?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-01T22:43:42.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1143,10 +1143,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "Le Soir",
+      "source": "lesoir.be",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1156,8 +1156,7 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-",
-        "Le Soir"
+        "Union Saint-"
       ]
     },
     {
@@ -1243,10 +1242,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
-      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
-      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - bbc.com",
+      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-09-01T19:15:16.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -1809,10 +1808,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "transfery.info",
+      "source": "Transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2322,10 +2321,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2720,10 +2719,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "SestaPorta.News Pisa",
+      "source": "sestaporta.news",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
