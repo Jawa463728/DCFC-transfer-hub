@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T14:59:01.785Z",
+  "updatedAt": "2026-09-07T15:18:37.117Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -20,7 +20,7 @@
     },
     {
       "name": "David Ozoh",
-      "score": 74,
+      "score": 73,
       "status": "Strong",
       "independentReports": 5,
       "totalStories": 9,
@@ -37,7 +37,7 @@
       "status": "Strong",
       "independentReports": 3,
       "totalStories": 4,
-      "bestSource": "bbc.co.uk",
+      "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 72,
       "lastMention": "2026-09-06T11:19:06.000Z",
@@ -476,10 +476,10 @@
     },
     {
       "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
-      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - bbc.co.uk",
-      "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; bbc.co.uk",
+      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - BBC",
+      "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSWVqR1VsVjRxNFlpYkZtVXI1RE9oRHdockJXdEpfTldsWC0yekdILU1KRG0tY1doOUlRZTczdnFkYzFSQ1BWRU04aUV0MG1hai1sZDhIVWJwcmdfWE1XYndSTTJEejYyVFE?oc=5",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "published": "2026-09-04T17:03:27.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -2073,7 +2073,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
