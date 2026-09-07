@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T04:40:36.191Z",
+  "updatedAt": "2026-09-07T04:54:49.737Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -227,32 +227,6 @@
       "isNew": false
     },
     {
-      "name": "Falkirk Herald",
-      "score": 37,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Falkirk Herald",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-05T01:32:00.000Z",
-      "firstSeen": "2026-09-07T04:40:36.191Z",
-      "isNew": true
-    },
-    {
-      "name": "Modern Ghana",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Modern Ghana",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-09-02T11:03:07.000Z",
-      "firstSeen": "2026-09-06T00:23:44.941Z",
-      "isNew": false
-    },
-    {
       "name": "In On Arthur Okonkwo",
       "score": 37,
       "status": "Fading",
@@ -264,6 +238,32 @@
       "lastMention": "2026-08-30T22:50:10.000Z",
       "firstSeen": "2026-09-06T01:16:25.517Z",
       "isNew": false
+    },
+    {
+      "name": "Talks To Re-",
+      "score": 37,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-29T07:04:48.000Z",
+      "firstSeen": "2026-09-07T04:54:49.736Z",
+      "isNew": true
+    },
+    {
+      "name": "Sign Sammie Szmodics",
+      "score": 37,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Mshale",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-08-29T07:04:48.000Z",
+      "firstSeen": "2026-09-07T04:54:49.736Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -395,10 +395,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - linlithgowgazette.co.uk",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; linlithgowgazette.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTdvWTZWMlFrcGhBVF92WmNRZHpvVnZOODFyekxoNEptUEVva05SWHpwakxfMktRbmZsMWJsYVZPUlNZTzRwdERXemRUYXFIYldfN1c5SHIxeUNBa0RZaEE3UFQ3THJNcHRJaUNCTWlGM0xEbXZ0elI1cHBHN1hfcUVpR0xqRDlQckVVM1ZMYUpnLXBxejlud01OOA?oc=5",
+      "source": "linlithgowgazette.co.uk",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -406,9 +406,7 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Falkirk Herald"
-      ]
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
@@ -779,10 +777,10 @@
     },
     {
       "id": "bW9oYW1tZWQgZnVzZWluaSBqb2lucyBkZXJieSBjb3",
-      "title": "Mohammed Fuseini joins Derby County on loan from Union Saint-Gilloise - Modern Ghana",
-      "description": "Mohammed Fuseini joins Derby County on loan from Union Saint-Gilloise &nbsp;&nbsp; Modern Ghana",
+      "title": "Mohammed Fuseini joins Derby County on loan from Union Saint-Gilloise - modernghana.com",
+      "description": "Mohammed Fuseini joins Derby County on loan from Union Saint-Gilloise &nbsp;&nbsp; modernghana.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTJOV2k3dnhPeEQxamJkdXRZZDlaVXJMdFdqdjlSZ1pGYXVnYmZkWjJNQlZJOU1BT2tlYzdJZVNSTUwwblFCZVZzQ1JpZkYyODd5MXR1VEV6QXpsbEJ5WDdQRW9nNnE3X0ZtazFDZDVTZElmb2Q0eWFQblNFV0pLUkl4UjlDRHA4ME00WFdOT1YtVFpFV0xva1RrWXTSAZsBQVVfeXFMTXhaQWxkX3B3eFZlb2dYLVd2TXNNTllpWlVmTkE5MWZxRnBUenFzbVNaTXhGQktnbVlTRl81RzBzQnlDVGZHYzFUeHBDSXl6VVp5dmtvcXFCM2xMMG9LdlRTczFkaENQbFIwdDFFVFpDVkgycndaMUM2OFlaTzhPc1VPSlduSTRncVljN3VXaXFhY09HOXpVSjdJY0E?oc=5",
-      "source": "Modern Ghana",
+      "source": "modernghana.com",
       "published": "2026-09-02T11:03:07.000Z",
       "reputation": 48,
       "likelihood": 65,
@@ -792,8 +790,7 @@
       "overseas": false,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-",
-        "Modern Ghana"
+        "Union Saint-"
       ]
     },
     {
@@ -2430,7 +2427,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2587,21 +2584,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IG5lYXIgaW5pdGlhbCBsb2FuIG",
-      "title": "Derby County near initial loan deal for 22-year-old striker with €8.5m option to buy - Yahoo Sports UK",
-      "description": "Derby County near initial loan deal for 22-year-old striker with €8.5m option to buy &nbsp;&nbsp; Yahoo Sports UK",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXhGNS1vSnRmS3V0cGpBTllvTTlBWjYzYUpuTUFYbGNXeWRGaFpNZi1mWTBTZ2w3ZTlTRldKVURTUERmZC1vZ0JFNlZYY3BxLU15cjNuLWpZclVmOVVOa3VEZW1reVF2RVBpM1hQZndBTDNRc2JVWWxCdEgyOXB1c211LXI?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-08-26T13:06:16.000Z",
-      "reputation": 70,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton attacker - Yorkshire Post",
       "description": "Sheffield United and Derby County 'vying' for signature of Southampton attacker &nbsp;&nbsp; Yorkshire Post",
@@ -2666,6 +2648,21 @@
       "players": [
         "Ben Brereton Diaz"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IG5lYXIgaW5pdGlhbCBsb2FuIG",
+      "title": "Derby County near initial loan deal for 22-year-old striker with €8.5m option to buy - Yahoo Sports UK",
+      "description": "Derby County near initial loan deal for 22-year-old striker with €8.5m option to buy &nbsp;&nbsp; Yahoo Sports UK",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXhGNS1vSnRmS3V0cGpBTllvTTlBWjYzYUpuTUFYbGNXeWRGaFpNZi1mWTBTZ2w3ZTlTRldKVURTUERmZC1vZ0JFNlZYY3BxLU15cjNuLWpZclVmOVVOa3VEZW1reVF2RVBpM1hQZndBTDNRc2JVWWxCdEgyOXB1c211LXI?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 70,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
