@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T05:56:55.415Z",
+  "updatedAt": "2026-09-07T06:23:30.238Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Patrick Agyemang",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
