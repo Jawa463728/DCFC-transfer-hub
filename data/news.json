@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:52:44.397Z",
+  "updatedAt": "2026-09-07T00:11:53.747Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -268,21 +268,6 @@
   ],
   "stories": [
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMC1sRXZfcE50cjA4eFJTSkFxb1VnR01iZjFUdURaMGdnYS1zUWFvR1VkQlM2Tk5VdzdHQkhnZHZtUHdXZUZiVFJCdkYxSHdHX2pKbHFNTGpnUkxiX0FkZWlGc0pCTzVmQk5XUnBDdkk4bzhVSVU4bHlJM2daRk9PSjNxT0M1WDFvaFJvaUJB?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-06T14:26:16.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "YWZjIHdyZXhoYW0gZGVyYnkgY291bnR5IDI3IDAyID",
       "title": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht - Transfermarkt",
       "description": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -308,7 +293,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -340,7 +325,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -389,7 +374,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -409,6 +394,21 @@
       "players": [
         "Falkirk Herald"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-05T00:43:53.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
@@ -487,7 +487,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -676,7 +676,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -792,7 +792,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -934,10 +934,10 @@
     },
     {
       "id": "c2lnbmluZyBkYXZpZCBvem9oIHNpZ25zIGZvciBkZX",
-      "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - Derby County",
-      "description": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; Derby County",
+      "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - dcfc.co.uk",
+      "description": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; dcfc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT081TkR3V2dwaUFUV0pRdS13UzU0Y05SR1hrUl91WmlnVksxZG5NNy1WWU04b0c0X1M4ZjZpRmVla0hKRV92YWpsTHNodGRFS2VWbEFPWGVzRTdnbF9tNHk2b1M2V1hoUXk4MG1fVGIwUm51MHZINVBxOHQzczlfTHVZN1JWYUEzVWFCMnZoWC1aMzVaREZiNlI1OA?oc=5",
-      "source": "Derby County",
+      "source": "dcfc.co.uk",
       "published": "2026-09-02T00:10:51.000Z",
       "reputation": 99,
       "likelihood": 97,
@@ -1328,10 +1328,10 @@
     },
     {
       "id": "c2lnbmluZyBjYXNoaW4gcmV0dXJucyB0byB0aGUgcm",
-      "title": "SIGNING: Cashin returns to the Rams - Derby County",
-      "description": "SIGNING: Cashin returns to the Rams &nbsp;&nbsp; Derby County",
+      "title": "SIGNING: Cashin returns to the Rams - dcfc.co.uk",
+      "description": "SIGNING: Cashin returns to the Rams &nbsp;&nbsp; dcfc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHN2JzOUhvcFNYNUdjdW9lQ0FKLUdJengzOHNIQjR1c01ad0FQT0VXQ1o3ZmFvQ1BKc29nM0ZOZlE5eGpKV1J2TXl1Mmcta0V2UjlneU9QX3ppOHFuU01XdUZPdGx6TG5sTW54RHQ3QWxKUHFER01MTUdR?oc=5",
-      "source": "Derby County",
+      "source": "dcfc.co.uk",
       "published": "2026-09-01T18:31:14.000Z",
       "reputation": 99,
       "likelihood": 75,
@@ -1558,7 +1558,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2251,7 +2251,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2663,7 +2663,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -3048,10 +3048,10 @@
     },
     {
       "id": "Zm9ybWVyIGNlbHRpYyBzdGFyIHRvIGRlcmJ5IGNvdW",
-      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - GlasgowWorld",
-      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
+      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim - glasgowworld.com",
+      "description": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; glasgowworld.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
-      "source": "GlasgowWorld",
+      "source": "glasgowworld.com",
       "published": "2026-08-24T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
