@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T14:11:16.721Z",
+  "updatedAt": "2026-09-07T14:29:11.286Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Patrick Agyemang",
-      "score": 62,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -227,19 +227,6 @@
       "isNew": true
     },
     {
-      "name": "Falkirk Herald",
-      "score": 35,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Falkirk Herald",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-05T01:32:00.000Z",
-      "firstSeen": "2026-09-07T08:32:32.852Z",
-      "isNew": true
-    },
-    {
       "name": "Late Barnsley",
       "score": 35,
       "status": "Fading",
@@ -264,6 +251,19 @@
       "lastMention": "2026-09-01T15:48:14.000Z",
       "firstSeen": "2026-09-07T09:23:00.477Z",
       "isNew": true
+    },
+    {
+      "name": "Falkirk Herald",
+      "score": 34,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Falkirk Herald",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-05T01:32:00.000Z",
+      "firstSeen": "2026-09-07T08:32:32.852Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -279,21 +279,6 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "fr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.at",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.at",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMC1sRXZfcE50cjA4eFJTSkFxb1VnR01iZjFUdURaMGdnYS1zUWFvR1VkQlM2Tk5VdzdHQkhnZHZtUHdXZUZiVFJCdkYxSHdHX2pKbHFNTGpnUkxiX0FkZWlGc0pCTzVmQk5XUnBDdkk4bzhVSVU4bHlJM2daRk9PSjNxT0M1WDFvaFJvaUJB?oc=5",
-      "source": "transfermarkt.at",
-      "published": "2026-09-06T14:26:16.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     },
@@ -323,7 +308,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -355,7 +340,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -436,7 +421,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -456,6 +441,21 @@
       "players": [
         "Falkirk Herald"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-05T00:43:53.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
@@ -534,7 +534,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -602,10 +602,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGh1ZGRlcnNmaWVsZCB0b3duID",
-      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - Transfermarkt",
+      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnFrSzNrQXljYVV6MHFzRjNFZFhxdy1tNl9XbVBKQmpjRFFoVHR0TVFLOVFDOWxncUx4N0R1RERZTG5JemFhQWcxVEJZSmVuVU9RTlRqNmZsMXpnNW5QblJZbEtjcnNUNTQyWjYyWllzN2FET0p1Tkh5Z3lhdUM1TXZhZWp4MXVrYVo1YzFoRQ?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-03T23:42:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -708,7 +708,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -823,7 +823,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1033,10 +1033,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSBrYWRlciBpbSBkZXRhaW",
-      "title": "Derby County U21 - Kader im Detail 26/27 - transfermarkt.at",
-      "description": "Derby County U21 - Kader im Detail 26/27 &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County U21 - Kader im Detail 26/27 - Transfermarkt",
+      "description": "Derby County U21 - Kader im Detail 26/27 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1BpQm9QbEpGblNRZUU0OUVQU1NlLVRCVDYxcE5Ca0NDVkhONmQxVXEyOFcyRUJ4eDNLT3J6MmhWMXRTanBzM1lmZVMxaGZfaTlNaFFNNTFJVFFPMG1JaGExT2FuTTdmdU5pbDJQaGxmWDgzWGpheDFxV2JqSklCakNUdjQ0QQ?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-01T22:43:42.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1589,7 +1589,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1809,10 +1809,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "Transfery.info",
+      "source": "transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2282,7 +2282,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2322,10 +2322,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2679,7 +2679,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
