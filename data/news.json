@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:58:43.515Z",
+  "updatedAt": "2026-09-07T02:18:14.534Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,9 +7,9 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 77,
+      "score": 79,
       "status": "Fading",
-      "independentReports": 8,
+      "independentReports": 9,
       "totalStories": 10,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -24,7 +24,7 @@
       "status": "Strong",
       "independentReports": 4,
       "totalStories": 9,
-      "bestSource": "BBC",
+      "bestSource": "bbc.com",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
       "lastMention": "2026-09-04T17:00:00.000Z",
@@ -268,6 +268,36 @@
   ],
   "stories": [
     {
+      "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
+      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRmwwM3owU1dVM2pMWXVVV3JiUWg0VjRNNEI2LVl4V0V5SlE0aktJZk5qZFE5MGNWM1V0bjhOUFdUclBDX0poTXlBbDF1N05ndG5FSXE4UDZHQQ?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-07T00:11:17.000Z",
+      "reputation": 57,
+      "likelihood": 70,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "fr",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMC1sRXZfcE50cjA4eFJTSkFxb1VnR01iZjFUdURaMGdnYS1zUWFvR1VkQlM2Tk5VdzdHQkhnZHZtUHdXZUZiVFJCdkYxSHdHX2pKbHFNTGpnUkxiX0FkZWlGc0pCTzVmQk5XUnBDdkk4bzhVSVU4bHlJM2daRk9PSjNxT0M1WDFvaFJvaUJB?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-06T14:26:16.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "YWZjIHdyZXhoYW0gZGVyYnkgY291bnR5IDI3IDAyID",
       "title": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht - Transfermarkt",
       "description": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -293,7 +323,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -325,7 +355,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -374,7 +404,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -394,21 +424,6 @@
       "players": [
         "Falkirk Herald"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-05T00:43:53.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
@@ -487,7 +502,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -555,10 +570,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGh1ZGRlcnNmaWVsZCB0b3duID",
-      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - Transfermarkt",
+      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnFrSzNrQXljYVV6MHFzRjNFZFhxdy1tNl9XbVBKQmpjRFFoVHR0TVFLOVFDOWxncUx4N0R1RERZTG5JemFhQWcxVEJZSmVuVU9RTlRqNmZsMXpnNW5QblJZbEtjcnNUNTQyWjYyWllzN2FET0p1Tkh5Z3lhdUM1TXZhZWp4MXVrYVo1YzFoRQ?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-03T23:42:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -676,7 +691,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -792,7 +807,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1002,10 +1017,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSBrYWRlciBpbSBkZXRhaW",
-      "title": "Derby County U21 - Kader im Detail 26/27 - transfermarkt.at",
-      "description": "Derby County U21 - Kader im Detail 26/27 &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County U21 - Kader im Detail 26/27 - Transfermarkt",
+      "description": "Derby County U21 - Kader im Detail 26/27 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1BpQm9QbEpGblNRZUU0OUVQU1NlLVRCVDYxcE5Ca0NDVkhONmQxVXEyOFcyRUJ4eDNLT3J6MmhWMXRTanBzM1lmZVMxaGZfaTlNaFFNNTFJVFFPMG1JaGExT2FuTTdmdU5pbDJQaGxmWDgzWGpheDFxV2JqSklCakNUdjQ0QQ?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-09-01T22:43:42.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1212,10 +1227,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
-      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
-      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - bbc.com",
+      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-09-01T19:15:16.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -1558,7 +1573,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2251,7 +2266,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2291,10 +2306,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "transfermarkt.at",
+      "source": "Transfermarkt",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2663,7 +2678,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -3139,21 +3154,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGV5ZWluZyBtb3ZlIGZvciBpbm",
-      "title": "Derby County eyeing move for \"incredible\" former Bristol City star - Football FanCast",
-      "description": "Derby County eyeing move for \"incredible\" former Bristol City star &nbsp;&nbsp; Football FanCast",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNy0tNjJUWklYbUZNQjkwOW83U2Ntd1FXR1FFMUlnTHAyLVZEOVJ3N19WT0Z3aDJxeFdKb3h2eTV2bXB5RW41SENMS2o2MktUaU5NcGZhZjBJa0pWMm5BMGVnT2JJbmlnUjRLVDdJc0ZXYjZzNkI3LWFGcFBwa1l5aVR5WE95NVVqNWxuY01DYWZjQmxwQi1wdg?oc=5",
-      "source": "Football FanCast",
-      "published": "2026-08-23T16:10:11.000Z",
-      "reputation": 48,
-      "likelihood": 32,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
