@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T16:50:07.180Z",
+  "updatedAt": "2026-09-07T17:02:20.790Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -21,7 +21,7 @@
     {
       "name": "David Ozoh",
       "score": 73,
-      "status": "Strong",
+      "status": "Fading",
       "independentReports": 4,
       "totalStories": 9,
       "bestSource": "BBC",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 65,
-      "status": "Developing",
-      "independentReports": 2,
+      "score": 70,
+      "status": "Strong",
+      "independentReports": 3,
       "totalStories": 4,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -198,7 +198,7 @@
       "maxLikelihood": 65,
       "lastMention": "2026-08-29T07:04:48.000Z",
       "firstSeen": "2026-09-07T04:54:49.736Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Sign Sammie Szmodics",
@@ -395,10 +395,10 @@
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - onefootball.com",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-05T10:00:00.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -667,10 +667,10 @@
     },
     {
       "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
+      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - footballlowdown.com",
+      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; footballlowdown.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "Football Lowdown",
+      "source": "footballlowdown.com",
       "published": "2026-09-03T11:47:53.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -2014,23 +2014,6 @@
       "players": []
     },
     {
-      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
-      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
-      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-30T16:51:37.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Henrik Meister"
-      ]
-    },
-    {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
       "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
       "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
@@ -2223,12 +2206,29 @@
       ]
     },
     {
+      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
+      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
+      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
       "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
       "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
       "source": "TribalFootball",
-      "published": "2026-08-29T23:51:00.000Z",
+      "published": "2026-08-30T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -2687,6 +2687,23 @@
       ]
     },
     {
+      "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
+      "source": "SestaPorta.News Pisa",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": [
+        "Calciomercato Pisa"
+      ]
+    },
+    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -2717,23 +2734,6 @@
       "edition": "it",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "SestaPorta.News Pisa",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": [
-        "Calciomercato Pisa"
-      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IG5lYXIgaW5pdGlhbCBsb2FuIG",
