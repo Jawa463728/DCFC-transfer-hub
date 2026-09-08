@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:25:53.810Z",
+  "updatedAt": "2026-09-08T17:40:18.577Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -11,7 +11,7 @@
       "status": "Strong",
       "independentReports": 2,
       "totalStories": 2,
-      "bestSource": "bbc.co.uk",
+      "bestSource": "BBC",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
       "lastMention": "2026-09-08T13:33:36.000Z",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 4,
@@ -269,10 +269,10 @@
   "stories": [
     {
       "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIga2Vuem8gZ2",
-      "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - bbc.co.uk",
-      "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; bbc.co.uk",
+      "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - BBC",
+      "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWG1ORmxEVnI3WFN6VUQwZlZPMHVBUnZTY0gzclhVVzJveFdRaTYtQlhNaUVldkF2dTM1X3B5a3c1eGZyZWZVLV96N3JZQThRb1E4bXQ4RUVmR0JON25vZ2VzQmdoUGgwU3c?oc=5",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "published": "2026-09-08T13:33:36.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -333,10 +333,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - toffeeweb.com",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-08T01:08:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1160,23 +1160,6 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-02T05:45:17.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "pt",
-      "overseas": true,
-      "players": [
-        "Henrik Meister"
-      ]
-    },
-    {
-      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
       "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
       "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkswUVFubjh4VWtaOWJENEllUTRIZlpGVjdwMWZGRUV6RUxkN3pNY0NrVjl6TEg0bWY2ZGVTQ0JoSUxCZmZjekpuWFhYU0pjTWF4QnhXeW1tNWI3c0UzNmxhSQ?oc=5",
@@ -1587,6 +1570,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
+      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-01T18:45:18.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "pt",
+      "overseas": true,
+      "players": [
+        "Henrik Meister"
+      ]
     },
     {
       "id": "ZmMgcG9ydHNtb3V0aCBkZXJieSBjb3VudHkgMDEgMD",
@@ -2437,6 +2437,21 @@
       "players": []
     },
     {
+      "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBoZW5yaW",
       "title": "TRANSFER NEWS: Introducing…Henrik Meister - Derby County",
       "description": "TRANSFER NEWS: Introducing…Henrik Meister &nbsp;&nbsp; Derby County",
@@ -2452,21 +2467,6 @@
       "players": [
         "Henrik Meister"
       ]
-    },
-    {
-      "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
@@ -2918,21 +2918,6 @@
       ]
     },
     {
-      "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -2948,6 +2933,21 @@
       "players": [
         "Mercato Pisa"
       ]
+    },
+    {
+      "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
+      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
+      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
