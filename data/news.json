@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T07:00:21.726Z",
+  "updatedAt": "2026-09-08T07:21:18.635Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -175,45 +175,6 @@
       "isNew": false
     },
     {
-      "name": "Talks To Re-",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-29T07:04:48.000Z",
-      "firstSeen": "2026-09-07T04:54:49.736Z",
-      "isNew": false
-    },
-    {
-      "name": "Sign Sammie Szmodics",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-29T07:04:48.000Z",
-      "firstSeen": "2026-09-07T06:44:59.337Z",
-      "isNew": false
-    },
-    {
-      "name": "John Percy Exclusive Marina",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Mshale",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-08-29T07:04:48.000Z",
-      "firstSeen": "2026-09-07T08:32:32.853Z",
-      "isNew": false
-    },
-    {
       "name": "Late Barnsley",
       "score": 35,
       "status": "Fading",
@@ -263,6 +224,45 @@
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T12:42:29.000Z",
       "firstSeen": "2026-09-08T05:59:36.263Z",
+      "isNew": true
+    },
+    {
+      "name": "Following Jakub Stolarczyk Injury",
+      "score": 34,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football Lowdown",
+      "bestSourceScore": 48,
+      "maxLikelihood": 51,
+      "lastMention": "2026-09-03T11:47:53.000Z",
+      "firstSeen": "2026-09-08T07:21:18.635Z",
+      "isNew": true
+    },
+    {
+      "name": "Loan Signing",
+      "score": 32,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "News Ghana",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T23:32:54.000Z",
+      "firstSeen": "2026-09-08T07:21:18.635Z",
+      "isNew": true
+    },
+    {
+      "name": "The Irish Sun",
+      "score": 32,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The Irish Sun",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-01T20:37:20.000Z",
+      "firstSeen": "2026-09-08T07:21:18.635Z",
       "isNew": true
     }
   ],
@@ -509,7 +509,7 @@
       "likelihood": 70,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Nicholas Bilokapic"
@@ -532,10 +532,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "source": "falkirkherald.co.uk",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -543,9 +543,7 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Falkirk Herald"
-      ]
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
@@ -1034,6 +1032,23 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
+      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-02T05:45:17.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "pt",
+      "overseas": true,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
+      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
       "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
       "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkswUVFubjh4VWtaOWJENEllUTRIZlpGVjdwMWZGRUV6RUxkN3pNY0NrVjl6TEg0bWY2ZGVTQ0JoSUxCZmZjekpuWFhYU0pjTWF4QnhXeW1tNWI3c0UzNmxhSQ?oc=5",
@@ -1444,23 +1459,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-01T18:45:18.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "pt",
-      "overseas": true,
-      "players": [
-        "Henrik Meister"
-      ]
     },
     {
       "id": "ZmMgcG9ydHNtb3V0aCBkZXJieSBjb3VudHkgMDEgMD",
@@ -1929,10 +1927,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "transfery.info",
+      "source": "Transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2311,6 +2309,21 @@
       "players": []
     },
     {
+      "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBoZW5yaW",
       "title": "TRANSFER NEWS: Introducing…Henrik Meister - Derby County",
       "description": "TRANSFER NEWS: Introducing…Henrik Meister &nbsp;&nbsp; Derby County",
@@ -2326,21 +2339,6 @@
       "players": [
         "Henrik Meister"
       ]
-    },
-    {
-      "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
