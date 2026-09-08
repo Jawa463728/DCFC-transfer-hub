@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:52:37.762Z",
+  "updatedAt": "2026-09-08T18:08:53.773Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -11,7 +11,7 @@
       "status": "Strong",
       "independentReports": 2,
       "totalStories": 2,
-      "bestSource": "BBC",
+      "bestSource": "bbc.co.uk",
       "bestSourceScore": 94,
       "maxLikelihood": 94,
       "lastMention": "2026-09-08T13:33:36.000Z",
@@ -250,7 +250,7 @@
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T12:42:29.000Z",
       "firstSeen": "2026-09-08T05:59:36.263Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Following Jakub Stolarczyk Injury",
@@ -269,10 +269,10 @@
   "stories": [
     {
       "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIga2Vuem8gZ2",
-      "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - BBC",
-      "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; BBC",
+      "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - bbc.co.uk",
+      "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWG1ORmxEVnI3WFN6VUQwZlZPMHVBUnZTY0gzclhVVzJveFdRaTYtQlhNaUVldkF2dTM1X3B5a3c1eGZyZWZVLV96N3JZQThRb1E4bXQ4RUVmR0JON25vZ2VzQmdoUGgwU3c?oc=5",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "published": "2026-09-08T13:33:36.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -333,10 +333,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - toffeeweb.com",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; toffeeweb.com",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "toffeeweb.com",
+      "source": "ToffeeWeb",
       "published": "2026-09-08T01:08:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2437,19 +2437,21 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
-      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
-      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
-      "source": "Derbyshire Live",
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBoZW5yaW",
+      "title": "TRANSFER NEWS: Introducing…Henrik Meister - Derby County",
+      "description": "TRANSFER NEWS: Introducing…Henrik Meister &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9XVENiMWM4M184aHd5RS1CMFBiazVoZlJ2b25BUG1qSzZQQmIxd3NkR25DWDBBUklZcU1YT182aFV3SW1qTU9zTXY0RkpYU1lveEdsOEJ5Q2FCbFVZSkdYc1R0S3AtWXk1YTlwV19vbW5ZMUgxZS1kell4ZmhjOQ?oc=5",
+      "source": "Derby County",
       "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
-      "players": []
+      "players": [
+        "Henrik Meister"
+      ]
     },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
@@ -2467,21 +2469,19 @@
       "players": []
     },
     {
-      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBoZW5yaW",
-      "title": "TRANSFER NEWS: Introducing…Henrik Meister - Derby County",
-      "description": "TRANSFER NEWS: Introducing…Henrik Meister &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9XVENiMWM4M184aHd5RS1CMFBiazVoZlJ2b25BUG1qSzZQQmIxd3NkR25DWDBBUklZcU1YT182aFV3SW1qTU9zTXY0RkpYU1lveEdsOEJ5Q2FCbFVZSkdYc1R0S3AtWXk1YTlwV19vbW5ZMUgxZS1kell4ZmhjOQ?oc=5",
-      "source": "Derby County",
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
+      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
+      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
+      "source": "Derbyshire Live",
       "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
-      "players": [
-        "Henrik Meister"
-      ]
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSBxdW90ZS",
