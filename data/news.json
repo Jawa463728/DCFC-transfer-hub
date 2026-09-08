@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T02:36:03.340Z",
+  "updatedAt": "2026-09-08T02:50:58.706Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -339,6 +339,21 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "fr",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZGFyYmVpdCBzZWl0ZS",
+      "title": "Derby County - Jugendarbeit | Seite 5 - Transfermarkt",
+      "description": "Derby County - Jugendarbeit | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGRmlCV3NpVkR6SGFfVnN2Y1p1Z0ltMURnUFZhWnoyNG52Slk3SF85YVpsbHhnazN0TEt1M3ZZaTlGNU1CeU9weDgzdlA1YkRUbU4tUzVPSVc5YzF2b1RicGtQUmlYVlZzYmNxaVFuaFkyUElFVllkc3QzZw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-06T15:59:24.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
       "overseas": true,
       "players": []
     },
@@ -2267,10 +2282,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
+      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "tribalfootball.com",
+      "source": "TribalFootball",
       "published": "2026-08-30T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2551,7 +2566,7 @@
       "likelihood": 65,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -3125,23 +3140,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SlViRG1rWFNCMTlyZlN0a0RIWXhqc2tjMV9vYV85OEpLZTNDUXNfYnl4ZV9FNnJZWDVxZVl4UFZ2aktGc1NmblZwOGIzMmdLMDE4dTNjUXc0N3M?oc=5",
       "source": "Mshale",
       "published": "2026-08-24T11:48:05.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Mark Kelly"
-      ]
-    },
-    {
-      "id": "bWFzc2l2ZSByZWJ1aWxkIDEzIHBsYXllcnMgb3V0IG",
-      "title": "🚨 MASSIVE REBUILD! 13 PLAYERS OUT?! Derby County’s HUGE Transfer Plans REVEALED! Mark Kelly (uhnlACUTuM) - Mshale",
-      "description": "🚨 MASSIVE REBUILD! 13 PLAYERS OUT?! Derby County’s HUGE Transfer Plans REVEALED! Mark Kelly (uhnlACUTuM) &nbsp;&nbsp; Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SlViRG1rWFNCMTlyZlN0a0RIWXhqc2tjMV9vYV85OEpLZTNDUXNfYnl4ZV9FNnJZWDVxZVl4UFZ2aktGc1NmblZwOGIzMmdLMDE4dTNjUXc0N3M?oc=5",
-      "source": "Mshale",
-      "published": "2026-08-24T11:48:04.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
