@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T01:48:41.064Z",
+  "updatedAt": "2026-09-08T02:00:19.455Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -2074,21 +2074,6 @@
       "players": []
     },
     {
-      "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - tuttomercatoweb.com",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; tuttomercatoweb.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "tuttomercatoweb.com",
-      "published": "2026-08-30T16:56:36.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
       "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
       "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
@@ -2296,6 +2281,21 @@
       "players": [
         "Henrik Meister"
       ]
+    },
+    {
+      "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - tuttomercatoweb.com",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; tuttomercatoweb.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
+      "source": "tuttomercatoweb.com",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
