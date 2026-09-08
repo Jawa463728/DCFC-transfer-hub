@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:59:50.236Z",
+  "updatedAt": "2026-09-08T12:25:23.652Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -22,7 +22,7 @@
       "name": "David Ozoh",
       "score": 73,
       "status": "Fading",
-      "independentReports": 4,
+      "independentReports": 5,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -37,7 +37,7 @@
       "status": "Fading",
       "independentReports": 4,
       "totalStories": 4,
-      "bestSource": "lesoir.be",
+      "bestSource": "Le Soir",
       "bestSourceScore": 96,
       "maxLikelihood": 73,
       "lastMention": "2026-09-02T11:03:07.000Z",
@@ -69,6 +69,19 @@
       "lastMention": "2026-09-06T07:00:00.000Z",
       "firstSeen": "2026-09-06T10:46:28.414Z",
       "isNew": false
+    },
+    {
+      "name": "Le Soir",
+      "score": 53,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Le Soir",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-09-01T21:40:00.000Z",
+      "firstSeen": "2026-09-08T12:25:23.652Z",
+      "isNew": true
     },
     {
       "name": "Radio Derbyshire",
@@ -154,7 +167,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Transfermarkt",
+      "bestSource": "transfermarkt.at",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-09-06T05:59:48.000Z",
@@ -251,19 +264,6 @@
       "lastMention": "2026-09-01T23:32:54.000Z",
       "firstSeen": "2026-09-08T07:21:18.635Z",
       "isNew": true
-    },
-    {
-      "name": "The Irish Sun",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The Irish Sun",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T20:37:20.000Z",
-      "firstSeen": "2026-09-08T11:47:29.756Z",
-      "isNew": true
     }
   ],
   "stories": [
@@ -359,10 +359,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U18 - Transfers 26/27 - Transfermarkt",
-      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U18 - Transfers 26/27 - transfermarkt.at",
+      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1piTTV3a0F2dmhwT3I5UnMxcm9UQlRONGVid1JPZU9hdHlteU5hbHBfMWQzLXRJS2lfSlpxWDh3bGI4UnFvUFE0em92WWRKWGdDQ2FUTEgtMVlYTWZ1STNESjdFYktXdldyNzZ6NE9KLUN4cmlacnhtNzREQ015UzF1MGV4ZGFUX1BR?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-07T14:04:29.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -389,10 +389,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZGFyYmVpdCBzZWl0ZS",
-      "title": "Derby County - Jugendarbeit | Seite 5 - Transfermarkt",
-      "description": "Derby County - Jugendarbeit | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Jugendarbeit | Seite 5 - transfermarkt.at",
+      "description": "Derby County - Jugendarbeit | Seite 5 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGRmlCV3NpVkR6SGFfVnN2Y1p1Z0ltMURnUFZhWnoyNG52Slk3SF85YVpsbHhnazN0TEt1M3ZZaTlGNU1CeU9weDgzdlA1YkRUbU4tUzVPSVc5YzF2b1RicGtQUmlYVlZzYmNxaVFuaFkyUElFVllkc3QzZw?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-06T15:59:24.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -513,10 +513,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB3ZXJ0dm9sbHN0ZSB6dW",
-      "title": "Derby County U18 - Wertvollste Zugänge | Seite 5 - Transfermarkt",
-      "description": "Derby County U18 - Wertvollste Zugänge | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U18 - Wertvollste Zugänge | Seite 5 - transfermarkt.at",
+      "description": "Derby County U18 - Wertvollste Zugänge | Seite 5 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlppXzI2RGdMOXdPUWF1ejhDLUx2VjZrQWFRQjBjS1haRVY5TWx3TVRnOUhXalhwSjNZV042bWxPelFLbjAzaDdQNG5oTmZldEhfaU95UFdUYTUwV0s0VS1uN3JWdG5YU1Y1VDhsTHIzYWdkbG5JdlBLMlhQQTR0V3lmTWdpTXI4dWdMV19R?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-06T05:59:48.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -643,10 +643,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -669,7 +669,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -767,10 +767,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGh1ZGRlcnNmaWVsZCB0b3duID",
-      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - Transfermarkt",
-      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnFrSzNrQXljYVV6MHFzRjNFZFhxdy1tNl9XbVBKQmpjRFFoVHR0TVFLOVFDOWxncUx4N0R1RERZTG5JemFhQWcxVEJZSmVuVU9RTlRqNmZsMXpnNW5QblJZbEtjcnNUNTQyWjYyWllzN2FET0p1Tkh5Z3lhdUM1TXZhZWp4MXVrYVo1YzFoRQ?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-03T23:42:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1079,6 +1079,23 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
+      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-02T05:45:17.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "pt",
+      "overseas": true,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
+      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
       "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
       "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkswUVFubjh4VWtaOWJENEllUTRIZlpGVjdwMWZGRUV6RUxkN3pNY0NrVjl6TEg0bWY2ZGVTQ0JoSUxCZmZjekpuWFhYU0pjTWF4QnhXeW1tNWI3c0UzNmxhSQ?oc=5",
@@ -1105,7 +1122,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Mohammed Fuseini"
@@ -1308,10 +1325,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T21:40:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1321,7 +1338,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
@@ -1488,23 +1506,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-01T18:45:18.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "pt",
-      "overseas": true,
-      "players": [
-        "Henrik Meister"
-      ]
     },
     {
       "id": "ZmMgcG9ydHNtb3V0aCBkZXJieSBjb3VudHkgMDEgMD",
@@ -1973,10 +1974,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "Transfery.info",
+      "source": "transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2323,6 +2324,23 @@
       ]
     },
     {
+      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
+      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
+      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
       "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
       "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
@@ -2348,7 +2366,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2368,23 +2386,6 @@
       "edition": "it",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
-      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
-      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Henrik Meister"
-      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
@@ -2486,10 +2487,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSAyOSAwOC",
-      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Swansea City, 29.08.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqakRkYmVDRFBWdjRaTHVQZkJEU3dxaTViVHBiM0t3RzJKVENaaXg0WHg3eFlYeVRIeFRaMHpmS3dNOEw3RkcwM045ZDZBZU92ckp0V19RcmtsOTJCLXU1bVdyajZmSVExa3g2amI1Wkc0SkR2SEhN?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-08-28T22:19:54.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2852,10 +2853,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - vtrend.it",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; vtrend.it",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "vtrend.it",
+      "source": "VTrend",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2884,10 +2885,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
