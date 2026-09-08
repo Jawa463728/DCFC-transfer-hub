@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T03:40:03.245Z",
+  "updatedAt": "2026-09-08T03:54:08.019Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -22,7 +22,7 @@
       "name": "David Ozoh",
       "score": 73,
       "status": "Fading",
-      "independentReports": 5,
+      "independentReports": 4,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -279,6 +279,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "it",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "YnVydG9uIGFsYmlvbiBkZXJieSBjb3VudHkgMTQgMD",
+      "title": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht - Transfermarkt",
+      "description": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd09CclZMU2prQ1paTXg5V01mYzhabTQ4bmxRN1hTckNNUXkyRnBXYlpMTjZNaksyQXM4Q001WXYzeXlnTW5tUHM1Q1NQNWFxdF9ndnFXMy1XUkxKdUx2cHRGWF9NNG1oemlEbWhIRnBaOUVDQ2cyX1RYa2ozRHBPTE9Pa28zdV95SG5IbUxR?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-08T00:00:16.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
       "overseas": true,
       "players": []
     },
@@ -583,10 +598,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1914,10 +1929,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "Transfery.info",
+      "source": "transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2282,10 +2297,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
+      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "tribalfootball.com",
+      "source": "TribalFootball",
       "published": "2026-08-30T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -3131,23 +3146,6 @@
       "players": [
         "Gavin Bazunu Move",
         "Villarreal Vs Sevilla"
-      ]
-    },
-    {
-      "id": "bWFzc2l2ZSByZWJ1aWxkIDEzIHBsYXllcnMgb3V0IG",
-      "title": "🚨 MASSIVE REBUILD! 13 PLAYERS OUT?! Derby County’s HUGE Transfer Plans REVEALED! Mark Kelly (UuhnlACUTu) - Mshale",
-      "description": "🚨 MASSIVE REBUILD! 13 PLAYERS OUT?! Derby County’s HUGE Transfer Plans REVEALED! Mark Kelly (UuhnlACUTu) &nbsp;&nbsp; Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SlViRG1rWFNCMTlyZlN0a0RIWXhqc2tjMV9vYV85OEpLZTNDUXNfYnl4ZV9FNnJZWDVxZVl4UFZ2aktGc1NmblZwOGIzMmdLMDE4dTNjUXc0N3M?oc=5",
-      "source": "Mshale",
-      "published": "2026-08-24T11:48:05.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Mark Kelly"
       ]
     }
   ]
