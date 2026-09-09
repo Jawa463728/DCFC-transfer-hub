@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T06:15:27.875Z",
+  "updatedAt": "2026-09-09T06:38:30.367Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -35,7 +35,7 @@
       "name": "David Ozoh",
       "score": 73,
       "status": "Fading",
-      "independentReports": 5,
+      "independentReports": 4,
       "totalStories": 9,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -84,19 +84,6 @@
       "isNew": true
     },
     {
-      "name": "Patrick Agyemang",
-      "score": 52,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 76,
-      "lastMention": "2026-09-06T07:00:00.000Z",
-      "firstSeen": "2026-09-06T10:46:28.414Z",
-      "isNew": false
-    },
-    {
       "name": "Radio Derbyshire",
       "score": 52,
       "status": "Fading",
@@ -107,6 +94,19 @@
       "maxLikelihood": 72,
       "lastMention": "2026-09-02T00:45:26.000Z",
       "firstSeen": "2026-09-01T19:44:41.816Z",
+      "isNew": false
+    },
+    {
+      "name": "Patrick Agyemang",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 76,
+      "lastMention": "2026-09-06T07:00:00.000Z",
+      "firstSeen": "2026-09-06T10:46:28.414Z",
       "isNew": false
     },
     {
@@ -180,7 +180,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "onefootball.com",
+      "bestSource": "OneFootball",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-02T20:54:36.000Z",
@@ -295,7 +295,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Kenzo Goudmijn"
@@ -539,7 +539,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -635,7 +635,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -707,10 +707,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - onefootball.com",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
+      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-04T17:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -748,7 +748,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -961,10 +961,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. - onefootball.com",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. &nbsp;&nbsp; onefootball.com",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. - OneFootball",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83b1U0MGw4NVJzX3NLVFBVQ2dFZGJzN3BIRDVKY2pDemp6b1hUWExBVGhkQXYxVENkZWtGY2Q3aWlZeDZMdG4wSTkxd3haS3d6ajUxZHdPcWg?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-02T20:54:36.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1069,7 +1069,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1835,7 +1835,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2055,10 +2055,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGZjIHUyMSB3ZXN0IGJyb213aW",
-      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - transfery.info",
-      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; transfery.info",
+      "title": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo - Transfery.info",
+      "description": "Derby County FC U21 - West Bromwich Albion FC U21. Mecz na żywo &nbsp;&nbsp; Transfery.info",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDN2Wm9BdlRyTm9HNEQzWUJDWVZjTFV3dEhZZll4a3F0U0NnWFd0d0hPOW9CSS1oRUNnNnIzWW5RQ3J0TzBtazc2b3owMWJjYVFhd2RZS0ZfVkJ6NE1WUk1zSkJwdVNWX0VwbzFIN01PS0lUMnFMMDNHVFpEVTgzckRiZUJpdmt6Ymgw?oc=5",
-      "source": "transfery.info",
+      "source": "Transfery.info",
       "published": "2026-08-31T12:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2528,7 +2528,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
