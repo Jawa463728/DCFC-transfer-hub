@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T04:53:24.845Z",
+  "updatedAt": "2026-09-09T05:08:59.399Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -641,10 +641,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "falkirkherald.co.uk",
+      "source": "Falkirk Herald",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -652,7 +652,9 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
+      "players": [
+        "Falkirk Herald"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
@@ -2451,10 +2453,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
-      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - TUTTOmercatoWEB",
-      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; TUTTOmercatoWEB",
+      "title": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - tuttomercatoweb.com",
+      "description": "Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; tuttomercatoweb.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lFRFNYb1FzR254NTVHaC1wYWF0dVhoS2NlRWx1OEJFWlFnX094ZEFHMHRyVDVGLXg4eUs2eUFlYzlyRWszTjdBUW51MUVfMkJ5RGxIZVRsdXBuUDFsSXduWmh4bG5oMTZxODV4cDRzX2lQcXJ3M29zLUlwODctMUhPaDVacTlCaTdkMUpsdW1NalUtamg2elRxRjZONFpZaE4yaWdYSnJaRWtDdXU5cGl3?oc=5",
-      "source": "TUTTOmercatoWEB",
+      "source": "tuttomercatoweb.com",
       "published": "2026-08-30T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2917,10 +2919,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - vtrend.it",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; vtrend.it",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "vtrend.it",
+      "source": "VTrend",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2934,10 +2936,10 @@
     },
     {
       "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
+      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - tuttomercatoweb.com",
+      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; tuttomercatoweb.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "TUTTOmercatoWEB",
+      "source": "tuttomercatoweb.com",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -3131,21 +3133,19 @@
       ]
     },
     {
-      "id": "c2FtIHN6bW9kaWNzIGxhdGVzdCBhcyBqb2huIGV1c3",
-      "title": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope - Derbyshire Live",
-      "description": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXAyZ1lEYnJKQnJ3aHF1UjVRemJJeWhnendOREJNck9qaFl1SDRlY0FuZmpOaVFYOFVWS0c5OUhXSHRQRzhxWThIU3lmSDZTTW1YSWNlMXRZM1F6QVpIYVRuNjZSbWZsZ2oycFBIX25nWlVCT0xmb0czeU9nYWlPWWNSZG9PZENOM050cnNPQkhMTllNM3JNSmdnVHRCWU1zcVZKdDJn?oc=5",
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
+      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
+      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-08-23T07:00:00.000Z",
+      "published": "2026-08-24T07:00:00.000Z",
       "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
+      "likelihood": 76,
+      "ratingLabel": "Strong",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Sam Szmodics"
-      ]
+      "players": []
     }
   ]
 }
