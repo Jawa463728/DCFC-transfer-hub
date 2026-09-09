@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T23:50:29.965Z",
+  "updatedAt": "2026-09-09T00:04:33.885Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -258,7 +258,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Transfermarkt",
+      "bestSource": "transfermarkt.at",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-09-06T05:59:48.000Z",
@@ -295,7 +295,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Kenzo Goudmijn"
@@ -348,10 +348,10 @@
     },
     {
       "id": "YnVydG9uIGFsYmlvbiBkZXJieSBjb3VudHkgMTQgMD",
-      "title": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht - Transfermarkt",
-      "description": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd09CclZMU2prQ1paTXg5V01mYzhabTQ4bmxRN1hTckNNUXkyRnBXYlpMTjZNaksyQXM4Q001WXYzeXlnTW5tUHM1Q1NQNWFxdF9ndnFXMy1XUkxKdUx2cHRGWF9NNG1oemlEbWhIRnBaOUVDQ2cyX1RYa2ozRHBPTE9Pa28zdV95SG5IbUxR?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-08T00:00:16.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -363,10 +363,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGthZGVyIGltIGRldGFpbCA3OC",
-      "title": "Derby County - Kader im Detail 78/79 (Galerie) - Transfermarkt",
-      "description": "Derby County - Kader im Detail 78/79 (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Kader im Detail 78/79 (Galerie) - transfermarkt.at",
+      "description": "Derby County - Kader im Detail 78/79 (Galerie) &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTNNV0Z5eHdhT3VOUlhOQnNkUE50RC1KUWowdFd6Y1RFUmcxSUUzaHJvNUtOZjhZWC1hajJrTl9mUzNqa0VDSkdEdjg2QmxVdGpEb29VQWt6a2VNQUExVE1QTk55UDlwaHN0TGxFU1lUUXNDOG15aGZqY256V2FWYmhJZ3dBVnVJZWc?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-07T18:19:46.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -408,10 +408,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U18 - Transfers 26/27 - Transfermarkt",
-      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U18 - Transfers 26/27 - transfermarkt.at",
+      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1piTTV3a0F2dmhwT3I5UnMxcm9UQlRONGVid1JPZU9hdHlteU5hbHBfMWQzLXRJS2lfSlpxWDh3bGI4UnFvUFE0em92WWRKWGdDQ2FUTEgtMVlYTWZ1STNESjdFYktXdldyNzZ6NE9KLUN4cmlacnhtNzREQ015UzF1MGV4ZGFUX1BR?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-07T14:04:29.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -438,10 +438,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZGFyYmVpdCBzZWl0ZS",
-      "title": "Derby County - Jugendarbeit | Seite 5 - Transfermarkt",
-      "description": "Derby County - Jugendarbeit | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Jugendarbeit | Seite 5 - transfermarkt.at",
+      "description": "Derby County - Jugendarbeit | Seite 5 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGRmlCV3NpVkR6SGFfVnN2Y1p1Z0ltMURnUFZhWnoyNG52Slk3SF85YVpsbHhnazN0TEt1M3ZZaTlGNU1CeU9weDgzdlA1YkRUbU4tUzVPSVc5YzF2b1RicGtQUmlYVlZzYmNxaVFuaFkyUElFVllkc3QzZw?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-06T15:59:24.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -492,7 +492,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -539,7 +539,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -562,10 +562,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB3ZXJ0dm9sbHN0ZSB6dW",
-      "title": "Derby County U18 - Wertvollste Zugänge | Seite 5 - Transfermarkt",
-      "description": "Derby County U18 - Wertvollste Zugänge | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U18 - Wertvollste Zugänge | Seite 5 - transfermarkt.at",
+      "description": "Derby County U18 - Wertvollste Zugänge | Seite 5 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlppXzI2RGdMOXdPUWF1ejhDLUx2VjZrQWFRQjBjS1haRVY5TWx3TVRnOUhXalhwSjNZV042bWxPelFLbjAzaDdQNG5oTmZldEhfaU95UFdUYTUwV0s0VS1uN3JWdG5YU1Y1VDhsTHIzYWdkbG5JdlBLMlhQQTR0V3lmTWdpTXI4dWdMV19R?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-06T05:59:48.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -635,7 +635,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -746,7 +746,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1067,7 +1067,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1833,7 +1833,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2526,7 +2526,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2917,10 +2917,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - vtrend.it",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; vtrend.it",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "vtrend.it",
+      "source": "VTrend",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
