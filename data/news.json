@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:24:50.063Z",
+  "updatedAt": "2026-09-09T19:38:16.553Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "Mohammed Fuseini",
       "score": 77,
       "status": "Fading",
-      "independentReports": 9,
+      "independentReports": 8,
       "totalStories": 10,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -59,9 +59,9 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 59,
+      "score": 54,
       "status": "Fading",
-      "independentReports": 3,
+      "independentReports": 2,
       "totalStories": 4,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -123,19 +123,6 @@
       "isNew": false
     },
     {
-      "name": "Pride Park Stadium",
-      "score": 44,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Transfermarkt",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-08T20:13:36.000Z",
-      "firstSeen": "2026-09-09T19:24:50.062Z",
-      "isNew": true
-    },
-    {
       "name": "Curtis Davies",
       "score": 43,
       "status": "Fading",
@@ -180,7 +167,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "onefootball.com",
+      "bestSource": "OneFootball",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-02T05:45:17.000Z",
@@ -264,26 +251,22 @@
       "lastMention": "2026-09-06T05:59:48.000Z",
       "firstSeen": "2026-09-09T15:42:29.113Z",
       "isNew": true
+    },
+    {
+      "name": "Falkirk Herald",
+      "score": 32,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Falkirk Herald",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-05T01:32:00.000Z",
+      "firstSeen": "2026-09-09T19:38:16.552Z",
+      "isNew": true
     }
   ],
   "stories": [
-    {
-      "id": "ZGVyYnkgY291bnR5IHN0YWRpb24gcHJpZGUgcGFyay",
-      "title": "Derby County - Stadion - Pride Park Stadium - Transfermarkt",
-      "description": "Derby County - Stadion - Pride Park Stadium &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mVHBoMzVla3ljVXJrd0hteFRCZlhjTHBLVU53STNBN3U3d3hEMFNSVzNsc0tpRzFoeElOUlZLSE0tbF84NXd1RHpsR29va2hnZThxVzZGQ2FTejJtYzlINXJxdEZVeVBkR2Vud1g0S1gtUkYzZWhHNQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-08T20:13:36.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": [
-        "Pride Park Stadium"
-      ]
-    },
     {
       "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIga2Vuem8gZ2",
       "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - BBC",
@@ -312,7 +295,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Kenzo Goudmijn"
@@ -515,10 +498,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - onefootball.com",
-      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14QTRpMFVvSGJNWDdqVHl4dTdBZVlLUXJyVXdIbEJfdnc2TVh5em1UdXRFSzdDVzlTUGZMNnJhX0FVUTJFaDNBM1lpOEhtbzZ3VUZ0UG80X0JOZ3ktZ1U4U0kxWQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-06T11:19:06.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -571,7 +554,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -626,10 +609,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQndfLUhQbkJGZVVQV21ybDd2RWhmUDBWaDlnbTRoREVndnZJLWUtdWtZUy1wMFdWUVhqbGhIYVhOZnlDWlRLYktka1JrYXM0Sy1ua3RYRQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-06T00:20:12.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -684,7 +667,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -797,7 +780,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1027,10 +1010,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com David Ozoh. - onefootball.com",
-      "description": "Transferência confirmada: Derby County FC fechou com David Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Transferência confirmada: Derby County FC fechou com David Ozoh. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com David Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOV01wSUFSOGJUX2pTY1ZjcDBzNHdCRUVHMl9KeVpGb1ZPVm5JLWx5cjhzUnBpN2czdUtsYWxRME1QSGh4d0FiSDBtZkIwVktLc2paVW9BWnNHaU9scmFKMDBVYw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-02T19:53:49.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1118,7 +1101,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1192,10 +1175,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - onefootball.com",
-      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; onefootball.com",
+      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-02T05:45:17.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1209,10 +1192,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - onefootball.com",
-      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
+      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkswUVFubjh4VWtaOWJENEllUTRIZlpGVjdwMWZGRUV6RUxkN3pNY0NrVjl6TEg0bWY2ZGVTQ0JoSUxCZmZjekpuWFhYU0pjTWF4QnhXeW1tNWI3c0UzNmxhSQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-02T05:43:57.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1506,10 +1489,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-01T19:47:04.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1852,7 +1835,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2036,7 +2019,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2246,10 +2229,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - onefootball.com",
+      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLXptUG44RWNkSWJnOFQwQWdIc214OFVjM2JCUXFLUFM2N2ZwSUsxZ3hHS3U4T2pocHFYU2haXzJhYTRqdjY3aTRkX1BhUVUzYkNiN1hTYw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-08-30T18:20:41.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -2462,7 +2445,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2560,7 +2543,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2724,7 +2707,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2951,10 +2934,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - vtrend.it",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; vtrend.it",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "VTrend",
+      "source": "vtrend.it",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2983,10 +2966,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "SestaPorta.News Pisa",
+      "source": "sestaporta.news",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -3146,6 +3129,21 @@
       "players": [
         "Hamza Choudhury"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
+      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
+      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 76,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
     }
   ]
 }
