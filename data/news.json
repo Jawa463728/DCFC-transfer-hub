@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:54:45.609Z",
+  "updatedAt": "2026-09-09T06:15:27.875Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -255,7 +255,7 @@
     {
       "name": "Wertvollste Zugänge",
       "score": 32,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Transfermarkt",
