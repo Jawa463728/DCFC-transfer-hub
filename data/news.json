@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T21:15:55.063Z",
+  "updatedAt": "2026-09-10T21:30:12.648Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -9,7 +9,7 @@
       "name": "Mohammed Fuseini",
       "score": 77,
       "status": "Fading",
-      "independentReports": 9,
+      "independentReports": 8,
       "totalStories": 10,
       "bestSource": "Derby County",
       "bestSourceScore": 99,
@@ -59,9 +59,9 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 59,
+      "score": 54,
       "status": "Fading",
-      "independentReports": 3,
+      "independentReports": 2,
       "totalStories": 4,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -141,7 +141,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "onefootball.com",
+      "bestSource": "OneFootball",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-02T20:54:36.000Z",
@@ -154,7 +154,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "onefootball.com",
+      "bestSource": "OneFootball",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-02T05:45:17.000Z",
@@ -232,7 +232,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Transfermarkt",
+      "bestSource": "transfermarkt.at",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-09-06T05:59:48.000Z",
@@ -295,7 +295,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Kenzo Goudmijn"
@@ -348,10 +348,10 @@
     },
     {
       "id": "YnVydG9uIGFsYmlvbiBkZXJieSBjb3VudHkgMTQgMD",
-      "title": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht - Transfermarkt",
-      "description": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Burton Albion - Derby County, 14.04.2018 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd09CclZMU2prQ1paTXg5V01mYzhabTQ4bmxRN1hTckNNUXkyRnBXYlpMTjZNaksyQXM4Q001WXYzeXlnTW5tUHM1Q1NQNWFxdF9ndnFXMy1XUkxKdUx2cHRGWF9NNG1oemlEbWhIRnBaOUVDQ2cyX1RYa2ozRHBPTE9Pa28zdV95SG5IbUxR?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-08T00:00:16.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -408,10 +408,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U18 - Transfers 26/27 - Transfermarkt",
-      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U18 - Transfers 26/27 - transfermarkt.at",
+      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1piTTV3a0F2dmhwT3I5UnMxcm9UQlRONGVid1JPZU9hdHlteU5hbHBfMWQzLXRJS2lfSlpxWDh3bGI4UnFvUFE0em92WWRKWGdDQ2FUTEgtMVlYTWZ1STNESjdFYktXdldyNzZ6NE9KLUN4cmlacnhtNzREQ015UzF1MGV4ZGFUX1BR?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-07T14:04:29.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -438,10 +438,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZGFyYmVpdCBzZWl0ZS",
-      "title": "Derby County - Jugendarbeit | Seite 5 - Transfermarkt",
-      "description": "Derby County - Jugendarbeit | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Jugendarbeit | Seite 5 - transfermarkt.at",
+      "description": "Derby County - Jugendarbeit | Seite 5 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGRmlCV3NpVkR6SGFfVnN2Y1p1Z0ltMURnUFZhWnoyNG52Slk3SF85YVpsbHhnazN0TEt1M3ZZaTlGNU1CeU9weDgzdlA1YkRUbU4tUzVPSVc5YzF2b1RicGtQUmlYVlZzYmNxaVFuaFkyUElFVllkc3QzZw?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-06T15:59:24.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -453,10 +453,10 @@
     },
     {
       "id": "YWZjIHdyZXhoYW0gZGVyYnkgY291bnR5IDI3IDAyID",
-      "title": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht - transfermarkt.de",
-      "description": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
+      "title": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht - Transfermarkt",
+      "description": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zUmpZenpiZWRKcmhuOGxnMDJzbW44cXJwR293a2h0SXBRS0ZTVmpFVlM1NmJldGtkRGVaYm9EZ2hKUnVaSFVBUzU2RVRrUEJkZk12N3lvWU1CTnZUQmN0bWg0WEVSOTBZRDBuRmdFdVR0NjdMclpn?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-06T14:14:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -498,10 +498,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - onefootball.com",
-      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14QTRpMFVvSGJNWDdqVHl4dTdBZVlLUXJyVXdIbEJfdnc2TVh5em1UdXRFSzdDVzlTUGZMNnJhX0FVUTJFaDNBM1lpOEhtbzZ3VUZ0UG80X0JOZ3ktZ1U4U0kxWQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-06T11:19:06.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -554,7 +554,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -577,10 +577,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB3ZXJ0dm9sbHN0ZSB6dW",
-      "title": "Derby County U18 - Wertvollste Zugänge | Seite 5 - Transfermarkt",
-      "description": "Derby County U18 - Wertvollste Zugänge | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U18 - Wertvollste Zugänge | Seite 5 - transfermarkt.at",
+      "description": "Derby County U18 - Wertvollste Zugänge | Seite 5 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlppXzI2RGdMOXdPUWF1ejhDLUx2VjZrQWFRQjBjS1haRVY5TWx3TVRnOUhXalhwSjNZV042bWxPelFLbjAzaDdQNG5oTmZldEhfaU95UFdUYTUwV0s0VS1uN3JWdG5YU1Y1VDhsTHIzYWdkbG5JdlBLMlhQQTR0V3lmTWdpTXI4dWdMV19R?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-06T05:59:48.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -594,10 +594,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - transfermarkt.de",
-      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rejV5MXVsQlc2emRPSFBibVBsdmh5RTFWbUphSThNYjhJdkd2a3J2VFZ6c0hwQUFrSW9IT0ZpYS1rcEtYQnlHbjl6N0c1QVh3NklBVjQzRG9zLUNYSmQya3ptdE9nYVhYWGNOdy1ITVNXQkY2M2M4?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-06T04:07:21.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -626,10 +626,10 @@
     },
     {
       "id": "d2VzdCBoYW0gdW5pdGVkIGRlcmJ5IGNvdW50eSAwNS",
-      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - transfermarkt.de",
-      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
+      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WeHRXN0NocFFxeWZIT0p4MWtlSVhIMjd5c3ZkUXp4Ynl2dTVBNUNEY1dNVEJPOXFXdXhFRkhHNG1mV2xLZGpaeHVjWWs3OTlhUW9XNkFMWk5mc3pSTV9DWFJUMW9FY1NFZ1BlS2wweVk3NEthVk1J?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-05T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -689,11 +689,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.de",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-05T00:43:53.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -815,11 +815,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHVlZmEgdTE5fFRyYW5zZmVybW",
-      "title": "Derby County UEFA U19 - Transfermarkt",
-      "description": "Derby County UEFA U19 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHVlZmEgdTE5fHRyYW5zZmVybW",
+      "title": "Derby County UEFA U19 - transfermarkt.at",
+      "description": "Derby County UEFA U19 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMWtuTUZka0tVQlJtbERCalVlMUpsTnR2dXhrLVQ3cDNKV25rYmU3dXJLc2tlVFdkMEhJMFIxNzlhdnhqcmxRRnR5M2x2cVV4RHBKalJnOWpfaldWTVRtd0NmMGhtU3ZqaGdVMDdHdUo4MXBJQnJULURmSi1sZm13Uk92bFRFZFc5Ty0tU3Z6elg1OHpmOTRubmtKcUNzNGZUektrZzRKYjN6OEhDaXFZSVFNTEpNVlg0UTVXcHlERTFLYmlTcHUtdmd2Vmw5M2haY2NGaUg3WXQ?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-04T04:58:47.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -993,10 +993,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. - onefootball.com",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. &nbsp;&nbsp; onefootball.com",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. - OneFootball",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83b1U0MGw4NVJzX3NLVFBVQ2dFZGJzN3BIRDVKY2pDemp6b1hUWExBVGhkQXYxVENkZWtGY2Q3aWlZeDZMdG4wSTkxd3haS3d6ajUxZHdPcWg?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-02T20:54:36.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1101,7 +1101,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1157,6 +1157,23 @@
       "players": []
     },
     {
+      "id": "c2lnbmluZyBkYXZpZCBvem9oIHNpZ25zIGZvciBkZX",
+      "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - Derby County",
+      "description": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT081TkR3V2dwaUFUV0pRdS13UzU0Y05SR1hrUl91WmlnVksxZG5NNy1WWU04b0c0X1M4ZjZpRmVla0hKRV92YWpsTHNodGRFS2VWbEFPWGVzRTdnbF9tNHk2b1M2V1hoUXk4MG1fVGIwUm51MHZINVBxOHQzczlfTHVZN1JWYUEzVWFCMnZoWC1aMzVaREZiNlI1OA?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-02T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 97,
+      "ratingLabel": "Very strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "David Ozoh Signs For"
+      ]
+    },
+    {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
       "title": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. - OneFootball",
       "description": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. &nbsp;&nbsp; OneFootball",
@@ -1175,10 +1192,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - onefootball.com",
-      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; onefootball.com",
+      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-02T05:45:17.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1192,10 +1209,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - onefootball.com",
-      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
+      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkswUVFubjh4VWtaOWJENEllUTRIZlpGVjdwMWZGRUV6RUxkN3pNY0NrVjl6TEg0bWY2ZGVTQ0JoSUxCZmZjekpuWFhYU0pjTWF4QnhXeW1tNWI3c0UzNmxhSQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-02T05:43:57.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1203,23 +1220,6 @@
       "status": "rumour",
       "edition": "pt",
       "overseas": true,
-      "players": [
-        "Mohammed Fuseini"
-      ]
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
-      "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini - Derby County",
-      "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1VKODFKcW0zVUdWenBKbmFOXzVESnF0SUFtYnUtNVYzeU1pdVVzQ0tDd285U1MtLVdUdUR5TjFnd0NXWFlWNjlFbWpBNWJ2aXZFZzVIQXJSUkdnTjlBcmhOejJBcXdJOEVWdEZtUVdtZURUNS1OTUduNmZBcTR3WWdFRQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-02T02:02:08.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": [
         "Mohammed Fuseini"
       ]
@@ -1239,23 +1239,6 @@
       "overseas": false,
       "players": [
         "Radio Derbyshire"
-      ]
-    },
-    {
-      "id": "c2lnbmluZyBkYXZpZCBvem9oIHNpZ25zIGZvciBkZX",
-      "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - Derby County",
-      "description": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT081TkR3V2dwaUFUV0pRdS13UzU0Y05SR1hrUl91WmlnVksxZG5NNy1WWU04b0c0X1M4ZjZpRmVla0hKRV92YWpsTHNodGRFS2VWbEFPWGVzRTdnbF9tNHk2b1M2V1hoUXk4MG1fVGIwUm51MHZINVBxOHQzczlfTHVZN1JWYUEzVWFCMnZoWC1aMzVaREZiNlI1OA?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-02T00:10:51.000Z",
-      "reputation": 99,
-      "likelihood": 97,
-      "ratingLabel": "Very strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "David Ozoh Signs For"
       ]
     },
     {
@@ -1797,7 +1780,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1990,6 +1973,23 @@
       ]
     },
     {
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
+      "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini - Derby County",
+      "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1VKODFKcW0zVUdWenBKbmFOXzVESnF0SUFtYnUtNVYzeU1pdVVzQ0tDd285U1MtLVdUdUR5TjFnd0NXWFlWNjlFbWpBNWJ2aXZFZzVIQXJSUkdnTjlBcmhOejJBcXdJOEVWdEZtUVdtZURUNS1OTUduNmZBcTR3WWdFRQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-01T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Mohammed Fuseini"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
       "title": "Derby County complete eighth signing of transfer window as home-grown defender returns - Derbyshire Live",
       "description": "Derby County complete eighth signing of transfer window as home-grown defender returns &nbsp;&nbsp; Derbyshire Live",
@@ -2000,7 +2000,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2430,7 +2430,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2477,7 +2477,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2543,7 +2543,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2707,7 +2707,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2925,7 +2925,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -3115,10 +3115,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "Derbyshire Live",
+      "source": "derbytelegraph.co.uk",
       "published": "2026-08-25T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
@@ -3141,7 +3141,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     }
