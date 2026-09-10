@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T02:53:41.815Z",
+  "updatedAt": "2026-09-10T03:09:28.796Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Kenzo Goudmijn",
-      "score": 73,
+      "score": 72,
       "status": "Strong",
       "independentReports": 2,
       "totalStories": 2,
@@ -2445,7 +2445,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -3131,22 +3131,19 @@
       ]
     },
     {
-      "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
-      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - bbc.com",
-      "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUlFnUkp0U0UwcFJMOFJjWlpBYkozN3FOYWJVeTluVG9UaXk2ZlZVbDlZb1dmVTVCdzhncEZTRXpITzllOXN0RFFJWW1SaTlKbHZTTGZ6NlVpZkdCcmZNaHNPTG5MR00?oc=5",
-      "source": "bbc.com",
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHN0YXRlIG9mIH",
+      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo - Derbyshire Live",
+      "description": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
+      "source": "Derbyshire Live",
       "published": "2026-08-24T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 80,
+      "reputation": 87,
+      "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Mikey Johnston",
-        "Anis Mehmeti"
-      ]
+      "players": []
     }
   ]
 }
