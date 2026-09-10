@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:34:31.880Z",
+  "updatedAt": "2026-09-10T20:47:32.514Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -295,7 +295,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Kenzo Goudmijn"
@@ -453,10 +453,10 @@
     },
     {
       "id": "YWZjIHdyZXhoYW0gZGVyYnkgY291bnR5IDI3IDAyID",
-      "title": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht - Transfermarkt",
-      "description": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht - transfermarkt.de",
+      "description": "AFC Wrexham - Derby County, 27.02.2027 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zUmpZenpiZWRKcmhuOGxnMDJzbW44cXJwR293a2h0SXBRS0ZTVmpFVlM1NmJldGtkRGVaYm9EZ2hKUnVaSFVBUzU2RVRrUEJkZk12N3lvWU1CTnZUQmN0bWg0WEVSOTBZRDBuRmdFdVR0NjdMclpn?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-06T14:14:06.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -554,7 +554,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -594,10 +594,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - transfermarkt.de",
+      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rejV5MXVsQlc2emRPSFBibVBsdmh5RTFWbUphSThNYjhJdkd2a3J2VFZ6c0hwQUFrSW9IT0ZpYS1rcEtYQnlHbjl6N0c1QVh3NklBVjQzRG9zLUNYSmQya3ptdE9nYVhYWGNOdy1ITVNXQkY2M2M4?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-06T04:07:21.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -626,10 +626,10 @@
     },
     {
       "id": "d2VzdCBoYW0gdW5pdGVkIGRlcmJ5IGNvdW50eSAwNS",
-      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - transfermarkt.de",
+      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WeHRXN0NocFFxeWZIT0p4MWtlSVhIMjd5c3ZkUXp4Ynl2dTVBNUNEY1dNVEJPOXFXdXhFRkhHNG1mV2xLZGpaeHVjWWs3OTlhUW9XNkFMWk5mc3pSTV9DWFJUMW9FY1NFZ1BlS2wweVk3NEthVk1J?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-05T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -689,11 +689,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U18 - transfermarkt.de",
+      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-05T00:43:53.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1101,7 +1101,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1269,7 +1269,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -1780,7 +1780,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2000,7 +2000,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2147,10 +2147,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
-      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Rekord-Zugänge (Galerie) - transfermarkt.de",
+      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWtxdUw3VjBKTFlySXVuN1FIeDdEd3doZFpqUXc1b2ZjZXM2OGhqbk9oNXFmT09qam1WOF9ENDc2bk5Ddk9rbElWMlRBd3ZjWmE0cDlld293SUszRHJ4MWhtZ3V2emlrc1lMdnZVMTFwRmxKUHRjT29FQXZlaFFlX1JhTmE4cFY5SkFEY3FwQlNqOExMZkJjV1dvS0NBVUZPLUx0UmlLdzdjOFRsbC1QRm02R3VzUWRkdEktLTJJZDR5VjNwQzdB?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-08-31T01:02:43.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2403,10 +2403,10 @@
       ]
     },
     {
-      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
-      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
-      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
+      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
+      "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
+      "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fei1zdWN3OW5UU25TVHBmM1dQbzBNNmNETFFfaEtJb2Y2UG02RVdWTXlQUHgxa18xZjhfT0dXQzREaGUyT3MydkoyOS1QVGFwQmpad2FjQ3FRazRwRlBjaWRPSjViQkhrRVh4dWV6eXk2THdJMnNNM3pjLTI?oc=5",
       "source": "Derby County",
       "published": "2026-08-30T07:00:00.000Z",
       "reputation": 99,
@@ -2430,26 +2430,9 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
-      "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
-      "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fei1zdWN3OW5UU25TVHBmM1dQbzBNNmNETFFfaEtJb2Y2UG02RVdWTXlQUHgxa18xZjhfT0dXQzREaGUyT3MydkoyOS1QVGFwQmpad2FjQ3FRazRwRlBjaWRPSjViQkhrRVh4dWV6eXk2THdJMnNNM3pjLTI?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Henrik Meister"
-      ]
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
@@ -2499,6 +2482,23 @@
       "players": []
     },
     {
+      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
+      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
+      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSBxdW90ZS",
       "title": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 - ToffeeWeb",
       "description": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 &nbsp;&nbsp; ToffeeWeb",
@@ -2543,7 +2543,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2707,7 +2707,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2925,7 +2925,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Russell Martin",
@@ -3115,10 +3115,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRhcmdldCBoYW16YSBjaG91ZG",
-      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - derbytelegraph.co.uk",
-      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; derbytelegraph.co.uk",
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live - Derbyshire Live",
+      "description": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
-      "source": "derbytelegraph.co.uk",
+      "source": "Derbyshire Live",
       "published": "2026-08-25T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 80,
@@ -3141,7 +3141,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     }
