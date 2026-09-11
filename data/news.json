@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:48:40.352Z",
+  "updatedAt": "2026-09-11T14:00:06.603Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Mohammed Fuseini",
-      "score": 78,
+      "score": 77,
       "status": "Strong",
       "independentReports": 6,
       "totalStories": 8,
@@ -2964,21 +2964,6 @@
       ]
     },
     {
-      "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
       "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
       "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
@@ -3011,6 +2996,21 @@
       "players": [
         "Calciomercato Pisa"
       ]
+    },
+    {
+      "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
+      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
+      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
