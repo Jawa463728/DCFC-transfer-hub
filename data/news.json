@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:18:02.116Z",
+  "updatedAt": "2026-09-11T13:34:03.600Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -34,7 +34,7 @@
     {
       "name": "Kenzo Goudmijn",
       "score": 64,
-      "status": "Developing",
+      "status": "Fading",
       "independentReports": 2,
       "totalStories": 2,
       "bestSource": "BBC",
@@ -59,9 +59,9 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 54,
+      "score": 59,
       "status": "Fading",
-      "independentReports": 2,
+      "independentReports": 3,
       "totalStories": 4,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -705,10 +705,10 @@
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - onefootball.com",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-05T04:45:48.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -2055,10 +2055,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T07:00:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2068,7 +2068,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
@@ -2453,6 +2454,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
+      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
+      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
       "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
       "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
@@ -2468,21 +2484,6 @@
       "players": [
         "Henrik Meister"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
-      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
-      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
