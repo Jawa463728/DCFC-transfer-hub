@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:34:39.460Z",
+  "updatedAt": "2026-09-11T10:49:08.710Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -30,6 +30,19 @@
       "lastMention": "2026-09-06T00:20:12.000Z",
       "firstSeen": "2026-09-01T12:55:00.883Z",
       "isNew": false
+    },
+    {
+      "name": "Turki Alalshikh",
+      "score": 67,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-09-11T08:27:00.000Z",
+      "firstSeen": "2026-09-11T10:49:08.709Z",
+      "isNew": true
     },
     {
       "name": "Kenzo Goudmijn",
@@ -251,22 +264,26 @@
       "lastMention": "2026-09-01T23:32:54.000Z",
       "firstSeen": "2026-09-09T22:56:11.556Z",
       "isNew": false
-    },
-    {
-      "name": "The Irish Sun",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The Irish Sun",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-01T20:37:20.000Z",
-      "firstSeen": "2026-09-11T06:43:17.403Z",
-      "isNew": true
     }
   ],
   "stories": [
+    {
+      "id": "dHVya2kgYWxhbHNoaWtoIHNvdW5kZWQgb3V0IGFmdG",
+      "title": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal - Derbyshire Live",
+      "description": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVphMnhzMWRSc09wbW9uN0dJMXhfc1BkLU9yNDFyQnRpdHdNMm1ZdU9yXzBVWEJKNzJlU19hMTJCaEowUTBvNU1rQzY0eXNPUGx4M0hIYUc0UU5taGFNcjRPNmRHcjEyRmQxNGhvM3BzQ2taemVGQThZUEN6M1JONlcyeVlXNE9pbzhDTjdxVmlBZ0tob0wzcnA4d1pzNjRId0xRekZHVGNaaWpV?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-11T08:27:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Turki Alalshikh"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGJpbGFueiBnZWdlbiB3b2x2ZX",
       "title": "Derby County - Bilanz gegen Wolverhampton Wanderers (Detailansicht) | Seite 3 - Transfermarkt",
@@ -3125,24 +3142,6 @@
       "overseas": false,
       "players": [
         "Omari Kellyman"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHNldCBzaWdodHMgb24gaGFtem",
-      "title": "Derby County set sights on Hamza Choudhury transfer amid contract issue - Leicester Mercury",
-      "description": "Derby County set sights on Hamza Choudhury transfer amid contract issue &nbsp;&nbsp; Leicester Mercury",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnJnLWxwT1V0VXZwU3dKZXUxX1dKRUNnUzhPWV9MWlRwMWZPM0FFc3hheVpNRmhxdi1fdHBIV2pUYlp1dFJJd3lhNHozMkhpTjEyeVRIYVg5OVRuOTNEWDlzUlBjS2RBX01STDVlc3JhMXNQRk9SRjJBT0hiN05lWHU3MjBCOFctN0JqUlZRakQ2NDlMUHBjSTZrY2pMWVo3N3hneDB4U3JZZ2dHRmpEY3o3SQ?oc=5",
-      "source": "Leicester Mercury",
-      "published": "2026-08-25T09:59:00.000Z",
-      "reputation": 79,
-      "likelihood": 63,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Hamza Choudhury",
-        "Leicester Mercury"
       ]
     }
   ]
