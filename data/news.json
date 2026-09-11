@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:00:25.772Z",
+  "updatedAt": "2026-09-11T22:18:19.772Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -1175,7 +1175,7 @@
       "likelihood": 97,
       "ratingLabel": "Very strong",
       "status": "confirmed",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "David Ozoh Signs For"
