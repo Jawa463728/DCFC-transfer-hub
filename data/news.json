@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T01:53:09.710Z",
+  "updatedAt": "2026-09-11T02:08:30.452Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -1501,6 +1501,25 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
+      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
+      "source": "BBC",
+      "published": "2026-09-01T19:15:16.000Z",
+      "reputation": 94,
+      "likelihood": 94,
+      "ratingLabel": "Very strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "David Ozoh",
+        "Eiran Cashin",
+        "Mohammed Fuseini"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGVpcmFuIGNhc2hpbiBhbmQgbW",
       "title": "Derby County: Eiran Cashin and Mohammed Fuseini join Rams on loan - BBC",
       "description": "Derby County: Eiran Cashin and Mohammed Fuseini join Rams on loan &nbsp;&nbsp; BBC",
@@ -1971,25 +1990,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
-      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
-      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "BBC",
-      "published": "2026-09-01T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 94,
-      "ratingLabel": "Very strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "David Ozoh",
-        "Eiran Cashin",
-        "Mohammed Fuseini"
-      ]
-    },
-    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
       "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini - Derby County",
       "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
@@ -2420,38 +2420,6 @@
       ]
     },
     {
-      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
-      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
-      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Henrik Meister"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
-      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
-      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
       "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
       "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
@@ -2478,6 +2446,21 @@
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
+      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
+      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
@@ -2514,6 +2497,23 @@
       "edition": "it",
       "overseas": true,
       "players": []
+    },
+    {
+      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
+      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
+      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSBxdW90ZS",
@@ -3141,7 +3141,7 @@
       "likelihood": 80,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Hamza Choudhury"
