@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-09-12T00:28:49.046Z",
+  "updatedAt": "2026-09-12T00:47:43.281Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
-  "targetCount": 17,
+  "targetCount": 16,
   "targets": [
+    {
+      "name": "Mohammed Fuseini",
+      "score": 70,
+      "status": "Strong",
+      "independentReports": 4,
+      "totalStories": 4,
+      "bestSource": "onefootball.com",
+      "bestSourceScore": 57,
+      "maxLikelihood": 65,
+      "lastMention": "2026-09-10T20:17:48.000Z",
+      "firstSeen": "2026-09-01T21:41:20.830Z",
+      "isNew": false
+    },
     {
       "name": "Kenzo Goudmijn",
       "score": 64,
@@ -16,19 +29,6 @@
       "maxLikelihood": 94,
       "lastMention": "2026-09-08T13:33:36.000Z",
       "firstSeen": "2026-09-08T13:40:29.956Z",
-      "isNew": false
-    },
-    {
-      "name": "Mohammed Fuseini",
-      "score": 63,
-      "status": "Developing",
-      "independentReports": 3,
-      "totalStories": 4,
-      "bestSource": "OneFootball",
-      "bestSourceScore": 57,
-      "maxLikelihood": 65,
-      "lastMention": "2026-09-10T20:17:48.000Z",
-      "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": false
     },
     {
@@ -55,19 +55,6 @@
       "maxLikelihood": 72,
       "lastMention": "2026-09-06T11:19:06.000Z",
       "firstSeen": "2026-09-04T17:13:39.913Z",
-      "isNew": false
-    },
-    {
-      "name": "Radio Derbyshire",
-      "score": 52,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-02T00:45:26.000Z",
-      "firstSeen": "2026-09-01T19:44:41.816Z",
       "isNew": false
     },
     {
@@ -141,7 +128,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OneFootball",
+      "bestSource": "onefootball.com",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-02T20:54:36.000Z",
@@ -292,10 +279,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Mohammed Fuseini. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Mohammed Fuseini. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTkNOQndwSTJFUDJiakFBWlNDNkZfMEJURWNGRGRGWFhDLXBNMGRwN21JQ0YtcDM2SDYtZ2txbGFYdVFIOEJib19MeVhfZnBUaE02WlU0WnI?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-10T20:17:48.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -373,10 +360,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - toffeeweb.com",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-08T01:08:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1033,10 +1020,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83b1U0MGw4NVJzX3NLVFBVQ2dFZGJzN3BIRDVKY2pDemp6b1hUWExBVGhkQXYxVENkZWtGY2Q3aWlZeDZMdG4wSTkxd3haS3d6ajUxZHdPcWg?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T20:54:36.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1664,23 +1651,6 @@
       "players": []
     },
     {
-      "id": "NW0gcG9tcGV5IHNpZ25pbmcgdW5sZWFzaGVkIGFnYW",
-      "title": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes - portsmouth.co.uk",
-      "description": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes &nbsp;&nbsp; portsmouth.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnBaUldMVkw4bTRiTVV1NkZ2S3JYTmhiTnh3eXZlYjZoU2pYVHd2OE56aXJHTzlIUkNYbU9DdDFFRHpmRmJyVUhrUW9vUDFvaVpJWExIckQ2eE90S0lIcVhxSk00ZEtid3hMdloyNVBoTGV1NUxwXzNGZlBJYmV0bjlvRG1rSXhORVlCRjAzcWhMTDhrbzRXN1k2WWtxTmhZSkFvZ19KUUtZZVNpVkp2aTlmWkpIOTRORTNPaHJORFFkeExSb0tRWVg3LU1zOTQ4b3Y0NmFZYmJ3UWpHeEJiUXQxMHQ0Zw?oc=5",
-      "source": "portsmouth.co.uk",
-      "published": "2026-09-01T17:43:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "John Mousinho"
-      ]
-    },
-    {
       "id": "cG9tcGV5IHYgZGVyYnkgY291bnR5IGxpdmUgdXBkYX",
       "title": "Pompey v Derby County LIVE: Updates, transfer latest and team news from Fratton Park - portsmouth.co.uk",
       "description": "Pompey v Derby County LIVE: Updates, transfer latest and team news from Fratton Park &nbsp;&nbsp; portsmouth.co.uk",
@@ -2010,6 +1980,23 @@
         "David Ozoh",
         "Eiran Cashin",
         "Mohammed Fuseini"
+      ]
+    },
+    {
+      "id": "NW0gcG9tcGV5IHNpZ25pbmcgdW5sZWFzaGVkIGFnYW",
+      "title": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes - portsmouth.co.uk",
+      "description": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes &nbsp;&nbsp; portsmouth.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnBaUldMVkw4bTRiTVV1NkZ2S3JYTmhiTnh3eXZlYjZoU2pYVHd2OE56aXJHTzlIUkNYbU9DdDFFRHpmRmJyVUhrUW9vUDFvaVpJWExIckQ2eE90S0lIcVhxSk00ZEtid3hMdloyNVBoTGV1NUxwXzNGZlBJYmV0bjlvRG1rSXhORVlCRjAzcWhMTDhrbzRXN1k2WWtxTmhZSkFvZ19KUUtZZVNpVkp2aTlmWkpIOTRORTNPaHJORFFkeExSb0tRWVg3LU1zOTQ4b3Y0NmFZYmJ3UWpHeEJiUXQxMHQ0Zw?oc=5",
+      "source": "portsmouth.co.uk",
+      "published": "2026-09-01T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "John Mousinho"
       ]
     },
     {
@@ -2956,10 +2943,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - vtrend.it",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; vtrend.it",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "VTrend",
+      "source": "vtrend.it",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2973,10 +2960,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "SestaPorta.News Pisa",
+      "source": "sestaporta.news",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
