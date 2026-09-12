@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T20:05:56.190Z",
+  "updatedAt": "2026-09-12T20:23:20.206Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Turki Alalshikh",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
