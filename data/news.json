@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T01:44:41.296Z",
+  "updatedAt": "2026-09-12T01:55:51.785Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -19,19 +19,6 @@
       "isNew": false
     },
     {
-      "name": "Mohammed Fuseini",
-      "score": 63,
-      "status": "Developing",
-      "independentReports": 3,
-      "totalStories": 4,
-      "bestSource": "OneFootball",
-      "bestSourceScore": 57,
-      "maxLikelihood": 65,
-      "lastMention": "2026-09-10T20:17:48.000Z",
-      "firstSeen": "2026-09-01T21:41:20.830Z",
-      "isNew": false
-    },
-    {
       "name": "Turki Alalshikh",
       "score": 63,
       "status": "Developing",
@@ -42,6 +29,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-09-11T08:27:00.000Z",
       "firstSeen": "2026-09-11T10:49:08.709Z",
+      "isNew": false
+    },
+    {
+      "name": "Mohammed Fuseini",
+      "score": 62,
+      "status": "Developing",
+      "independentReports": 3,
+      "totalStories": 4,
+      "bestSource": "OneFootball",
+      "bestSourceScore": 57,
+      "maxLikelihood": 65,
+      "lastMention": "2026-09-10T20:17:48.000Z",
+      "firstSeen": "2026-09-01T21:41:20.830Z",
       "isNew": false
     },
     {
