@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:20:13.509Z",
+  "updatedAt": "2026-09-12T22:32:38.348Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -45,19 +45,6 @@
       "isNew": false
     },
     {
-      "name": "David Ozoh",
-      "score": 51,
-      "status": "Fading",
-      "independentReports": 3,
-      "totalStories": 3,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 51,
-      "lastMention": "2026-09-06T00:20:12.000Z",
-      "firstSeen": "2026-09-01T12:55:00.883Z",
-      "isNew": false
-    },
-    {
       "name": "Patrick Agyemang",
       "score": 51,
       "status": "Fading",
@@ -81,6 +68,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-09-03T14:03:22.000Z",
       "firstSeen": "2026-09-03T17:54:48.802Z",
+      "isNew": false
+    },
+    {
+      "name": "David Ozoh",
+      "score": 44,
+      "status": "Fading",
+      "independentReports": 2,
+      "totalStories": 3,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-09-06T00:20:12.000Z",
+      "firstSeen": "2026-09-01T12:55:00.883Z",
       "isNew": false
     },
     {
@@ -170,6 +170,21 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDV6UjdEdkZTYmtMMTdrQXZTYlFNSHRESU05Vmk5VkljaVZXbzhMWThjb3ZhQWZKTl9QVU5IRXd3WnRCNE5HRUp2cGdnaHBiMktUMWw3bDQwVURWQWFjbFgwMVMxZ2pLbWR4bzJSRjZHUVFRX2JjNFNjSmxFRVptVnRqVm9RS0ppYjBj?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-12T14:41:33.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSm5ReWhxRVo2TnlhekZveUs1M2gtVDhIZHI0UTZROGJ5LUlvelhQNWd1dFdhdi02RXU0dUZBeXVHbjNJYzgzVVB0bW9MRnpzc1U2ZGVHekJYMFIxVXdfbkI4TEhYTlYyMzV3ZEpCVTJvcXI1dGo4ZXJZUXNKYXhCVmFLWVhiRE5NVE9kZG1lUWxBOVZfNzBmdg?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-12T08:44:23.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -302,7 +317,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -599,10 +614,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQndfLUhQbkJGZVVQV21ybDd2RWhmUDBWaDlnbTRoREVndnZJLWUtdWtZUy1wMFdWUVhqbGhIYVhOZnlDWlRLYktka1JrYXM0Sy1ua3RYRQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-06T00:20:12.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -677,21 +692,6 @@
       "players": [
         "Falkirk Herald"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-05T00:43:53.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
@@ -800,7 +800,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1443,10 +1443,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-01T19:47:04.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1946,6 +1946,23 @@
       ]
     },
     {
+      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
+      "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini - Derby County",
+      "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1VKODFKcW0zVUdWenBKbmFOXzVESnF0SUFtYnUtNVYzeU1pdVVzQ0tDd285U1MtLVdUdUR5TjFnd0NXWFlWNjlFbWpBNWJ2aXZFZzVIQXJSUkdnTjlBcmhOejJBcXdJOEVWdEZtUVdtZURUNS1OTUduNmZBcTR3WWdFRQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-01T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Mohammed Fuseini"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
       "title": "Derby County complete eighth signing of transfer window as home-grown defender returns - Derbyshire Live",
       "description": "Derby County complete eighth signing of transfer window as home-grown defender returns &nbsp;&nbsp; Derbyshire Live",
@@ -1959,23 +1976,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
-      "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini - Derby County",
-      "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1VKODFKcW0zVUdWenBKbmFOXzVESnF0SUFtYnUtNVYzeU1pdVVzQ0tDd285U1MtLVdUdUR5TjFnd0NXWFlWNjlFbWpBNWJ2aXZFZzVIQXJSUkdnTjlBcmhOejJBcXdJOEVWdEZtUVdtZURUNS1OTUduNmZBcTR3WWdFRQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-01T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Mohammed Fuseini"
-      ]
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
@@ -2219,10 +2219,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLXptUG44RWNkSWJnOFQwQWdIc214OFVjM2JCUXFLUFM2N2ZwSUsxZ3hHS3U4T2pocHFYU2haXzJhYTRqdjY3aTRkX1BhUVUzYkNiN1hTYw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-08-30T18:20:41.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -2378,6 +2378,23 @@
       ]
     },
     {
+      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
+      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
+      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
       "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
       "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
@@ -2391,6 +2408,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
+      "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
+      "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fei1zdWN3OW5UU25TVHBmM1dQbzBNNmNETFFfaEtJb2Y2UG02RVdWTXlQUHgxa18xZjhfT0dXQzREaGUyT3MydkoyOS1QVGFwQmpad2FjQ3FRazRwRlBjaWRPSjViQkhrRVh4dWV6eXk2THdJMnNNM3pjLTI?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
@@ -2418,7 +2452,7 @@
       "likelihood": 75,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2438,40 +2472,6 @@
       "edition": "it",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "c2lnbmluZyBoZW5yaWsgbWVpc3RlciBpcyBhIHJhbX",
-      "title": "SIGNING: Henrik Meister is a Ram - Derby County",
-      "description": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Henrik Meister"
-      ]
-    },
-    {
-      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
-      "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
-      "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fei1zdWN3OW5UU25TVHBmM1dQbzBNNmNETFFfaEtJb2Y2UG02RVdWTXlQUHgxa18xZjhfT0dXQzREaGUyT3MydkoyOS1QVGFwQmpad2FjQ3FRazRwRlBjaWRPSjViQkhrRVh4dWV6eXk2THdJMnNNM3pjLTI?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Henrik Meister"
-      ]
     },
     {
       "id": "c2hlZmZpZWxkIHVuaXRlZCBzZXQgdG8gc2lnbiBsZW",
@@ -2906,10 +2906,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmVyc28gbCBhZG",
-      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - vtrend.it",
-      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; vtrend.it",
+      "title": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese - VTrend",
+      "description": "Mercato Pisa, Meister verso l’addio: il Derby County fa sul serio per il danese &nbsp;&nbsp; VTrend",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXBQalgwWWZlWm5YcXBwYW1WSU9uWDk4TkJDS0lsSUQ4eWdTQy1KT3VwVVV0MFlOOHZ1ZTdmUHZrUmtVeDdwR3VRZGlBWU5LYWs5dDVsd0labHVrbFVlWVJobTh5SDJQWVFGbGdDdXFsaG1YLTIwcmxHSlBJS1lGNnFBM2Y4NVRhS1RPN3MzTkFpTDZrM0E?oc=5",
-      "source": "vtrend.it",
+      "source": "VTrend",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
