@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-12T18:20:28.223Z",
+  "updatedAt": "2026-09-12T18:35:30.651Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
-  "targetCount": 12,
+  "targetCount": 13,
   "targets": [
     {
       "name": "Kenzo Goudmijn",
@@ -160,6 +160,19 @@
       "lastMention": "2026-09-06T05:59:48.000Z",
       "firstSeen": "2026-09-09T15:42:29.113Z",
       "isNew": false
+    },
+    {
+      "name": "Falkirk Herald",
+      "score": 32,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Falkirk Herald",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-05T01:32:00.000Z",
+      "firstSeen": "2026-09-12T18:35:30.651Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -648,10 +661,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "falkirkherald.co.uk",
+      "source": "Falkirk Herald",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -659,7 +672,9 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
+      "players": [
+        "Falkirk Herald"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
@@ -709,21 +724,6 @@
       "players": [
         "David Ozoh"
       ]
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBiaWxva2FwaWMgYWRkZWQgdG",
-      "title": "TRANSFER NEWS: Bilokapic added to goalkeeping group - Derby County",
-      "description": "TRANSFER NEWS: Bilokapic added to goalkeeping group &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjRibVdCSERoWl9xN0w1bHZXZVNjSkxXMklMVXRhcUpHQWFwUTROUzZCc0NySFJrMC15d0s0N3I1eDhJVlpYTU1qOXMwaTBkRUdyZHdOZ01qdnlyd2d6ZjRIb2RDMGY0LU5KN05ZMVpndHBOXzJFU0dSTEc2bzdLNW9UVHlXUGQxQ3VRTUxOQQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-04T14:03:46.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "Zm9ybWVyIGRlcmJ5IGNvdW50eSBjb2FjaCBoYWlscy",
@@ -786,6 +786,21 @@
       "players": [
         "Nicholas Bilokapic"
       ]
+    },
+    {
+      "id": "dHJhbnNmZXIgbmV3cyBiaWxva2FwaWMgYWRkZWQgdG",
+      "title": "TRANSFER NEWS: Bilokapic added to goalkeeping group - Derby County",
+      "description": "TRANSFER NEWS: Bilokapic added to goalkeeping group &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjRibVdCSERoWl9xN0w1bHZXZVNjSkxXMklMVXRhcUpHQWFwUTROUzZCc0NySFJrMC15d0s0N3I1eDhJVlpYTU1qOXMwaTBkRUdyZHdOZ01qdnlyd2d6ZjRIb2RDMGY0LU5KN05ZMVpndHBOXzJFU0dSTEc2bzdLNW9UVHlXUGQxQ3VRTUxOQQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-04T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHVlZmEgdTE5fFRyYW5zZmVybW",
