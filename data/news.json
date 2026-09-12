@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:47:31.376Z",
+  "updatedAt": "2026-09-12T18:58:33.486Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -726,6 +726,21 @@
       ]
     },
     {
+      "id": "dHJhbnNmZXIgbmV3cyBiaWxva2FwaWMgYWRkZWQgdG",
+      "title": "TRANSFER NEWS: Bilokapic added to goalkeeping group - Derby County",
+      "description": "TRANSFER NEWS: Bilokapic added to goalkeeping group &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjRibVdCSERoWl9xN0w1bHZXZVNjSkxXMklMVXRhcUpHQWFwUTROUzZCc0NySFJrMC15d0s0N3I1eDhJVlpYTU1qOXMwaTBkRUdyZHdOZ01qdnlyd2d6ZjRIb2RDMGY0LU5KN05ZMVpndHBOXzJFU0dSTEc2bzdLNW9UVHlXUGQxQ3VRTUxOQQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-04T14:03:46.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "Zm9ybWVyIGRlcmJ5IGNvdW50eSBjb2FjaCBoYWlscy",
       "title": "Former Derby County coach hails double transfer deal and why it's a 'great sign' - Derbyshire Live",
       "description": "Former Derby County coach hails double transfer deal and why it's a 'great sign' &nbsp;&nbsp; Derbyshire Live",
@@ -786,21 +801,6 @@
       "players": [
         "Nicholas Bilokapic"
       ]
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBiaWxva2FwaWMgYWRkZWQgdG",
-      "title": "TRANSFER NEWS: Bilokapic added to goalkeeping group - Derby County",
-      "description": "TRANSFER NEWS: Bilokapic added to goalkeeping group &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjRibVdCSERoWl9xN0w1bHZXZVNjSkxXMklMVXRhcUpHQWFwUTROUzZCc0NySFJrMC15d0s0N3I1eDhJVlpYTU1qOXMwaTBkRUdyZHdOZ01qdnlyd2d6ZjRIb2RDMGY0LU5KN05ZMVpndHBOXzJFU0dSTEc2bzdLNW9UVHlXUGQxQ3VRTUxOQQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-04T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHVlZmEgdTE5fFRyYW5zZmVybW",
