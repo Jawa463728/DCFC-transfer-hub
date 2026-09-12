@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T19:52:25.461Z",
+  "updatedAt": "2026-09-12T20:05:56.190Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -19,6 +19,19 @@
       "isNew": false
     },
     {
+      "name": "Nicholas Bilokapic",
+      "score": 59,
+      "status": "Fading",
+      "independentReports": 3,
+      "totalStories": 4,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-09-06T11:19:06.000Z",
+      "firstSeen": "2026-09-04T17:13:39.913Z",
+      "isNew": false
+    },
+    {
       "name": "Turki Alalshikh",
       "score": 59,
       "status": "Developing",
@@ -29,19 +42,6 @@
       "maxLikelihood": 68,
       "lastMention": "2026-09-11T08:27:00.000Z",
       "firstSeen": "2026-09-11T10:49:08.709Z",
-      "isNew": false
-    },
-    {
-      "name": "Nicholas Bilokapic",
-      "score": 54,
-      "status": "Fading",
-      "independentReports": 2,
-      "totalStories": 4,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-06T11:19:06.000Z",
-      "firstSeen": "2026-09-04T17:13:39.913Z",
       "isNew": false
     },
     {
@@ -75,7 +75,7 @@
       "score": 44,
       "status": "Fading",
       "independentReports": 2,
-      "totalStories": 4,
+      "totalStories": 3,
       "bestSource": "Football League World",
       "bestSourceScore": 61,
       "maxLikelihood": 51,
@@ -89,7 +89,7 @@
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OneFootball",
+      "bestSource": "onefootball.com",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-10T20:17:48.000Z",
@@ -102,7 +102,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OneFootball",
+      "bestSource": "onefootball.com",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-02T20:54:36.000Z",
@@ -240,10 +240,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Mohammed Fuseini. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Mohammed Fuseini. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTkNOQndwSTJFUDJiakFBWlNDNkZfMEJURWNGRGRGWFhDLXBNMGRwN21JQ0YtcDM2SDYtZ2txbGFYdVFIOEJib19MeVhfZnBUaE02WlU0WnI?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-10T20:17:48.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -582,10 +582,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - transfermarkt.de",
-      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rejV5MXVsQlc2emRPSFBibVBsdmh5RTFWbUphSThNYjhJdkd2a3J2VFZ6c0hwQUFrSW9IT0ZpYS1rcEtYQnlHbjl6N0c1QVh3NklBVjQzRG9zLUNYSmQya3ptdE9nYVhYWGNOdy1ITVNXQkY2M2M4?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-06T04:07:21.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -614,10 +614,10 @@
     },
     {
       "id": "d2VzdCBoYW0gdW5pdGVkIGRlcmJ5IGNvdW50eSAwNS",
-      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - transfermarkt.de",
-      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
+      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WeHRXN0NocFFxeWZIT0p4MWtlSVhIMjd5c3ZkUXp4Ynl2dTVBNUNEY1dNVEJPOXFXdXhFRkhHNG1mV2xLZGpaeHVjWWs3OTlhUW9XNkFMWk5mc3pSTV9DWFJUMW9FY1NFZ1BlS2wweVk3NEthVk1J?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-05T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -644,10 +644,10 @@
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - onefootball.com",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-05T04:45:48.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -677,11 +677,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.de",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3hRVEw2Y2ZITEV3Vk5kT3M5UEhqQ3c1RFhOci1rRFhiNml3cFRSLWdYSHd1a3hfWnlSdVBnYWRoR1J3SC1ZUnJWdjhCOXdnRGdqLXdJWEtXZ21PTU1KWEhVWWx4bFdoam1fQmFuNHN0MXN6Qkdnb25Na21pWm10NG95RlU5N296My1F?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-05T00:43:53.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -981,10 +981,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Eiran Joe Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83b1U0MGw4NVJzX3NLVFBVQ2dFZGJzN3BIRDVKY2pDemp6b1hUWExBVGhkQXYxVENkZWtGY2Q3aWlZeDZMdG4wSTkxd3haS3d6ajUxZHdPcWg?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T20:54:36.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1977,10 +1977,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
+      "source": "Le Soir",
       "published": "2026-09-01T07:00:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -1990,7 +1990,8 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-"
+        "Union Saint-",
+        "Le Soir"
       ]
     },
     {
