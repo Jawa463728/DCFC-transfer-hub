@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-13T17:04:30.284Z",
+  "updatedAt": "2026-09-13T17:19:54.413Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 179,
+  "storyCount": 180,
   "targetCount": 8,
   "targets": [
     {
@@ -20,9 +20,9 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 54,
+      "score": 59,
       "status": "Fading",
-      "independentReports": 2,
+      "independentReports": 3,
       "totalStories": 4,
       "bestSource": "BBC",
       "bestSourceScore": 94,
@@ -113,10 +113,10 @@
   "stories": [
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U21 - Transfers 26/27 - Transfermarkt",
-      "description": "Derby County U21 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U21 - Transfers 26/27 - transfermarkt.de",
+      "description": "Derby County U21 - Transfers 26/27 &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDV6UjdEdkZTYmtMMTdrQXZTYlFNSHRESU05Vmk5VkljaVZXbzhMWThjb3ZhQWZKTl9QVU5IRXd3WnRCNE5HRUp2cGdnaHBiMktUMWw3bDQwVURWQWFjbFgwMVMxZ2pLbWR4bzJSRjZHUVFRX2JjNFNjSmxFRVptVnRqVm9RS0ppYjBj?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-12T14:41:33.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -507,7 +507,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -547,10 +547,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - transfermarkt.de",
+      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rejV5MXVsQlc2emRPSFBibVBsdmh5RTFWbUphSThNYjhJdkd2a3J2VFZ6c0hwQUFrSW9IT0ZpYS1rcEtYQnlHbjl6N0c1QVh3NklBVjQzRG9zLUNYSmQya3ptdE9nYVhYWGNOdy1ITVNXQkY2M2M4?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-06T04:07:21.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -579,10 +579,10 @@
     },
     {
       "id": "d2VzdCBoYW0gdW5pdGVkIGRlcmJ5IGNvdW50eSAwNS",
-      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - transfermarkt.de",
+      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WeHRXN0NocFFxeWZIT0p4MWtlSVhIMjd5c3ZkUXp4Ynl2dTVBNUNEY1dNVEJPOXFXdXhFRkhHNG1mV2xLZGpaeHVjWWs3OTlhUW9XNkFMWk5mc3pSTV9DWFJUMW9FY1NFZ1BlS2wweVk3NEthVk1J?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-05T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -609,10 +609,10 @@
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - OneFootball",
-      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. - onefootball.com",
+      "description": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-05T04:45:48.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -1701,7 +1701,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -1921,7 +1921,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2353,7 +2353,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2481,7 +2481,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2645,7 +2645,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2966,6 +2966,24 @@
       "edition": "de",
       "overseas": true,
       "players": []
+    },
+    {
+      "id": "Z29zc2lwIGRlcmJ5IGNvdW50eSB0YXJnZXQgbWlrZX",
+      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti - BBC",
+      "description": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUlFnUkp0U0UwcFJMOFJjWlpBYkozN3FOYWJVeTluVG9UaXk2ZlZVbDlZb1dmVTVCdzhncEZTRXpITzllOXN0RFFJWW1SaTlKbHZTTGZ6NlVpZkdCcmZNaHNPTG5MR00?oc=5",
+      "source": "BBC",
+      "published": "2026-08-24T07:00:00.000Z",
+      "reputation": 94,
+      "likelihood": 80,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Mikey Johnston",
+        "Anis Mehmeti"
+      ]
     }
   ]
 }
