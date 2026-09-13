@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-13T11:44:23.918Z",
+  "updatedAt": "2026-09-13T11:55:39.334Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
-  "targetCount": 12,
+  "targetCount": 11,
   "targets": [
     {
       "name": "Kenzo Goudmijn",
@@ -120,19 +120,6 @@
       "maxLikelihood": 51,
       "lastMention": "2026-09-03T12:42:29.000Z",
       "firstSeen": "2026-09-08T05:59:36.263Z",
-      "isNew": false
-    },
-    {
-      "name": "Following Jakub Stolarczyk Injury",
-      "score": 34,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football Lowdown",
-      "bestSourceScore": 48,
-      "maxLikelihood": 51,
-      "lastMention": "2026-09-03T11:47:53.000Z",
-      "firstSeen": "2026-09-09T13:26:12.270Z",
       "isNew": false
     },
     {
