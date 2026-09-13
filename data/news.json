@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T10:37:26.041Z",
+  "updatedAt": "2026-09-13T10:49:28.685Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -273,6 +273,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
+      "source": "ToffeeWeb",
+      "published": "2026-09-08T22:38:29.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIga2Vuem8gZ2",
       "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - BBC",
       "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; BBC",
@@ -333,21 +348,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "fr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "ToffeeWeb",
-      "published": "2026-09-08T01:08:20.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
       "overseas": true,
       "players": []
     },
@@ -559,7 +559,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -1753,7 +1753,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1956,7 +1956,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2388,7 +2388,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2533,7 +2533,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2697,7 +2697,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
