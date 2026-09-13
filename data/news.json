@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-13T00:11:32.637Z",
+  "updatedAt": "2026-09-13T00:35:49.557Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
-  "targetCount": 12,
+  "targetCount": 11,
   "targets": [
     {
       "name": "Kenzo Goudmijn",
@@ -147,19 +147,6 @@
       "lastMention": "2026-09-06T05:59:48.000Z",
       "firstSeen": "2026-09-09T15:42:29.113Z",
       "isNew": false
-    },
-    {
-      "name": "Falkirk Herald",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Falkirk Herald",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-05T01:32:00.000Z",
-      "firstSeen": "2026-09-12T23:29:52.733Z",
-      "isNew": true
     }
   ],
   "stories": [
@@ -338,10 +325,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - toffeeweb.com",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-08T01:08:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -678,10 +665,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "source": "falkirkherald.co.uk",
       "published": "2026-09-05T01:32:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -689,9 +676,7 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Falkirk Herald"
-      ]
+      "players": []
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
