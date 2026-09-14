@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T04:53:03.255Z",
+  "updatedAt": "2026-09-14T05:07:34.382Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
-  "targetCount": 7,
+  "targetCount": 8,
   "targets": [
     {
       "name": "Kenzo Goudmijn",
@@ -95,6 +95,19 @@
       "lastMention": "2026-09-06T05:59:48.000Z",
       "firstSeen": "2026-09-09T15:42:29.113Z",
       "isNew": false
+    },
+    {
+      "name": "Falkirk Herald",
+      "score": 32,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Falkirk Herald",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-05T07:00:00.000Z",
+      "firstSeen": "2026-09-14T05:07:34.382Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -159,11 +172,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblNFandFbjlwemNYRklsMF9MTGpxSURBWG00cm1yZzhFY0dpSEdBUDg5TnF0MlJ5S2tfdmVWQmRIdTl3LVQzZTlzS0hmZWNaSXNQaVpTem9JckNjdkxjak5jY1NmcU80bF9VbUg5bWlWdTQtaE5jeF9zV0FzTVh0TEJCNVdhck4yWGZtckVtR2c0Tk1MNUdVNWxqeGJCMGM5eG9KNlIwSkg1a29vVWJQMnNKdjRYSTRqay1La0FkZE4?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-09-13T00:49:46.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -269,10 +282,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - toffeeweb.com",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; toffeeweb.com",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "toffeeweb.com",
+      "source": "ToffeeWeb",
       "published": "2026-09-08T22:38:29.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -554,7 +567,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -656,10 +669,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "falkirkherald.co.uk",
+      "source": "Falkirk Herald",
       "published": "2026-09-05T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -667,7 +680,9 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
+      "players": [
+        "Falkirk Herald"
+      ]
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
@@ -1731,7 +1746,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1951,7 +1966,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2383,7 +2398,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2406,10 +2421,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
+      "source": "tribalfootball.com",
       "published": "2026-08-30T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2511,7 +2526,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -2675,7 +2690,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
