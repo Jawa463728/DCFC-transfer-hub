@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T10:14:06.339Z",
+  "updatedAt": "2026-09-14T10:31:46.753Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
-  "targetCount": 7,
+  "targetCount": 8,
   "targets": [
     {
       "name": "Kenzo Goudmijn",
@@ -45,19 +45,6 @@
       "isNew": false
     },
     {
-      "name": "David Ozoh",
-      "score": 43,
-      "status": "Fading",
-      "independentReports": 2,
-      "totalStories": 2,
-      "bestSource": "onefootball.com",
-      "bestSourceScore": 57,
-      "maxLikelihood": 48,
-      "lastMention": "2026-09-06T00:20:12.000Z",
-      "firstSeen": "2026-09-01T12:55:00.883Z",
-      "isNew": false
-    },
-    {
       "name": "Nicholas Bilokapic",
       "score": 41,
       "status": "Fading",
@@ -84,6 +71,19 @@
       "isNew": false
     },
     {
+      "name": "David Ozoh",
+      "score": 36,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "OneFootball",
+      "bestSourceScore": 57,
+      "maxLikelihood": 48,
+      "lastMention": "2026-09-06T00:20:12.000Z",
+      "firstSeen": "2026-09-01T12:55:00.883Z",
+      "isNew": false
+    },
+    {
       "name": "Wertvollste Zugänge",
       "score": 32,
       "status": "Fading",
@@ -95,6 +95,19 @@
       "lastMention": "2026-09-06T05:59:48.000Z",
       "firstSeen": "2026-09-09T15:42:29.113Z",
       "isNew": false
+    },
+    {
+      "name": "Falkirk Herald",
+      "score": 32,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Falkirk Herald",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-05T07:00:00.000Z",
+      "firstSeen": "2026-09-14T10:31:46.753Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -144,11 +157,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblNFandFbjlwemNYRklsMF9MTGpxSURBWG00cm1yZzhFY0dpSEdBUDg5TnF0MlJ5S2tfdmVWQmRIdTl3LVQzZTlzS0hmZWNaSXNQaVpTem9JckNjdkxjak5jY1NmcU80bF9VbUg5bWlWdTQtaE5jeF9zV0FzTVh0TEJCNVdhck4yWGZtckVtR2c0Tk1MNUdVNWxqeGJCMGM5eG9KNlIwSkg1a29vVWJQMnNKdjRYSTRqay1La0FkZE4?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-09-13T00:49:46.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -269,10 +282,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - toffeeweb.com",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; toffeeweb.com",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "toffeeweb.com",
+      "source": "ToffeeWeb",
       "published": "2026-09-08T22:38:29.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -609,10 +622,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQndfLUhQbkJGZVVQV21ybDd2RWhmUDBWaDlnbTRoREVndnZJLWUtdWtZUy1wMFdWUVhqbGhIYVhOZnlDWlRLYktka1JrYXM0Sy1ua3RYRQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-06T00:20:12.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -656,10 +669,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "falkirkherald.co.uk",
+      "source": "Falkirk Herald",
       "published": "2026-09-05T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -667,7 +680,9 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
+      "players": [
+        "Falkirk Herald"
+      ]
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
@@ -767,10 +782,10 @@
     },
     {
       "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
-      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - bbc.com",
-      "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; bbc.com",
+      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - BBC",
+      "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbVB6c2VNRTE1WUlnMjJqd1lHQ05zM0ZtX0hoQ252cTJEZGluUmIwMU9wWUdTdFFBbWZMOFVWWXRNUTZjU0xKd3BhUW9RcUNuY1c3WjZvZXYydE9fSE8zd0EzckxqNWs?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "published": "2026-09-04T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -1421,10 +1436,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-01T19:47:04.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1906,10 +1921,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRhdmlkIG96b2ggcmVqb2lucy",
-      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - bbc.com",
-      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; bbc.com",
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan - BBC",
+      "description": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "published": "2026-09-01T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 94,
@@ -2197,10 +2212,10 @@
     },
     {
       "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - onefootball.com",
-      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; onefootball.com",
+      "title": "Fichaje confirmado: Derby County firma a Henrik Meister. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a Henrik Meister. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLXptUG44RWNkSWJnOFQwQWdIc214OFVjM2JCUXFLUFM2N2ZwSUsxZ3hHS3U4T2pocHFYU2haXzJhYTRqdjY3aTRkX1BhUVUzYkNiN1hTYw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-08-30T18:20:41.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -2883,6 +2898,23 @@
       ]
     },
     {
+      "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
+      "source": "SestaPorta.News Pisa",
+      "published": "2026-08-26T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": [
+        "Calciomercato Pisa"
+      ]
+    },
+    {
       "id": "c2hlZmZpZWxkIHVuaXRlZCBhbmQgZGVyYnkgY291bn",
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz - Yorkshire Post",
       "description": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
@@ -2898,23 +2930,6 @@
       "players": [
         "Southampton's Ben Brereton Diaz",
         "Yorkshire Post"
-      ]
-    },
-    {
-      "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "SestaPorta.News Pisa",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": [
-        "Calciomercato Pisa"
       ]
     },
     {
