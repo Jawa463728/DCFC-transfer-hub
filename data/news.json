@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:19:47.686Z",
+  "updatedAt": "2026-09-14T22:35:53.906Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -2000,23 +2000,6 @@
       ]
     },
     {
-      "id": "NW0gcG9tcGV5IHNpZ25pbmcgdW5sZWFzaGVkIGFnYW",
-      "title": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes - portsmouth.co.uk",
-      "description": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes &nbsp;&nbsp; portsmouth.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnBaUldMVkw4bTRiTVV1NkZ2S3JYTmhiTnh3eXZlYjZoU2pYVHd2OE56aXJHTzlIUkNYbU9DdDFFRHpmRmJyVUhrUW9vUDFvaVpJWExIckQ2eE90S0lIcVhxSk00ZEtid3hMdloyNVBoTGV1NUxwXzNGZlBJYmV0bjlvRG1rSXhORVlCRjAzcWhMTDhrbzRXN1k2WWtxTmhZSkFvZ19KUUtZZVNpVkp2aTlmWkpIOTRORTNPaHJORFFkeExSb0tRWVg3LU1zOTQ4b3Y0NmFZYmJ3UWpHeEJiUXQxMHQ0Zw?oc=5",
-      "source": "portsmouth.co.uk",
-      "published": "2026-09-01T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "John Mousinho"
-      ]
-    },
-    {
       "id": "dHJhbnNmZXIgbmV3cyBpbnRyb2R1Y2luZyBtb2hhbW",
       "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini - Derby County",
       "description": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
@@ -2065,6 +2048,23 @@
         "Mohammed Fuseini",
         "Union Saint-",
         "Le Soir"
+      ]
+    },
+    {
+      "id": "NW0gcG9tcGV5IHNpZ25pbmcgdW5sZWFzaGVkIGFnYW",
+      "title": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes - portsmouth.co.uk",
+      "description": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes &nbsp;&nbsp; portsmouth.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnBaUldMVkw4bTRiTVV1NkZ2S3JYTmhiTnh3eXZlYjZoU2pYVHd2OE56aXJHTzlIUkNYbU9DdDFFRHpmRmJyVUhrUW9vUDFvaVpJWExIckQ2eE90S0lIcVhxSk00ZEtid3hMdloyNVBoTGV1NUxwXzNGZlBJYmV0bjlvRG1rSXhORVlCRjAzcWhMTDhrbzRXN1k2WWtxTmhZSkFvZ19KUUtZZVNpVkp2aTlmWkpIOTRORTNPaHJORFFkeExSb0tRWVg3LU1zOTQ4b3Y0NmFZYmJ3UWpHeEJiUXQxMHQ0Zw?oc=5",
+      "source": "portsmouth.co.uk",
+      "published": "2026-09-01T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "John Mousinho"
       ]
     },
     {
@@ -2449,6 +2449,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
+      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
+      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
       "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
       "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
@@ -2496,21 +2511,6 @@
       "players": [
         "Henrik Meister"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
-      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
-      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "cGlzYSBtZWlzdGVyIHZhIGEgZ2lvY2FyZSBpbiBpbm",
