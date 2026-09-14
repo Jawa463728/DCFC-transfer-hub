@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T14:59:15.458Z",
+  "updatedAt": "2026-09-14T15:21:32.717Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -202,6 +202,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWtaSllEVEJRX2RpOEVzMDBlazUxbnlMYndaMjdJZlNZOWFad2NHVG1UOG9rOVgydlZHQUp6akRHa0czX0tIU3RFb1JMRS10UnQ5NE0xY3VZb2ZQb2MxcXctM2ZibkhLRnBwRTBIdGlWMFlxYmdjVUZJd3MzSW1wU0tUenhYN0Z4dmc0dA?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-13T04:55:33.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "cGV0ZXJib3JvdWdoIHVuaXRlZCBkZXJieSBjb3VudH",
       "title": "Peterborough United - Derby County, 14.08.2021 - Championship - Spielbericht - Transfermarkt",
       "description": "Peterborough United - Derby County, 14.08.2021 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -238,21 +253,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDV6UjdEdkZTYmtMMTdrQXZTYlFNSHRESU05Vmk5VkljaVZXbzhMWThjb3ZhQWZKTl9QVU5IRXd3WnRCNE5HRUp2cGdnaHBiMktUMWw3bDQwVURWQWFjbFgwMVMxZ2pLbWR4bzJSRjZHUVFRX2JjNFNjSmxFRVptVnRqVm9RS0ppYjBj?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-12T14:41:33.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSm5ReWhxRVo2TnlhekZveUs1M2gtVDhIZHI0UTZROGJ5LUlvelhQNWd1dFdhdi02RXU0dUZBeXVHbjNJYzgzVVB0bW9MRnpzc1U2ZGVHekJYMFIxVXdfbkI4TEhYTlYyMzV3ZEpCVTJvcXI1dGo4ZXJZUXNKYXhCVmFLWVhiRE5NVE9kZG1lUWxBOVZfNzBmdg?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-12T08:44:23.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -1170,6 +1170,21 @@
       "players": []
     },
     {
+      "id": "cG9sbCBqb2luIHRoZSBiaWcgZGViYXRlIG9uIGRlcm",
+      "title": "POLL: Join the big debate on Derby County's transfer window - Derbyshire Live",
+      "description": "POLL: Join the big debate on Derby County's transfer window &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFc4b1hJVzd3X3JxQWh5RkxDQXBJbDhhaGx5Ql83dEpTZlJ1ZUdoSE5rR2E4ZzVvU0JKMDJfZThQTnJPamk0T2Q0REYwSzhUWW91WEs0Q1l6a3NkS3U2SjFiRlRTTDdscGI5cnhzanFlcU1Hd0lfZFN6eF93bFlBRkJadFFmTzZrQUJ3amNka2tCZmIzbERfdC1DUThEQQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-02T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "c2lnbmluZyBkYXZpZCBvem9oIHNpZ25zIGZvciBkZX",
       "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - Derby County",
       "description": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; Derby County",
@@ -1185,21 +1200,6 @@
       "players": [
         "David Ozoh Signs For"
       ]
-    },
-    {
-      "id": "cG9sbCBqb2luIHRoZSBiaWcgZGViYXRlIG9uIGRlcm",
-      "title": "POLL: Join the big debate on Derby County's transfer window - Derbyshire Live",
-      "description": "POLL: Join the big debate on Derby County's transfer window &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFc4b1hJVzd3X3JxQWh5RkxDQXBJbDhhaGx5Ql83dEpTZlJ1ZUdoSE5rR2E4ZzVvU0JKMDJfZThQTnJPamk0T2Q0REYwSzhUWW91WEs0Q1l6a3NkS3U2SjFiRlRTTDdscGI5cnhzanFlcU1Hd0lfZFN6eF93bFlBRkJadFFmTzZrQUJ3amNka2tCZmIzbERfdC1DUThEQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-02T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
