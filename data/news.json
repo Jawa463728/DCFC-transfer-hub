@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T01:50:47.223Z",
+  "updatedAt": "2026-09-14T02:03:42.477Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -118,6 +118,21 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRDA0b2EtMDRfLWJ1VWgtT1N3QVVWQUVuVE1sNDhVVlRwU0RzQWo2cDhfal9MeFFoX3pqanRHNjFKWldSYlVEbG91TEpiRGhzZjR6N3FJMHdYdEM1SkVzS250aTAyREpVdTIwaUlDOV80d0FZU3g0VmU3RTZjUGtyVkd1M1FYeGJVMjIycVZhMm9CU0xUYTNZQ1JPbw?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-13T09:45:35.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "cGV0ZXJib3JvdWdoIHVuaXRlZCBkZXJieSBjb3VudH",
+      "title": "Peterborough United - Derby County, 14.08.2021 - Championship - Spielbericht - Transfermarkt",
+      "description": "Peterborough United - Derby County, 14.08.2021 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FMERSUFl0WXBTbHZ5cEU0aVFsemxsbDNqdXEzZUxNUi14WjVRN3V3bldXX2czUzlVM0dsSVQwS21mOTh6YVI5MEc5bWpQUVptYWVseWtsNzU1dldtYU5QZjZndHVwLUZ3UUNkM3VyR2Z1dw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-13T00:49:59.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -2391,10 +2406,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
+      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "tribalfootball.com",
+      "source": "TribalFootball",
       "published": "2026-08-30T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2965,21 +2980,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGZjIGJhcm5zbGV5IDExIDExID",
-      "title": "Derby County - FC Barnsley, 11.11.2023 - League One - Spielbericht - Transfermarkt",
-      "description": "Derby County - FC Barnsley, 11.11.2023 - League One - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWV4OU9Gb2dwbko5cS1waXpLa09QN05TQkVNUnR1MlJIXzE2cWdfbzVoWGtXSW1LWUZ3T1JEU2VMNEVGSWoxaGZMcmFIMmlwX1RpczhIUmdydmRuV3ZKVEpmZXVyUk1OSFZxeHNKRXpLMmNsZDRJX1RybVJQZlFtWlZOWQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-25T20:13:59.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     }
   ]
