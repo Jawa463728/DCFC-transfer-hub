@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T13:12:58.153Z",
+  "updatedAt": "2026-09-14T13:32:44.508Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
-  "targetCount": 8,
+  "targetCount": 9,
   "targets": [
     {
       "name": "Kenzo Goudmijn",
@@ -46,16 +46,29 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 41,
+      "score": 48,
       "status": "Fading",
-      "independentReports": 1,
+      "independentReports": 2,
       "totalStories": 3,
-      "bestSource": "OneFootball",
+      "bestSource": "onefootball.com",
       "bestSourceScore": 57,
       "maxLikelihood": 70,
       "lastMention": "2026-09-06T11:19:06.000Z",
       "firstSeen": "2026-09-04T17:13:39.913Z",
       "isNew": false
+    },
+    {
+      "name": "Wertvollste Spieler",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Transfermarkt",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-13T20:58:40.000Z",
+      "firstSeen": "2026-09-14T13:32:44.508Z",
+      "isNew": true
     },
     {
       "name": "Mohammed Fuseini",
@@ -111,6 +124,53 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGthZGVyIGltIGRldGFpbCA1OC",
+      "title": "Derby County - Kader im Detail 58/59 (Galerie) - Transfermarkt",
+      "description": "Derby County - Kader im Detail 58/59 (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMlVVaDItSmpBWXFvTzJzVVZQVGg4SXJHRFdQLWhMdkV4UnlBTnFNb2g5bzNvQ3FpcjZ5VzFpcTR2S1FxTnVqYkhDckY3Ny02SjNkZ3Jsdm5ia3dBNEF5R2xzdzVNXzdoMm9WTi1abExYaHBmU1ZyZ0xZeVhPTWtBa3JtUG90UjF1ZVE?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-14T03:49:13.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdlcnR2b2xsc3RlIHNwaWVsZX",
+      "title": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 - Transfermarkt",
+      "description": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOTJWUUUxN1I3Z1Z1c0JWLV93OUtRRFg0RHh4aXJ6STRWTlRhTktiQVJvQnpJVm9Wc1k1SFJmekdKUTltMGUwNWRmZVZNS3Q2elNjaFJmZFBfYUhPajFsV2RCZVNtZi10blh6d3UwNi1xM1RmRUVOMnp0d3lVSk84bURIRWhEN2dqaVcyQ1hMX3RDNW5NZ0VB?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-13T20:58:40.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": [
+        "Wertvollste Spieler"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
+      "title": "Derby County - Transfermarkt",
+      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPblpueWZWT0hVWks0RnBQRzh2TnU5RU05NlFsanpKeE5yZ0RTRTZsb3JxT3lqTDBOeFl0NTRkaGpaQ2ZtWk9CQmpTcmh3RmxGWlNybl94SXJKeEJwSzVmLXVzWHl0SDAxS3pJOVNTVWQyLUNSWWVna0c4YTNhZ0diekJNX293a1RmQWdLSXBtZDBtUWNx?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-13T18:36:13.000Z",
+      "reputation": 96,
+      "likelihood": 73,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGRlYiB0YW50ZW4gc2VpdGUgMn",
       "title": "Derby County - Debütanten | Seite 2 - Transfermarkt",
@@ -511,10 +571,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14QTRpMFVvSGJNWDdqVHl4dTdBZVlLUXJyVXdIbEJfdnc2TVh5em1UdXRFSzdDVzlTUGZMNnJhX0FVUTJFaDNBM1lpOEhtbzZ3VUZ0UG80X0JOZ3ktZ1U4U0kxWQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-06T11:19:06.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -810,21 +870,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
-      "title": "Derby County - Transfermarkt",
-      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHd3dHY4UFN6NXhtZHNZQUxBcmNDZUlzZ1ItUWpYRW5ZMWh4LV9XUGcwNFEwZGd5al9JMS1XeFlEcFdkWWd0aXJiUEtuR3lrT0txbG5nMWNjX2gydGNjUC1uSHc5clNwV3ZJbjhNNkhpcFRkTldsVWpBb3MzWmVEdG1CRldpeVNIeXJqSEtVQ1dWRW5SVnBIWGZ6ZDhSLXI4?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-04T02:33:53.000Z",
-      "reputation": 96,
-      "likelihood": 73,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     },
     {
@@ -1158,10 +1203,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Eiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RFJCYll1Rk9yQXBMVFdObHRyM3F1dHRhbld6bHNmZkRma2JyZjQtdVlDaE9DcXBUYkROWTJtaHh1cGEtcjI0OEhteF9jTk9BbVFxdXJNbXZEUDhOeS1UOUdycw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T05:57:42.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1175,10 +1220,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Henrik Meister. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRjd0MlhGMzRPWWh6eV9XaG1ZY0V4RjYwQi1Kb2tvd2dRUlNUbmw3ZDVKcjFTLWZzY3ZNVFNCbE1lQzFUQ01tenNMUzJlai16UzR6SFlkbHlLM19BSlhfeDZXYw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T05:45:17.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1192,10 +1237,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - OneFootball",
-      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; OneFootball",
+      "title": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. - onefootball.com",
+      "description": "Transferência confirmada: Derby County FC fechou com Mohammed Fuseini. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkswUVFubjh4VWtaOWJENEllUTRIZlpGVjdwMWZGRUV6RUxkN3pNY0NrVjl6TEg0bWY2ZGVTQ0JoSUxCZmZjekpuWFhYU0pjTWF4QnhXeW1tNWI3c0UzNmxhSQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-02T05:43:57.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -2917,10 +2962,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "SestaPorta.News Pisa",
+      "source": "sestaporta.news",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2947,39 +2992,6 @@
       "overseas": true,
       "players": [
         "Mercato Pisa"
-      ]
-    },
-    {
-      "id": "cGlzYSBtZWlzdGVyIGFpIHNhbHV0aSBsbyBhdHRlbm",
-      "title": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento - TUTTOmercatoWEB",
-      "description": "Pisa, Meister ai saluti: lo attende il Derby County. La formula del trasferimento &nbsp;&nbsp; TUTTOmercatoWEB",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWJiY3cwR3lPelNrSnEyc01zNWxBamR2QVlyUS1JSGxqS1lEeE1leTduWGM5OFNiTW9pSktrWFVudHFjZ3Y0czIwLWxJcFE0ZzVVOWs4QTFKVjhZUnNaUDZiN0NYV2IybkIxQWZKaUpMWmNzZjlpMDJ4S3ZTRkRKZDYwb2Z4aGxUSFpQamNPa1BJMzhOa3hVdmNCaFgyRmhGTVNlRW9kVkVhY3JkZ1pz?oc=5",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "cnVzc2VsbCBtYXJ0aW4gcmVzcG9uZHMgYWZ0ZXIgaG",
-      "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer - Derbyshire Live",
-      "description": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmNwTEtQRU1CM1BQSl9kdzkyRkNLbG5GeW50RGNpX2cta1hTTWdIT05fbnB4Uzg3WWI5UG1kWW5BTlF5WkRXOEFSS3N6YUc4NVJCTl9BX1JtVUJucFJCSXQwRFdMNFJaaVlsZVRkSENYc1FoTGFnc1lSaG1tQklrcV9DYWNoemN5cjVKeU45eUlVa3lNR3QxRzJHbVR5Ykg3dXFWZkllakxoeG5mc2c?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-26T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Russell Martin",
-        "Hamza Choudhury"
       ]
     }
   ]
