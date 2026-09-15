@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:30:41.511Z",
+  "updatedAt": "2026-09-15T02:48:21.495Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -84,6 +84,19 @@
       "isNew": false
     },
     {
+      "name": "David Ozoh",
+      "score": 36,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "OneFootball",
+      "bestSourceScore": 57,
+      "maxLikelihood": 48,
+      "lastMention": "2026-09-06T00:20:12.000Z",
+      "firstSeen": "2026-09-15T02:48:21.495Z",
+      "isNew": true
+    },
+    {
       "name": "Wertvollste Zugänge",
       "score": 32,
       "status": "Fading",
@@ -94,19 +107,6 @@
       "maxLikelihood": 43,
       "lastMention": "2026-09-06T05:59:48.000Z",
       "firstSeen": "2026-09-09T15:42:29.113Z",
-      "isNew": false
-    },
-    {
-      "name": "Falkirk Herald",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Falkirk Herald",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-05T07:00:00.000Z",
-      "firstSeen": "2026-09-14T12:53:50.477Z",
       "isNew": false
     }
   ],
@@ -219,11 +219,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.com",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblNFandFbjlwemNYRklsMF9MTGpxSURBWG00cm1yZzhFY0dpSEdBUDg5TnF0MlJ5S2tfdmVWQmRIdTl3LVQzZTlzS0hmZWNaSXNQaVpTem9JckNjdkxjak5jY1NmcU80bF9VbUg5bWlWdTQtaE5jeF9zV0FzTVh0TEJCNVdhck4yWGZtckVtR2c0Tk1MNUdVNWxqeGJCMGM5eG9KNlIwSkg1a29vVWJQMnNKdjRYSTRqay1La0FkZE4?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-09-13T00:49:46.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -408,10 +408,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeHenrik Meister. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeHenrik Meister. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeHenrik Meister. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeHenrik Meister. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wTE9pb1BKSjNpWXI1SGx1ZlBiRVhDWS1mN1B5bzJnaEU3eGo2RlpaRHpxTmFBWGZ1a3RiNWhRQzB0R2xhbVBPVTkteHU4XzVZczZua0tIX2ZDQQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-08T07:18:40.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -498,10 +498,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRmwwM3owU1dVM2pMWXVVV3JiUWg0VjRNNEI2LVl4V0V5SlE0aktJZk5qZFE5MGNWM1V0bjhOUFdUclBDX0poTXlBbDF1N05ndG5FSXE4UDZHQQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-07T00:11:17.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -683,6 +683,23 @@
       "players": []
     },
     {
+      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
+      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - OneFootball",
+      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQndfLUhQbkJGZVVQV21ybDd2RWhmUDBWaDlnbTRoREVndnZJLWUtdWtZUy1wMFdWUVhqbGhIYVhOZnlDWlRLYktka1JrYXM0Sy1ua3RYRQ?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-06T00:20:12.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
+      "overseas": true,
+      "players": [
+        "David Ozoh"
+      ]
+    },
+    {
       "id": "d2VzdCBoYW0gdW5pdGVkIGRlcmJ5IGNvdW50eSAwNS",
       "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
@@ -714,10 +731,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "source": "falkirkherald.co.uk",
       "published": "2026-09-05T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -725,9 +742,7 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Falkirk Herald"
-      ]
+      "players": []
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
@@ -797,10 +812,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeMohammed Fuseini. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeMohammed Fuseini. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeMohammed Fuseini. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeMohammed Fuseini. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5NE8yaTZ2akU1TWdDT1ZTb3ctMW84NmhoUm5KSjN1X1ZzYkc2dW92ang0ZXk4R2ktZWlNT09GaFl2cEl4R2R0VnRXM1lJZEhUbmRMaHdrN2FlQQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-04T12:22:25.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1120,23 +1135,6 @@
       "players": [
         "Mohammed Fuseini",
         "Union Saint-"
-      ]
-    },
-    {
-      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a David Ozoh. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a David Ozoh. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQndfLUhQbkJGZVVQV21ybDd2RWhmUDBWaDlnbTRoREVndnZJLWUtdWtZUy1wMFdWUVhqbGhIYVhOZnlDWlRLYktka1JrYXM0Sy1ua3RYRQ?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-02T08:26:27.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
-      "players": [
-        "David Ozoh"
       ]
     },
     {
@@ -2020,10 +2018,10 @@
     },
     {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "Le Soir",
+      "source": "lesoir.be",
       "published": "2026-09-01T07:00:00.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -2033,8 +2031,7 @@
       "overseas": true,
       "players": [
         "Mohammed Fuseini",
-        "Union Saint-",
-        "Le Soir"
+        "Union Saint-"
       ]
     },
     {
@@ -2965,10 +2962,10 @@
     },
     {
       "id": "Y2FsY2lvbWVyY2F0byBwaXNhIG1laXN0ZXIgYW5kci",
-      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - sestaporta.news",
-      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; sestaporta.news",
+      "title": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County - SestaPorta.News Pisa",
+      "description": "Calciomercato Pisa, Meister andrà in prestito con diritto di riscatto al Derby County &nbsp;&nbsp; SestaPorta.News Pisa",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakxmRGMxMHlnOUFDOXJDbTNKVmdYVUZiYUgwcHd5Y2FWLXUtWjBjMTREd0Q2c1lLVmd3R1Rabmh4MEJiYnExVmtzcDd1QllYOUIza0tUM2piY2llRlJWcVJuX1RVU2VESEpTVmxlZGlFVzVVWktRUDhEdC00Nm80a2NUbm1oWnNabEdTbGpMZnZVMks1bWtsS0tQUV9UT0REQmdrcFpIQW9MY0J1Sk1fZ3Izc09ubEh5M2phcmVaeV9na1ZZcEFv?oc=5",
-      "source": "sestaporta.news",
+      "source": "SestaPorta.News Pisa",
       "published": "2026-08-26T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
