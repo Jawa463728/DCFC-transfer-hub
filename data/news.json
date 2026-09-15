@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T13:28:27.468Z",
+  "updatedAt": "2026-09-15T17:44:39.707Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Wertvollste Abgänge",
-      "score": 46,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Wertvollste Spieler",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -231,7 +231,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Wertvollste Abgänge"
@@ -380,7 +380,7 @@
       "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIga2Vuem8gZ2",
       "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - BBC",
       "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWG1ORmxEVnI3WFN6VUQwZlZPMHVBUnZTY0gzclhVVzJveFdRaTYtQlhNaUVldkF2dTM1X3B5a3c1eGZyZWZVLV96N3JZQThRb1E4bXQ4RUVmR0JON25vZ2VzQmdoUGgwU3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtaWFHM3NXY3A4ZHdaT0VjZWF1M2QzTTFsNHlacC13c0Y4SFpaUkgzazBrN2h0YUxHWEs1T1pCSmJSdmhwZUFJVE5NeUlhUjJJZTgtUjVxRFdpeGZSbnpDWWY2U0ZlVXM?oc=5",
       "source": "BBC",
       "published": "2026-09-08T13:33:36.000Z",
       "reputation": 94,
@@ -648,7 +648,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -2487,10 +2487,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
-      "title": "Derby County land Danish striker Meister on season-long loan - TribalFootball",
-      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "title": "Derby County land Danish striker Meister on season-long loan - tribalfootball.com",
+      "description": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; tribalfootball.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNak40bFhNbjlFcTZKV2ViaG5PQmJHcFNfc3QyYXZvckd0d1EwTVFqY29OY3JZV2s2N3ZjS0JCcTcydFEtMHVHVFZ3cDc3NFVqeFJsc3pjaEh6MjEtbkJnMzUzcV82LWdtZC1LRnRjUVpHeHRPZm1DSkNrSW1tUVhORWw5Y0hJM042WlVFWTRvN0JSOTFybTJVQ2pFZm9ENEN1X2pWek1jeXhtYkVNT1dISVdWcVpwOE1xMGtlUHR4VzFnaFU0SGRIaVZ3eWVJcnBPNm5xcjZhNVA3UTByOWNoX0pWUnA1UQ?oc=5",
-      "source": "TribalFootball",
+      "source": "tribalfootball.com",
       "published": "2026-08-30T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2548,21 +2548,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSBxdW90ZS",
-      "title": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 - ToffeeWeb",
-      "description": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 &nbsp;&nbsp; ToffeeWeb",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXZZeUtyQnFDQXBDcDJSUEpxVWNrR2ZYcDZpakJ6UkJlLWdDMk1zQnNQSEwyZkJEYlJoVllQdWxEVWlBbWoxTzRLNV9pbnQtVzdlZFlMaWZab3FfRVdPeWJKREVNcS1fOTQtWlNPRUxKSVVFZEE2bWJYaVJ2NHhCMktSbTV6WW5ZcUp0ZF9VeFFDWkJYOTZZc2ZRUDhYRHM?oc=5",
-      "source": "ToffeeWeb",
-      "published": "2026-08-29T16:17:57.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IGluIGFkdmFuY2VkIHRhbGtzIH",
       "title": "🚨 Derby County In ADVANCED Talks To Re-Sign Sammie Szmodics! | John Percy Exclusive Marina Mabrey (8f7MnKRWcE) - Mshale",
       "description": "🚨 Derby County In ADVANCED Talks To Re-Sign Sammie Szmodics! | John Percy Exclusive Marina Mabrey (8f7MnKRWcE) &nbsp;&nbsp; Mshale",
@@ -2597,6 +2582,21 @@
       "players": [
         "Henrik Meister"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSBxdW90ZS",
+      "title": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 - ToffeeWeb",
+      "description": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 &nbsp;&nbsp; ToffeeWeb",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXZZeUtyQnFDQXBDcDJSUEpxVWNrR2ZYcDZpakJ6UkJlLWdDMk1zQnNQSEwyZkJEYlJoVllQdWxEVWlBbWoxTzRLNV9pbnQtVzdlZFlMaWZab3FfRVdPeWJKREVNcS1fOTQtWlNPRUxKSVVFZEE2bWJYaVJ2NHhCMktSbTV6WW5ZcUp0ZF9VeFFDWkJYOTZZc2ZRUDhYRHM?oc=5",
+      "source": "ToffeeWeb",
+      "published": "2026-08-29T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "it",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "ZGVtYXJhaSBncmF5IHdpbGwgd2luY2UgYXMgYmlybW",
