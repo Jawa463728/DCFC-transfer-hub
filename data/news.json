@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T00:43:29.790Z",
+  "updatedAt": "2026-09-15T00:59:13.026Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 180,
@@ -120,7 +120,7 @@
       "maxLikelihood": 43,
       "lastMention": "2026-09-05T07:00:00.000Z",
       "firstSeen": "2026-09-14T12:53:50.477Z",
-      "isNew": true
+      "isNew": false
     }
   ],
   "stories": [
