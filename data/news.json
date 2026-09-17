@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T10:22:29.157Z",
+  "updatedAt": "2026-09-17T15:08:54.972Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 175,
-  "targetCount": 5,
+  "storyCount": 176,
+  "targetCount": 6,
   "targets": [
     {
       "name": "Kenzo Goudmijn",
@@ -32,6 +32,19 @@
       "isNew": false
     },
     {
+      "name": "Nicky Hayen",
+      "score": 36,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Yahoo",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-15T10:03:30.000Z",
+      "firstSeen": "2026-09-17T15:08:54.972Z",
+      "isNew": true
+    },
+    {
       "name": "Mohammed Fuseini",
       "score": 36,
       "status": "Fading",
@@ -46,7 +59,7 @@
     },
     {
       "name": "Wertvollste Abgänge",
-      "score": 35,
+      "score": 34,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -88,6 +101,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUUU1MHBjN2dEZUFfVkRxY1BxNVp4VHp3ZG5HTXNocGJmTktELXA4OU93ZHVIUk1KZ1Z1ek54cVRnRVFMRUxmd2dHNTdUbkU5X2ZGQnZiOUx1WFp2d3E2TFc4blc4NlFiSHRMYU9MeTc5Xy00NkN5QWNTOE1KT3F5TEtka0R1bWFfSjYxajEtOTRsVXJBTHZUdG1LNTkxOWU5WEVVTEJ4NW9qQm5yLVRlQW1EeS1jZlZrdXh1S3E5eVdSUQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-16T15:37:30.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "aSBsb3ZlIHRoYXQgZGVyYnkgY291bnR5IHN0YXJsZX",
       "title": "‘I love that’: Derby County starlet quickly endears himself to new loan club boss with game-winning moment - Yahoo",
       "description": "‘I love that’: Derby County starlet quickly endears himself to new loan club boss with game-winning moment &nbsp;&nbsp; Yahoo",
@@ -101,6 +129,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "bmlja3kgaGF5ZW4gbXVzdCBkcm9wIGJ1cm5sZXkgcG",
+      "title": "Nicky Hayen must drop Burnley ‘passenger’ against Derby County with £6m summer signing ready to step in - Yahoo",
+      "description": "Nicky Hayen must drop Burnley ‘passenger’ against Derby County with £6m summer signing ready to step in &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnY2aUhOcFFfN2JuRHFOVmhNTEFRVHk0SXNEWHdOOS1aR3dJVHplWDVMVjlXRUgtbU1uQVlMWmlWc3RudE9XU2ZzSDlpU1hMSTg1WkQ4cUJfYmhxdG4wUTdaa0FIR0dyaUFRVnlOTGhEc2tva05ZbVVmN3pOb2FuTWRVUQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-15T10:03:30.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Nicky Hayen"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSB3ZXJ0dm9sbHN0ZSBhYm",
@@ -259,21 +304,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblNFandFbjlwemNYRklsMF9MTGpxSURBWG00cm1yZzhFY0dpSEdBUDg5TnF0MlJ5S2tfdmVWQmRIdTl3LVQzZTlzS0hmZWNaSXNQaVpTem9JckNjdkxjak5jY1NmcU80bF9VbUg5bWlWdTQtaE5jeF9zV0FzTVh0TEJCNVdhck4yWGZtckVtR2c0Tk1MNUdVNWxqeGJCMGM5eG9KNlIwSkg1a29vVWJQMnNKdjRYSTRqay1La0FkZE4?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-13T00:49:46.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHUyMSB0cmFuc2ZlcnMgMjYgMj",
       "title": "Derby County U21 - Transfers 26/27 - Transfermarkt",
       "description": "Derby County U21 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
@@ -384,10 +414,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - toffeeweb.com",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-08T22:38:29.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -645,10 +675,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSBwbGFudGlsbGEgZGV0YW",
-      "title": "Derby County U21 - Plantilla detallada 26/27 - transfermarkt.es",
-      "description": "Derby County U21 - Plantilla detallada 26/27 &nbsp;&nbsp; transfermarkt.es",
+      "title": "Derby County U21 - Plantilla detallada 26/27 - Transfermarkt",
+      "description": "Derby County U21 - Plantilla detallada 26/27 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU29nRFRsR3NtNi1MM25OZkVDM1g1Wi1BQ2VkaktyaExLZzNqdDE2LW8tLS1sVC1PU05oQlpMci1panM4dUFUdkswdzhLMXprVXRMOC1Vb01SaldUR0ZSbmphRHI1RGYzcGY0MFBGV2FDU05GSlNGeE5LdzlWaWJIbUVEVWtGdw?oc=5",
-      "source": "transfermarkt.es",
+      "source": "Transfermarkt",
       "published": "2026-09-06T10:12:57.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1213,23 +1243,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHRlbnRoIHN1bW",
-      "title": "Derby County complete tenth summer transfer as David Ozoh makes sensational return - Derbyshire Live",
-      "description": "Derby County complete tenth summer transfer as David Ozoh makes sensational return &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVVWTkN5eFdhazZMaENjX3l0VDBvYS15eHZKZHZWNm1kSHppNXo0Vkw4Y0Y5ZXhGLTQtY0Y5ZTRMajJiNFk3OWFrZzdCeUczaVNWNWp1VUtsOU5WdmgxQkI5QWJOd1JDQ1RYSkF6QnNmWFdLcDRRb2t5SU1rVU0waVRwaHhFUXg1d25xcWJUdVpoR051cnNXVFJ1WG13TGpPQmtCUnRpNA?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-02T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "David Ozoh"
-      ]
-    },
-    {
       "id": "c2lnbmluZyBkYXZpZCBvem9oIHNpZ25zIGZvciBkZX",
       "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - Derby County",
       "description": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; Derby County",
@@ -1244,6 +1257,23 @@
       "overseas": false,
       "players": [
         "David Ozoh Signs For"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHRlbnRoIHN1bW",
+      "title": "Derby County complete tenth summer transfer as David Ozoh makes sensational return - Derbyshire Live",
+      "description": "Derby County complete tenth summer transfer as David Ozoh makes sensational return &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVVWTkN5eFdhazZMaENjX3l0VDBvYS15eHZKZHZWNm1kSHppNXo0Vkw4Y0Y5ZXhGLTQtY0Y5ZTRMajJiNFk3OWFrZzdCeUczaVNWNWp1VUtsOU5WdmgxQkI5QWJOd1JDQ1RYSkF6QnNmWFdLcDRRb2t5SU1rVU0waVRwaHhFUXg1d25xcWJUdVpoR051cnNXVFJ1WG13TGpPQmtCUnRpNA?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-02T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "David Ozoh"
       ]
     },
     {
@@ -2014,21 +2044,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGFpbWluZyBmb3Igd2luZ2VyIG",
-      "title": "Derby County aiming for winger deal after Birmingham City transfer collapses - Derbyshire Live",
-      "description": "Derby County aiming for winger deal after Birmingham City transfer collapses &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYThLQlJpek1mYVRXSjAtUXJHZXZaYzRKZ0hCbUlHN3E1d2I1Nk96R0xSZ1o0aFZ2ZDRxdjdqaV83LTFKNDJNbHVOWXd6ODB4NkY4alM5aVQ3TG1TYmJqUXRpM2NfcmppbkY2TC1ZT2RpTjF3T0VRRGpsMlZVZVpwZTVTOG5wMF81ZF8tSE44dklTS29Cbkpqa0RNT0N6UVJQNjVqc2x4bmkta0R3bGc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IGF0IGNlbnRyZSBvZiBkYXZpZC",
       "title": "Derby County at centre of David Ozoh transfer claim in deadline day race for signings - Derbyshire Live",
       "description": "Derby County at centre of David Ozoh transfer claim in deadline day race for signings &nbsp;&nbsp; Derbyshire Live",
@@ -2046,6 +2061,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGFpbWluZyBmb3Igd2luZ2VyIG",
+      "title": "Derby County aiming for winger deal after Birmingham City transfer collapses - Derbyshire Live",
+      "description": "Derby County aiming for winger deal after Birmingham City transfer collapses &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYThLQlJpek1mYVRXSjAtUXJHZXZaYzRKZ0hCbUlHN3E1d2I1Nk96R0xSZ1o0aFZ2ZDRxdjdqaV83LTFKNDJNbHVOWXd6ODB4NkY4alM5aVQ3TG1TYmJqUXRpM2NfcmppbkY2TC1ZT2RpTjF3T0VRRGpsMlZVZVpwZTVTOG5wMF81ZF8tSE44dklTS29Cbkpqa0RNT0N6UVJQNjVqc2x4bmkta0R3bGc?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
       "title": "Derby County complete eighth signing of transfer window as home-grown defender returns - Derbyshire Live",
       "description": "Derby County complete eighth signing of transfer window as home-grown defender returns &nbsp;&nbsp; Derbyshire Live",
@@ -2061,6 +2091,25 @@
       "players": []
     },
     {
+      "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
+      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
+      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
+      "source": "Le Soir",
+      "published": "2026-09-01T07:00:00.000Z",
+      "reputation": 96,
+      "likelihood": 73,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "fr",
+      "overseas": true,
+      "players": [
+        "Mohammed Fuseini",
+        "Union Saint-",
+        "Le Soir"
+      ]
+    },
+    {
       "id": "Zm9ybWVyIGRlcmJ5IGNvdW50eSB3aW5nZXIgc2V0IG",
       "title": "Former Derby County winger set for record-breaking deadline day transfer - Derbyshire Live",
       "description": "Former Derby County winger set for record-breaking deadline day transfer &nbsp;&nbsp; Derbyshire Live",
@@ -2074,24 +2123,6 @@
       "edition": "us",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
-      "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - lesoir.be",
-      "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; lesoir.be",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFE4YTl2akRGS0dkRHkwSnpzRlNycExzSXo0ZDRNczZzR1ZtVjZIdzNEWkJWdXFHOG1FLWE1ZnpsVlBmUTJjUllIZDhVU2dDbE5SdldlRnFlOFhJYXdsdDVmVnNlYXpXLXBkVks5R0ZXdE1oMUZNX2JGSmM2cVB2aUhUbjYxX1FycWlVeFlKQkJaTjk2aUZLU3I5d1RYek1EaXBjN0k3emtGTW9UNTBDTDFFOWNlVnR5VjNF?oc=5",
-      "source": "lesoir.be",
-      "published": "2026-09-01T07:00:00.000Z",
-      "reputation": 96,
-      "likelihood": 73,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "fr",
-      "overseas": true,
-      "players": [
-        "Mohammed Fuseini",
-        "Union Saint-"
-      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IGJhdHRsZSBibGFja2J1cm4gcm",
@@ -2200,10 +2231,10 @@
     },
     {
       "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmEgYSBnaW9jYX",
-      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - Napoli Magazine",
-      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; Napoli Magazine",
+      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - napolimagazine.com",
+      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; napolimagazine.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRVRoZ2pYa09PVXQ5WjVQckkydVJUTG82Vy1ReTlhcTBPVHI0SDhuMlBneXF6QUlRZE1ha0JaaGRBeElIU3gwTjJvQ2FJN1FFNGVtdmZNdF84aFJpMURzQTBxdk9fSk1halpBTGhTaVlMbEE2ZDZqUWFHcW55MWVYbUZSbEVucTctbjdKRm9vSEFkM1drVHl5dTUwQmg1cGRVN0NMN0VuWFphV2Y0anRieXJVS1FCSWkxeVRwRXdDdHRocDhKb1k4VlFhd0h4NEFFTU1qOEQyVy1kTmc1c2hfX2N3?oc=5",
-      "source": "Napoli Magazine",
+      "source": "napolimagazine.com",
       "published": "2026-08-31T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -2211,9 +2242,7 @@
       "status": "rumour",
       "edition": "it",
       "overseas": true,
-      "players": [
-        "Napoli Magazine"
-      ]
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
@@ -2475,21 +2504,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
-      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
-      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-30T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGhlbnJpayBtZW",
       "title": "NEW SIGNING INTERVIEW: Henrik Meister - Derby County",
       "description": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
@@ -2505,6 +2519,21 @@
       "players": [
         "Henrik Meister"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIG11Y2ggbmVlZG",
+      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted - Derbyshire Live",
+      "description": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-30T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGxhbmQgZGFuaXNoIHN0cmlrZX",
@@ -2606,10 +2635,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHN3YW5zZWEgY2l0eSBxdW90ZS",
-      "title": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 - ToffeeWeb",
-      "description": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 - toffeeweb.com",
+      "description": "Derby County-Swansea City – Quote e Pronostici Championship – 29/08/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXZZeUtyQnFDQXBDcDJSUEpxVWNrR2ZYcDZpakJ6UkJlLWdDMk1zQnNQSEwyZkJEYlJoVllQdWxEVWlBbWoxTzRLNV9pbnQtVzdlZFlMaWZab3FfRVdPeWJKREVNcS1fOTQtWlNPRUxKSVVFZEE2bWJYaVJ2NHhCMktSbTV6WW5ZcUp0ZF9VeFFDWkJYOTZZc2ZRUDhYRHM?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-08-29T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
