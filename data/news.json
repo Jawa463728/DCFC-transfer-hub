@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-16T22:22:58.498Z",
+  "updatedAt": "2026-09-17T00:45:08.810Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 175,
+  "storyCount": 177,
   "targetCount": 5,
   "targets": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "Wertvollste Abgänge",
-      "score": 38,
+      "score": 37,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -72,6 +72,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazNiaUtIUWVaemdIUnBlX25LUXcxR3V4TGVUeXllVlRDbjdXVGkxYUtlci0zXzFFelcxaUFfQ3FETWhWS3psVjFzM2hCQ1J2TTVjcmotS0tJZnhjSVluM2pKY0U0Q2Y0dmt0QUhIN19TUmFpX1VLSXFiYzlhZV9RbHV0TQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-16T18:13:50.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "aSBsb3ZlIHRoYXQgZGVyYnkgY291bnR5IHN0YXJsZX",
+      "title": "‘I love that’: Derby County starlet quickly endears himself to new loan club boss with game-winning moment - Yahoo",
+      "description": "‘I love that’: Derby County starlet quickly endears himself to new loan club boss with game-winning moment &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk1aM1ZwenZSOGx3NlpYSEh3REZqYmhyc0N0UjQ1WmtHMWJKWGVqY2NkREkzbDVsbzlrbkIwTUEwX09LMndMTmZtMlgxNVZ0blFNVmRVUXVhSlAxRnROTTN5TG1tRUdqbHBGTnJna3pqWXFLb1YwNzBrN3BxNFlZRTY0TnJHV0VL?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-16T10:23:49.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSB3ZXJ0dm9sbHN0ZSBhYm",
       "title": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 6 - Transfermarkt",
@@ -600,10 +630,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSBwbGFudGlsbGEgZGV0YW",
-      "title": "Derby County U21 - Plantilla detallada 26/27 - Transfermarkt",
-      "description": "Derby County U21 - Plantilla detallada 26/27 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U21 - Plantilla detallada 26/27 - transfermarkt.es",
+      "description": "Derby County U21 - Plantilla detallada 26/27 &nbsp;&nbsp; transfermarkt.es",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU29nRFRsR3NtNi1MM25OZkVDM1g1Wi1BQ2VkaktyaExLZzNqdDE2LW8tLS1sVC1PU05oQlpMci1panM4dUFUdkswdzhLMXprVXRMOC1Vb01SaldUR0ZSbmphRHI1RGYzcGY0MFBGV2FDU05GSlNGeE5LdzlWaWJIbUVEVWtGdw?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.es",
       "published": "2026-09-06T10:12:57.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1185,6 +1215,23 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHRlbnRoIHN1bW",
+      "title": "Derby County complete tenth summer transfer as David Ozoh makes sensational return - Derbyshire Live",
+      "description": "Derby County complete tenth summer transfer as David Ozoh makes sensational return &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVVWTkN5eFdhazZMaENjX3l0VDBvYS15eHZKZHZWNm1kSHppNXo0Vkw4Y0Y5ZXhGLTQtY0Y5ZTRMajJiNFk3OWFrZzdCeUczaVNWNWp1VUtsOU5WdmgxQkI5QWJOd1JDQ1RYSkF6QnNmWFdLcDRRb2t5SU1rVU0waVRwaHhFUXg1d25xcWJUdVpoR051cnNXVFJ1WG13TGpPQmtCUnRpNA?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-02T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "David Ozoh"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGhhdmUgZmlsbGVkIHRyYW5zZm",
       "title": "Derby County have filled transfer holes but John Eustace still has a big job on his hands - Derbyshire Live",
       "description": "Derby County have filled transfer holes but John Eustace still has a big job on his hands &nbsp;&nbsp; Derbyshire Live",
@@ -1282,23 +1329,6 @@
       "overseas": false,
       "players": [
         "Loan Signing"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHRlbnRoIHN1bW",
-      "title": "Derby County complete tenth summer transfer as David Ozoh makes sensational return - Derbyshire Live",
-      "description": "Derby County complete tenth summer transfer as David Ozoh makes sensational return &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVVWTkN5eFdhazZMaENjX3l0VDBvYS15eHZKZHZWNm1kSHppNXo0Vkw4Y0Y5ZXhGLTQtY0Y5ZTRMajJiNFk3OWFrZzdCeUczaVNWNWp1VUtsOU5WdmgxQkI5QWJOd1JDQ1RYSkF6QnNmWFdLcDRRb2t5SU1rVU0waVRwaHhFUXg1d25xcWJUdVpoR051cnNXVFJ1WG13TGpPQmtCUnRpNA?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T23:18:27.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "David Ozoh"
       ]
     },
     {
@@ -2607,11 +2637,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.de",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2RUTHBLa0pJYWdnV0oyZmNURHVRSk1JS0k1cTNOQXlKQ2ZqYmJ5dHJHVTE0dXlFRFppN3BsSnRMcm9SbEtzckFUcDVJeVhORW90UEFnZ2pRX3NfQThQUGlxVVAtOFJiMjJ3NXhiaW9SbmNYeTBfYkpxamtnejlVaGJQSVJBbjdDZEFySmVId0FYd3M?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-08-29T03:03:45.000Z",
       "reputation": 48,
       "likelihood": 43,
