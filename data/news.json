@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T07:49:58.243Z",
+  "updatedAt": "2026-09-19T12:05:59.405Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 172,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Eiran Cashin",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 51,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -29,7 +29,7 @@
       "maxLikelihood": 48,
       "lastMention": "2026-09-18T21:23:21.000Z",
       "firstSeen": "2026-09-18T23:53:05.335Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Turki Alalshikh",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Halifax Courier",
-      "score": 46,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Henrik Meister",
-      "score": 44,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Kyle Walker",
-      "score": 42,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -2299,21 +2299,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
-      "title": "Derby County complete eighth signing of transfer window as home-grown defender returns - Derbyshire Live",
-      "description": "Derby County complete eighth signing of transfer window as home-grown defender returns &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2JvLVUyVE5uQmhvX0V5aWlRZjQ3VkxXNXExRkstcXdkSGlfTDAtT0tQR1JXUlFueWphMENKczQ4QVY1THJ0WW1SNWcwdnEwR3RnWGVERXQ0ZmxBaHM0MXNkNzdyYi1YaUVlbkwwSXFWZllyS0tPTHlHdnYwOU1oOFZmZE51N0tPc0ZSTlp5V0pQc01KSmZ0UlY2S0hrdWJ3WHpyNDNXS002WXM?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "bWVyY2F0byBtb2hhbW1lZCBmdXNlaW5pIHF1aXR0ZS",
       "title": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County - Le Soir",
       "description": "Mercato : Mohammed Fuseini quitte l’Union Saint-Gilloise pour Derby County &nbsp;&nbsp; Le Soir",
@@ -2331,6 +2316,21 @@
         "Union Saint-",
         "Le Soir"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
+      "title": "Derby County complete eighth signing of transfer window as home-grown defender returns - Derbyshire Live",
+      "description": "Derby County complete eighth signing of transfer window as home-grown defender returns &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2JvLVUyVE5uQmhvX0V5aWlRZjQ3VkxXNXExRkstcXdkSGlfTDAtT0tQR1JXUlFueWphMENKczQ4QVY1THJ0WW1SNWcwdnEwR3RnWGVERXQ0ZmxBaHM0MXNkNzdyYi1YaUVlbkwwSXFWZllyS0tPTHlHdnYwOU1oOFZmZE51N0tPc0ZSTlp5V0pQc01KSmZ0UlY2S0hrdWJ3WHpyNDNXS002WXM?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "NW0gcG9tcGV5IHNpZ25pbmcgdW5sZWFzaGVkIGFnYW",
