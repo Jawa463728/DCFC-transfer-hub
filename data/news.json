@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-20T21:44:16.216Z",
+  "updatedAt": "2026-09-20T23:36:33.262Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 157,
+  "storyCount": 155,
   "targetCount": 9,
   "targets": [
     {
       "name": "Eiran Cashin",
-      "score": 57,
+      "score": 56,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 42,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Halifax Courier",
-      "score": 37,
+      "score": 36,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -2583,41 +2583,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNsb3NlIGluIG9uIGFydGh1ci",
-      "title": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) - Mshale",
-      "description": "🚨 Derby County CLOSE In On Arthur Okonkwo! Medical TODAY? | Transfer Latest #dcfc Polestar 4 (4BjqtOhXuI) &nbsp;&nbsp; Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c2FuSVNkajhCRnF4OWh6UWhUaXRSWVBzdDgtMG5vQzhicUcwOUc2R1U1TFlfN212TDVqTHFraktkd2pRQ0JmU05OYXVrelZDSGo5djdVeWl2QUE?oc=5",
-      "source": "Mshale",
-      "published": "2026-08-30T22:50:10.000Z",
-      "reputation": 48,
-      "likelihood": 65,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "In On Arthur Okonkwo"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdlaWdoaW5nIHVwIGdhdmluIG",
-      "title": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) - mshale.com",
-      "description": "🚨 Derby County Weighing Up Gavin Bazunu Move?! David Ozoh Transfer Update! 🐏 Villarreal Vs Sevilla (Fb38mXmSY1) &nbsp;&nbsp; mshale.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDc2JYOGxmbGZiM1VsM2xNZ3pQYXRidGJsLWNPZ0ZjOERLaWQ2VGhtQkNMek5sOWg0d28ybGd3eDgzdmdYY1otZW1WWFZHLWZfUlV2a1ZwMlc2Mk0?oc=5",
-      "source": "mshale.com",
-      "published": "2026-08-30T22:21:26.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Gavin Bazunu Move",
-        "Villarreal Vs Sevilla"
-      ]
     }
   ]
 }
