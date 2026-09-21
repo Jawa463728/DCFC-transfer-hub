@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-21T01:38:41.745Z",
+  "updatedAt": "2026-09-21T07:11:46.056Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 154,
+  "storyCount": 153,
   "targetCount": 9,
   "targets": [
     {
       "name": "Eiran Cashin",
-      "score": 56,
-      "status": "Developing",
+      "score": 54,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "BBC",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 41,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -42,19 +42,6 @@
       "maxLikelihood": 48,
       "lastMention": "2026-09-18T21:23:21.000Z",
       "firstSeen": "2026-09-18T23:53:05.335Z",
-      "isNew": false
-    },
-    {
-      "name": "Halifax Courier",
-      "score": 36,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Halifax Courier",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-18T17:31:00.000Z",
-      "firstSeen": "2026-09-18T19:42:18.823Z",
       "isNew": false
     },
     {
@@ -68,6 +55,19 @@
       "maxLikelihood": 48,
       "lastMention": "2026-09-17T15:39:22.000Z",
       "firstSeen": "2026-09-18T00:14:05.620Z",
+      "isNew": false
+    },
+    {
+      "name": "Halifax Courier",
+      "score": 34,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Halifax Courier",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-18T17:31:00.000Z",
+      "firstSeen": "2026-09-18T19:42:18.823Z",
       "isNew": false
     },
     {
@@ -115,7 +115,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Transfermarkt",
+      "bestSource": "transfermarkt.at",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-09-13T20:58:40.000Z",
@@ -365,10 +365,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB2ZXJlaW5zc2NocmVjay",
-      "title": "Derby County U18 - Vereinsschreck | Seite 5 - Transfermarkt",
-      "description": "Derby County U18 - Vereinsschreck | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U18 - Vereinsschreck | Seite 5 - transfermarkt.at",
+      "description": "Derby County U18 - Vereinsschreck | Seite 5 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUlo0Y01zbTh6cmxjTS1WNHBDaDNkMFFNc0FnODRsNFl6TThZREdEQ3JTYkNqWVp0Mk9KeHdOemdjdy13cERKenpiVGxFOERNYkNyVVhQOUJkZmU1MjFyOU9ESkFoVkxfOHJlVUJ3aU1mVGJoUzBaRTU3Vjg1VFRBcURUbFFtUlU?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-14T11:42:12.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -394,11 +394,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - transfermarkt.at",
+      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjlMelhCRjA3T0xZX2dkcm9Ed3c1VjBzZWY4QnF6Ml9WdzFPcVdzaVhLWjZIdkJsaXpXbW01dE9Hd3pISzctU1dfaFpyS2xZOXFTY2NsWEZfLUdqUHdRa200VDhfX1BmSFlfOHctVGZwN3JfMS1GNWxWUThuY0pxaVlPOWM?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-14T00:25:13.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -425,10 +425,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlcnR2b2xsc3RlIHNwaWVsZX",
-      "title": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 - Transfermarkt",
-      "description": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 - transfermarkt.at",
+      "description": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOTJWUUUxN1I3Z1Z1c0JWLV93OUtRRFg0RHh4aXJ6STRWTlRhTktiQVJvQnpJVm9Wc1k1SFJmekdKUTltMGUwNWRmZVZNS3Q2elNjaFJmZFBfYUhPajFsV2RCZVNtZi10blh6d3UwNi1xM1RmRUVOMnp0d3lVSk84bURIRWhEN2dqaVcyQ1hMX3RDNW5NZ0VB?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-13T20:58:40.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -457,10 +457,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRlYiB0YW50ZW4gc2VpdGUgMn",
-      "title": "Derby County - Debütanten | Seite 2 - Transfermarkt",
-      "description": "Derby County - Debütanten | Seite 2 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Debütanten | Seite 2 - transfermarkt.at",
+      "description": "Derby County - Debütanten | Seite 2 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWJPSzdhWHlxOXJSUHNTZjV3SHZUWUpXNmdjTzREWTRweWdNamRZakRTSzlqZGY3XzdvdnQ0QVJrZzE3Ty05b21ldWpwYWZ0QUZfMldLTk9NT2ZEWlpfQWJPb3MzOTdESHFJVEFLb05zNkYtZHI4RjVpblhCd2lxejZ2Y0tNU0pXS19YeDRIS2tFZw?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-13T13:54:52.000Z",
       "reputation": 96,
       "likelihood": 73,
@@ -471,11 +471,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHVlZmEgdTE5fFRyYW5zZmVybW",
-      "title": "Derby County UEFA U19 - Transfermarkt",
-      "description": "Derby County UEFA U19 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHVlZmEgdTE5fHRyYW5zZmVybW",
+      "title": "Derby County UEFA U19 - transfermarkt.at",
+      "description": "Derby County UEFA U19 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRDA0b2EtMDRfLWJ1VWgtT1N3QVVWQUVuVE1sNDhVVlRwU0RzQWo2cDhfal9MeFFoX3pqanRHNjFKWldSYlVEbG91TEpiRGhzZjR6N3FJMHdYdEM1SkVzS250aTAyREpVdTIwaUlDOV80d0FZU3g0VmU3RTZjUGtyVkd1M1FYeGJVMjIycVZhMm9CU0xUYTNZQ1JPbw?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-13T09:45:35.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -538,7 +538,7 @@
       "description": "Derby County U21 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDV6UjdEdkZTYmtMMTdrQXZTYlFNSHRESU05Vmk5VkljaVZXbzhMWThjb3ZhQWZKTl9QVU5IRXd3WnRCNE5HRUp2cGdnaHBiMktUMWw3bDQwVURWQWFjbFgwMVMxZ2pLbWR4bzJSRjZHUVFRX2JjNFNjSmxFRVptVnRqVm9RS0ppYjBj?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-09-12T14:41:33.000Z",
+      "published": "2026-09-12T14:41:34.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -548,11 +548,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U18 - transfermarkt.at",
+      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSm5ReWhxRVo2TnlhekZveUs1M2gtVDhIZHI0UTZROGJ5LUlvelhQNWd1dFdhdi02RXU0dUZBeXVHbjNJYzgzVVB0bW9MRnpzc1U2ZGVHekJYMFIxVXdfbkI4TEhYTlYyMzV3ZEpCVTJvcXI1dGo4ZXJZUXNKYXhCVmFLWVhiRE5NVE9kZG1lUWxBOVZfNzBmdg?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-12T08:44:23.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -594,10 +594,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSBrYWRlciBpbSBkZXRhaW",
-      "title": "Derby County U21 - Kader im Detail 25/26 - Transfermarkt",
-      "description": "Derby County U21 - Kader im Detail 25/26 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U21 - Kader im Detail 25/26 - transfermarkt.at",
+      "description": "Derby County U21 - Kader im Detail 25/26 &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcG83WU5ZV19BOERwYjgzc3VNUWo1bzZqZnAxU2lfSjVXZUIwZXBMMm0xZmVIRGkwM01Xa1NBR1Zqc0ZGblRuTldDRFJacy1DM2tIQU9QYXlBNUxSVFdsTEFkMVVYZHJuVmx1ZXg5RXlibkZ0VWhaUElYNUlpd1hWajFhdWV2QQ?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-11T14:02:10.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -988,7 +988,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -1561,7 +1561,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "David Ozoh"
@@ -1595,7 +1595,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2360,7 +2360,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -2551,23 +2551,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "bWVyY2F0byBwaXNhIG1laXN0ZXIgdmEgYSBnaW9jYX",
-      "title": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County - Napoli Magazine",
-      "description": "MERCATO - Pisa, Meister va a giocare in Inghilterra: definito il suo passaggio al Derby County &nbsp;&nbsp; Napoli Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRVRoZ2pYa09PVXQ5WjVQckkydVJUTG82Vy1ReTlhcTBPVHI0SDhuMlBneXF6QUlRZE1ha0JaaGRBeElIU3gwTjJvQ2FJN1FFNGVtdmZNdF84aFJpMURzQTBxdk9fSk1halpBTGhTaVlMbEE2ZDZqUWFHcW55MWVYbUZSbEVucTctbjdKRm9vSEFkM1drVHl5dTUwQmg1cGRVN0NMN0VuWFphV2Y0anRieXJVS1FCSWkxeVRwRXdDdHRocDhKb1k4VlFhd0h4NEFFTU1qOEQyVy1kTmc1c2hfX2N3?oc=5",
-      "source": "Napoli Magazine",
-      "published": "2026-08-31T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
-      "overseas": true,
-      "players": [
-        "Napoli Magazine"
-      ]
     }
   ]
 }
