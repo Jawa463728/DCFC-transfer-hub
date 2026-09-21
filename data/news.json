@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T23:36:33.262Z",
+  "updatedAt": "2026-09-21T01:38:41.745Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 155,
+  "storyCount": 154,
   "targetCount": 9,
   "targets": [
     {
@@ -42,19 +42,6 @@
       "maxLikelihood": 48,
       "lastMention": "2026-09-18T21:23:21.000Z",
       "firstSeen": "2026-09-18T23:53:05.335Z",
-      "isNew": false
-    },
-    {
-      "name": "Wertvollste Abgänge",
-      "score": 39,
-      "status": "Fading",
-      "independentReports": 2,
-      "totalStories": 2,
-      "bestSource": "Transfermarkt",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-14T23:42:54.000Z",
-      "firstSeen": "2026-09-15T08:02:51.447Z",
       "isNew": false
     },
     {
@@ -107,6 +94,19 @@
       "maxLikelihood": 43,
       "lastMention": "2026-09-15T10:03:30.000Z",
       "firstSeen": "2026-09-17T15:08:54.972Z",
+      "isNew": false
+    },
+    {
+      "name": "Wertvollste Abgänge",
+      "score": 32,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Transfermarkt",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-14T23:42:54.000Z",
+      "firstSeen": "2026-09-15T08:02:51.447Z",
       "isNew": false
     },
     {
@@ -409,6 +409,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXFFWGdZbTJpLTNtNjlqZno2cVNKQUkwSVlORGREWXBiU3NhR3hKR2xVZUFpczZFRy1rT0t3TmtCSEV2TDhrSmM4VHh0TUF1cVpRaUJ1VXRXLVBaaEZyY00xaDY4QXhSQ096UF9jODN0eWxqMFJFTWhSWkhaenNtd0FiZlpOVmZCRkNjc0E3VDFSSHgtaHhnZ2tQb3NpR1B5dl9SZk55dUlJbnZMZEVjTnF3?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-13T21:07:35.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHdlcnR2b2xsc3RlIHNwaWVsZX",
       "title": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 - Transfermarkt",
       "description": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 &nbsp;&nbsp; Transfermarkt",
@@ -487,10 +502,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSB3ZXJ0dm9sbHN0ZSBhYm",
-      "title": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 3 - transfermarkt.com",
-      "description": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 3 &nbsp;&nbsp; transfermarkt.com",
+      "title": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 3 - Transfermarkt",
+      "description": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 3 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRk1LbFZSZnRBNVVTeFo0bmc3TjNwcG9td2ZpZGpnUzlXZjR5S3E0dlcxd2tKYkRSdkFKcWF6d3RzeVRkajM3NGZHSGR0UWpVVVlYY1E3UUUtWEtMaEtyNllKdXEwbEVMc1lCVEdNOHZtaGVyTUktZ2VIeUhFMWJhVUFpTlVJcnJrRzlyRkxzMF95REhoQ1IzYjJEd0NTeWtLSUtrNnNYTUJrUGoxSW9rNFJ3bGsySGJ1Tjl3UHVQZFBrcHVs?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-09-13T02:34:49.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -515,21 +530,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblNFandFbjlwemNYRklsMF9MTGpxSURBWG00cm1yZzhFY0dpSEdBUDg5TnF0MlJ5S2tfdmVWQmRIdTl3LVQzZTlzS0hmZWNaSXNQaVpTem9JckNjdkxjak5jY1NmcU80bF9VbUg5bWlWdTQtaE5jeF9zV0FzTVh0TEJCNVdhck4yWGZtckVtR2c0Tk1MNUdVNWxqeGJCMGM5eG9KNlIwSkg1a29vVWJQMnNKdjRYSTRqay1La0FkZE4?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-13T00:49:46.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     },
     {
@@ -964,10 +964,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSBwbGFudGlsbGEgZGV0YW",
-      "title": "Derby County U21 - Plantilla detallada 26/27 - transfermarkt.es",
-      "description": "Derby County U21 - Plantilla detallada 26/27 &nbsp;&nbsp; transfermarkt.es",
+      "title": "Derby County U21 - Plantilla detallada 26/27 - Transfermarkt",
+      "description": "Derby County U21 - Plantilla detallada 26/27 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU29nRFRsR3NtNi1MM25OZkVDM1g1Wi1BQ2VkaktyaExLZzNqdDE2LW8tLS1sVC1PU05oQlpMci1panM4dUFUdkswdzhLMXprVXRMOC1Vb01SaldUR0ZSbmphRHI1RGYzcGY0MFBGV2FDU05GSlNGeE5LdzlWaWJIbUVEVWtGdw?oc=5",
-      "source": "transfermarkt.es",
+      "source": "Transfermarkt",
       "published": "2026-09-06T10:12:57.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -988,7 +988,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -1551,6 +1551,23 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHRlbnRoIHN1bW",
+      "title": "Derby County complete tenth summer transfer as David Ozoh makes sensational return - Derbyshire Live",
+      "description": "Derby County complete tenth summer transfer as David Ozoh makes sensational return &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVVWTkN5eFdhazZMaENjX3l0VDBvYS15eHZKZHZWNm1kSHppNXo0Vkw4Y0Y5ZXhGLTQtY0Y5ZTRMajJiNFk3OWFrZzdCeUczaVNWNWp1VUtsOU5WdmgxQkI5QWJOd1JDQ1RYSkF6QnNmWFdLcDRRb2t5SU1rVU0waVRwaHhFUXg1d25xcWJUdVpoR051cnNXVFJ1WG13TGpPQmtCUnRpNA?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-02T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": [
+        "David Ozoh"
+      ]
+    },
+    {
       "id": "c2lnbmluZyBkYXZpZCBvem9oIHNpZ25zIGZvciBkZX",
       "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal - Derby County",
       "description": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; Derby County",
@@ -1578,26 +1595,9 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIHRlbnRoIHN1bW",
-      "title": "Derby County complete tenth summer transfer as David Ozoh makes sensational return - Derbyshire Live",
-      "description": "Derby County complete tenth summer transfer as David Ozoh makes sensational return &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVVWTkN5eFdhazZMaENjX3l0VDBvYS15eHZKZHZWNm1kSHppNXo0Vkw4Y0Y5ZXhGLTQtY0Y5ZTRMajJiNFk3OWFrZzdCeUczaVNWNWp1VUtsOU5WdmgxQkI5QWJOd1JDQ1RYSkF6QnNmWFdLcDRRb2t5SU1rVU0waVRwaHhFUXg1d25xcWJUdVpoR051cnNXVFJ1WG13TGpPQmtCUnRpNA?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-02T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
       "edition": "us",
       "overseas": false,
-      "players": [
-        "David Ozoh"
-      ]
+      "players": []
     },
     {
       "id": "cG9sbCBqb2luIHRoZSBiaWcgZGViYXRlIG9uIGRlcm",
@@ -2360,7 +2360,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -2568,21 +2568,6 @@
       "players": [
         "Napoli Magazine"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
-      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWtxdUw3VjBKTFlySXVuN1FIeDdEd3doZFpqUXc1b2ZjZXM2OGhqbk9oNXFmT09qam1WOF9ENDc2bk5Ddk9rbElWMlRBd3ZjWmE0cDlld293SUszRHJ4MWhtZ3V2emlrc1lMdnZVMTFwRmxKUHRjT29FQXZlaFFlX1JhTmE4cFY5SkFEY3FwQlNqOExMZkJjV1dvS0NBVUZPLUx0UmlLdzdjOFRsbC1QRm02R3VzUWRkdEktLTJJZDR5VjNwQzdB?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-08-31T01:02:43.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
