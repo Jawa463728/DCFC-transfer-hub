@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-22T16:22:11.266Z",
+  "updatedAt": "2026-09-22T19:49:27.628Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 129,
+  "storyCount": 118,
   "targetCount": 9,
   "targets": [
     {
       "name": "Turki Alalshikh",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -1998,180 +1998,6 @@
       "overseas": false,
       "players": [
         "Mohammed Fuseini"
-      ]
-    },
-    {
-      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Eiran Cashin. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Eiran Cashin. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZjlQcmQtQy1uUmpOeENMRExYSThkWi03cTRYZ0FhMEYybmNkdmw4N2xKYmVTaWpJdDRaRU5femZ3MGtXQVhiNFZNLWtBQUlnaDV0aUpxZw?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-01T19:47:04.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
-      "players": [
-        "Eiran Cashin"
-      ]
-    },
-    {
-      "id": "ZnVzZWluaSBzZXQgdG8gam9pbiBkZXJieSBjb3VudH",
-      "title": "Fuseini set to join Derby County on loan after Birmingham move collapse - Flashscore UK",
-      "description": "Fuseini set to join Derby County on loan after Birmingham move collapse &nbsp;&nbsp; Flashscore UK",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDZnbjdadHBoWGpYZlE2elZiWHNzaG1hOEZnTHBzQkgtOXQ1V014RjdBU1REdlVRYmRRNFhQQjdRUUtzaEdmUXFxWV9GbEd2aXEtMS10N001YW9IQUx3WEdmWnhxYnNzMExRaWNqZzVvQS0wT2hzLVhWU2NrVkxEVmdCT0I3a0s3clp2NVFQWEQyUzByQ3oweFVXUXF1cUo2YjRoZUVndmU0V0hjZEZpUnlYRVBjdw?oc=5",
-      "source": "Flashscore UK",
-      "published": "2026-09-01T19:28:55.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGVpcmFuIGNhc2hpbiBhbmQgbW",
-      "title": "Derby County: Eiran Cashin and Mohammed Fuseini join Rams on loan - BBC",
-      "description": "Derby County: Eiran Cashin and Mohammed Fuseini join Rams on loan &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "BBC",
-      "published": "2026-09-01T19:15:16.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Eiran Cashin",
-        "Mohammed Fuseini"
-      ]
-    },
-    {
-      "id": "ZWlyYW4gY2FzaGluIGRlcmJ5IGNvdW50eSByZSBzaW",
-      "title": "Eiran Cashin: Derby County re-sign Brighton defender on loan - BBC",
-      "description": "Eiran Cashin: Derby County re-sign Brighton defender on loan &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
-      "source": "BBC",
-      "published": "2026-09-01T19:15:16.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Eiran Cashin"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNvbXBsZXRlIGVpZ2h0aCBzaW",
-      "title": "Derby County complete eighth signing of transfer window as home-grown defender returns | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County complete eighth signing of transfer window as home-grown defender returns | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2JvLVUyVE5uQmhvX0V5aWlRZjQ3VkxXNXExRkstcXdkSGlfTDAtT0tQR1JXUlFueWphMENKczQ4QVY1THJ0WW1SNWcwdnEwR3RnWGVERXQ0ZmxBaHM0MXNkNzdyYi1YaUVlbkwwSXFWZllyS0tPTHlHdnYwOU1oOFZmZE51N0tPc0ZSTlp5V0pQc01KSmZ0UlY2S0hrdWJ3WHpyNDNXS002WXM?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T18:51:19.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZmMgcG9ydHNtb3V0aCBkZXJieSBjb3VudHkgMDEgMD",
-      "title": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "FC Portsmouth - Derby County, 01.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hbUl6MnVid2tMdEZCUV9nMDYxRmNkVUVXUVU5d1o3bmk0RmlNT2lHM1dUdExFa2JmekJBVHRadVlEVEMtVGNGVXR2LTFxcVFVdFdHNHkwRzkxY25lYmJmQkw3ZV9GVDlWaXN2eTR5ODVjNkxjVng4?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-01T18:45:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "c2lnbmluZyBjYXNoaW4gcmV0dXJucyB0byB0aGUgcm",
-      "title": "SIGNING: Cashin returns to the Rams - Derby County",
-      "description": "SIGNING: Cashin returns to the Rams &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHN2JzOUhvcFNYNUdjdW9lQ0FKLUdJengzOHNIQjR1c01ad0FQT0VXQ1o3ZmFvQ1BKc29nM0ZOZlE5eGpKV1J2TXl1Mmcta0V2UjlneU9QX3ppOHFuU01XdUZPdGx6TG5sTW54RHQ3QWxKUHFER01MTUdR?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-01T18:31:14.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGV5ZSBsYXN0IGdhc3AgbG9hbi",
-      "title": "Derby County eye last-gasp loan as Birmingham City back out of deal for 24-year-old - Yahoo Sports UK",
-      "description": "Derby County eye last-gasp loan as Birmingham City back out of deal for 24-year-old &nbsp;&nbsp; Yahoo Sports UK",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZnB5ZUxmZVdoOWxUYVJZMkhjbk5KTWZKSDhCSGFZNHV6NDhyNTI3dXBId1FPZlZoWHpha2pFYlE0bTVPSW1XUTlaWWpPWUJURlJ4N3pEbERiMkx0eWxhYUQ3ZVF3UU54SjZsY3RJSlNiSFpOaDRJMENtZ0Uyd2M?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-09-01T18:21:33.000Z",
-      "reputation": 70,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "Zm9ybWVyIGRlcmJ5IGNvdW50eSBoZXJvIGxpbmtlZC",
-      "title": "Former Derby County hero linked with surprise Burnley move - news.bet365.com",
-      "description": "Former Derby County hero linked with surprise Burnley move &nbsp;&nbsp; news.bet365.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczF2anVzdFBYeU9UQzJyZVR4VE9xLUtqZFp0bUM1YVVsMXc2SW9iRHZSVllUVTV3NldNdjlpWm1ZQ0xNX0NGNEhyckNaUVNaUDI3SlRQSGxpVnl4NVNqUktxRFE0U2xnekt1TlVrcExhc2VZWU52STVHSVplY2VNUjBNcFdsbGllNTJmX1dkNVZCQmFBOC1hSDVwRDdmZHhmUkpOaXhVdHpLZTZZZUJhd3ZFUFBqVHc?oc=5",
-      "source": "news.bet365.com",
-      "published": "2026-09-01T18:20:08.000Z",
-      "reputation": 48,
-      "likelihood": 32,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHBsb3QgbGFzdCBnYXNwIHRyYW",
-      "title": "Derby County plot last-gasp transfer after Birmingham City U-turn - Football League World",
-      "description": "Derby County plot last-gasp transfer after Birmingham City U-turn &nbsp;&nbsp; Football League World",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDYyZzZudHo1OHdDN3Aydm9EbWthYUpOYUIxUmpCWm9xQzdZbHZFZVFfRjlpaUVjRVVoQzBRT3duTlJUWEdkQ0JNSG9vX0h1VVU2S3Bnak9jbUtzSGxNTEFBSnFCaXNHbjNJZkdzaUxEQTRCQ0tja001ZmRUNFdUZ24yVW14Ql9ndTlwWVdfWjFJcU5Gdm11OWlPS2gtR3dWOXd1MzNzYw?oc=5",
-      "source": "Football League World",
-      "published": "2026-09-01T18:15:33.000Z",
-      "reputation": 61,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "cG9tcGV5IHYgZGVyYnkgY291bnR5IGxpdmUgdXBkYX",
-      "title": "Pompey v Derby County LIVE: Updates, transfer latest and team news from Fratton Park - portsmouth.co.uk",
-      "description": "Pompey v Derby County LIVE: Updates, transfer latest and team news from Fratton Park &nbsp;&nbsp; portsmouth.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNmdPMHhTNnhVUmdyNlFLQkFlU0dmLTRBcVpYZnlJV2JoUjJveUdseFVtcGUtTnQzS1BLUFNzNEowR1ZLU2xSSmdUcDdGN0NrMHMwY0tTcGEzSUo0MGZsdW51STJpWjNPLVZfUVItRDdLa1RLLWVCVExTdjdoR1kwUUFSWVBMTVktdWk4bUdhaEFDZnJLclVZQ2VFTWVjMlVWOS1hUFlsc2dWVnNlY255OWJrcmxSQ0l2cE1vMDk4cndJNmdyV28yRnVEbHR0enNwQkdUT1BHcW51Vl92T0hKSnBn?oc=5",
-      "source": "portsmouth.co.uk",
-      "published": "2026-09-01T17:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Fratton Park"
       ]
     }
   ]
