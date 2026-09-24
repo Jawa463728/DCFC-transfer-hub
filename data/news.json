@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-24T10:14:08.154Z",
+  "updatedAt": "2026-09-24T15:13:17.337Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 88,
+  "storyCount": 86,
   "targetCount": 8,
   "targets": [
     {
@@ -37,7 +37,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OneFootball",
+      "bestSource": "onefootball.com",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-18T21:23:21.000Z",
@@ -50,7 +50,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OneFootball",
+      "bestSource": "onefootball.com",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-17T15:39:22.000Z",
@@ -112,12 +112,12 @@
   ],
   "stories": [
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NmSFVqWWxZcms2NWJ2X1pYaXNhMUNENDd4VTh6TGhNQXdUV3pxVkZ4VUUzRTdhM2xWUjhyR3Z2eHBJcUtXQnFwQUkwbGVCU2RaTEV0RVFPWXNaZHJGbmMtdTloSGtCZEJ6VUJYWWN3QVA0X1pPYXQzYkIzSmRXSVgyR0E?oc=5",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0VsamhvU3VkUEY4MC1tVmNCSWI5bUhxby1wY0t4LXZSZU0tUklZQW40dlZqSi1YZU1mV1hLVTB2eVNnTVlzVUg0QnIwUkNJQU1ENXYxdF9iOEZpN3pyUktUVXFwamxobzIzQUR3VVRRQ24zODZBUU5SeUtvOHAzeVFfYjBHVzhR?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-09-23T13:55:59.000Z",
+      "published": "2026-09-23T19:52:35.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -127,12 +127,12 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRk82cEt6akFMSlBLTGNOTVN1VHRVZlF5cW1jRkZ2dUdjX2k3b2ZJaHdqeG1hWE5kOUdQWWVaNEFSZGpoNTVtUXRwemJqTlE1MF96Y3Y2eUlnQjItUmVzenA1S2VtenRlWGs3RFIwX1BORG9ZZlFfVmhoT2RrQnYxSXNvLWtoY2ZGTEVsOEI2OURZYlFkSmxJSGdLbHBHYkhhTFVxMUVXWEF6WGdqSHc2eWlQV0l1VnkzMGdXOGFudUY?oc=5",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NmSFVqWWxZcms2NWJ2X1pYaXNhMUNENDd4VTh6TGhNQXdUV3pxVkZ4VUUzRTdhM2xWUjhyR3Z2eHBJcUtXQnFwQUkwbGVCU2RaTEV0RVFPWXNaZHJGbmMtdTloSGtCZEJ6VUJYWWN3QVA0X1pPYXQzYkIzSmRXSVgyR0E?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-09-22T22:39:55.000Z",
+      "published": "2026-09-23T13:55:59.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -214,6 +214,21 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
+      "players": []
+    },
+    {
+      "id": "aSBsaWtlIHRoaXMgc29ydCBvZiBzaWduaW5nIGRlcm",
+      "title": "“I like this sort of signing”: Derby County new boy hailed by EFL expert - Yahoo",
+      "description": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlVCSXlmbWZGOFdMY1VvOHBUb1V6SWFzYWVsRldNTENsZ0M3SG1vc0kyMFJ1bFBiczJCNnBzM0FQTEJlNWlMUWU2N1J3dUR1bklVY0R5NGFnRnBTT05GekpYLXc4d0VOWlJjZ0NKMXAyNHNkWDZKZGNmLVMwQ1pqamVpUQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-22T08:12:29.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
       "players": []
     },
     {
@@ -355,10 +370,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeEiran Cashin. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeEiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Transfert confirmé : Derby County signeEiran Cashin. - onefootball.com",
+      "description": "Transfert confirmé : Derby County signeEiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yLTIwSjc5V0ZVcVAySEdwVEtsQk9pQkNPS1dqZ2x5a25OeVdwTnhCWlk0TmEzdzlMQUdubzlSYlhZdVg1UGlJckJpN1ZrNDZfVkRaQ2M5QXltZw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-19T00:54:27.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -370,10 +385,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - onefootball.com",
+      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fR3I1VWNUcko1NTJTazk2QnZyUGlQRWY2eUFmelhYbXZXTEpXSktKRk9obG5YT1lqamVXeEkyZnVCRGROV016a3N3cW04VkNlbjMtRThqVy1jUQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-19T00:52:30.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -385,10 +400,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OWWtSZWUyLVVkdUhJcUM0aGI2YTlOX3BfT3RhTXMtUVFaQ291eFEwMV9udlFzUXd6V1BScVZDcFFMWTdUQmgwTHBOVkVlNUtrWFpXQno0aC0?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-18T21:23:21.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -468,10 +483,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpczROV0ZicDZJZVdFXy1ndC13M2dteEFxTUVwTFBMcWlKV215WGdrVkNaVlh6X0hpbjJoZHRjSE82ODBDV2d3WE1uRUpYTmY2bGVhSnozTjc?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-17T15:39:22.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -996,10 +1011,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; OneFootball",
+      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - onefootball.com",
+      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRmwwM3owU1dVM2pMWXVVV3JiUWg0VjRNNEI2LVl4V0V5SlE0aktJZk5qZFE5MGNWM1V0bjhOUFdUclBDX0poTXlBbDF1N05ndG5FSXE4UDZHQQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-07T00:11:17.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -1436,56 +1451,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBlYW1lcyBoZWFkcyB0byBzY2",
-      "title": "TRANSFER NEWS: Eames heads to Scotland on season-long loan - Derby County",
-      "description": "TRANSFER NEWS: Eames heads to Scotland on season-long loan &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeU5fWTBrS2pqbVh2SzR3SlVXNHpnSmU2cUFhem1KcmIwdGtHUi1FdzdIbEtGOG8xX3laaUhxSmE5NDdxTzU1ODR5MUlwWDJuVUhHRGtSSHpTenNRVnRLek1FYzlaMDdrU2xpNDJqYkJjdjVYN0RhemllM1haNFVWeUxndFpOLXFiT21IUWpUVEpoVU13anpiaQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-03T14:02:35.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "MjEgeWVhciBvbGQgbWlkZmllbGRlciB0YXJnZXQgc3",
-      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County - OwnGoal Nigeria",
-      "description": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; OwnGoal Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk0wS2tqYXFFVXFrRmhrMmplamRNZWItaTRVa0E4SUQxaG1QcHhxV0NiZW1EOGg2ZUI3M3RjUHo5SWg4UW1IbTM4a0V1MFJTeVlmNTZRNWJoTlJxb2FZbmNJQ0U2aHJKbGZIeHBNTDE4Rm5fa3ZNOXc5V054aGVCNnpQaDg3SVpjMEFTdmlCWlN0RmFrbmNpV3pwcWJHWWVtSWlmbXl1czRHckZmS0tNUXNkMA?oc=5",
-      "source": "OwnGoal Nigeria",
-      "published": "2026-09-03T12:42:29.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Year Old Midfielder Target",
-        "Super Eagles Spot After"
-      ]
-    },
-    {
-      "id": "b3BpbmlvbiBzaG91bGQgbGVpY2VzdGVyIGNpdHkgdG",
-      "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? - Football Lowdown",
-      "description": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow? &nbsp;&nbsp; Football Lowdown",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGdfX00yVGhPbjhGTWxFNFF6UWpQclNiSWlVZmJQMDRaS1pNTVAxTjBHdFUza3MxRmtUVjI4NDlUXzdYbS1MbFQ1eUd2WGxxMXdXUXhnXzBWZVpqa0c5Mko1RDdJWUJ5a2lseDhOTmxMN2RNcVBtaG1Fd2pNS0VuYWRxYi1mblRhV05hWHlOa19yN3AwTUVsekdDYW1TV2xjcm45TDRMTkh4dHI1SzJfZW5xZ3pDNU9idWtqckY4ZzZhb3JwQTJR?oc=5",
-      "source": "Football Lowdown",
-      "published": "2026-09-03T11:47:53.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Following Jakub Stolarczyk Injury"
-      ]
     }
   ]
 }
