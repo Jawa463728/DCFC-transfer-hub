@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-24T05:19:23.652Z",
+  "updatedAt": "2026-09-24T10:14:08.154Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 92,
+  "storyCount": 88,
   "targetCount": 8,
   "targets": [
     {
@@ -20,8 +20,8 @@
     },
     {
       "name": "Turki Alalshikh",
-      "score": 51,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -112,12 +112,12 @@
   ],
   "stories": [
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0VsamhvU3VkUEY4MC1tVmNCSWI5bUhxby1wY0t4LXZSZU0tUklZQW40dlZqSi1YZU1mV1hLVTB2eVNnTVlzVUg0QnIwUkNJQU1ENXYxdF9iOEZpN3pyUktUVXFwamxobzIzQUR3VVRRQ24zODZBUU5SeUtvOHAzeVFfYjBHVzhR?oc=5",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NmSFVqWWxZcms2NWJ2X1pYaXNhMUNENDd4VTh6TGhNQXdUV3pxVkZ4VUUzRTdhM2xWUjhyR3Z2eHBJcUtXQnFwQUkwbGVCU2RaTEV0RVFPWXNaZHJGbmMtdTloSGtCZEJ6VUJYWWN3QVA0X1pPYXQzYkIzSmRXSVgyR0E?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-09-23T19:52:35.000Z",
+      "published": "2026-09-23T13:55:59.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -127,12 +127,12 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NmSFVqWWxZcms2NWJ2X1pYaXNhMUNENDd4VTh6TGhNQXdUV3pxVkZ4VUUzRTdhM2xWUjhyR3Z2eHBJcUtXQnFwQUkwbGVCU2RaTEV0RVFPWXNaZHJGbmMtdTloSGtCZEJ6VUJYWWN3QVA0X1pPYXQzYkIzSmRXSVgyR0E?oc=5",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRk82cEt6akFMSlBLTGNOTVN1VHRVZlF5cW1jRkZ2dUdjX2k3b2ZJaHdqeG1hWE5kOUdQWWVaNEFSZGpoNTVtUXRwemJqTlE1MF96Y3Y2eUlnQjItUmVzenA1S2VtenRlWGs3RFIwX1BORG9ZZlFfVmhoT2RrQnYxSXNvLWtoY2ZGTEVsOEI2OURZYlFkSmxJSGdLbHBHYkhhTFVxMUVXWEF6WGdqSHc2eWlQV0l1VnkzMGdXOGFudUY?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-09-23T13:55:59.000Z",
+      "published": "2026-09-22T22:39:55.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -1485,71 +1485,6 @@
       "overseas": false,
       "players": [
         "Following Jakub Stolarczyk Injury"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHNpZ25pbmcgcyBhZ2VudCBhZG",
-      "title": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVlic2J5RVpkOWdZemU4MURRLVBLcEZnSHR0dl8yM3N3NUxnMzVsdDFlLTh5WDNEamhFU1ZhN082MGduSC1lb001OFZLdEZ2NlRPM2V1Y2dMVzI3SjBaSDhxOGhOZEptMWdodktRdlJXQWxoYllFcUIzVjhtckwyRXBESDJ3MGZ5dFlpNmdvdXhQckR1bVVUdVY1Q1NLVWtLUXcwTmRsd3N1SDVmXzBF?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-03T08:37:05.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHNpZ25pbmcgcyBhZ2VudCBhZG",
-      "title": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama - Derbyshire Live",
-      "description": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVlic2J5RVpkOWdZemU4MURRLVBLcEZnSHR0dl8yM3N3NUxnMzVsdDFlLTh5WDNEamhFU1ZhN082MGduSC1lb001OFZLdEZ2NlRPM2V1Y2dMVzI3SjBaSDhxOGhOZEptMWdodktRdlJXQWxoYllFcUIzVjhtckwyRXBESDJ3MGZ5dFlpNmdvdXhQckR1bVVUdVY1Q1NLVWtLUXcwTmRsd3N1SDVmXzBF?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-03T08:35:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGNvbmZpcm0gb3dlbiBlYW1lcy",
-      "title": "Derby County confirm Owen Eames transfer as move sanctioned - Derbyshire Live",
-      "description": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2pxUGg5a015VnYwOHpnWUhUY0pEenpRbV9WVHNybm44dVhCTWFEV0haRFdlWUwxNFFQdXBoZ2xBT3ZTRDJNWlVKU2s0ejRnRHdsb014dndScmI3Q1A0ZGgwWkItNmF4ZFNUbS14WkhOSjFqZDJXVmhyVVpWSHZ5QTJqQmFtSGtpaURLY1EwV2JYQk05N1ppb3ZkaW5FT212R3NoVUMzaw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-03T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Owen Eames"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGZhbnMgd2lsbCBsb3ZlIGhvdy",
-      "title": "Derby County fans will love how Eiran Cashin reacted to David Ozoh re-signing - Football League World",
-      "description": "Derby County fans will love how Eiran Cashin reacted to David Ozoh re-signing &nbsp;&nbsp; Football League World",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnY2VG9YME1kVG42b1VGclVBWlZaSVNlMzJ4dFBydUNwX1pPNXVjSXV0T3czczFvakFTWGxzNFFVUWtfSnJQN1E1bWRrLXNLeXVnWGNUaDI5c0FGSFhTVzZiYzFCd1VRcURsSkt3RmxGYUFaY1ZLd2R3dEE5Q0ZtTXZWTHMxMF8waEtlV3JkY0JLcTJ2ckNxT1BEWXhNbl9PZ2xfLUJxakFobms?oc=5",
-      "source": "Football League World",
-      "published": "2026-09-03T05:45:11.000Z",
-      "reputation": 61,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Eiran Cashin",
-        "David Ozoh"
       ]
     }
   ]
