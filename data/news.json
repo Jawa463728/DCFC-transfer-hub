@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-25T19:29:16.055Z",
+  "updatedAt": "2026-09-25T22:44:01.347Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 78,
+  "storyCount": 77,
   "targetCount": 6,
   "targets": [
     {
       "name": "Henrik Meister",
-      "score": 67,
+      "score": 66,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 2,
@@ -96,7 +96,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -278,7 +278,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Turki Alalshikh"
@@ -894,21 +894,6 @@
       "players": []
     },
     {
-      "id": "dHJhbnNmZXIgbmV3cyBnb3VkbWlqbiBtYWtlcyBzd2",
-      "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch - Derby County",
-      "description": "TRANSFER NEWS: Goudmijn makes Swiss loan switch &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-08T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIga2Vuem8gZ2",
       "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - BBC",
       "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; BBC",
@@ -924,6 +909,21 @@
       "players": [
         "Kenzo Goudmijn"
       ]
+    },
+    {
+      "id": "dHJhbnNmZXIgbmV3cyBnb3VkbWlqbiBtYWtlcyBzd2",
+      "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch - Derby County",
+      "description": "TRANSFER NEWS: Goudmijn makes Swiss loan switch &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-08T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "YnVydG9uIGFsYmlvbiBkZXJieSBjb3VudHkgMTQgMD",
@@ -1133,7 +1133,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -1141,10 +1141,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRpcCBpbnRvIGZyZWUgYWdlbn",
-      "title": "Derby County Dip into Free Agent Market To Snare 23-Year-Old - The Stacey West",
-      "description": "Derby County Dip into Free Agent Market To Snare 23-Year-Old &nbsp;&nbsp; The Stacey West",
+      "title": "Derby County Dip into Free Agent Market To Snare 23-Year-Old - staceywest.net",
+      "description": "Derby County Dip into Free Agent Market To Snare 23-Year-Old &nbsp;&nbsp; staceywest.net",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW03NHUtX19VMVducWdjbWVnR2JHSzQ1NGRwY1JOend2bDY3MEFsRWZiUHlBbWRjc1dYcHJ6a1VSeGxKLTRUcE83WXJLNmEtSzFkZ2ZLQXpHYXJTMGt4ZkhtN2pQb3NtZUVEQ08zTmxya25RZkRZWEc2dGl1bFFsQ012UGgwZno2cTVMYzBkTE11dHZBYkF1UlJTUQ?oc=5",
-      "source": "The Stacey West",
+      "source": "staceywest.net",
       "published": "2026-09-06T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1153,8 +1153,7 @@
       "edition": "gb",
       "overseas": false,
       "players": [
-        "Free Agent Market To",
-        "The Stacey West"
+        "Free Agent Market To"
       ]
     },
     {
@@ -1281,23 +1280,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Nicholas Bilokapic"
-      ]
-    },
-    {
-      "id": "ZmljaGFqZSBjb25maXJtYWRvIGRlcmJ5IGNvdW50eS",
-      "title": "Fichaje confirmado: Derby County firma a Nicholas Bilokapic. - OneFootball",
-      "description": "Fichaje confirmado: Derby County firma a Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTQ2ZTQy1wc1BKaWVMU0c2dFpZRkkxcko4TlVFU1o3MGFNMlRZUUJfWXN4Y3pqblNxVTZUNXBoOTZRODFZbWx3RnR3LWZ1cl9HZlg5ZEFRRQ?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-04T20:29:16.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
       "players": [
         "Nicholas Bilokapic"
       ]
