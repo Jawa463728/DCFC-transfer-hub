@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-09-25T05:28:10.602Z",
+  "updatedAt": "2026-09-25T10:29:24.992Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 83,
-  "targetCount": 7,
+  "storyCount": 81,
+  "targetCount": 6,
   "targets": [
+    {
+      "name": "Henrik Meister",
+      "score": 69,
+      "status": "Developing",
+      "independentReports": 2,
+      "totalStories": 2,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-09-25T07:34:00.000Z",
+      "firstSeen": "2026-09-18T00:14:05.620Z",
+      "isNew": false
+    },
     {
       "name": "Eiran Cashin",
       "score": 52,
@@ -45,19 +58,6 @@
       "isNew": false
     },
     {
-      "name": "Henrik Meister",
-      "score": 36,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "OneFootball",
-      "bestSourceScore": 57,
-      "maxLikelihood": 48,
-      "lastMention": "2026-09-17T15:39:22.000Z",
-      "firstSeen": "2026-09-18T00:14:05.620Z",
-      "isNew": false
-    },
-    {
       "name": "Kyle Walker",
       "score": 34,
       "status": "Fading",
@@ -82,22 +82,26 @@
       "lastMention": "2026-09-18T17:31:00.000Z",
       "firstSeen": "2026-09-18T19:42:18.823Z",
       "isNew": false
-    },
-    {
-      "name": "Nicky Hayen",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Yahoo",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-15T10:03:30.000Z",
-      "firstSeen": "2026-09-17T15:08:54.972Z",
-      "isNew": false
     }
   ],
   "stories": [
+    {
+      "id": "aW5zaWRlIGRlcmJ5IGNvdW50eSBzIGJvbGQgdHJhbn",
+      "title": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister - Derbyshire Live",
+      "description": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1RYbmxqdEJnV1ZhUE5oQlBYZkdPWks2eUJQcTZGblpPQnBjY210bEF6M3BJYzRUbURIa2tWM1ExSllVdnNaS2MzSXJ5Tl9oVWJOLURRdjZKWDRydDhNbkNCcEMxZWNOdUU3T0VaeGUwdWNFU2xLVmt1UHZ1UHZMa2liNE1wOEpHRWNBazNBdi1tcl9jMUk4RGhJRFlwZFRzbjYzdzBlcXlnZw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-25T07:34:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Henrik Meister"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
@@ -205,14 +209,14 @@
     },
     {
       "id": "aSBsaWtlIHRoaXMgc29ydCBvZiBzaWduaW5nIGRlcm",
-      "title": "“I like this sort of signing”: Derby County new boy hailed by EFL expert - Yahoo",
-      "description": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; Yahoo",
+      "title": "“I like this sort of signing”: Derby County new boy hailed by EFL expert - Yahoo Sports",
+      "description": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlVCSXlmbWZGOFdMY1VvOHBUb1V6SWFzYWVsRldNTENsZ0M3SG1vc0kyMFJ1bFBiczJCNnBzM0FQTEJlNWlMUWU2N1J3dUR1bklVY0R5NGFnRnBTT05GekpYLXc4d0VOWlJjZ0NKMXAyNHNkWDZKZGNmLVMwQ1pqamVpUQ?oc=5",
-      "source": "Yahoo",
+      "source": "Yahoo Sports",
       "published": "2026-09-22T08:12:29.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
+      "reputation": 70,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
@@ -312,10 +316,10 @@
     },
     {
       "id": "YnVybmxleSBkZXJieSBjb3VudHkgcHJvbm9zdGljby",
-      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - ToffeeWeb",
-      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - toffeeweb.com",
+      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJISTRNQXY0VmFaSTBVbUxITFFUZ1ZPNHpOSmVaQldGaU9GM2NBbGdxSEgxMFR4Ry1tQjRIekVYNzk5bS16a0Q0RmpGN0hGRDQ1NHRJcjBEYllnYXBFb1JlVUN6ak8xR0FZQVUxcC01RGQyOHZRY1RxVkhubU0tcnhndkM1NGZvZnhCWFZPb1JBY1RoRFRtVQ?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-19T15:01:39.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -342,10 +346,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeEiran Cashin. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeEiran Cashin. &nbsp;&nbsp; OneFootball",
+      "title": "Transfert confirmé : Derby County signeEiran Cashin. - onefootball.com",
+      "description": "Transfert confirmé : Derby County signeEiran Cashin. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yLTIwSjc5V0ZVcVAySEdwVEtsQk9pQkNPS1dqZ2x5a25OeVdwTnhCWlk0TmEzdzlMQUdubzlSYlhZdVg1UGlJckJpN1ZrNDZfVkRaQ2M5QXltZw?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-19T00:54:27.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -357,10 +361,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - onefootball.com",
+      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fR3I1VWNUcko1NTJTazk2QnZyUGlQRWY2eUFmelhYbXZXTEpXSktKRk9obG5YT1lqamVXeEkyZnVCRGROV016a3N3cW04VkNlbjMtRThqVy1jUQ?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-19T00:52:30.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -844,10 +848,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - ToffeeWeb",
-      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 - toffeeweb.com",
+      "description": "Derby County-West Bromwich Albion – Quote e Pronostici Championship – 09/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEIxOTE4NTd3VVY3NnMzTDZzNTRoSU05S2I5QjdvQTQ4VHQxc2czaXE1QzU5ZTh6em4tbE0wcTBFdVIzNlNxVVJVOTlhcEt0Sk5XM3ZNbVNla3B0ZUhsU3VhTFJZNmpRU3BVTGlCTnd2dFhFeEdYZ0hWdTVTdV8ycXhOTXh4dkdPMkdxdG9RZ21HcVBwamg4cDZ2WmxMY200VjhNd3QweVByZw?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-09T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1249,10 +1253,10 @@
     },
     {
       "id": "am9obiBtY2dseW5uIG9uIGRlcmJ5IGNvdW50eSBsb2",
-      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - Falkirk Herald",
-      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United - falkirkherald.co.uk",
+      "description": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "source": "falkirkherald.co.uk",
       "published": "2026-09-05T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1260,9 +1264,7 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": [
-        "Falkirk Herald"
-      ]
+      "players": []
     },
     {
       "id": "Y29uZmlybWVkIHRyYW5zZmVyIGRlcmJ5IGNvdW50eS",
@@ -1343,53 +1345,6 @@
       "status": "rumour",
       "edition": "fr",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "aSBoYXZlbiB0IGZlbHQgdGhhdCBwb3J0c21vdXRoIG",
-      "title": "‘I haven’t felt that’: Portsmouth boss explains surprise Derby County decision as €600,000 signing handed bow - portsmouth.co.uk",
-      "description": "‘I haven’t felt that’: Portsmouth boss explains surprise Derby County decision as €600,000 signing handed bow &nbsp;&nbsp; portsmouth.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQks4bkdEUGFUVlROa2RSa3lhZ2sya1A0RTdlV0VoZFdLbzZFem9JR1plejRzTVZ4dEhPVjVQcHk1UmE2S3RocVl0NUVoWEVsVG9CaUhGUUFiRlItMVdnOEtMOTZSR2tkMzFtR3BMT1BSblJhNjhSQ2NMcXM3U193NV9VUGtSQWJCMGlIVEdPZTk4aWhFNEhGOGNrLXpLWFQ4SkR3ankzc2NjRzlOMnpWSENTVThaeWZIbU81VS16aUZKQ21kU1E?oc=5",
-      "source": "portsmouth.co.uk",
-      "published": "2026-09-04T10:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "bmljaG9sYXMgYmlsb2thcGljIGRlcmJ5IGNvdW50eS",
-      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer - BBC",
-      "description": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbVB6c2VNRTE1WUlnMjJqd1lHQ05zM0ZtX0hoQ252cTJEZGluUmIwMU9wWUdTdFFBbWZMOFVWWXRNUTZjU0xKd3BhUW9RcUNuY1c3WjZvZXYydE9fSE8zd0EzckxqNWs?oc=5",
-      "source": "BBC",
-      "published": "2026-09-04T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Nicholas Bilokapic"
-      ]
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBiaWxva2FwaWMgYWRkZWQgdG",
-      "title": "TRANSFER NEWS: Bilokapic added to goalkeeping group - Derby County",
-      "description": "TRANSFER NEWS: Bilokapic added to goalkeeping group &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjRibVdCSERoWl9xN0w1bHZXZVNjSkxXMklMVXRhcUpHQWFwUTROUzZCc0NySFJrMC15d0s0N3I1eDhJVlpYTU1qOXMwaTBkRUdyZHdOZ01qdnlyd2d6ZjRIb2RDMGY0LU5KN05ZMVpndHBOXzJFU0dSTEc2bzdLNW9UVHlXUGQxQ3VRTUxOQQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-04T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
       "players": []
     }
   ]
