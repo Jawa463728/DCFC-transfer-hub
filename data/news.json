@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-25T15:29:55.321Z",
+  "updatedAt": "2026-09-25T19:29:16.055Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 79,
+  "storyCount": 78,
   "targetCount": 6,
   "targets": [
     {
       "name": "Henrik Meister",
-      "score": 68,
+      "score": 67,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 2,
@@ -124,6 +124,21 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NmSFVqWWxZcms2NWJ2X1pYaXNhMUNENDd4VTh6TGhNQXdUV3pxVkZ4VUUzRTdhM2xWUjhyR3Z2eHBJcUtXQnFwQUkwbGVCU2RaTEV0RVFPWXNaZHJGbmMtdTloSGtCZEJ6VUJYWWN3QVA0X1pPYXQzYkIzSmRXSVgyR0E?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-23T13:55:59.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRk82cEt6akFMSlBLTGNOTVN1VHRVZlF5cW1jRkZ2dUdjX2k3b2ZJaHdqeG1hWE5kOUdQWWVaNEFSZGpoNTVtUXRwemJqTlE1MF96Y3Y2eUlnQjItUmVzenA1S2VtenRlWGs3RFIwX1BORG9ZZlFfVmhoT2RrQnYxSXNvLWtoY2ZGTEVsOEI2OURZYlFkSmxJSGdLbHBHYkhhTFVxMUVXWEF6WGdqSHc2eWlQV0l1VnkzMGdXOGFudUY?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-22T22:39:55.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -487,21 +502,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUUU1MHBjN2dEZUFfVkRxY1BxNVp4VHp3ZG5HTXNocGJmTktELXA4OU93ZHVIUk1KZ1Z1ek54cVRnRVFMRUxmd2dHNTdUbkU5X2ZGQnZiOUx1WFp2d3E2TFc4blc4NlFiSHRMYU9MeTc5Xy00NkN5QWNTOE1KT3F5TEtka0R1bWFfSjYxajEtOTRsVXJBTHZUdG1LNTkxOWU5WEVVTEJ4NW9qQm5yLVRlQW1EeS1jZlZrdXh1S3E5eVdSUQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-16T15:37:30.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
       "players": []
     },
     {
@@ -1300,23 +1300,6 @@
       "overseas": true,
       "players": [
         "Nicholas Bilokapic"
-      ]
-    },
-    {
-      "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt David Ozoh. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHhGYTFzZnJXY0N6NDRaalJnWVVNVV9zeUI2Q3hmYnlDVmw3bFgtc1JUQlJwbXY2RTh5Qy0tNEkwaFVmRXQ4Vi1LSkR4aXNrOXBleVBiZlo?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-04T17:00:00.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": [
-        "David Ozoh"
       ]
     }
   ]
