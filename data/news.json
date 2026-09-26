@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-26T11:15:07.669Z",
+  "updatedAt": "2026-09-26T14:59:56.777Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 76,
+  "storyCount": 75,
   "targetCount": 6,
   "targets": [
     {
       "name": "Henrik Meister",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 2,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 51,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -87,10 +87,10 @@
   "stories": [
     {
       "id": "ZGVyYnkgY291bnR5IHNob3VsZCB0YXJnZXQgdmVyc2",
-      "title": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion - uk.sports.yahoo.com",
-      "description": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion &nbsp;&nbsp; uk.sports.yahoo.com",
+      "title": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion - Yahoo",
+      "description": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion &nbsp;&nbsp; Yahoo",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzZoNjJZNWNuS0hDVXBMSFVPR1BDeVB5aGw2a3Zta09kMl9IYk9SVF8xS3dTdDlsb3gzZ1c2MExkOERYdm53YXUxV3lUSXdDUk5DWGU4cV9KbUkxYTZPQlJ5TjhIZkhVejgzQjBfNm9hMDBRVXRRNWJnMGIta3FfanRnTktkeDhHVEE?oc=5",
-      "source": "uk.sports.yahoo.com",
+      "source": "Yahoo",
       "published": "2026-09-26T06:00:00.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -119,10 +119,10 @@
     },
     {
       "id": "ZmMgbWlkZGxlc2Jyb3VnaCBkZXJieSBjb3VudHkgMj",
-      "title": "FC Middlesbrough - Derby County, 29.11.2025 - Championship - Spielbericht - Transfermarkt",
-      "description": "FC Middlesbrough - Derby County, 29.11.2025 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "FC Middlesbrough - Derby County, 29.11.2025 - Championship - Spielbericht - transfermarkt.at",
+      "description": "FC Middlesbrough - Derby County, 29.11.2025 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFMTTlWVEdNT1pQWWs5LTlSSU9XdUJ1N2N6R3B6SE9ZRnRDVmhacmF4LS1lWW9BaGNRbkhQMnhSdWVPNWVzN0E0Sk50VzA1Xzh2bmxRMUZLa0d2UHBnTnJUUjR4S01KYmxFRGQ1WTctYndRakxCZzVBUGNMSC16eVBQUThWR29kd1VCWHFn?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-25T22:48:54.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -158,7 +158,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -355,7 +355,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Turki Alalshikh"
@@ -408,10 +408,10 @@
     },
     {
       "id": "YnVybmxleSBkZXJieSBjb3VudHkgcHJvbm9zdGljby",
-      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - ToffeeWeb",
-      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - toffeeweb.com",
+      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJISTRNQXY0VmFaSTBVbUxITFFUZ1ZPNHpOSmVaQldGaU9GM2NBbGdxSEgxMFR4Ry1tQjRIekVYNzk5bS16a0Q0RmpGN0hGRDQ1NHRJcjBEYllnYXBFb1JlVUN6ak8xR0FZQVUxcC01RGQyOHZRY1RxVkhubU0tcnhndkM1NGZvZnhCWFZPb1JBY1RoRFRtVQ?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-19T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1107,10 +1107,10 @@
     },
     {
       "id": "dHJhbnNmZXIgbmNpYSBjb25maXJtYWRhIGRlcmJ5IG",
-      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - onefootball.com",
-      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "title": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. - OneFootball",
+      "description": "Transferência confirmada: Derby County FC fechou com Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14QTRpMFVvSGJNWDdqVHl4dTdBZVlLUXJyVXdIbEJfdnc2TVh5em1UdXRFSzdDVzlTUGZMNnJhX0FVUTJFaDNBM1lpOEhtbzZ3VUZ0UG80X0JOZ3ktZ1U4U0kxWQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-06T11:19:06.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -1163,7 +1163,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -1243,21 +1243,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rejV5MXVsQlc2emRPSFBibVBsdmh5RTFWbUphSThNYjhJdkd2a3J2VFZ6c0hwQUFrSW9IT0ZpYS1rcEtYQnlHbjl6N0c1QVh3NklBVjQzRG9zLUNYSmQya3ptdE9nYVhYWGNOdy1ITVNXQkY2M2M4?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-06T04:07:21.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "d2VzdCBoYW0gdW5pdGVkIGRlcmJ5IGNvdW50eSAwNS",
-      "title": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "West Ham United - Derby County, 05.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WeHRXN0NocFFxeWZIT0p4MWtlSVhIMjd5c3ZkUXp4Ynl2dTVBNUNEY1dNVEJPOXFXdXhFRkhHNG1mV2xLZGpaeHVjWWs3OTlhUW9XNkFMWk5mc3pSTV9DWFJUMW9FY1NFZ1BlS2wweVk3NEthVk1J?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-05T14:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
