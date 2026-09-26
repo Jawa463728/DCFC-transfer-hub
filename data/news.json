@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:44:01.347Z",
+  "updatedAt": "2026-09-26T00:56:14.233Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 77,
@@ -86,6 +86,21 @@
   ],
   "stories": [
     {
+      "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
+      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fR3I1VWNUcko1NTJTazk2QnZyUGlQRWY2eUFmelhYbXZXTEpXSktKRk9obG5YT1lqamVXeEkyZnVCRGROV016a3N3cW04VkNlbjMtRThqVy1jUQ?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-25T19:01:48.000Z",
+      "reputation": 57,
+      "likelihood": 48,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "fr",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "aW5zaWRlIGRlcmJ5IGNvdW50eSBzIGJvbGQgdHJhbn",
       "title": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister - Derbyshire Live",
       "description": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister &nbsp;&nbsp; Derbyshire Live",
@@ -96,7 +111,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Henrik Meister"
@@ -278,7 +293,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Turki Alalshikh"
@@ -351,21 +366,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yLTIwSjc5V0ZVcVAySEdwVEtsQk9pQkNPS1dqZ2x5a25OeVdwTnhCWlk0TmEzdzlMQUdubzlSYlhZdVg1UGlJckJpN1ZrNDZfVkRaQ2M5QXltZw?oc=5",
       "source": "OneFootball",
       "published": "2026-09-19T00:54:27.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "fr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fR3I1VWNUcko1NTJTazk2QnZyUGlQRWY2eUFmelhYbXZXTEpXSktKRk9obG5YT1lqamVXeEkyZnVCRGROV016a3N3cW04VkNlbjMtRThqVy1jUQ?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-19T00:52:30.000Z",
       "reputation": 57,
       "likelihood": 48,
       "ratingLabel": "Speculative",
@@ -894,6 +894,21 @@
       "players": []
     },
     {
+      "id": "dHJhbnNmZXIgbmV3cyBnb3VkbWlqbiBtYWtlcyBzd2",
+      "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch - Derby County",
+      "description": "TRANSFER NEWS: Goudmijn makes Swiss loan switch &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-08T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIga2Vuem8gZ2",
       "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - BBC",
       "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; BBC",
@@ -909,21 +924,6 @@
       "players": [
         "Kenzo Goudmijn"
       ]
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBnb3VkbWlqbiBtYWtlcyBzd2",
-      "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch - Derby County",
-      "description": "TRANSFER NEWS: Goudmijn makes Swiss loan switch &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-08T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "YnVydG9uIGFsYmlvbiBkZXJieSBjb3VudHkgMTQgMD",
@@ -1133,7 +1133,7 @@
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Patrick Agyemang"
@@ -1141,10 +1141,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGRpcCBpbnRvIGZyZWUgYWdlbn",
-      "title": "Derby County Dip into Free Agent Market To Snare 23-Year-Old - staceywest.net",
-      "description": "Derby County Dip into Free Agent Market To Snare 23-Year-Old &nbsp;&nbsp; staceywest.net",
+      "title": "Derby County Dip into Free Agent Market To Snare 23-Year-Old - The Stacey West",
+      "description": "Derby County Dip into Free Agent Market To Snare 23-Year-Old &nbsp;&nbsp; The Stacey West",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW03NHUtX19VMVducWdjbWVnR2JHSzQ1NGRwY1JOend2bDY3MEFsRWZiUHlBbWRjc1dYcHJ6a1VSeGxKLTRUcE83WXJLNmEtSzFkZ2ZLQXpHYXJTMGt4ZkhtN2pQb3NtZUVEQ08zTmxya25RZkRZWEc2dGl1bFFsQ012UGgwZno2cTVMYzBkTE11dHZBYkF1UlJTUQ?oc=5",
-      "source": "staceywest.net",
+      "source": "The Stacey West",
       "published": "2026-09-06T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -1153,7 +1153,8 @@
       "edition": "gb",
       "overseas": false,
       "players": [
-        "Free Agent Market To"
+        "Free Agent Market To",
+        "The Stacey West"
       ]
     },
     {
