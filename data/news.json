@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-26T23:49:02.640Z",
+  "updatedAt": "2026-09-27T01:55:22.388Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 75,
+  "storyCount": 76,
   "targetCount": 6,
   "targets": [
     {
       "name": "Henrik Meister",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 2,
@@ -87,10 +87,10 @@
   "stories": [
     {
       "id": "ZGVyYnkgY291bnR5IHNob3VsZCB0YXJnZXQgdmVyc2",
-      "title": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion - uk.sports.yahoo.com",
-      "description": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion &nbsp;&nbsp; uk.sports.yahoo.com",
+      "title": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion - Yahoo",
+      "description": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion &nbsp;&nbsp; Yahoo",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzZoNjJZNWNuS0hDVXBMSFVPR1BDeVB5aGw2a3Zta09kMl9IYk9SVF8xS3dTdDlsb3gzZ1c2MExkOERYdm53YXUxV3lUSXdDUk5DWGU4cV9KbUkxYTZPQlJ5TjhIZkhVejgzQjBfNm9hMDBRVXRRNWJnMGIta3FfanRnTktkeDhHVEE?oc=5",
-      "source": "uk.sports.yahoo.com",
+      "source": "Yahoo",
       "published": "2026-09-26T06:00:00.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -177,6 +177,21 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHlvdXRofFRyYW5zZmVybWFya3",
+      "title": "Derby County Youth - Transfermarkt",
+      "description": "Derby County Youth &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXd0NVZLVE1xd3VUZlNIV2FyTkJZYXRoWEhYdXhDSUFJNWVqai04SlJ6WjI1cURpRWVOb004YnpBU3hBV2V3MjU3ajJxMXIwT0JaRWlRVTFvdzVjM0xuVEcxM2hpVDE2NzJsSzlxUktFbzJacnZlbnhUcmEweWtXNERGWW1TYkJKNFR5Y2NxOVR4UQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-23T17:48:39.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
       "players": []
     },
     {
