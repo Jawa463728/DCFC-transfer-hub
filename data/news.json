@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-27T01:55:22.388Z",
+  "updatedAt": "2026-09-27T07:44:33.889Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 76,
+  "storyCount": 70,
   "targetCount": 6,
   "targets": [
     {
       "name": "Henrik Meister",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 2,
       "totalStories": 2,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 48,
+      "score": 46,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -87,10 +87,10 @@
   "stories": [
     {
       "id": "ZGVyYnkgY291bnR5IHNob3VsZCB0YXJnZXQgdmVyc2",
-      "title": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion - Yahoo",
-      "description": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion &nbsp;&nbsp; Yahoo",
+      "title": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion - uk.sports.yahoo.com",
+      "description": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion &nbsp;&nbsp; uk.sports.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzZoNjJZNWNuS0hDVXBMSFVPR1BDeVB5aGw2a3Zta09kMl9IYk9SVF8xS3dTdDlsb3gzZ1c2MExkOERYdm53YXUxV3lUSXdDUk5DWGU4cV9KbUkxYTZPQlJ5TjhIZkhVejgzQjBfNm9hMDBRVXRRNWJnMGIta3FfanRnTktkeDhHVEE?oc=5",
-      "source": "Yahoo",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-09-26T06:00:00.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -1164,105 +1164,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RlYWwgYS",
-      "title": "Derby County's transfer steal, a brutal welcome and why Patrick Agyemang offers hope | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County's transfer steal, a brutal welcome and why Patrick Agyemang offers hope | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT01uR3EycTFsbUd2dmNrSjN0djNwNUdYeXpBekdVbG9jOXFtMHFQeFRMVkVlQnlxZW9KUFRMTlBGR1pxQTRGRzczYVlHNko5SGhOTWNlM2NlUEZFQWV6LWFaV2pySEZIWUZlMTRkU2RMdXBnc19tTmJLS2VjaUhCY1Y3UkI3M0JxQlhyOF94QlRhWEZidGF6MVJva2hVenlROXc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-06T07:02:20.000Z",
-      "reputation": 87,
-      "likelihood": 76,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Patrick Agyemang"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGRpcCBpbnRvIGZyZWUgYWdlbn",
-      "title": "Derby County Dip into Free Agent Market To Snare 23-Year-Old - The Stacey West",
-      "description": "Derby County Dip into Free Agent Market To Snare 23-Year-Old &nbsp;&nbsp; The Stacey West",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW03NHUtX19VMVducWdjbWVnR2JHSzQ1NGRwY1JOend2bDY3MEFsRWZiUHlBbWRjc1dYcHJ6a1VSeGxKLTRUcE83WXJLNmEtSzFkZ2ZLQXpHYXJTMGt4ZkhtN2pQb3NtZUVEQ08zTmxya25RZkRZWEc2dGl1bFFsQ012UGgwZno2cTVMYzBkTE11dHZBYkF1UlJTUQ?oc=5",
-      "source": "The Stacey West",
-      "published": "2026-09-06T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Free Agent Market To",
-        "The Stacey West"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RlYWwgYS",
-      "title": "Derby County's transfer steal, a brutal welcome and why Patrick Agyemang offers hope - Derbyshire Live",
-      "description": "Derby County's transfer steal, a brutal welcome and why Patrick Agyemang offers hope &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT01uR3EycTFsbUd2dmNrSjN0djNwNUdYeXpBekdVbG9jOXFtMHFQeFRMVkVlQnlxZW9KUFRMTlBGR1pxQTRGRzczYVlHNko5SGhOTWNlM2NlUEZFQWV6LWFaV2pySEZIWUZlMTRkU2RMdXBnc19tTmJLS2VjaUhCY1Y3UkI3M0JxQlhyOF94QlRhWEZidGF6MVJva2hVenlROXc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-06T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 76,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Patrick Agyemang"
-      ]
-    },
-    {
-      "id": "dW5iZWxpZXZhYmxlIGRlcmJ5IGNvdW50eSBjaGllZi",
-      "title": "'Unbelievable' Derby County chief hailed after £4m transfer - 'where do you want your statue?' - Football League World",
-      "description": "'Unbelievable' Derby County chief hailed after £4m transfer - 'where do you want your statue?' &nbsp;&nbsp; Football League World",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzJSOWp6bmNsMUpxV2l2azRMV0xyYmJGamxpV2JKTmpieEpQeC11NmFmc2hoZG80T3NOcko2eEVUeERWVDNuajdGWExLU3pkZnNvTUJxS1p1MDNGQmdIZEhVWjh0THdudTFxRzliYlhxbGN5Ri1GNl9teS1tT29RZTRPNERTVHZJWVdfc3ZpUlNZaGg4YWo1cVVab2NlY0FrYVlPVjE1anRORGhXUDk1TkcwYUU5OWlvNGpxeTVyMFJKTmpLZGNCcnc2MVJCdw?oc=5",
-      "source": "Football League World",
-      "published": "2026-09-06T06:30:11.000Z",
-      "reputation": 61,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOCB3ZXJ0dm9sbHN0ZSB6dW",
-      "title": "Derby County U18 - Wertvollste Zugänge | Seite 5 - Transfermarkt",
-      "description": "Derby County U18 - Wertvollste Zugänge | Seite 5 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlppXzI2RGdMOXdPUWF1ejhDLUx2VjZrQWFRQjBjS1haRVY5TWx3TVRnOUhXalhwSjNZV042bWxPelFLbjAzaDdQNG5oTmZldEhfaU95UFdUYTUwV0s0VS1uN3JWdG5YU1Y1VDhsTHIzYWdkbG5JdlBLMlhQQTR0V3lmTWdpTXI4dWdMV19R?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-06T05:59:48.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": [
-        "Wertvollste Zugänge"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdlc3QgYnJvbXdpY2ggYWxiaW",
-      "title": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - West Bromwich Albion, 09.09.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rejV5MXVsQlc2emRPSFBibVBsdmh5RTFWbUphSThNYjhJdkd2a3J2VFZ6c0hwQUFrSW9IT0ZpYS1rcEtYQnlHbjl6N0c1QVh3NklBVjQzRG9zLUNYSmQya3ptdE9nYVhYWGNOdy1ITVNXQkY2M2M4?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-06T04:07:21.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     }
