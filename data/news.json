@@ -1,23 +1,10 @@
 {
-  "updatedAt": "2026-09-27T20:35:33.452Z",
+  "updatedAt": "2026-09-27T23:23:57.428Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 64,
+  "storyCount": 63,
   "targetCount": 6,
   "targets": [
-    {
-      "name": "Henrik Meister",
-      "score": 52,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-09-25T07:35:59.000Z",
-      "firstSeen": "2026-09-18T00:14:05.620Z",
-      "isNew": false
-    },
     {
       "name": "Eiran Cashin",
       "score": 52,
@@ -29,6 +16,19 @@
       "maxLikelihood": 72,
       "lastMention": "2026-09-18T07:00:00.000Z",
       "firstSeen": "2026-09-18T17:14:44.148Z",
+      "isNew": false
+    },
+    {
+      "name": "Henrik Meister",
+      "score": 51,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-09-25T07:35:59.000Z",
+      "firstSeen": "2026-09-18T00:14:05.620Z",
       "isNew": false
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 43,
+      "score": 42,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -1059,21 +1059,6 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "fr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMSBzcGllbHBsYW4gMjYgMj",
-      "title": "Derby County U21 - Spielplan 26/27 - Transfermarkt",
-      "description": "Derby County U21 - Spielplan 26/27 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzJNbUk3aHZ6ZlhKNGNlOWx2V2prWjJaTVVYRlJSaEVqWGVzMWZPQU1iaUJGN3QtZ0lNQW9CY0xRM1F2aDFoUnAxcTRvUHA1QjV1aXNHSnNUMzkzTUxFbEZqVmNXaEthemJzYUhkaDdPRU51SkhrVUo0TEc4MVhJTklzc0NkdldKYjRN?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-06T21:40:09.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     }
