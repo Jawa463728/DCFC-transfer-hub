@@ -1,27 +1,14 @@
 {
-  "updatedAt": "2026-09-28T01:50:47.443Z",
+  "updatedAt": "2026-09-28T07:55:42.624Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 62,
-  "targetCount": 6,
+  "targetCount": 5,
   "targets": [
     {
-      "name": "Eiran Cashin",
-      "score": 52,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "bbc.com",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-09-18T07:00:00.000Z",
-      "firstSeen": "2026-09-18T17:14:44.148Z",
-      "isNew": false
-    },
-    {
       "name": "Henrik Meister",
-      "score": 51,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -46,7 +33,7 @@
     },
     {
       "name": "First Division",
-      "score": 42,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -55,11 +42,11 @@
       "maxLikelihood": 43,
       "lastMention": "2026-09-26T18:52:20.000Z",
       "firstSeen": "2026-09-27T17:50:55.916Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Nicholas Bilokapic",
-      "score": 42,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
