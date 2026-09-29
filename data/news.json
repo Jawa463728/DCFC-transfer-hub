@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-29T08:23:01.311Z",
+  "updatedAt": "2026-09-29T14:56:35.511Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 57,
+  "storyCount": 56,
   "targetCount": 4,
   "targets": [
     {
@@ -37,7 +37,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OneFootball",
+      "bestSource": "onefootball.com",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-26T02:30:07.000Z",
@@ -46,7 +46,7 @@
     },
     {
       "name": "First Division",
-      "score": 34,
+      "score": 33,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -123,10 +123,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OWWtSZWUyLVVkdUhJcUM0aGI2YTlOX3BfT3RhTXMtUVFaQ291eFEwMV9udlFzUXd6V1BScVZDcFFMWTdUQmgwTHBOVkVlNUtrWFpXQno0aC0?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-26T02:30:07.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -525,10 +525,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpczROV0ZicDZJZVdFXy1ndC13M2dteEFxTUVwTFBMcWlKV215WGdrVkNaVlh6X0hpbjJoZHRjSE82ODBDV2d3WE1uRUpYTmY2bGVhSnozTjc?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-17T15:39:22.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -926,23 +926,6 @@
       "edition": "it",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHNhbmN0aW9uIHRyYW5zZmVyIG",
-      "title": "Derby County sanction transfer as Kenzo Goudmijn exits - Derbyshire Live",
-      "description": "Derby County sanction transfer as Kenzo Goudmijn exits &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3dYOVBFSkRBNHA2Zll6UW82VnZ0V0gxYk4tSWhOc0ZYNzM2bUprcGRkelNyWXpqeHlybVV2OHJ3WklkUkdCSnhxT2xlWkdrY21TakVoYkdORm9Xa3FJYXY3bEZhdXFoaUtoVFBjZkFFeE5fRXNGc1BxWkQxSnkxN0NOd2pCSGxyaVA0NjZmdVVXMm9QY0RjOTh3V0RRMFZMRzFLbzhhY2FJaUJ6?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-08T13:24:49.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Kenzo Goudmijn"
-      ]
     }
   ]
 }
