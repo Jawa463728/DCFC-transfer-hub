@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-29T02:03:41.288Z",
+  "updatedAt": "2026-09-29T08:23:01.311Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 60,
+  "storyCount": 57,
   "targetCount": 4,
   "targets": [
     {
@@ -32,8 +32,21 @@
       "isNew": false
     },
     {
-      "name": "First Division",
+      "name": "Nicholas Bilokapic",
       "score": 36,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "OneFootball",
+      "bestSourceScore": 57,
+      "maxLikelihood": 48,
+      "lastMention": "2026-09-26T02:30:07.000Z",
+      "firstSeen": "2026-09-18T23:53:05.335Z",
+      "isNew": false
+    },
+    {
+      "name": "First Division",
+      "score": 34,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -43,22 +56,24 @@
       "lastMention": "2026-09-26T18:52:20.000Z",
       "firstSeen": "2026-09-27T17:50:55.916Z",
       "isNew": false
-    },
-    {
-      "name": "Nicholas Bilokapic",
-      "score": 36,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "OneFootball",
-      "bestSourceScore": 57,
-      "maxLikelihood": 48,
-      "lastMention": "2026-09-26T02:30:07.000Z",
-      "firstSeen": "2026-09-18T23:53:05.335Z",
-      "isNew": false
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQW92UXlpX0dtRFRIZFVjbWxIbWhzZkQ0aHlPOHdQcWhUcnU3ek8wVzF1MFY0N1ZXeTQ5c19hcm9FeVRfWlRLRUVuVHBNTnFBWEtQQ2pzbGZzVGwwMHF3RW5BaDRLMzNMWFhQT1JzZndyMFZrQ3NVV2pEYzczSU1mLQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-28T16:25:55.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHRvbGQgMjk3bSBkZWFsIGNvbm",
       "title": "Derby County told £297m deal conditions before extra money 'can flow' - Derbyshire Live",
@@ -90,21 +105,6 @@
       "players": [
         "First Division"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - transfermarkt.de",
-      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zbUFkSW9qdVZMbVVSQXJwT2ZBV0EwUWRVOUFsakU4d2VRa0hoWkdZSDlHbGpNX3o1dnNXQU94Y1NYRFRKUHYwODRhSFNuS01veW9aYVFPd2xRS1RjUGZIS3ZRTGtRYzRJbmxZMlFjMnBpcFBaLTZV?oc=5",
-      "source": "transfermarkt.de",
-      "published": "2026-09-26T07:15:24.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHNob3VsZCB0YXJnZXQgdmVyc2",
@@ -171,11 +171,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.de",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM2N2Z0k4Z3hFQkFjTXkxTll2NjVrZTducV96eU81SElLVUxDZU82dGlTaTk0eDBsS0ZUOGxUc3BTQk5xNlBNRUJSMVdzN3kzaVUwVzV0czRWYzZ4am8yenpvRHAwUGE3amhYb0wtUDNPZ2lsTC1Vak50VkhadFVPUF9UMHd0ODgz?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-24T11:51:40.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -186,11 +186,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U21 - transfermarkt.de",
-      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0VsamhvU3VkUEY4MC1tVmNCSWI5bUhxby1wY0t4LXZSZU0tUklZQW40dlZqSi1YZU1mV1hLVTB2eVNnTVlzVUg0QnIwUkNJQU1ENXYxdF9iOEZpN3pyUktUVXFwamxobzIzQUR3VVRRQ24zODZBUU5SeUtvOHAzeVFfYjBHVzhR?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-23T19:52:35.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -262,10 +262,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U18 - Transfers 26/27 - transfermarkt.de",
-      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County U18 - Transfers 26/27 - Transfermarkt",
+      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnZ4S19VeXVoR1BsYmV2VUlkRDRPYXFkdFp6S1dneGs0MFZYN1F3bk8yazhvblFJUU5zSkdRcDJQUnQ2TUlGbnhlRkNiZy1UdURnYVhJQzlMSFdqdlVQVk5fZjZCZlVfNTdoNk9ucjBfbXRYRC1vNnNwS2UxQURqOTM4Z2poTl83ZXdn?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-22T14:16:54.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -542,10 +542,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGFmYyB3cmV4aGFtIDEwIDEwID",
-      "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - transfermarkt.de",
-      "description": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Cd0Jsc3BLTHVaV3RPbHE0WEVMcjh3UVhwSktMTWpsbkZhTFVhY0hfT0QtYUFkdGlNNzJrMDdUallfQ2M3bzU3N2NVaUU4Ynh0ZVRjYjJkN0dEUmh5Uk1sOTZPcHA0WWxjXzVNbnM5eVFPRVBZeFQ0?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-17T11:47:01.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -556,11 +556,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGJ8dHJhbnNmZXJtYXJrdC5kZQ",
-      "title": "Derby County B - transfermarkt.de",
-      "description": "Derby County B &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazNiaUtIUWVaemdIUnBlX25LUXcxR3V4TGVUeXllVlRDbjdXVGkxYUtlci0zXzFFelcxaUFfQ3FETWhWS3psVjFzM2hCQ1J2TTVjcmotS0tJZnhjSVluM2pKY0U0Q2Y0dmt0QUhIN19TUmFpX1VLSXFiYzlhZV9RbHV0TQ?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-16T18:13:50.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -937,53 +937,6 @@
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Kenzo Goudmijn"
-      ]
-    },
-    {
-      "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeHenrik Meister. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeHenrik Meister. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wTE9pb1BKSjNpWXI1SGx1ZlBiRVhDWS1mN1B5bzJnaEU3eGo2RlpaRHpxTmFBWGZ1a3RiNWhRQzB0R2xhbVBPVTkteHU4XzVZczZua0tIX2ZDQQ?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-08T07:18:40.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "fr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "dHJhbnNmZXIgbmV3cyBnb3VkbWlqbiBtYWtlcyBzd2",
-      "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch - Derby County",
-      "description": "TRANSFER NEWS: Goudmijn makes Swiss loan switch &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-08T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIga2Vuem8gZ2",
-      "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan - BBC",
-      "description": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtaWFHM3NXY3A4ZHdaT0VjZWF1M2QzTTFsNHlacC13c0Y4SFpaUkgzazBrN2h0YUxHWEs1T1pCSmJSdmhwZUFJVE5NeUlhUjJJZTgtUjVxRFdpeGZSbnpDWWY2U0ZlVXM?oc=5",
-      "source": "BBC",
-      "published": "2026-09-08T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 94,
-      "ratingLabel": "Very strong",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
