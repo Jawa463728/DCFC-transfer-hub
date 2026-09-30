@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-30T08:44:01.247Z",
+  "updatedAt": "2026-09-30T15:22:36.325Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 56,
+  "storyCount": 58,
   "targetCount": 4,
   "targets": [
     {
@@ -60,12 +60,42 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIgYnJhbmRlZC",
+      "title": "Derby County midfielder branded 'brilliant' after transfer decision confirmed - Derbyshire Live",
+      "description": "Derby County midfielder branded 'brilliant' after transfer decision confirmed &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXZzc3BEa1dMYU9HdVdKdTh0MENNNEdHcHhkTWtnVG11bFFELUtyV2RXbTRSLWhHQS0zQ09tRDJqU2VLSlpBNThzYXd6SEJoNjRMMncwWFlrY0NwZ2h6WU5wWHMtS2lUSXBFNWl0bHdNYmRxY1lBckVlSVBHb0QzU0Z2d19HcWRYUTlMMHhubUJHV0c2VEE1aEJ3dmdtSGIyRnl3OHZRWQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-30T11:26:00.000Z",
+      "reputation": 87,
+      "likelihood": 90,
+      "ratingLabel": "Very strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
       "title": "Derby County B - Transfermarkt",
       "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RRzc0VXIzVjNuVDNvLWVXRE0tb0ppblZlUl9hRUFNNXdNTkRaUmhIdGtDa0RJVS1DWTY5N21OOUxqVjdGRDRyd09oRkpUQ2p6QUJKU2JhMHZTWlRXNVUwUUp4em0tTlJfZTRRckxWelZMWklZa1BuaGZFNUM?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-29T23:56:19.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHNoZWZmaWVsZCB1bml0ZWQgMD",
+      "title": "Derby County - Sheffield United, 02.05.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - Sheffield United, 02.05.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHJOX2cza3Vob2tFWU9KZGt4QnVxeThfUXZ3czVPb0ZMQ2lZbWR6NkJaN0p0OFZWTVBITDJZTXFyb2ctUkw0a2lYSnhQV1VHZmUtNnFWdlk0cl9QUTJUU2FiTEN3QTQwdUJPRFhZQy00enV3ZkpqaDFpYU5TbTNJbzZ6V1R6ZTNCVmxzaFFB?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-29T22:28:52.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
