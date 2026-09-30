@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T15:22:36.325Z",
+  "updatedAt": "2026-09-30T20:11:30.746Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 58,
-  "targetCount": 4,
+  "storyCount": 59,
+  "targetCount": 5,
   "targets": [
     {
       "name": "Henrik Meister",
@@ -30,6 +30,19 @@
       "lastMention": "2026-09-21T09:42:00.000Z",
       "firstSeen": "2026-09-11T10:49:08.709Z",
       "isNew": false
+    },
+    {
+      "name": "Jason Knight",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "YouTube",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-30T15:00:29.000Z",
+      "firstSeen": "2026-09-30T20:11:30.746Z",
+      "isNew": true
     },
     {
       "name": "Nicholas Bilokapic",
@@ -59,6 +72,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "amFzb24ga25pZ2h0IHJldHVybmluZyB0byBkZXJieS",
+      "title": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 - YouTube",
+      "description": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 &nbsp;&nbsp; YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5leFMwVGpqdVBmNF9wQzNzV25fbVg4OERHalFQUFF1NHhVQUpKWE1fdHY0Z1Vla1ZvcjdzYkRmaEYyUQ?oc=5",
+      "source": "YouTube",
+      "published": "2026-09-30T15:00:29.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jason Knight"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIgYnJhbmRlZC",
       "title": "Derby County midfielder branded 'brilliant' after transfer decision confirmed - Derbyshire Live",
