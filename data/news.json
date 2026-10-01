@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:29:14.260Z",
+  "updatedAt": "2026-10-01T17:07:25.739Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 60,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Jason Knight",
-      "score": 45,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -107,11 +107,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IGJ8dHJhbnNmZXJtYXJrdC5kZQ",
+      "title": "Derby County B - transfermarkt.de",
+      "description": "Derby County B &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RRzc0VXIzVjNuVDNvLWVXRE0tb0ppblZlUl9hRUFNNXdNTkRaUmhIdGtDa0RJVS1DWTY5N21OOUxqVjdGRDRyd09oRkpUQ2p6QUJKU2JhMHZTWlRXNVUwUUp4em0tTlJfZTRRckxWelZMWklZa1BuaGZFNUM?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-29T23:56:19.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -137,11 +137,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUyMXx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U21 - transfermarkt.de",
+      "description": "Derby County U21 &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2dFNVNROWN6RUtRTkoxY2ZKNVd2ME5wTzR6VG9FV0owanpaQVNGZzRMOThhNUtrV1YxUUFrVVoxOGJ3RDJ2RTJxQXdUT0g4eWtGWDFJSWptMDViTU92THdFYjlZTUZlc2YtdGF0eUYwdlhXaVE5c0R5dEJnYW9BT0FNcFpUSUxta3dQVmktNXllYkkt?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-29T13:42:58.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -164,6 +164,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
+      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; OneFootball",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRmwwM3owU1dVM2pMWXVVV3JiUWg0VjRNNEI2LVl4V0V5SlE0aktJZk5qZFE5MGNWM1V0bjhOUFdUclBDX0poTXlBbDF1N05ndG5FSXE4UDZHQQ?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-27T11:30:26.000Z",
+      "reputation": 57,
+      "likelihood": 70,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "fr",
+      "overseas": true,
       "players": []
     },
     {
@@ -263,11 +278,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
+      "title": "Derby County U18 - transfermarkt.de",
+      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM2N2Z0k4Z3hFQkFjTXkxTll2NjVrZTducV96eU81SElLVUxDZU82dGlTaTk0eDBsS0ZUOGxUc3BTQk5xNlBNRUJSMVdzN3kzaVUwVzV0czRWYzZ4am8yenpvRHAwUGE3amhYb0wtUDNPZ2lsTC1Vak50VkhadFVPUF9UMHd0ODgz?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-24T11:51:40.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -308,11 +323,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - transfermarkt.de",
+      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NmSFVqWWxZcms2NWJ2X1pYaXNhMUNENDd4VTh6TGhNQXdUV3pxVkZ4VUUzRTdhM2xWUjhyR3Z2eHBJcUtXQnFwQUkwbGVCU2RaTEV0RVFPWXNaZHJGbmMtdTloSGtCZEJ6VUJYWWN3QVA0X1pPYXQzYkIzSmRXSVgyR0E?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-23T13:55:59.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -354,10 +369,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U18 - Transfers 26/27 - Transfermarkt",
-      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County U18 - Transfers 26/27 - transfermarkt.de",
+      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnZ4S19VeXVoR1BsYmV2VUlkRDRPYXFkdFp6S1dneGs0MFZYN1F3bk8yazhvblFJUU5zSkdRcDJQUnQ2TUlGbnhlRkNiZy1UdURnYVhJQzlMSFdqdlVQVk5fZjZCZlVfNTdoNk9ucjBfbXRYRC1vNnNwS2UxQURqOTM4Z2poTl83ZXdn?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-22T14:16:54.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -617,10 +632,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpczROV0ZicDZJZVdFXy1ndC13M2dteEFxTUVwTFBMcWlKV215WGdrVkNaVlh6X0hpbjJoZHRjSE82ODBDV2d3WE1uRUpYTmY2bGVhSnozTjc?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-17T15:39:22.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -634,10 +649,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGFmYyB3cmV4aGFtIDEwIDEwID",
-      "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - transfermarkt.de",
+      "description": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Cd0Jsc3BLTHVaV3RPbHE0WEVMcjh3UVhwSktMTWpsbkZhTFVhY0hfT0QtYUFkdGlNNzJrMDdUallfQ2M3bzU3N2NVaUU4Ynh0ZVRjYjJkN0dEUmh5Uk1sOTZPcHA0WWxjXzVNbnM5eVFPRVBZeFQ0?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.de",
       "published": "2026-09-17T11:47:01.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -973,21 +988,6 @@
       "players": [
         "Mohammed Fuseini"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG94Zm9yZCB1bml0ZWQgMTggMD",
-      "title": "Derby County - Oxford United, 18.04.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Oxford United, 18.04.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdENyVFJPRU1obUt4NmV1U2sxWW5heXdXZnVic3M3YktiWVJ6RjRKaW1CNVEzblVTLTdwRWdjWUFaNVhvRGlVTVNKQkRwd1ZfUzY4NkJNYzRmcEtKaVkyQzBtb3BoSzNGSE5QMTVvbXdocFVuUTJJY3BfZ0VNS0c2WWRUVzdVTEtVR3c?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-10T11:38:22.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
