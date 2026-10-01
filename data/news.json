@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T03:45:48.106Z",
+  "updatedAt": "2026-10-01T10:29:14.260Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 60,
-  "targetCount": 5,
+  "targetCount": 4,
   "targets": [
     {
       "name": "Henrik Meister",
@@ -19,21 +19,8 @@
       "isNew": false
     },
     {
-      "name": "Turki Alalshikh",
-      "score": 49,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-09-21T09:42:00.000Z",
-      "firstSeen": "2026-09-11T10:49:08.709Z",
-      "isNew": false
-    },
-    {
       "name": "Jason Knight",
-      "score": 47,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -42,7 +29,7 @@
       "maxLikelihood": 43,
       "lastMention": "2026-09-30T15:00:29.000Z",
       "firstSeen": "2026-09-30T20:11:30.746Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Nicholas Bilokapic",
@@ -401,7 +388,7 @@
       "description": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlVCSXlmbWZGOFdMY1VvOHBUb1V6SWFzYWVsRldNTENsZ0M3SG1vc0kyMFJ1bFBiczJCNnBzM0FQTEJlNWlMUWU2N1J3dUR1bklVY0R5NGFnRnBTT05GekpYLXc4d0VOWlJjZ0NKMXAyNHNkWDZKZGNmLVMwQ1pqamVpUQ?oc=5",
       "source": "Yahoo Sports",
-      "published": "2026-09-22T08:12:29.000Z",
+      "published": "2026-09-22T07:00:00.000Z",
       "reputation": 70,
       "likelihood": 57,
       "ratingLabel": "Watch",
