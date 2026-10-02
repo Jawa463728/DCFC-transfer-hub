@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-02T13:47:17.844Z",
+  "updatedAt": "2026-10-02T18:44:45.237Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 57,
+  "storyCount": 56,
   "targetCount": 6,
   "targets": [
     {
       "name": "Bobby Clark",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Jason Knight",
-      "score": 38,
+      "score": 37,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -102,6 +102,21 @@
         "Bobby Clark",
         "David Clowes"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1FYRGdaVE1zc1NQZlh3RzZoWGxxSHNZZE9GQ0xxNFVhMmQxdnFJU2MxQkdTUHFmbEdQMmZ5OG5ZNktfX2NCd1A5SWdpSktJSE9kRjhQbURjOUdVbWpRV0xPWUxqUS0xR1RNd0NHclA2LTF5blI2VTRQaFd3ZkY5emtXRVNCZGx3d0I5UTQ3VThLTmk1OFRwUVV5MFZzSlB3WmtzcnJXY1liVGpaOVdUUjA5ODQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-01T07:09:31.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
@@ -367,21 +382,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NmSFVqWWxZcms2NWJ2X1pYaXNhMUNENDd4VTh6TGhNQXdUV3pxVkZ4VUUzRTdhM2xWUjhyR3Z2eHBJcUtXQnFwQUkwbGVCU2RaTEV0RVFPWXNaZHJGbmMtdTloSGtCZEJ6VUJYWWN3QVA0X1pPYXQzYkIzSmRXSVgyR0E?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-23T13:55:59.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IGltZGkgbmVyZWRlbGVyIGdhbG",
       "title": "Derby County - Şimdi neredeler? (Galeri) | Sayfa 83 - Transfermarkt",
       "description": "Derby County - Şimdi neredeler? (Galeri) | Sayfa 83 &nbsp;&nbsp; Transfermarkt",
@@ -565,10 +565,10 @@
     },
     {
       "id": "YnVybmxleSBkZXJieSBjb3VudHkgcHJvbm9zdGljby",
-      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - ToffeeWeb",
-      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - toffeeweb.com",
+      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJISTRNQXY0VmFaSTBVbUxITFFUZ1ZPNHpOSmVaQldGaU9GM2NBbGdxSEgxMFR4Ry1tQjRIekVYNzk5bS16a0Q0RmpGN0hGRDQ1NHRJcjBEYllnYXBFb1JlVUN6ak8xR0FZQVUxcC01RGQyOHZRY1RxVkhubU0tcnhndkM1NGZvZnhCWFZPb1JBY1RoRFRtVQ?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-19T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -946,21 +946,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHd4UUFoRlBQUV9McGJmNFFQay1YdjdfY2dZWGFHWXc5MGNLanNFYldvRVE3QUlUeUlaMDM2ZmotQm9iaFQtR0lISzJvc19PdERQRkZxRG4wWXFIcVd0UGRBcmpYMFJJNkFkYnA3emdOUW9iR1hQX3JtcHFhWHNNaTh5Y3NKaFdnV1QyZlB2eFBEQQ?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-11T21:30:28.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMSBrYWRlciBpbSBkZXRhaW",
-      "title": "Derby County U21 - Kader im Detail 25/26 - Transfermarkt",
-      "description": "Derby County U21 - Kader im Detail 25/26 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcG83WU5ZV19BOERwYjgzc3VNUWo1bzZqZnAxU2lfSjVXZUIwZXBMMm0xZmVIRGkwM01Xa1NBR1Zqc0ZGblRuTldDRFJacy1DM2tIQU9QYXlBNUxSVFdsTEFkMVVYZHJuVmx1ZXg5RXlibkZ0VWhaUElYNUlpd1hWajFhdWV2QQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-11T14:02:10.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
