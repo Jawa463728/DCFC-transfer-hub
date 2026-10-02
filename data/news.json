@@ -1,10 +1,36 @@
 {
-  "updatedAt": "2026-10-02T06:59:02.654Z",
+  "updatedAt": "2026-10-02T13:47:17.844Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 58,
-  "targetCount": 4,
+  "storyCount": 57,
+  "targetCount": 6,
   "targets": [
+    {
+      "name": "Bobby Clark",
+      "score": 66,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-10-02T09:03:00.000Z",
+      "firstSeen": "2026-10-02T13:47:17.844Z",
+      "isNew": true
+    },
+    {
+      "name": "David Clowes",
+      "score": 66,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-10-02T09:03:00.000Z",
+      "firstSeen": "2026-10-02T13:47:17.844Z",
+      "isNew": true
+    },
     {
       "name": "Henrik Meister",
       "score": 49,
@@ -20,7 +46,7 @@
     },
     {
       "name": "Jason Knight",
-      "score": 40,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -60,26 +86,29 @@
   ],
   "stories": [
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1FYRGdaVE1zc1NQZlh3RzZoWGxxSHNZZE9GQ0xxNFVhMmQxdnFJU2MxQkdTUHFmbEdQMmZ5OG5ZNktfX2NCd1A5SWdpSktJSE9kRjhQbURjOUdVbWpRV0xPWUxqUS0xR1RNd0NHclA2LTF5blI2VTRQaFd3ZkY5emtXRVNCZGx3d0I5UTQ3VThLTmk1OFRwUVV5MFZzSlB3WmtzcnJXY1liVGpaOVdUUjA5ODQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-01T07:09:31.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
+      "id": "Ym9iYnkgY2xhcmsgdmFsdWUgcm9ja2V0cyBhZnRlci",
+      "title": "Bobby Clark value rockets after Derby County transfer in huge boost for David Clowes - Derbyshire Live",
+      "description": "Bobby Clark value rockets after Derby County transfer in huge boost for David Clowes &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS09OY1NzdEVodGxYN2cwUTFMYVJXc081VmJkbHNDTVozZnlpWEZzQVR0NFloMXdRRFJJMHRfeUVVNXdfX0ptVXZEWk8yb2I4Q2VfcG9DZ01sYzQtekRsYWU0SEQ2MFVpTHEzT3NEZzdwSFBpNnFaMXNSX3RrS2R1aGQ3VVhBRWxuNXRLZ1JBMzZzb1RFX0hWRXh1M0ZQSVlRTWxndkozcw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-02T09:03:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Bobby Clark",
+        "David Clowes"
+      ]
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeAlex Mowatt. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeAlex Mowatt. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeAlex Mowatt. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeAlex Mowatt. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TR1lYU25IZzNUdGREbkdtWkFkR0tidFhvNWNxbVVSUVlldng0UGxGVHJkenBaQTFocElRdGVHakZzWUZmV1JGZFJoUGRhbVBOanViaXMtZDBwUQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-10-01T01:11:34.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -117,7 +146,7 @@
       "likelihood": 90,
       "ratingLabel": "Very strong",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -183,10 +212,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRmwwM3owU1dVM2pMWXVVV3JiUWg0VjRNNEI2LVl4V0V5SlE0aktJZk5qZFE5MGNWM1V0bjhOUFdUclBDX0poTXlBbDF1N05ndG5FSXE4UDZHQQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-27T11:30:26.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -334,6 +363,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "tr",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NmSFVqWWxZcms2NWJ2X1pYaXNhMUNENDd4VTh6TGhNQXdUV3pxVkZ4VUUzRTdhM2xWUjhyR3Z2eHBJcUtXQnFwQUkwbGVCU2RaTEV0RVFPWXNaZHJGbmMtdTloSGtCZEJ6VUJYWWN3QVA0X1pPYXQzYkIzSmRXSVgyR0E?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-23T13:55:59.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
       "overseas": true,
       "players": []
     },
@@ -536,10 +580,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeEiran Cashin. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeEiran Cashin. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeEiran Cashin. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeEiran Cashin. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yLTIwSjc5V0ZVcVAySEdwVEtsQk9pQkNPS1dqZ2x5a25OeVdwTnhCWlk0TmEzdzlMQUdubzlSYlhZdVg1UGlJckJpN1ZrNDZfVkRaQ2M5QXltZw?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-19T00:54:27.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -551,10 +595,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fR3I1VWNUcko1NTJTazk2QnZyUGlQRWY2eUFmelhYbXZXTEpXSktKRk9obG5YT1lqamVXeEkyZnVCRGROV016a3N3cW04VkNlbjMtRThqVy1jUQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-19T00:52:30.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -924,38 +968,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGx0ZXN0ZSB0b3JzY2ggdHplbi",
-      "title": "Derby County - Älteste Torschützen (Galerie) - Transfermarkt",
-      "description": "Derby County - Älteste Torschützen (Galerie) &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUx5Yk5YLVZVYmRaQjE5Y3lHbjgyOFhRT2N2RUFHYnFXYWJkank5TFpWYXVrYTNfVjRSbWRPZ0p6NHJaX2ZRb3pxbFc3OS1KTlAzOXVxeWhBLTlWT1Z1Z2xlQ05lOTRBNWY5bUR4MlpDTkFEUXdPTDJsdW1pWnFGd0dyTHBvQUY2ai1HRkVvS2dGeFdvb2k5ZDViQ0xBMWRzejQwT0lzd2dsbzVSaWVsSy0xa2pZUTBkaWt2MUs3M3BsZUdPZ3pr?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-11T13:17:32.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "dHVya2kgYWxhbHNoaWtoIHNvdW5kZWQgb3V0IGFmdG",
-      "title": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal - Derbyshire Live",
-      "description": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVphMnhzMWRSc09wbW9uN0dJMXhfc1BkLU9yNDFyQnRpdHdNMm1ZdU9yXzBVWEJKNzJlU19hMTJCaEowUTBvNU1rQzY0eXNPUGx4M0hIYUc0UU5taGFNcjRPNmRHcjEyRmQxNGhvM3BzQ2taemVGQThZUEN6M1JONlcyeVlXNE9pbzhDTjdxVmlBZ0tob0wzcnA4d1pzNjRId0xRekZHVGNaaWpV?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-11T08:27:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Turki Alalshikh"
-      ]
     }
   ]
 }
