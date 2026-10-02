@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-01T21:48:40.238Z",
+  "updatedAt": "2026-10-02T01:06:41.386Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 59,
+  "storyCount": 58,
   "targetCount": 4,
   "targets": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "name": "Jason Knight",
-      "score": 42,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "YouTube",
+      "bestSource": "youtu.be",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-09-30T15:00:29.000Z",
@@ -60,6 +60,21 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1FYRGdaVE1zc1NQZlh3RzZoWGxxSHNZZE9GQ0xxNFVhMmQxdnFJU2MxQkdTUHFmbEdQMmZ5OG5ZNktfX2NCd1A5SWdpSktJSE9kRjhQbURjOUdVbWpRV0xPWUxqUS0xR1RNd0NHclA2LTF5blI2VTRQaFd3ZkY5emtXRVNCZGx3d0I5UTQ3VThLTmk1OFRwUVV5MFZzSlB3WmtzcnJXY1liVGpaOVdUUjA5ODQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-01T07:09:31.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
       "title": "Transfert confirmé : Derby County signeAlex Mowatt. - OneFootball",
       "description": "Transfert confirmé : Derby County signeAlex Mowatt. &nbsp;&nbsp; OneFootball",
@@ -76,10 +91,10 @@
     },
     {
       "id": "amFzb24ga25pZ2h0IHJldHVybmluZyB0byBkZXJieS",
-      "title": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 - YouTube",
-      "description": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 &nbsp;&nbsp; YouTube",
+      "title": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 - youtu.be",
+      "description": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 &nbsp;&nbsp; youtu.be",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5leFMwVGpqdVBmNF9wQzNzV25fbVg4OERHalFQUFF1NHhVQUpKWE1fdHY0Z1Vla1ZvcjdzYkRmaEYyUQ?oc=5",
-      "source": "YouTube",
+      "source": "youtu.be",
       "published": "2026-09-30T15:00:29.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -214,21 +229,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zbUFkSW9qdVZMbVVSQXJwT2ZBV0EwUWRVOUFsakU4d2VRa0hoWkdZSDlHbGpNX3o1dnNXQU94Y1NYRFRKUHYwODRhSFNuS01veW9aYVFPd2xRS1RjUGZIS3ZRTGtRYzRJbmxZMlFjMnBpcFBaLTZV?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-26T07:15:24.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHNob3VsZCB0YXJnZXQgdmVyc2",
       "title": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion - Yahoo",
       "description": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion &nbsp;&nbsp; Yahoo",
@@ -324,10 +324,10 @@
     },
     {
       "id": "d3JleGhhbSBhZmMgZGVyYnkgY291bnR5IDI3IHViID",
-      "title": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu - transfermarkt.com.tr",
-      "description": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu &nbsp;&nbsp; transfermarkt.com.tr",
+      "title": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu - Transfermarkt",
+      "description": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xMXJ6OFRoRGZLU3VHNnhyUDAzX3JrUkNBdjA0ZkY1c2l3QTlwbGdQbjdDMm9SRHgxVmlvNGl5RUNaSGZXYm4yT0VLeTRMQS0zNzJhVExjaThFeGJ0UW44aVZnQXE4UUpBdlpfSU1iV1BwTEphSXM1VW00d3Y?oc=5",
-      "source": "transfermarkt.com.tr",
+      "source": "Transfermarkt",
       "published": "2026-09-23T14:02:57.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -369,10 +369,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U18 - Transfers 26/27 - transfermarkt.de",
-      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County U18 - Transfers 26/27 - Transfermarkt",
+      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnZ4S19VeXVoR1BsYmV2VUlkRDRPYXFkdFp6S1dneGs0MFZYN1F3bk8yazhvblFJUU5zSkdRcDJQUnQ2TUlGbnhlRkNiZy1UdURnYVhJQzlMSFdqdlVQVk5fZjZCZlVfNTdoNk9ucjBfbXRYRC1vNnNwS2UxQURqOTM4Z2poTl83ZXdn?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-22T14:16:54.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -598,10 +598,10 @@
     },
     {
       "id": "ZWlyYW4gY2FzaGluIGRlZmVuZGVyIHNheXMgZGVyYn",
-      "title": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return - BBC",
-      "description": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return &nbsp;&nbsp; BBC",
+      "title": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return - bbc.com",
+      "description": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return &nbsp;&nbsp; bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00NzB5WFBoVDBUV19fbXBSVFU4dEdvb3pkeVlrQWROVThoQm4wNTJRelJEcXZVYkk4Vi1STW4zalptTnpyaTJnN2o3bXRmZzBSRmVFUFZQdjhrSEdFS1pnbzA4R1RtTUdB?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-09-18T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -956,21 +956,6 @@
       "players": [
         "Turki Alalshikh"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJpbGFueiBnZWdlbiB3b2x2ZX",
-      "title": "Derby County - Bilanz gegen Wolverhampton Wanderers (Detailansicht) | Seite 3 - Transfermarkt",
-      "description": "Derby County - Bilanz gegen Wolverhampton Wanderers (Detailansicht) | Seite 3 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZjZEZHNxSENIV2F5LWJRRUo4b3BHUW8yNDE4aXBLRVpXeDhidjJXWnEzSk40OWdkVFJYTkZEdDNUOGJYdzg0M1NISUZtOWxGZnI2X0lQck95YTFTXzFEcVhmTGNsd0JzbzdwSlJyT0Z5aTFzMXBFN0ZiRzJJYzZReGNaOE1YQzZqSkVJQWlTM0QxYmRpbWpqcnBFUDRTZUh5SkZwN3hDa1NtZTZ2MVZhNEFySUM0YkpXbEhyc0w5X1BGTXRQd2J3SU8yRVBjaUZ1SEJZTEd1VTE0ZU5tdUViaWxtZ3FNSWNqM29PWDh3NDEySHVGWEM5cV9FTQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-10T22:10:40.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
