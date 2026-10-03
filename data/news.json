@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-02T22:36:46.520Z",
+  "updatedAt": "2026-10-03T01:26:16.454Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 56,
+  "storyCount": 54,
   "targetCount": 8,
   "targets": [
     {
       "name": "Northwich Loan Move Agreed",
-      "score": 72,
+      "score": 71,
       "status": "Strong",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "For Friars",
-      "score": 72,
+      "score": 71,
       "status": "Strong",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -71,19 +71,6 @@
       "isNew": false
     },
     {
-      "name": "Jason Knight",
-      "score": 36,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "YouTube",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-30T15:00:29.000Z",
-      "firstSeen": "2026-09-30T20:11:30.746Z",
-      "isNew": false
-    },
-    {
       "name": "Nicholas Bilokapic",
       "score": 36,
       "status": "Fading",
@@ -94,6 +81,19 @@
       "maxLikelihood": 48,
       "lastMention": "2026-09-26T02:30:07.000Z",
       "firstSeen": "2026-09-18T23:53:05.335Z",
+      "isNew": false
+    },
+    {
+      "name": "Jason Knight",
+      "score": 35,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "YouTube",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-09-30T15:00:29.000Z",
+      "firstSeen": "2026-09-30T20:11:30.746Z",
       "isNew": false
     },
     {
@@ -146,6 +146,21 @@
         "Bobby Clark",
         "David Clowes"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00TXJycWVtbzZLRmFCdjVDbkc3RkJzNFVkenRrVnVDcHh2aDJyY1FETnRxRkUya0hXOTliMTNlTjBvaU8yUUo0UVlYWU1UTkNhRGlGZ1lpTklMMGxxWFg4bEI5bURiZnRjX19iX0tiN2hOUQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-02T02:15:31.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
@@ -210,42 +225,12 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RRzc0VXIzVjNuVDNvLWVXRE0tb0ppblZlUl9hRUFNNXdNTkRaUmhIdGtDa0RJVS1DWTY5N21OOUxqVjdGRDRyd09oRkpUQ2p6QUJKU2JhMHZTWlRXNVUwUUp4em0tTlJfZTRRckxWelZMWklZa1BuaGZFNUM?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-29T23:56:19.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHNoZWZmaWVsZCB1bml0ZWQgMD",
       "title": "Derby County - Sheffield United, 02.05.2026 - Championship - Spielbericht - Transfermarkt",
       "description": "Derby County - Sheffield United, 02.05.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHJOX2cza3Vob2tFWU9KZGt4QnVxeThfUXZ3czVPb0ZMQ2lZbWR6NkJaN0p0OFZWTVBITDJZTXFyb2ctUkw0a2lYSnhQV1VHZmUtNnFWdlk0cl9QUTJUU2FiTEN3QTQwdUJPRFhZQy00enV3ZkpqaDFpYU5TbTNJbzZ6V1R6ZTNCVmxzaFFB?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-29T22:28:52.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2dFNVNROWN6RUtRTkoxY2ZKNVd2ME5wTzR6VG9FV0owanpaQVNGZzRMOThhNUtrV1YxUUFrVVoxOGJ3RDJ2RTJxQXdUT0g4eWtGWDFJSWptMDViTU92THdFYjlZTUZlc2YtdGF0eUYwdlhXaVE5c0R5dEJnYW9BT0FNcFpUSUxta3dQVmktNXllYkkt?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-29T13:42:58.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -412,10 +397,10 @@
     },
     {
       "id": "d3JleGhhbSBhZmMgZGVyYnkgY291bnR5IDI3IHViID",
-      "title": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu - transfermarkt.com.tr",
-      "description": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu &nbsp;&nbsp; transfermarkt.com.tr",
+      "title": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu - Transfermarkt",
+      "description": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xMXJ6OFRoRGZLU3VHNnhyUDAzX3JrUkNBdjA0ZkY1c2l3QTlwbGdQbjdDMm9SRHgxVmlvNGl5RUNaSGZXYm4yT0VLeTRMQS0zNzJhVExjaThFeGJ0UW44aVZnQXE4UUpBdlpfSU1iV1BwTEphSXM1VW00d3Y?oc=5",
-      "source": "transfermarkt.com.tr",
+      "source": "Transfermarkt",
       "published": "2026-09-23T14:02:57.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -442,10 +427,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
-      "title": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 - transfermarkt.es",
-      "description": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 &nbsp;&nbsp; transfermarkt.es",
+      "title": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 - Transfermarkt",
+      "description": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb012MVZXTjRXaGoySDZ5RkFKV0Vwai11aTFtU2ZZRzRjQkVZLTVVRUxBNUdxWGh0YnlwZUI1OU9EVEtuTEZyUXVtaEF3X21IenAza1B0QjBWdUxpWXgwU0xCdHg2c2x3aHNFT09zMDhJQU82N2F0M3l3WlItdWlDdlowWXBTVENabUZQVXE0LVZzcnFGbDYybzNTa3U?oc=5",
-      "source": "transfermarkt.es",
+      "source": "Transfermarkt",
       "published": "2026-09-22T14:20:57.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -960,21 +945,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDV6UjdEdkZTYmtMMTdrQXZTYlFNSHRESU05Vmk5VkljaVZXbzhMWThjb3ZhQWZKTl9QVU5IRXd3WnRCNE5HRUp2cGdnaHBiMktUMWw3bDQwVURWQWFjbFgwMVMxZ2pLbWR4bzJSRjZHUVFRX2JjNFNjSmxFRVptVnRqVm9RS0ppYjBj?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-12T14:41:34.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMSBrYWRlciBkZXIgbiBjaH",
-      "title": "Derby County U21 - Kader der nächsten Saison (Galerie) | Seite 8 - Transfermarkt",
-      "description": "Derby County U21 - Kader der nächsten Saison (Galerie) | Seite 8 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONHdyOXdjSXEzNDYzMWFacjdtb2dqUEhZSDF1WUFDd2M3UXZ0bzFvcmRLbGRmcGdBSlVyNzl2SC11U1VqZnFoRkFhNl9KY3AtcmlOMk9GdV9RQjYtalh6bnhJQ0pGZHFfei1CYkxvenBTVEY2LWlPa1dvUnBKT25ZQVhKbnRXNGJfZzhINzZ2V2hpRXktZFlVemFxVlJ1WGlxeG5DWTR3bEhyTjRXSEpPV2FRVDNpVFhja2Jn?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-12T00:24:20.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
