@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T16:36:05.013Z",
+  "updatedAt": "2026-10-03T19:24:04.195Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -128,10 +128,10 @@
     },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFVyTk9Fd2ZkX3Bub2tfenFBLXlybUFNSjNZTXRNOHZtSDNaSV9nOTdtWHZzZlVhR1FaeVFGemtlTFBWSExDN3o1aXBpd1JvRHhyWkJpT3MtbTVqOWlyQWtPUGlndFdfUUc1dEJxenVUWVR2djFVcWhYUFZINUQ1SDlwbzBfeThHNGpkZG45Y0lMdE0xSG1ocUc4SWkwNG9DZG9PMWIwcEZDNGVtZ1pzb0lyX3daU2YwNHRXbDZ4WkQ?oc=5",
-      "source": "fotmob.com",
+      "source": "FotMob",
       "published": "2026-10-02T20:33:12.000Z",
       "reputation": 48,
       "likelihood": 51,
