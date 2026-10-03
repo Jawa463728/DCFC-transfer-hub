@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T12:25:38.013Z",
+  "updatedAt": "2026-10-03T16:36:05.013Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 55,
+  "storyCount": 54,
   "targetCount": 8,
   "targets": [
     {
       "name": "Northwich Loan Move Agreed",
-      "score": 68,
+      "score": 67,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "For Friars",
-      "score": 68,
+      "score": 67,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 61,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 61,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -86,10 +86,10 @@
     {
       "name": "Jason Knight",
       "score": 32,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "youtu.be",
+      "bestSource": "YouTube",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-09-30T15:00:29.000Z",
@@ -111,6 +111,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzZGZzVTN2xDbWRLZlJxVzVQaWR1WVNYd0RETFJjNlJSMXFLMjR5UW9Da0U1OV9tNzlVLUNYTWZ2eUliaV9LY1owWDlZTVA1RmE0QXVOajlXR3hzeERZamI2Uk83MEktNmIxdXRFUWJQZUJVX3ktYXJZU25GNUVPYjRYa09nYmRQdlFlVWoyZ3V2NDAwN1ZQcXVJUDVWNG9RWmc?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-03T08:31:28.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
       "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
@@ -178,11 +193,26 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1FYRGdaVE1zc1NQZlh3RzZoWGxxSHNZZE9GQ0xxNFVhMmQxdnFJU2MxQkdTUHFmbEdQMmZ5OG5ZNktfX2NCd1A5SWdpSktJSE9kRjhQbURjOUdVbWpRV0xPWUxqUS0xR1RNd0NHclA2LTF5blI2VTRQaFd3ZkY5emtXRVNCZGx3d0I5UTQ3VThLTmk1OFRwUVV5MFZzSlB3WmtzcnJXY1liVGpaOVdUUjA5ODQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-01T07:09:31.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeAlex Mowatt. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeAlex Mowatt. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeAlex Mowatt. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeAlex Mowatt. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TR1lYU25IZzNUdGREbkdtWkFkR0tidFhvNWNxbVVSUVlldng0UGxGVHJkenBaQTFocElRdGVHakZzWUZmV1JGZFJoUGRhbVBOanViaXMtZDBwUQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-10-01T01:11:34.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -194,10 +224,10 @@
     },
     {
       "id": "amFzb24ga25pZ2h0IHJldHVybmluZyB0byBkZXJieS",
-      "title": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 - youtu.be",
-      "description": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 &nbsp;&nbsp; youtu.be",
+      "title": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 - YouTube",
+      "description": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 &nbsp;&nbsp; YouTube",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5leFMwVGpqdVBmNF9wQzNzV25fbVg4OERHalFQUFF1NHhVQUpKWE1fdHY0Z1Vla1ZvcjdzYkRmaEYyUQ?oc=5",
-      "source": "youtu.be",
+      "source": "YouTube",
       "published": "2026-09-30T15:00:29.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -255,26 +285,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQW92UXlpX0dtRFRIZFVjbWxIbWhzZkQ0aHlPOHdQcWhUcnU3ek8wVzF1MFY0N1ZXeTQ5c19hcm9FeVRfWlRLRUVuVHBNTnFBWEtQQ2pzbGZzVGwwMHF3RW5BaDRLMzNMWFhQT1JzZndyMFZrQ3NVV2pEYzczSU1mLQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-28T16:25:55.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRmwwM3owU1dVM2pMWXVVV3JiUWg0VjRNNEI2LVl4V0V5SlE0aktJZk5qZFE5MGNWM1V0bjhOUFdUclBDX0poTXlBbDF1N05ndG5FSXE4UDZHQQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-27T11:30:26.000Z",
       "reputation": 57,
       "likelihood": 70,
@@ -379,21 +394,6 @@
       "players": [
         "Henrik Meister"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM2N2Z0k4Z3hFQkFjTXkxTll2NjVrZTducV96eU81SElLVUxDZU82dGlTaTk0eDBsS0ZUOGxUc3BTQk5xNlBNRUJSMVdzN3kzaVUwVzV0czRWYzZ4am8yenpvRHAwUGE3amhYb0wtUDNPZ2lsTC1Vak50VkhadFVPUF9UMHd0ODgz?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-24T11:51:40.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHlvdXRofFRyYW5zZmVybWFya3",
@@ -945,21 +945,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTRTeGNVNFJUckpObHdOdzM1cWp0Vk93QW1tamxZNWR3dGZEbEtNRkhtS3RSVFAwM21fWDRmQkd4U2ZMTmZzMUtyT1VTM2NLcGRwNklua0liSTFQWElkcWtvUHlaNnF3QVlmV2swSm51UGZxRDdnSXVqVk1nN3U1X1hLYkhraWJhNmpxaU9LWUE5VEZqWFQ4NlpB?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-12T22:29:42.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMSB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U21 - Transfers 26/27 - Transfermarkt",
-      "description": "Derby County U21 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDV6UjdEdkZTYmtMMTdrQXZTYlFNSHRESU05Vmk5VkljaVZXbzhMWThjb3ZhQWZKTl9QVU5IRXd3WnRCNE5HRUp2cGdnaHBiMktUMWw3bDQwVURWQWFjbFgwMVMxZ2pLbWR4bzJSRjZHUVFRX2JjNFNjSmxFRVptVnRqVm9RS0ppYjBj?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-12T14:41:34.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
