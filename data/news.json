@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T01:26:16.454Z",
+  "updatedAt": "2026-10-03T06:57:34.805Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 55,
   "targetCount": 8,
   "targets": [
     {
       "name": "Northwich Loan Move Agreed",
-      "score": 71,
+      "score": 70,
       "status": "Strong",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "For Friars",
-      "score": 71,
+      "score": 70,
       "status": "Strong",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -42,11 +42,11 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-02T09:03:00.000Z",
       "firstSeen": "2026-10-02T13:47:17.844Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "David Clowes",
-      "score": 63,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -55,7 +55,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-02T09:03:00.000Z",
       "firstSeen": "2026-10-02T13:47:17.844Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Henrik Meister",
@@ -85,7 +85,7 @@
     },
     {
       "name": "Jason Knight",
-      "score": 35,
+      "score": 34,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -102,7 +102,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Transfermarkt",
+      "bestSource": "transfermarkt.at",
       "bestSourceScore": 48,
       "maxLikelihood": 43,
       "lastMention": "2026-09-26T18:52:20.000Z",
@@ -111,6 +111,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFVyTk9Fd2ZkX3Bub2tfenFBLXlybUFNSjNZTXRNOHZtSDNaSV9nOTdtWHZzZlVhR1FaeVFGemtlTFBWSExDN3o1aXBpd1JvRHhyWkJpT3MtbTVqOWlyQWtPUGlndFdfUUc1dEJxenVUWVR2djFVcWhYUFZINUQ1SDlwbzBfeThHNGpkZG45Y0lMdE0xSG1ocUc4SWkwNG9DZG9PMWIwcEZDNGVtZ1pzb0lyX3daU2YwNHRXbDZ4WkQ?oc=5",
+      "source": "fotmob.com",
+      "published": "2026-10-02T20:33:12.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "YWNhZGVteSBuZXdzIG5vcnRod2ljaCBsb2FuIG1vdm",
       "title": "ACADEMY NEWS: Northwich Loan Move Agreed For Friars - Derby County",
@@ -226,10 +241,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHNoZWZmaWVsZCB1bml0ZWQgMD",
-      "title": "Derby County - Sheffield United, 02.05.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Sheffield United, 02.05.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Sheffield United, 02.05.2026 - Championship - Spielbericht - transfermarkt.at",
+      "description": "Derby County - Sheffield United, 02.05.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHJOX2cza3Vob2tFWU9KZGt4QnVxeThfUXZ3czVPb0ZMQ2lZbWR6NkJaN0p0OFZWTVBITDJZTXFyb2ctUkw0a2lYSnhQV1VHZmUtNnFWdlk0cl9QUTJUU2FiTEN3QTQwdUJPRFhZQy00enV3ZkpqaDFpYU5TbTNJbzZ6V1R6ZTNCVmxzaFFB?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-29T22:28:52.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -286,10 +301,10 @@
     },
     {
       "id": "YWZjIHN1bmRlcmxhbmQgZGVyYnkgY291bnR5IDIzID",
-      "title": "AFC Sunderland - Derby County, 23.04.1977 - First Division (- 91/92) - Spielbericht - Transfermarkt",
-      "description": "AFC Sunderland - Derby County, 23.04.1977 - First Division (- 91/92) - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "AFC Sunderland - Derby County, 23.04.1977 - First Division (- 91/92) - Spielbericht - transfermarkt.at",
+      "description": "AFC Sunderland - Derby County, 23.04.1977 - First Division (- 91/92) - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0ZXcVhTWFBiWEJrNFdJXy1jeHRGUm1rWC0tLVVDZWpRaU9aNU5yZXBIa3Y2UXNLZzlhSVlyTWd6dWtCeElaTjFqU2pmRDRwRU9FX1l1VThCR0oxazBoaWgta1M3RENydjJDTXNLbXJMNjJhaWl1dDktTWdBeHE1b3FUeXNNZw?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-26T18:52:20.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -335,10 +350,10 @@
     },
     {
       "id": "ZmMgbWlkZGxlc2Jyb3VnaCBkZXJieSBjb3VudHkgMj",
-      "title": "FC Middlesbrough - Derby County, 29.11.2025 - Championship - Spielbericht - Transfermarkt",
-      "description": "FC Middlesbrough - Derby County, 29.11.2025 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "title": "FC Middlesbrough - Derby County, 29.11.2025 - Championship - Spielbericht - transfermarkt.at",
+      "description": "FC Middlesbrough - Derby County, 29.11.2025 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.at",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFMTTlWVEdNT1pQWWs5LTlSSU9XdUJ1N2N6R3B6SE9ZRnRDVmhacmF4LS1lWW9BaGNRbkhQMnhSdWVPNWVzN0E0Sk50VzA1Xzh2bmxRMUZLa0d2UHBnTnJUUjR4S01KYmxFRGQ1WTctYndRakxCZzVBUGNMSC16eVBQUThWR29kd1VCWHFn?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.at",
       "published": "2026-09-25T22:48:54.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -594,10 +609,10 @@
     },
     {
       "id": "YnVybmxleSBkZXJieSBjb3VudHkgcHJvbm9zdGljby",
-      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - ToffeeWeb",
-      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - toffeeweb.com",
+      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJISTRNQXY0VmFaSTBVbUxITFFUZ1ZPNHpOSmVaQldGaU9GM2NBbGdxSEgxMFR4Ry1tQjRIekVYNzk5bS16a0Q0RmpGN0hGRDQ1NHRJcjBEYllnYXBFb1JlVUN6ak8xR0FZQVUxcC01RGQyOHZRY1RxVkhubU0tcnhndkM1NGZvZnhCWFZPb1JBY1RoRFRtVQ?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-19T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
