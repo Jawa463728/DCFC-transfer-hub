@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-04T01:38:21.960Z",
+  "updatedAt": "2026-10-04T07:23:27.587Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 52,
+  "storyCount": 51,
   "targetCount": 8,
   "targets": [
     {
       "name": "Northwich Loan Move Agreed",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "For Friars",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 57,
+      "score": 56,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 57,
+      "score": 56,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -115,9 +115,9 @@
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
       "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzZGZzVTN2xDbWRLZlJxVzVQaWR1WVNYd0RETFJjNlJSMXFLMjR5UW9Da0U1OV9tNzlVLUNYTWZ2eUliaV9LY1owWDlZTVA1RmE0QXVOajlXR3hzeERZamI2Uk83MEktNmIxdXRFUWJQZUJVX3ktYXJZU25GNUVPYjRYa09nYmRQdlFlVWoyZ3V2NDAwN1ZQcXVJUDVWNG9RWmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHpDSmtSbFFmS0dmeWpXTkxjWEx4NVU0WTdxRGowVDlnSFV3dm1FcFAxc0xFekxKVHN0WGptQ0RSMV9lSjZGRVZEUTB6OVdwTThoNlp1T1ltQVl2RGdyT2FDcmdwN2E3VkJfRWkwVDl6M3hkcUJJbUEyXzdBNXRWWnU2ZFdFbHBoXzc0azVLQXRMSnJDVTFaMkg0MjZDeU12N2Z2cU9LVlIxWXNiN3pUaGs0SFN2TWRWX29j?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-10-03T08:31:28.000Z",
+      "published": "2026-10-03T17:03:16.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -261,6 +261,21 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHJOX2cza3Vob2tFWU9KZGt4QnVxeThfUXZ3czVPb0ZMQ2lZbWR6NkJaN0p0OFZWTVBITDJZTXFyb2ctUkw0a2lYSnhQV1VHZmUtNnFWdlk0cl9QUTJUU2FiTEN3QTQwdUJPRFhZQy00enV3ZkpqaDFpYU5TbTNJbzZ6V1R6ZTNCVmxzaFFB?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-29T22:28:52.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2dFNVNROWN6RUtRTkoxY2ZKNVd2ME5wTzR6VG9FV0owanpaQVNGZzRMOThhNUtrV1YxUUFrVVoxOGJ3RDJ2RTJxQXdUT0g4eWtGWDFJSWptMDViTU92THdFYjlZTUZlc2YtdGF0eUYwdlhXaVE5c0R5dEJnYW9BT0FNcFpUSUxta3dQVmktNXllYkkt?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-09-29T13:42:58.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -442,10 +457,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
-      "title": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 - transfermarkt.es",
-      "description": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 &nbsp;&nbsp; transfermarkt.es",
+      "title": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 - Transfermarkt",
+      "description": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb012MVZXTjRXaGoySDZ5RkFKV0Vwai11aTFtU2ZZRzRjQkVZLTVVRUxBNUdxWGh0YnlwZUI1OU9EVEtuTEZyUXVtaEF3X21IenAza1B0QjBWdUxpWXgwU0xCdHg2c2x3aHNFT09zMDhJQU82N2F0M3l3WlItdWlDdlowWXBTVENabUZQVXE0LVZzcnFGbDYybzNTa3U?oc=5",
-      "source": "transfermarkt.es",
+      "source": "Transfermarkt",
       "published": "2026-09-22T14:20:57.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -609,10 +624,10 @@
     },
     {
       "id": "YnVybmxleSBkZXJieSBjb3VudHkgcHJvbm9zdGljby",
-      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - ToffeeWeb",
-      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; ToffeeWeb",
+      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - toffeeweb.com",
+      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; toffeeweb.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJISTRNQXY0VmFaSTBVbUxITFFUZ1ZPNHpOSmVaQldGaU9GM2NBbGdxSEgxMFR4Ry1tQjRIekVYNzk5bS16a0Q0RmpGN0hGRDQ1NHRJcjBEYllnYXBFb1JlVUN6ak8xR0FZQVUxcC01RGQyOHZRY1RxVkhubU0tcnhndkM1NGZvZnhCWFZPb1JBY1RoRFRtVQ?oc=5",
-      "source": "ToffeeWeb",
+      "source": "toffeeweb.com",
       "published": "2026-09-19T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -890,38 +905,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "bWFuY2hlc3RlciB1bml0ZWQgZGVyYnkgY291bnR5ID",
-      "title": "Manchester United - Derby County, 03.02.1999 - Premier League - Spielbericht - transfermarkt.at",
-      "description": "Manchester United - Derby County, 03.02.1999 - Premier League - Spielbericht &nbsp;&nbsp; transfermarkt.at",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2UzTWtUeFJ2UFlJa2FmNVZaaFI2ZHZLc1JOS1VlclRTWEFIMWFrVGhrLVBPZkY3QmN3WUdZOTBvUTFIei10NUI3YzJWU0d4Vl9RMkNZT1c5TDdlbFhubEZfTy00eUhpRkJoVXhsNkIybzRXWHBlMkx6eERNZGtoLXBjWDQ4NEdSbDVuWTdQcDVwejA?oc=5",
-      "source": "transfermarkt.at",
-      "published": "2026-09-13T05:29:02.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMSB3ZXJ0dm9sbHN0ZSBhYm",
-      "title": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 3 - Transfermarkt",
-      "description": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 3 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRk1LbFZSZnRBNVVTeFo0bmc3TjNwcG9td2ZpZGpnUzlXZjR5S3E0dlcxd2tKYkRSdkFKcWF6d3RzeVRkajM3NGZHSGR0UWpVVVlYY1E3UUUtWEtMaEtyNllKdXEwbEVMc1lCVEdNOHZtaGVyTUktZ2VIeUhFMWJhVUFpTlVJcnJrRzlyRkxzMF95REhoQ1IzYjJEd0NTeWtLSUtrNnNYTUJrUGoxSW9rNFJ3bGsySGJ1Tjl3UHVQZFBrcHVs?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-13T02:34:49.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Wertvollste Abgänge"
-      ]
     }
   ]
 }
