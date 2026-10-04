@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T07:23:27.587Z",
+  "updatedAt": "2026-10-04T13:22:11.686Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 51,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Northwich Loan Move Agreed",
-      "score": 64,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "For Friars",
-      "score": 64,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,8 +33,8 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 56,
-      "status": "Developing",
+      "score": 54,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -46,8 +46,8 @@
     },
     {
       "name": "David Clowes",
-      "score": 56,
-      "status": "Developing",
+      "score": 54,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -111,6 +111,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHd6MHZ0TURuWVJMV21IdXJjdHp1VmZvWUhXWC14YmNEenRzVU5NM0hwaU9ZakQxaUtocVVjWXBDaHoxN0FneWFoOEJndDdSM1Rldm1IM0d6dUhwd25Ca29uN2k2Ri1hUENBS1F4RkxLSlUxRU9kRFRYWnBwNFh6aW5nVW51VWFFYmhrbEp5SWtYeFV6dzhWTW9B?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-04T02:03:10.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
@@ -261,21 +276,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHJOX2cza3Vob2tFWU9KZGt4QnVxeThfUXZ3czVPb0ZMQ2lZbWR6NkJaN0p0OFZWTVBITDJZTXFyb2ctUkw0a2lYSnhQV1VHZmUtNnFWdlk0cl9QUTJUU2FiTEN3QTQwdUJPRFhZQy00enV3ZkpqaDFpYU5TbTNJbzZ6V1R6ZTNCVmxzaFFB?oc=5",
       "source": "Transfermarkt",
       "published": "2026-09-29T22:28:52.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2dFNVNROWN6RUtRTkoxY2ZKNVd2ME5wTzR6VG9FV0owanpaQVNGZzRMOThhNUtrV1YxUUFrVVoxOGJ3RDJ2RTJxQXdUT0g4eWtGWDFJSWptMDViTU92THdFYjlZTUZlc2YtdGF0eUYwdlhXaVE5c0R5dEJnYW9BT0FNcFpUSUxta3dQVmktNXllYkkt?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-29T13:42:58.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -624,10 +624,10 @@
     },
     {
       "id": "YnVybmxleSBkZXJieSBjb3VudHkgcHJvbm9zdGljby",
-      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - toffeeweb.com",
-      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; toffeeweb.com",
+      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - ToffeeWeb",
+      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; ToffeeWeb",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJISTRNQXY0VmFaSTBVbUxITFFUZ1ZPNHpOSmVaQldGaU9GM2NBbGdxSEgxMFR4Ry1tQjRIekVYNzk5bS16a0Q0RmpGN0hGRDQ1NHRJcjBEYllnYXBFb1JlVUN6ak8xR0FZQVUxcC01RGQyOHZRY1RxVkhubU0tcnhndkM1NGZvZnhCWFZPb1JBY1RoRFRtVQ?oc=5",
-      "source": "toffeeweb.com",
+      "source": "ToffeeWeb",
       "published": "2026-09-19T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
