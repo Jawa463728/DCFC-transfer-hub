@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T22:17:56.008Z",
+  "updatedAt": "2026-10-04T01:38:21.960Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 52,
   "targetCount": 8,
   "targets": [
     {
       "name": "Northwich Loan Move Agreed",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "For Friars",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 58,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 58,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -112,11 +112,11 @@
   ],
   "stories": [
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHx0cmFuc2Zlcm1hcmt0Lm",
-      "title": "Derby County U18 - transfermarkt.de",
-      "description": "Derby County U18 &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzZGZzVTN2xDbWRLZlJxVzVQaWR1WVNYd0RETFJjNlJSMXFLMjR5UW9Da0U1OV9tNzlVLUNYTWZ2eUliaV9LY1owWDlZTVA1RmE0QXVOajlXR3hzeERZamI2Uk83MEktNmIxdXRFUWJQZUJVX3ktYXJZU25GNUVPYjRYa09nYmRQdlFlVWoyZ3V2NDAwN1ZQcXVJUDVWNG9RWmc?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-10-03T08:31:28.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -178,11 +178,11 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGJ8dHJhbnNmZXJtYXJrdC5kZQ",
-      "title": "Derby County B - transfermarkt.de",
-      "description": "Derby County B &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00TXJycWVtbzZLRmFCdjVDbkc3RkJzNFVkenRrVnVDcHh2aDJyY1FETnRxRkUya0hXOTliMTNlTjBvaU8yUUo0UVlYWU1UTkNhRGlGZ1lpTklMMGxxWFg4bEI5bURiZnRjX19iX0tiN2hOUQ?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-10-02T02:15:31.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -193,11 +193,11 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHx0cmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - transfermarkt.de",
-      "description": "Derby County Jugend &nbsp;&nbsp; transfermarkt.de",
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1FYRGdaVE1zc1NQZlh3RzZoWGxxSHNZZE9GQ0xxNFVhMmQxdnFJU2MxQkdTUHFmbEdQMmZ5OG5ZNktfX2NCd1A5SWdpSktJSE9kRjhQbURjOUdVbWpRV0xPWUxqUS0xR1RNd0NHclA2LTF5blI2VTRQaFd3ZkY5emtXRVNCZGx3d0I5UTQ3VThLTmk1OFRwUVV5MFZzSlB3WmtzcnJXY1liVGpaOVdUUjA5ODQ?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-10-01T07:09:31.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -442,10 +442,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
-      "title": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 - Transfermarkt",
-      "description": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 &nbsp;&nbsp; Transfermarkt",
+      "title": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 - transfermarkt.es",
+      "description": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 &nbsp;&nbsp; transfermarkt.es",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb012MVZXTjRXaGoySDZ5RkFKV0Vwai11aTFtU2ZZRzRjQkVZLTVVRUxBNUdxWGh0YnlwZUI1OU9EVEtuTEZyUXVtaEF3X21IenAza1B0QjBWdUxpWXgwU0xCdHg2c2x3aHNFT09zMDhJQU82N2F0M3l3WlItdWlDdlowWXBTVENabUZQVXE0LVZzcnFGbDYybzNTa3U?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.es",
       "published": "2026-09-22T14:20:57.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -639,10 +639,10 @@
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - onefootball.com",
-      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "title": "Transfert confirmé : Derby County signeNicholas Bilokapic. - OneFootball",
+      "description": "Transfert confirmé : Derby County signeNicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fR3I1VWNUcko1NTJTazk2QnZyUGlQRWY2eUFmelhYbXZXTEpXSktKRk9obG5YT1lqamVXeEkyZnVCRGROV016a3N3cW04VkNlbjMtRThqVy1jUQ?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-19T00:52:30.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -737,10 +737,10 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IGFmYyB3cmV4aGFtIDEwIDEwID",
-      "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - transfermarkt.de",
-      "description": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht &nbsp;&nbsp; transfermarkt.de",
+      "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Cd0Jsc3BLTHVaV3RPbHE0WEVMcjh3UVhwSktMTWpsbkZhTFVhY0hfT0QtYUFkdGlNNzJrMDdUallfQ2M3bzU3N2NVaUU4Ynh0ZVRjYjJkN0dEUmh5Uk1sOTZPcHA0WWxjXzVNbnM5eVFPRVBZeFQ0?oc=5",
-      "source": "transfermarkt.de",
+      "source": "Transfermarkt",
       "published": "2026-09-17T11:47:01.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -922,36 +922,6 @@
       "players": [
         "Wertvollste Abgänge"
       ]
-    },
-    {
-      "id": "cGV0ZXJib3JvdWdoIHVuaXRlZCBkZXJieSBjb3VudH",
-      "title": "Peterborough United - Derby County, 14.08.2021 - Championship - Spielbericht - Transfermarkt",
-      "description": "Peterborough United - Derby County, 14.08.2021 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FMERSUFl0WXBTbHZ5cEU0aVFsemxsbDNqdXEzZUxNUi14WjVRN3V3bldXX2czUzlVM0dsSVQwS21mOTh6YVI5MEc5bWpQUVptYWVseWtsNzU1dldtYU5QZjZndHVwLUZ3UUNkM3VyR2Z1dw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-13T00:49:59.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVycyAyNSAyNiB0cm",
-      "title": "Derby County - Transfers 25/26 | Transfermarkt - Transfermarkt",
-      "description": "Derby County - Transfers 25/26 | Transfermarkt &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTRTeGNVNFJUckpObHdOdzM1cWp0Vk93QW1tamxZNWR3dGZEbEtNRkhtS3RSVFAwM21fWDRmQkd4U2ZMTmZzMUtyT1VTM2NLcGRwNklua0liSTFQWElkcWtvUHlaNnF3QVlmV2swSm51UGZxRDdnSXVqVk1nN3U1X1hLYkhraWJhNmpxaU9LWUE5VEZqWFQ4NlpB?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-12T22:29:42.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
