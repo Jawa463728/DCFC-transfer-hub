@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-04T20:29:13.318Z",
+  "updatedAt": "2026-10-04T23:31:49.735Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 49,
+  "storyCount": 48,
   "targetCount": 8,
   "targets": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -128,10 +128,10 @@
     },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - fotmob.com",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFVyTk9Fd2ZkX3Bub2tfenFBLXlybUFNSjNZTXRNOHZtSDNaSV9nOTdtWHZzZlVhR1FaeVFGemtlTFBWSExDN3o1aXBpd1JvRHhyWkJpT3MtbTVqOWlyQWtPUGlndFdfUUc1dEJxenVUWVR2djFVcWhYUFZINUQ1SDlwbzBfeThHNGpkZG45Y0lMdE0xSG1ocUc4SWkwNG9DZG9PMWIwcEZDNGVtZ1pzb0lyX3daU2YwNHRXbDZ4WkQ?oc=5",
-      "source": "fotmob.com",
+      "source": "FotMob",
       "published": "2026-10-02T20:33:12.000Z",
       "reputation": 48,
       "likelihood": 51,
@@ -858,23 +858,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdlcnR2b2xsc3RlIHNwaWVsZX",
-      "title": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 - Transfermarkt",
-      "description": "Derby County - Wertvollste Spieler der Vereinshistorie | Seite 6 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOTJWUUUxN1I3Z1Z1c0JWLV93OUtRRFg0RHh4aXJ6STRWTlRhTktiQVJvQnpJVm9Wc1k1SFJmekdKUTltMGUwNWRmZVZNS3Q2elNjaFJmZFBfYUhPajFsV2RCZVNtZi10blh6d3UwNi1xM1RmRUVOMnp0d3lVSk84bURIRWhEN2dqaVcyQ1hMX3RDNW5NZ0VB?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-13T20:58:40.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": [
-        "Wertvollste Spieler"
-      ]
     }
   ]
 }
