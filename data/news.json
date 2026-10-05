@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T09:18:32.336Z",
+  "updatedAt": "2026-10-05T18:35:38.716Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 48,
+  "storyCount": 47,
   "targetCount": 7,
   "targets": [
     {
       "name": "Northwich Loan Move Agreed",
-      "score": 57,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derby County",
@@ -20,8 +20,8 @@
     },
     {
       "name": "For Friars",
-      "score": 57,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derby County",
@@ -98,6 +98,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
+      "title": "Derby County - Rekord-Abgänge (Galerie) - Transfermarkt",
+      "description": "Derby County - Rekord-Abgänge (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjlBOUJBYlQ0SUV1Rjc1RGRKY3JCb3ZVLUtzOEhFMGRIRmlXc3dUUzVTOXBiaXBjdkg5QU1FQ2hfQ2tOZ1c1LVhMb3JCZUZGVDhYcndMNlVJXzdBVEpQcG9vdWZEcWhpeHV2cy10dlJZZ3pCUnBVQWNWeUJUNjhLaGdTbXBuVU9RTDdwa1g1THhiWTFDaDhnMUh0MkJEdVJ2UVRqanppenlBZy1FUmMxMENIbw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-05T06:27:02.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGltZGkgbmVyZWRlbGVyIGdhbG",
       "title": "Derby County - Şimdi neredeler? (Galeri) | Sayfa 37 - Transfermarkt",
@@ -503,21 +518,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Abgänge (Galerie) - Transfermarkt",
-      "description": "Derby County - Rekord-Abgänge (Galerie) &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEVuQXNIVVgtUVplVW5zNWFHUzZ5czktam80Tzk1V2kwdnpSeUhwcEVpek5zRjJRZXJ1V3Rsb0ItQ2lMSlJpaTd2MmdJWklHdWpFVUJUMVBnb2U1NGxOVEp0Y1Z1bFl4a01ob1NjdGcyNFl0Z1dUMFZSWnRSUXg4TFRSc0swbU93Q29xdEhSaDY2UDRhblUxMnV5dkVqVEhHcUVMVW1oYlpZeU9NLUlQdnF6VQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-22T08:30:10.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "aSBsaWtlIHRoaXMgc29ydCBvZiBzaWduaW5nIGRlcm",
       "title": "“I like this sort of signing”: Derby County new boy hailed by EFL expert - Yahoo Sports",
       "description": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; Yahoo Sports",
@@ -830,21 +830,6 @@
       "players": [
         "Wertvollste Abgänge"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOCB2ZXJlaW5zc2NocmVjay",
-      "title": "Derby County U18 - Vereinsschreck | Seite 5 - transfermarkt.at",
-      "description": "Derby County U18 - Vereinsschreck | Seite 5 &nbsp;&nbsp; transfermarkt.at",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUlo0Y01zbTh6cmxjTS1WNHBDaDNkMFFNc0FnODRsNFl6TThZREdEQ3JTYkNqWVp0Mk9KeHdOemdjdy13cERKenpiVGxFOERNYkNyVVhQOUJkZmU1MjFyOU9ESkFoVkxfOHJlVUJ3aU1mVGJoUzBaRTU3Vjg1VFRBcURUbFFtUlU?oc=5",
-      "source": "transfermarkt.at",
-      "published": "2026-09-14T11:42:12.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
