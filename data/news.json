@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T18:35:38.716Z",
+  "updatedAt": "2026-10-06T00:19:08.702Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 47,
+  "storyCount": 46,
   "targetCount": 7,
   "targets": [
     {
       "name": "Northwich Loan Move Agreed",
       "score": 55,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derby County",
@@ -21,7 +21,7 @@
     {
       "name": "For Friars",
       "score": 55,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derby County",
@@ -63,7 +63,7 @@
       "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "OneFootball",
+      "bestSource": "onefootball.com",
       "bestSourceScore": 57,
       "maxLikelihood": 48,
       "lastMention": "2026-09-26T12:00:00.000Z",
@@ -98,6 +98,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTNvWXU4SGZVdU84b0E1R19sQlVwU0lXbzdoVEVIRm5PWkZQT2dmQjZxcEY5Z3lkaWl1blFBcFAxSHp3amVhTEFCbmVPOW40NklROHdPR3R0NHJQNTdVNEVuemJMSGNzVG9ZUEcxX0JzelJWNk5rWExzQy1qUHR1Um1vWTBxZE9yVWNEN3J2bmI2MlZtZUhSMkFMdWFNREx5eXBn?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-05T10:31:05.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
       "title": "Derby County - Rekord-Abgänge (Galerie) - Transfermarkt",
@@ -150,21 +165,6 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IY3ZtVGNUS3pZNGk5SWxxMGUzYS1wenpkdURPZ1cyVXl1ODJ2R294bjRmVmE2NXY3VVkybEVzeVpON2VVN3ZWcmlGblNvS1dPM0RJeWF6SGd0OGkzODdyQ3dvMWxnNEx2RlJqR25rMGpVdw?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-04T11:17:18.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHd6MHZ0TURuWVJMV21IdXJjdHp1VmZvWUhXWC14YmNEenRzVU5NM0hwaU9ZakQxaUtocVVjWXBDaHoxN0FneWFoOEJndDdSM1Rldm1IM0d6dUhwd25Ca29uN2k2Ri1hUENBS1F4RkxLSlUxRU9kRFRYWnBwNFh6aW5nVW51VWFFYmhrbEp5SWtYeFV6dzhWTW9B?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-04T02:03:10.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -380,10 +380,10 @@
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "title": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. - onefootball.com",
+      "description": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OWWtSZWUyLVVkdUhJcUM0aGI2YTlOX3BfT3RhTXMtUVFaQ291eFEwMV9udlFzUXd6V1BScVZDcFFMWTdUQmgwTHBOVkVlNUtrWFpXQno0aC0?oc=5",
-      "source": "OneFootball",
+      "source": "onefootball.com",
       "published": "2026-09-26T12:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
@@ -641,10 +641,10 @@
     },
     {
       "id": "YnVybmxleSBkZXJieSBjb3VudHkgcHJvbm9zdGljby",
-      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - toffeeweb.com",
-      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; toffeeweb.com",
+      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - ToffeeWeb",
+      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; ToffeeWeb",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJISTRNQXY0VmFaSTBVbUxITFFUZ1ZPNHpOSmVaQldGaU9GM2NBbGdxSEgxMFR4Ry1tQjRIekVYNzk5bS16a0Q0RmpGN0hGRDQ1NHRJcjBEYllnYXBFb1JlVUN6ak8xR0FZQVUxcC01RGQyOHZRY1RxVkhubU0tcnhndkM1NGZvZnhCWFZPb1JBY1RoRFRtVQ?oc=5",
-      "source": "toffeeweb.com",
+      "source": "ToffeeWeb",
       "published": "2026-09-19T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
@@ -718,10 +718,10 @@
     },
     {
       "id": "ZWlyYW4gY2FzaGluIGRlZmVuZGVyIHNheXMgZGVyYn",
-      "title": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return - bbc.com",
-      "description": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return &nbsp;&nbsp; bbc.com",
+      "title": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return - BBC",
+      "description": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return &nbsp;&nbsp; BBC",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00NzB5WFBoVDBUV19fbXBSVFU4dEdvb3pkeVlrQWROVThoQm4wNTJRelJEcXZVYkk4Vi1STW4zalptTnpyaTJnN2o3bXRmZzBSRmVFUFZQdjhrSEdFS1pnbzA4R1RtTUdB?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "published": "2026-09-18T07:00:00.000Z",
       "reputation": 94,
       "likelihood": 72,
@@ -812,23 +812,6 @@
       "overseas": false,
       "players": [
         "Nicky Hayen"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMSB3ZXJ0dm9sbHN0ZSBhYm",
-      "title": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 6 - Transfermarkt",
-      "description": "Derby County U21 - Wertvollste Abgänge (Detailed view) | Page 6 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDRROUplUXNHZ2l6R21oaEVBMWt4cTF0d3FWWnYyM3hscFJ6cDFwejJMQ096LVdxZWhSRDNqNEp3TGdVMnZNZHhOdWdCdlcxSlRfWHNPQ2YyeGJFYXAxaWV4N1ozQm11VkhSbmpvTF9zVDJsbWl3VW9RY0V2SERGNUNmMHZXTDZuT2d2Wi1aalFILTVqSVZxandoamNMNEQwWmJEVnJ5bGhMbDNSWTdKdWlLaGs1M2pJRWtlVkZmTWpWVXNp?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-14T23:42:54.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Wertvollste Abgänge"
       ]
     }
   ]
