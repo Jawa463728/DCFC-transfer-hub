@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T19:02:34.949Z",
+  "updatedAt": "2026-10-06T22:58:51.639Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 51,
@@ -133,21 +133,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXZRZlRiMTd4YnVtSFBOZGU0Z3lRSW9zUDVKbDUxYmFXdTVHSm1uTzJFLWx4U1AxNkwwRFN6Y3R2a1p2cnFvYzZYVDhTLXlybjNtOV9kUy1Md0pvNVE4ZXBqS3poVFREbGxHc0tqTjU0RWhwTkhVN3JSSUMxcGhJTUVfdWdfQ0tHQVRhbGhoVzY4RWQw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-05T21:03:41.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U21 - Transfermarkt",
       "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
@@ -214,6 +199,21 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IY3ZtVGNUS3pZNGk5SWxxMGUzYS1wenpkdURPZ1cyVXl1ODJ2R294bjRmVmE2NXY3VVkybEVzeVpON2VVN3ZWcmlGblNvS1dPM0RJeWF6SGd0OGkzODdyQ3dvMWxnNEx2RlJqR25rMGpVdw?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-04T11:17:18.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHpDSmtSbFFmS0dmeWpXTkxjWEx4NVU0WTdxRGowVDlnSFV3dm1FcFAxc0xFekxKVHN0WGptQ0RSMV9lSjZGRVZEUTB6OVdwTThoNlp1T1ltQVl2RGdyT2FDcmdwN2E3VkJfRWkwVDl6M3hkcUJJbUEyXzdBNXRWWnU2ZFdFbHBoXzc0azVLQXRMSnJDVTFaMkg0MjZDeU12N2Z2cU9LVlIxWXNiN3pUaGs0SFN2TWRWX29j?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-03T17:03:16.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
