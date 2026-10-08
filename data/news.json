@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-08T06:38:58.413Z",
+  "updatedAt": "2026-10-08T14:02:40.888Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
+  "storyCount": 54,
   "targetCount": 5,
   "targets": [
     {
@@ -72,6 +72,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
+      "title": "Derby County - Plantilla detallada 26/27 (Galería) | Página 24 - Transfermarkt",
+      "description": "Derby County - Plantilla detallada 26/27 (Galería) | Página 24 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODRUSlptZXI0NlVYT09iSVh5WDZCU1NSYVpTck9hODVaSTY5cmxxZWhpbnFJNkd2VmhhZVNvRk9zUWxEaGNPZ3ppa0lOeS16ci1jMF8wakwtOVBIXzlTVkhzaWpkSlZRdHE1RGVLLXl4ODllU2s3WHpELV9kTS1qSUV1NkI2QXF6aTlNNTVGZkJEV2xR?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-07T23:09:17.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGdlciBjaHRlIHp1bSB2ZXJlaW",
+      "title": "Derby County - Gerüchte zum Verein (Galerie) | Seite 5 - Transfermarkt",
+      "description": "Derby County - Gerüchte zum Verein (Galerie) | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUld1bHgtZTV0R2poVEFpLWxZLWcySTJHbjktRkVRLTNTZnptdXplV1l3N0t3NnJabFNsdXVONXdTQlpzN1NBbnNzSHBVSEhPanpUT3lZQjJiMkJvYlZrWGNRNjkwLV81bHRfWGFPeFB6OU1Fb0lFd3VNQmJXM0JVVi0tMXA?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-07T21:16:57.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGh1ZGRlcnNmaWVsZCB0b3duID",
       "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - Transfermarkt",
@@ -493,7 +523,7 @@
       "description": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OWWtSZWUyLVVkdUhJcUM0aGI2YTlOX3BfT3RhTXMtUVFaQ291eFEwMV9udlFzUXd6V1BScVZDcFFMWTdUQmgwTHBOVkVlNUtrWFpXQno0aC0?oc=5",
       "source": "OneFootball",
-      "published": "2026-09-26T12:00:00.000Z",
+      "published": "2026-09-26T07:00:00.000Z",
       "reputation": 57,
       "likelihood": 48,
       "ratingLabel": "Speculative",
@@ -875,21 +905,6 @@
       "players": [
         "Henrik Meister"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGFmYyB3cmV4aGFtIDEwIDEwID",
-      "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Cd0Jsc3BLTHVaV3RPbHE0WEVMcjh3UVhwSktMTWpsbkZhTFVhY0hfT0QtYUFkdGlNNzJrMDdUallfQ2M3bzU3N2NVaUU4Ynh0ZVRjYjJkN0dEUmh5Uk1sOTZPcHA0WWxjXzVNbnM5eVFPRVBZeFQ0?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-17T11:47:01.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
