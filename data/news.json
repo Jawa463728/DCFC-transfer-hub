@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-07T20:51:27.989Z",
+  "updatedAt": "2026-10-08T00:36:50.001Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 52,
+  "storyCount": 53,
   "targetCount": 5,
   "targets": [
     {
@@ -72,6 +72,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGh1ZGRlcnNmaWVsZCB0b3duID",
+      "title": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht - Transfermarkt",
+      "description": "Derby County - Huddersfield Town, 10.09.1975 - EFL Cup - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kaFpFQmMyck14dDM5Z01oSnRuYkRyQ3BfYktiNUJsbzNFMWkyMjEwWkhtbVg2Y0pQRGxGUjhjRWxxOVRSdWVPN3NTNUJWUjdHSGNJaENqNzlMSFJaUTdjRWpSX0U0cTRuYS1TTlpDbEV0R0FMc2RN?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-07T11:14:57.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGludGVudGlvbi",
       "title": "Derby County transfer intention made clear as boss says 'it ticks all the boxes' - Derbyshire Live",
@@ -416,7 +431,7 @@
       "description": "ACADEMY NEWS: Allen extends Halifax loan &nbsp;&nbsp; Derby County",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnFxVlM5ZjBSQi1EdjRuNmFsUzBiNTU3cG1sOEVoNU1iU09SdE1HZWdnQV8zSmtGcUd3WW1EWmZmWHlOTUF4ZFV1ZmQ5a2hIZUtFSkxXLWpqMzJGWGc2WXVyY0ZKWEQzNDM2QXVsSkZoOGgtaWtmdVU4blBBOTFTTg?oc=5",
       "source": "Derby County",
-      "published": "2026-09-29T13:15:47.000Z",
+      "published": "2026-09-29T07:00:00.000Z",
       "reputation": 99,
       "likelihood": 75,
       "ratingLabel": "Strong",
