@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-08T14:02:40.888Z",
+  "updatedAt": "2026-10-08T19:52:25.981Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 52,
   "targetCount": 5,
   "targets": [
     {
@@ -870,40 +870,6 @@
       "overseas": false,
       "players": [
         "Eiran Cashin"
-      ]
-    },
-    {
-      "id": "aSB2ZSBuZXZlciB3YW50ZWQgYSB2aWN0b3J5IHNvIG",
-      "title": "'I've never wanted a victory so much!' - Kyle Walker makes desperate rallying cry as winless Burnley target Derby County turnaround - Goal.com",
-      "description": "'I've never wanted a victory so much!' - Kyle Walker makes desperate rallying cry as winless Burnley target Derby County turnaround &nbsp;&nbsp; Goal.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVVOVzhDQjVhNEE2dng2dVBEejV0Z0hCSEx3R2hJTk5jeTBXbkVlWWNVM3BRNGM4M1UzSWdFV1I0MGpzdndmZ3JhRkZaN0hUS0hJcnFrN0IzLW5RQjAtQURRaXBCZS1uWGVQUXFWdWxqanJ1Q2MySjhfQTBYdkI1VnVDZTF5RDQxbmRQTThyT3JGNnJOcHR2aHFZWEc?oc=5",
-      "source": "Goal.com",
-      "published": "2026-09-17T17:31:19.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Kyle Walker"
-      ]
-    },
-    {
-      "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. - onefootball.com",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Henrik Meister. &nbsp;&nbsp; onefootball.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpczROV0ZicDZJZVdFXy1ndC13M2dteEFxTUVwTFBMcWlKV215WGdrVkNaVlh6X0hpbjJoZHRjSE82ODBDV2d3WE1uRUpYTmY2bGVhSnozTjc?oc=5",
-      "source": "onefootball.com",
-      "published": "2026-09-17T15:39:22.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": [
-        "Henrik Meister"
       ]
     }
   ]
