@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T06:02:45.797Z",
+  "updatedAt": "2026-10-09T13:07:51.599Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 52,
@@ -73,6 +73,36 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFhfTzBPaE1xYXJfOHFCOTI1NnhqN1RMV3YxZ3FaNHBmN3U3U2FmM0x2WjhPMXpMRVg1azNfSEZSZVAwQ3pWazhVYXJVTHJSOEM3bWdFSGNZU1ZwREluQXE0bGRPSWs3S2pFaVdydTllTlZWUjYyQ1gwUmVDeG1GT0p3?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-09T08:29:51.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnN0ciBtZS",
+      "title": "Derby County U18 - Transferströme | Seite 3 - Transfermarkt",
+      "description": "Derby County U18 - Transferströme | Seite 3 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0tGLTNfSjVBMFlxalJSTTVCSHBMQjZBbDB5Q0l1ME8xWkpHTGt2d3g0eXVrS3BLYUwwR1pXT1RyVkZJQTctTDlYNlBWTWc1c3NjNHA3X01sVkhTZ0V5eEVNWUNJRkVkNjlrVkVGbGc2ZDNMUmR1U1ByNVl0QVlKT0o3OXhkZzFI?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-08T22:00:53.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
       "title": "Derby County - Plantilla detallada 26/27 (Galería) | Página 24 - Transfermarkt",
       "description": "Derby County - Plantilla detallada 26/27 (Galería) | Página 24 &nbsp;&nbsp; Transfermarkt",
@@ -114,6 +144,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGZjIG5vdGljaWFzIGZpY2hham",
+      "title": "Derby County FC: noticias, fichajes y actualidad - VAVEL.com",
+      "description": "Derby County FC: noticias, fichajes y actualidad &nbsp;&nbsp; VAVEL.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVmE1TTUyX1JoYnNtR01VZUNjYThHRXpiZ1NpR1RSa21fMElmTENWNjN6SkExeE45SURuZVk3TGxzeGdEZ1E1ZXk4MHd6cXR1VXBJQUJR?oc=5",
+      "source": "VAVEL.com",
+      "published": "2026-10-06T12:50:16.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
       "overseas": true,
       "players": []
     },
@@ -289,21 +334,6 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IY3ZtVGNUS3pZNGk5SWxxMGUzYS1wenpkdURPZ1cyVXl1ODJ2R294bjRmVmE2NXY3VVkybEVzeVpON2VVN3ZWcmlGblNvS1dPM0RJeWF6SGd0OGkzODdyQ3dvMWxnNEx2RlJqR25rMGpVdw?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-04T11:17:18.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFI0bm04REJjMU5obGJXZ3Z4VlY1bFR1SWczc0IwWlU1clMzaTRhOTFwUmtnOWQyQndiXzE0QVA1dU9GTFgwcF9RNDhLcDg1aXExUXYtZjBKbVBnWGZ3Y0hMY1h3d0d2OTRGVGhsN3dpSC0xS1BOX05odVp3N25NU0p3Q3ZPUFVQd1BRUkpKZ2FKeTZ4aXdWTjc0R05FNlRGYWhaOHgwZ1F0T0h5aGIxaHY5NUNoTEt5dF8wZjdQRWJWd0k?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-04T02:14:42.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -838,38 +868,6 @@
       "overseas": false,
       "players": [
         "Halifax Courier"
-      ]
-    },
-    {
-      "id": "YWNhZGVteSBuZXdzIGdpbGwgbWFrZXMgaGFsaWZheC",
-      "title": "ACADEMY NEWS: Gill makes Halifax loan switch - Derby County",
-      "description": "ACADEMY NEWS: Gill makes Halifax loan switch &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVlZ4WG85aWFGdHhsOWsyXzNVSllIcGlBc3hnLUN6Nzh6QUlJd3NUelhMbEJocWI4QW42SFdHYmpVTU5aRjNjM1BBWDcyM2l1bFBEMmIxLU0zOWtyLTE5ZzdnT2ozTzlXTEY4NTZkVU1CZ3poZ25xRnJDckpIQkxrczRpQzVmUQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-18T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZWlyYW4gY2FzaGluIGRlZmVuZGVyIHNheXMgZGVyYn",
-      "title": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return - BBC",
-      "description": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00NzB5WFBoVDBUV19fbXBSVFU4dEdvb3pkeVlrQWROVThoQm4wNTJRelJEcXZVYkk4Vi1STW4zalptTnpyaTJnN2o3bXRmZzBSRmVFUFZQdjhrSEdFS1pnbzA4R1RtTUdB?oc=5",
-      "source": "BBC",
-      "published": "2026-09-18T07:00:00.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Eiran Cashin"
       ]
     }
   ]
