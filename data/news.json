@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-10-09T13:07:51.599Z",
+  "updatedAt": "2026-10-09T18:48:20.610Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 52,
-  "targetCount": 5,
+  "targetCount": 6,
   "targets": [
+    {
+      "name": "Nathaniel Mendez-",
+      "score": 66,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-10-09T11:45:00.000Z",
+      "firstSeen": "2026-10-09T18:48:20.610Z",
+      "isNew": true
+    },
     {
       "name": "Northwich Loan Move Agreed",
       "score": 55,
@@ -73,19 +86,21 @@
   ],
   "stories": [
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFhfTzBPaE1xYXJfOHFCOTI1NnhqN1RMV3YxZ3FaNHBmN3U3U2FmM0x2WjhPMXpMRVg1azNfSEZSZVAwQ3pWazhVYXJVTHJSOEM3bWdFSGNZU1ZwREluQXE0bGRPSWs3S2pFaVdydTllTlZWUjYyQ1gwUmVDeG1GT0p3?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-09T08:29:51.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
+      "id": "ZXggZGVyYnkgY291bnR5IHN0YXIgbmF0aGFuaWVsIG",
+      "title": "Ex-Derby County star Nathaniel Mendez-Laing has contract ripped up weeks after assault charge - Derbyshire Live",
+      "description": "Ex-Derby County star Nathaniel Mendez-Laing has contract ripped up weeks after assault charge &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0o4UGprME50a3dTWTVvZmtOYzBSdzF1bnI1amYtVE9zTVgyLW1TRUVCMHBocTkyTVZIbm5Da3FHcHlESDBOQVc0TkRYMGVRcEhvWHNCOFBITW16SDhadUVjaGZkbzhZdGdQUXA2bGYxYXp3N29Id294dko1WnpqLXVrZ0VaZ25xdUVQalVPak5ZR1pTV2RpbndKdU9od9IBowFBVV95cUxQdnRib2R1emQ3WVN1cWRkNVRUOFVkQWxYeUVCalQ1cU40RVEwdTlFNnc4ZmxJRVJOdzR0dDQtRWg3T1RSMlJqOWdRNUdHUF9TTzhTMEdzNGU3c2loNGc0MTRXSUdhbjFtVEs1Tko3eDlTczBBNGlIZmZ6UGI5aXNsT3l1Y0hzcXB2aGVOWGdacW9MSWYtbGtEZWp5amF6Mjk0cGdj?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-09T11:45:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Nathaniel Mendez-"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnN0ciBtZS",
@@ -334,6 +349,21 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IY3ZtVGNUS3pZNGk5SWxxMGUzYS1wenpkdURPZ1cyVXl1ODJ2R294bjRmVmE2NXY3VVkybEVzeVpON2VVN3ZWcmlGblNvS1dPM0RJeWF6SGd0OGkzODdyQ3dvMWxnNEx2RlJqR25rMGpVdw?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-04T11:17:18.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFI0bm04REJjMU5obGJXZ3Z4VlY1bFR1SWczc0IwWlU1clMzaTRhOTFwUmtnOWQyQndiXzE0QVA1dU9GTFgwcF9RNDhLcDg1aXExUXYtZjBKbVBnWGZ3Y0hMY1h3d0d2OTRGVGhsN3dpSC0xS1BOX05odVp3N25NU0p3Q3ZPUFVQd1BRUkpKZ2FKeTZ4aXdWTjc0R05FNlRGYWhaOHgwZ1F0T0h5aGIxaHY5NUNoTEt5dF8wZjdQRWJWd0k?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-04T02:14:42.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -852,23 +882,6 @@
       "edition": "fr",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "c2hheW1lbiBzaWduIGRlZmVuZGVyIG9uIGxvYW4gZn",
-      "title": "Shaymen sign defender on loan from Derby County - Halifax Courier",
-      "description": "Shaymen sign defender on loan from Derby County &nbsp;&nbsp; Halifax Courier",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTy1VeDlfYlNLVmxZcF9KN0RmbF83bVZnYTBSeGhhSGxiSlRxbnVqb2E5UFBCTklzZVZuWlNSanJFOXFRcThGaGpveEtQd092TlpJRXNxMnJoMzduSS1UNHJsTE9jX1Q3YXRheEVLMW1zNHFmVGlFQ1l2STdCUzA0aEI5Mi1nVE5vTGNidDY5enRnTmtINGU0NExBbERHazVoY0Yw?oc=5",
-      "source": "Halifax Courier",
-      "published": "2026-09-18T17:31:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Halifax Courier"
-      ]
     }
   ]
 }
