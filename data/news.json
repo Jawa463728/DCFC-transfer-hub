@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-09T18:48:20.610Z",
+  "updatedAt": "2026-10-09T22:56:28.538Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 52,
+  "storyCount": 53,
   "targetCount": 6,
   "targets": [
     {
       "name": "Nathaniel Mendez-",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -86,6 +86,36 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3Y0RmNzTTJLcElhbU9vdzVXQTU0MldmQUk1QjF0VEFyRmZmWmltbHZTTjV1c01ES21YWGVRTUQ1eUJFVkFuTjVkcmtNQ1AxZ1NrMGVELVhSMUZWMlhsWUx2Z2NMTEZxZFFrLXVFcklUVllwX0RQOEtOZGlaRjktVw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-09T17:19:53.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
+      "title": "Shots on target per 90 - Derby County stats for Championship - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3ZfOElGTkxnMTF6eFZ4cWsxbmppUXhOTEhBWWlENEZfS0FDLTJRR1ZvWFZrcGdTRUN0R0JKODlKeUFzMzN5OHlRampNcmk3RWFFYzFIaFF5U3V1NUtrRjM5TV8yb3lnWDZtckNuZkE0blR2Y1lRQzIwa3dYby1qR3pMY3dBcTl2bXRtYTZ1YVJWdkRHTWxsT0phZ05TMGdRTjM0TDczVlZkV2Rs?oc=5",
+      "source": "FotMob",
+      "published": "2026-10-09T15:10:08.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZXggZGVyYnkgY291bnR5IHN0YXIgbmF0aGFuaWVsIG",
       "title": "Ex-Derby County star Nathaniel Mendez-Laing has contract ripped up weeks after assault charge - Derbyshire Live",
       "description": "Ex-Derby County star Nathaniel Mendez-Laing has contract ripped up weeks after assault charge &nbsp;&nbsp; Derbyshire Live",
@@ -101,6 +131,21 @@
       "players": [
         "Nathaniel Mendez-"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFhfTzBPaE1xYXJfOHFCOTI1NnhqN1RMV3YxZ3FaNHBmN3U3U2FmM0x2WjhPMXpMRVg1azNfSEZSZVAwQ3pWazhVYXJVTHJSOEM3bWdFSGNZU1ZwREluQXE0bGRPSWs3S2pFaVdydTllTlZWUjYyQ1gwUmVDeG1GT0p3?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-09T08:29:51.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnN0ciBtZS",
@@ -358,21 +403,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFI0bm04REJjMU5obGJXZ3Z4VlY1bFR1SWczc0IwWlU1clMzaTRhOTFwUmtnOWQyQndiXzE0QVA1dU9GTFgwcF9RNDhLcDg1aXExUXYtZjBKbVBnWGZ3Y0hMY1h3d0d2OTRGVGhsN3dpSC0xS1BOX05odVp3N25NU0p3Q3ZPUFVQd1BRUkpKZ2FKeTZ4aXdWTjc0R05FNlRGYWhaOHgwZ1F0T0h5aGIxaHY5NUNoTEt5dF8wZjdQRWJWd0k?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-04T02:14:42.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
       "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
       "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
@@ -422,21 +452,6 @@
         "Bobby Clark",
         "David Clowes"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00TXJycWVtbzZLRmFCdjVDbkc3RkJzNFVkenRrVnVDcHh2aDJyY1FETnRxRkUya0hXOTliMTNlTjBvaU8yUUo0UVlYWU1UTkNhRGlGZ1lpTklMMGxxWFg4bEI5bURiZnRjX19iX0tiN2hOUQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-02T02:15:31.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
