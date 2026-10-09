@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T00:05:50.777Z",
+  "updatedAt": "2026-10-09T06:02:45.797Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 52,
@@ -824,21 +824,6 @@
       "players": []
     },
     {
-      "id": "YWNhZGVteSBuZXdzIGdpbGwgbWFrZXMgaGFsaWZheC",
-      "title": "ACADEMY NEWS: Gill makes Halifax loan switch - Derby County",
-      "description": "ACADEMY NEWS: Gill makes Halifax loan switch &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVlZ4WG85aWFGdHhsOWsyXzNVSllIcGlBc3hnLUN6Nzh6QUlJd3NUelhMbEJocWI4QW42SFdHYmpVTU5aRjNjM1BBWDcyM2l1bFBEMmIxLU0zOWtyLTE5ZzdnT2ozTzlXTEY4NTZkVU1CZ3poZ25xRnJDckpIQkxrczRpQzVmUQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-18T17:33:31.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "c2hheW1lbiBzaWduIGRlZmVuZGVyIG9uIGxvYW4gZn",
       "title": "Shaymen sign defender on loan from Derby County - Halifax Courier",
       "description": "Shaymen sign defender on loan from Derby County &nbsp;&nbsp; Halifax Courier",
@@ -854,6 +839,21 @@
       "players": [
         "Halifax Courier"
       ]
+    },
+    {
+      "id": "YWNhZGVteSBuZXdzIGdpbGwgbWFrZXMgaGFsaWZheC",
+      "title": "ACADEMY NEWS: Gill makes Halifax loan switch - Derby County",
+      "description": "ACADEMY NEWS: Gill makes Halifax loan switch &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVlZ4WG85aWFGdHhsOWsyXzNVSllIcGlBc3hnLUN6Nzh6QUlJd3NUelhMbEJocWI4QW42SFdHYmpVTU5aRjNjM1BBWDcyM2l1bFBEMmIxLU0zOWtyLTE5ZzdnT2ozTzlXTEY4NTZkVU1CZ3poZ25xRnJDckpIQkxrczRpQzVmUQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-18T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZWlyYW4gY2FzaGluIGRlZmVuZGVyIHNheXMgZGVyYn",
