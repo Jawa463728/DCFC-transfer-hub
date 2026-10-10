@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T02:11:57.685Z",
+  "updatedAt": "2026-10-10T08:32:57.919Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 51,
+  "storyCount": 50,
   "targetCount": 6,
   "targets": [
     {
       "name": "Nathaniel Mendez-",
-      "score": 64,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,7 +16,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-09T11:45:00.000Z",
       "firstSeen": "2026-10-09T18:48:20.610Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Northwich Loan Move Agreed",
@@ -85,6 +85,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGFmYyB3cmV4aGFtIDEwIDEwID",
+      "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyU0ZuMldGeE1xSGlJdzNxNi1zZm1lemlGYVItbzJ2SDB4NHZmUVdrSkp5R0h3YkNoRTE2bXVxTEstamF3b3lkNHNqSnRmaFFrdGN4Z1cxeGRQQ0owSkY2Z1RDZXFIN1c0dFdTd2J1bkxDWlpTZkpZ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-10T00:07:01.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
       "title": "Derby County B - Transfermarkt",
@@ -835,36 +850,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG5ldyBicmlnaHRvbiBhZmMgOC",
-      "title": "Derby County - New Brighton AFC, 8 Ara 1956 - FA Cup - Maç raporu - Transfermarkt",
-      "description": "Derby County - New Brighton AFC, 8 Ara 1956 - FA Cup - Maç raporu &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DS2x0ZEtWNUVtVnVUYlk5MHdYOFBjamhOU0lHU1NiT0ZTdDhfRFliRHgzNTg4UXZtX2huVFdJaXRlYkQ0T0tzMXlnTVNSalBZalB5SzRETWlYYjNfTkkyV2xXbmp2OUVGekNvWEZFUDhjeFltYzlveDhR?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-19T08:06:12.000Z",
-      "reputation": 96,
-      "likelihood": 73,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "tr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "YnVybmxleSBkZXJieSBjb3VudHkgcHJvbm9zdGljby",
-      "title": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 - ToffeeWeb",
-      "description": "Burnley-Derby County: Pronostico e Quote Championship – 19/09/2026 &nbsp;&nbsp; ToffeeWeb",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJISTRNQXY0VmFaSTBVbUxITFFUZ1ZPNHpOSmVaQldGaU9GM2NBbGdxSEgxMFR4Ry1tQjRIekVYNzk5bS16a0Q0RmpGN0hGRDQ1NHRJcjBEYllnYXBFb1JlVUN6ak8xR0FZQVUxcC01RGQyOHZRY1RxVkhubU0tcnhndkM1NGZvZnhCWFZPb1JBY1RoRFRtVQ?oc=5",
-      "source": "ToffeeWeb",
-      "published": "2026-09-19T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "it",
       "overseas": true,
       "players": []
     }
