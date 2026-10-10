@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T14:41:39.432Z",
+  "updatedAt": "2026-10-10T18:54:12.743Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 53,
-  "targetCount": 6,
+  "targetCount": 5,
   "targets": [
     {
       "name": "Nathaniel Mendez-",
-      "score": 61,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -68,19 +68,6 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-02T07:00:00.000Z",
       "firstSeen": "2026-10-02T13:47:17.844Z",
-      "isNew": false
-    },
-    {
-      "name": "Jason Knight",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "YouTube",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-09-30T15:00:29.000Z",
-      "firstSeen": "2026-09-30T20:11:30.746Z",
       "isNew": false
     }
   ],
