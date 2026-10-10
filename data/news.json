@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T08:32:57.919Z",
+  "updatedAt": "2026-10-10T14:41:39.432Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 50,
+  "storyCount": 53,
   "targetCount": 6,
   "targets": [
     {
       "name": "Nathaniel Mendez-",
-      "score": 62,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -53,7 +53,7 @@
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-10-02T09:03:00.000Z",
+      "lastMention": "2026-10-02T07:00:00.000Z",
       "firstSeen": "2026-10-02T13:47:17.844Z",
       "isNew": false
     },
@@ -66,7 +66,7 @@
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-10-02T09:03:00.000Z",
+      "lastMention": "2026-10-02T07:00:00.000Z",
       "firstSeen": "2026-10-02T13:47:17.844Z",
       "isNew": false
     },
@@ -85,6 +85,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnN0ciBtZS",
+      "title": "Derby County U18 - Transferströme | Seite 2 - Transfermarkt",
+      "description": "Derby County U18 - Transferströme | Seite 2 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0NSTG5qZV92MXczanJfelU5NUdtQTVJRmNTVE9DNVZfSU9sWjV4WlQyQWprYUFpdDNUalNHWkJwa1I0clM3bVdGWDkzT0dxN21vNVh4Tkd6N2hPeE9rSW50MGJZN2J4b19iZEcxcUR4MTY1X2UxMDYyMExRdVF0WmhXbE82M2w5?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-10T03:12:23.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Detailansicht) | Seite 3 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Detailansicht) | Seite 3 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RTl6aGFsMzgxU09EWXg4NS1OalE0ZnNfOFp3eTBobTFVWVRidVBGSkpjb19nSldqcUZuUlM5Smo5T1pxNW9zX3dzY3FQVXV6UmhkRHdJMlRpZzN3aFBZWGJTTmRnaFJlU3lUSm5UQXZCTHltWmJrZzhlNjdCc00?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-10T02:35:58.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGFmYyB3cmV4aGFtIDEwIDEwID",
       "title": "Derby County - AFC Wrexham, 10.10.2026 - Championship - Spielbericht - Transfermarkt",
@@ -235,6 +265,21 @@
       "status": "rumour",
       "edition": "es",
       "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzdJS05yaEFBZjh4aXJBdVVzLWVtSzRFVDZsSkVFR2N5WGpyTlI3SVpRaXNPQTNGUVRJUS1rNlhvTXRXS0RxbU9yZFBuZ083a3haZHRrMnZZMDlhRXhaLUNxVUpsbnhKcTU2Sld5STRqQktfVW05eUp0MGo3R1hWYjV5eENKR2hGLUUtejNYbWlfVnJXQTYwN2taa3NJdjZucVhrakRKSERNZ05BUFJId3p1eEdlLUF1emc?oc=5",
+      "source": "FotMob",
+      "published": "2026-10-06T12:44:39.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
       "players": []
     },
     {
@@ -456,7 +501,7 @@
       "description": "Bobby Clark value rockets after Derby County transfer in huge boost for David Clowes &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS09OY1NzdEVodGxYN2cwUTFMYVJXc081VmJkbHNDTVozZnlpWEZzQVR0NFloMXdRRFJJMHRfeUVVNXdfX0ptVXZEWk8yb2I4Q2VfcG9DZ01sYzQtekRsYWU0SEQ2MFVpTHEzT3NEZzdwSFBpNnFaMXNSX3RrS2R1aGQ3VVhBRWxuNXRLZ1JBMzZzb1RFX0hWRXh1M0ZQSVlRTWxndkozcw?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-10-02T09:03:00.000Z",
+      "published": "2026-10-02T07:00:00.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
