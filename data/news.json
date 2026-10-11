@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:46:06.389Z",
+  "updatedAt": "2026-10-11T22:31:27.609Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 57,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Nathaniel Mendez-",
-      "score": 54,
+      "score": 53,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
