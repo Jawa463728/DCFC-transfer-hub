@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-11T07:05:23.089Z",
+  "updatedAt": "2026-10-11T13:58:43.752Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 56,
   "targetCount": 5,
   "targets": [
     {
       "name": "Nathaniel Mendez-",
-      "score": 57,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -73,12 +73,42 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc25pcCBzaG",
+      "title": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point - Derbyshire Live",
+      "description": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcTFjMFA3Y0d1QmNEUE85anFBS1VKelVQS3BmX05ybEZjMlZZRjQtZ0NfSUlVRnFRWkFCemQxejZqdHEwamNJTzF3WWNNYXB3SF9kcm12eU9yeHBiTEpTVHp0b1lMR1VjOU5VdzItSGo2MmtrbkU1MkR4TUd0R1lRczdNM3R2M3pxQm96YVJBVklzZjlyUE1tY1E1YkplVlRvWmhJbDJ3TjloUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-11T08:54:05.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
       "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 3 - Transfermarkt",
       "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 3 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDFRdDUyQ2tncHBQdTU1UHc3LVFQelF0VGNMem1hR1Z4X3VLekZQMXRGVGs4S19TWVd5UHZNNGxVcG5WenRhdnE4TFRtMkFrRENNUDhmYmdvZk82ME95TEkyc3V5RFliaXZ4OFJMMEhnSzNPNFRXZUgycW9ZcUxoNnYyZw?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-10T17:58:55.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 132 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 132 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkJVM0xwbmd3VjJueVhrTnhsekdaTEZwWDBhb2JaN0FkS3NnU2UtWnlPSUhJemdHTEU2S1hlcElJWS01MVdOMDlPY3JxUnotYXQ4QWMxa0lYX3hvOGtxd18zSVdfT3U5VWJGMTRVZTk4N0hvYVktSVVpQUpSVmpMYkpRYnRIUQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-10T17:57:10.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -405,6 +435,21 @@
       "players": []
     },
     {
+      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajhUWkhseVVZYnJVZ3lnc25PQkRlU2d4YUNJVG5SVmFoQUhOX1NrVVFXakc5aXpZZkxrWFhUVV95VVlZSDFMT0NzQ3FjZTZ1VzQ1cnBoOE15MW53a2lRQ0ZYVmtkM0xIay1sZjlMeDhaWW9HMTJRQjBIWDRNZkZnbERKeE9FemhkR2QtZnJYTXFOUk5weDVPU1pQcVYzb0lCWXVGdG9WTzRod1RwLUhoaTZKWVcyUTM4M241Q01LcDd0RVdhVVROVjlkWU8yS0d5?oc=5",
+      "source": "FotMob",
+      "published": "2026-10-06T04:51:14.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U21 - Transfermarkt",
       "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
@@ -462,21 +507,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFVyTk9Fd2ZkX3Bub2tfenFBLXlybUFNSjNZTXRNOHZtSDNaSV9nOTdtWHZzZlVhR1FaeVFGemtlTFBWSExDN3o1aXBpd1JvRHhyWkJpT3MtbTVqOWlyQWtPUGlndFdfUUc1dEJxenVUWVR2djFVcWhYUFZINUQ1SDlwbzBfeThHNGpkZG45Y0lMdE0xSG1ocUc4SWkwNG9DZG9PMWIwcEZDNGVtZ1pzb0lyX3daU2YwNHRXbDZ4WkQ?oc=5",
-      "source": "FotMob",
-      "published": "2026-10-02T20:33:12.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     },
     {
