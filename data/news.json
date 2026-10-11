@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T22:13:48.958Z",
+  "updatedAt": "2026-10-11T01:02:39.616Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
+  "storyCount": 54,
   "targetCount": 5,
   "targets": [
     {
       "name": "Nathaniel Mendez-",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,6 +72,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 3 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 3 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDFRdDUyQ2tncHBQdTU1UHc3LVFQelF0VGNMem1hR1Z4X3VLekZQMXRGVGs4S19TWVd5UHZNNGxVcG5WenRhdnE4TFRtMkFrRENNUDhmYmdvZk82ME95TEkyc3V5RFliaXZ4OFJMMEhnSzNPNFRXZUgycW9ZcUxoNnYyZw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-10T17:58:55.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnN0ciBtZS",
       "title": "Derby County U18 - Transferströme | Seite 2 - Transfermarkt",
