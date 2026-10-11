@@ -1,23 +1,10 @@
 {
-  "updatedAt": "2026-10-11T13:58:43.752Z",
+  "updatedAt": "2026-10-11T18:46:06.389Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 56,
+  "storyCount": 57,
   "targetCount": 5,
   "targets": [
-    {
-      "name": "Nathaniel Mendez-",
-      "score": 55,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-10-09T11:45:00.000Z",
-      "firstSeen": "2026-10-09T18:48:20.610Z",
-      "isNew": false
-    },
     {
       "name": "Northwich Loan Move Agreed",
       "score": 55,
@@ -42,6 +29,19 @@
       "maxLikelihood": 75,
       "lastMention": "2026-10-02T19:26:24.000Z",
       "firstSeen": "2026-10-02T22:36:46.520Z",
+      "isNew": false
+    },
+    {
+      "name": "Nathaniel Mendez-",
+      "score": 54,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-10-09T11:45:00.000Z",
+      "firstSeen": "2026-10-09T18:48:20.610Z",
       "isNew": false
     },
     {
@@ -121,9 +121,24 @@
       "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
       "title": "Derby County - Rekord-Abgänge (Galerie) - Transfermarkt",
       "description": "Derby County - Rekord-Abgänge (Galerie) &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem8xYkQtRjdnNElOcGlscjVhOV90TGl4WWVpaTRXUDE5cGpTZVg0OU1SX2Z5Tjhtb1QxRzh2VlA3clJhV2JJQ0c1QkM3RE9mVFRtZWV4UzlJU0hNNkstYlprOUU3TmVOaU5hVlc5SWdHX2RMU2lZZ2VTWnZCNDlvV3FtRmhzZ0o4VHg0Nkp6SnduNDAzMWhzTmxYUlVsZnJ4YzdzNWpZVkp6QUNIblpMdkVocw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDBaRk05SXVsNXUwbmRIaHBydjI1d2c2ZTAyQTk4RmkxNXlObU41WFJrWWhXamRGRTVDX2ZJblJwX0pvYjhILXJULVY0cmwycThCajZFemRsZFZFNkJEOFNOZXI2dGZ5dnIyMEJCcDBSUnByTDZDVVZYOEhRN1JPRFRoR0p4N0stRnBDMjdwd2h3d0FLV0UxQ2xhb0hTM2k0bzZnMWYxelNNT0pMQURHc2ZXcw?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-10-10T04:59:04.000Z",
+      "published": "2026-10-10T14:24:17.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUFNNV2FuSUhhcHpzN2ZkSHZoMWVCSWVYNGpBLU53aktldFJoQUNCMkZ2YVdXd2dOSVVUZmljNE9OM3JidHB2MXVSRER2Rm1TbUtTbDdlVWJka0ZOSVN2NDN0Tk9vT2d2Z3FKWmpNUWM4enphYTVXYU93di1aLWJhNlhBMUlPeGV4eFpzWE5fQ1piclRvTlZBLUJUNDFOYm82YmNCRkU0ZVNuN2JZZUVscTF4SGYySWI2OVp4aVpvbkhZMlB4UGFCUWphcWxpazkwY3c?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-10T09:13:15.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -223,21 +238,6 @@
       "players": [
         "Nathaniel Mendez-"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFhfTzBPaE1xYXJfOHFCOTI1NnhqN1RMV3YxZ3FaNHBmN3U3U2FmM0x2WjhPMXpMRVg1azNfSEZSZVAwQ3pWazhVYXJVTHJSOEM3bWdFSGNZU1ZwREluQXE0bGRPSWs3S2pFaVdydTllTlZWUjYyQ1gwUmVDeG1GT0p3?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-09T08:29:51.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnN0ciBtZS",
@@ -821,6 +821,21 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
+      "players": []
+    },
+    {
+      "id": "YmFuZWwgbWFrZXMgZGVyYnkgY291bnR5IGxvYW4gbW",
+      "title": "BANEL MAKES DERBY COUNTY LOAN MOVE - Burnley FC",
+      "description": "BANEL MAKES DERBY COUNTY LOAN MOVE &nbsp;&nbsp; Burnley FC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkp6ZWZndmZVdFN2RmtvSU41TWhHUHBZeXg3MG5VV3NZdVdBTE84Y2pzUWY5UnM1TEhTM0VqZXFpMzlENnBQQWk5ek5MbFRnc3dHV2JCMjg3QWZmUnYxUXNWYmZCNl9FRGY0U0ExV01nUXVySmRuX0hIdHZUUE1lenc2SnRkeEVNOUEwUQ?oc=5",
+      "source": "Burnley FC",
+      "published": "2026-09-22T09:44:49.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
       "players": []
     },
     {
