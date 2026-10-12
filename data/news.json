@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:31:27.609Z",
+  "updatedAt": "2026-10-12T01:42:46.825Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 57,
@@ -14,7 +14,7 @@
       "bestSource": "Derby County",
       "bestSourceScore": 99,
       "maxLikelihood": 75,
-      "lastMention": "2026-10-02T19:26:24.000Z",
+      "lastMention": "2026-10-02T07:00:00.000Z",
       "firstSeen": "2026-10-02T22:36:46.520Z",
       "isNew": false
     },
@@ -27,13 +27,13 @@
       "bestSource": "Derby County",
       "bestSourceScore": 99,
       "maxLikelihood": 75,
-      "lastMention": "2026-10-02T19:26:24.000Z",
+      "lastMention": "2026-10-02T07:00:00.000Z",
       "firstSeen": "2026-10-02T22:36:46.520Z",
       "isNew": false
     },
     {
       "name": "Nathaniel Mendez-",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -515,7 +515,7 @@
       "description": "ACADEMY NEWS: Northwich Loan Move Agreed For Friars &nbsp;&nbsp; Derby County",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkoyVm41Rnk1U1VOOXpkb1JXS2JCZWFITGhybjBoT1VZdl9tNkNNTVBGVk5FaV9jV3R3akRfRDNlNzFvSG9lODJIRWxtblFiTVFXdTBhWGtVazFuWWc4Rk1sV05pWDgyRkphLTlJTXIyOUs1Ull6aUxiUnMtTVJLdEZ1elN0QmlYc0p3Y2JiQQ?oc=5",
       "source": "Derby County",
-      "published": "2026-10-02T19:26:24.000Z",
+      "published": "2026-10-02T07:00:00.000Z",
       "reputation": 99,
       "likelihood": 75,
       "ratingLabel": "Strong",
