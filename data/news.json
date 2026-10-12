@@ -1,39 +1,13 @@
 {
-  "updatedAt": "2026-10-12T01:42:46.825Z",
+  "updatedAt": "2026-10-12T08:04:13.632Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 57,
-  "targetCount": 5,
+  "storyCount": 55,
+  "targetCount": 1,
   "targets": [
     {
-      "name": "Northwich Loan Move Agreed",
-      "score": 55,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derby County",
-      "bestSourceScore": 99,
-      "maxLikelihood": 75,
-      "lastMention": "2026-10-02T07:00:00.000Z",
-      "firstSeen": "2026-10-02T22:36:46.520Z",
-      "isNew": false
-    },
-    {
-      "name": "For Friars",
-      "score": 55,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derby County",
-      "bestSourceScore": 99,
-      "maxLikelihood": 75,
-      "lastMention": "2026-10-02T07:00:00.000Z",
-      "firstSeen": "2026-10-02T22:36:46.520Z",
-      "isNew": false
-    },
-    {
       "name": "Nathaniel Mendez-",
-      "score": 52,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -42,32 +16,6 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-09T11:45:00.000Z",
       "firstSeen": "2026-10-09T18:48:20.610Z",
-      "isNew": false
-    },
-    {
-      "name": "Bobby Clark",
-      "score": 49,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-10-02T07:00:00.000Z",
-      "firstSeen": "2026-10-02T13:47:17.844Z",
-      "isNew": false
-    },
-    {
-      "name": "David Clowes",
-      "score": 49,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-10-02T07:00:00.000Z",
-      "firstSeen": "2026-10-02T13:47:17.844Z",
       "isNew": false
     }
   ],
@@ -914,36 +862,6 @@
       "players": [
         "Turki Alalshikh"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
-      "title": "Derby County - Plantilla detallada 92/93 (Galería) - Transfermarkt",
-      "description": "Derby County - Plantilla detallada 92/93 (Galería) &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2FVRW0yVTJvQjNZZFIybjhSOEIwalV6NmlWaXFPX2NGTmlBNEF0YWp3TWVSa1hWOWxua2lqR3dFTW5JNkpkMWJfQTFBTi1ibmJaUmtKVGYzeF8tWThjVXRnaUwtVy1PXzVUMVdWV0pwYU9hRGZnQnZCQm16bkdEWWRteGZhY2dHeXc?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-21T07:19:11.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
-      "title": "Derby County - Plantilla detallada 03/04 (Galería) | Página 2 - Transfermarkt",
-      "description": "Derby County - Plantilla detallada 03/04 (Galería) | Página 2 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWVFTFc5dW1pSy1qQkdxTkstQmprdzZRMWhnSXRaY0ZoQnZ4Q0h0X2t3Mk5peW5oYjVHODZaNFNwNDZ2S3hUT0I4aWhqdzR6MjZiMU4wTnlRVTVqUVBNZTJHbjVBQ3BfTnBOMkcyb3BTWE5nejA1OU1CMFdvRzVKdjZTNmFUQXZYSF9WNVItZDFDdjlxWGVHMnRVZGw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-21T07:17:34.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
-      "players": []
     }
   ]
 }
