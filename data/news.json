@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-12T08:04:13.632Z",
+  "updatedAt": "2026-10-12T17:48:48.569Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 55,
+  "storyCount": 51,
   "targetCount": 1,
   "targets": [
     {
       "name": "Nathaniel Mendez-",
-      "score": 50,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -20,6 +20,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUFE3Vnk2X1BUNk5INUlLeGZZdkxtbXZrUndzMHlTd0Fhc0hMVldId2FOcUI0dTFhQU4tVlZzVGd1Qmg0eTFZa1MtdmQ0N3JmaVYtZy1pOVhjcnJIdzBIcGN2anVpMGZ3Q0NMQmZ2UFpveVIwaElScTM0N3FLaDg?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-11T23:24:03.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc25pcCBzaG",
       "title": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point - Derbyshire Live",
@@ -290,21 +305,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjAxbTR1UXFJQ3J3aWFCc1RnUzZQa2htSzctTW9TbmlBRHRYbXRNNGJMbkZDb0s1a0tvNEdLTjdSM3U2dnpVNGtBeTRwVXdmeTluM041UWVkVWQ5ekY3aERLVW5DclVjd0JNQUhXQnJBdE9XLVNEb2c5U1cxbVY0Z1JPdzhmUDQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-06T12:26:16.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     },
     {
@@ -800,68 +800,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHN0YXJsZXRzIHBhc3MgbW9yZS",
-      "title": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis' - Derbyshire Live",
-      "description": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis' &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGZ0NW1WZDBUZi15SW5MRlk5QXl2cWJkbFVLV04zdlJqc0FHa1RBNGMybVlrUXVCR0RScU52NHgwWXViLVdiOEtwLWkzendGUHBEVVctWTVaeGdZb1FBTnl6UlJQZnE5SnZuWVZ6ZHNSUGFwci14WGtnbVN4MDlYMUxNZ1RxdzBKMi1FNmtnMVpPS2lNeUVuTEtBbURJRWxJdm5WcFoybw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-21T11:22:15.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGp1dmVuaWx8VHJhbnNmZXJtYX",
-      "title": "Derby County Juvenil - Transfermarkt",
-      "description": "Derby County Juvenil &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVDhxYXQzR2F4eG5YWktoOExFNW1PNXJQMUJUSWpOU2JmMU9kQndDS3dmSnB6QllpaktES3ZhNWNzdEsyZFdjbXZlV3VRd3RmbDZYYndRdGRjbW1WUkJzbE5BSGhiRDlESEVVT2lLWjlfMlR1RlE3RzlSay1ZOHp6VjUxNEJiS2s0MDJ4eTNZNHJ2UQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-21T10:33:07.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "dGhhdCBzIGEgYmxvdyBkZXJieSBjb3VudHkgc3VtbW",
-      "title": "“That’s a blow”: Derby County summer signing sustains injury, says John Eustace - Yahoo",
-      "description": "“That’s a blow”: Derby County summer signing sustains injury, says John Eustace &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlNBTW03eG1BajQtelVOZW40RHJrUVpqUEFObzFTUkNEajI4dTFwRm5aNVZoWDRIdk50bTEwd2FFWmJUTFdnZXZ3SW5Lalg2MG0yLUVlUkN2OW8tcE1nQWlneDFnRzhnQzVvTGNwYnM0Rk5EMGxLbGVoR1Y1SGExempETm5MZFU?oc=5",
-      "source": "Yahoo",
-      "published": "2026-09-21T10:27:59.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHMgYmVzdCBwaWVjZSBvZiBidX",
-      "title": "Derby County's best piece of business is obvious after Turki Alalshikh forced transfer rethink - Derbyshire Live",
-      "description": "Derby County's best piece of business is obvious after Turki Alalshikh forced transfer rethink &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTNOTk5odXBIWV9zeUlSQXpPNmVKRDZHWTRncmdGaE51S21fejlWWnMwVlRMNUg3SkVWMmpwTkVOcG1JU25FcWk0bmlVQ1F5ZlZhX2Eyc0FXeGNEczM3SlQ1UUNERmxrMml6V2JudkZsTjk0WjVIRkNYNmJSRFc1R05zX0l0NlEtdmkxaFdiMkh4WjNyNmVqLWhBWHljaWdGWDBxYVE2b9IBrAFBVV95cUxPbGlTaVRtcmNHRGtjTWNDSTNJaC1UQUpHYUZraFZ1MU1jSnpfRFVqbG80RDhCV3Zjby15c2hHZV9TdVV3V3psVXF0MVNjdEViMVZMdmlJbnlyV29zdW5paE9RdnprN2FzNEVINXFzRHltcUE5bG9lc0NSQ0tIUXJ1M3lrZVZDWFJYTzgzZVprUWVFTEpJaFM1d0EtNXFHbXZ2dldha0YtbUNra0Q3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-21T09:42:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Turki Alalshikh"
-      ]
     }
   ]
 }
