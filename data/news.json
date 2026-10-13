@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-13T04:13:17.466Z",
+  "updatedAt": "2026-10-13T11:52:38.743Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 51,
+  "storyCount": 50,
   "targetCount": 1,
   "targets": [
     {
@@ -20,6 +20,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "YmxhY2tidXJuIHJvdmVycyByZXZpdmUgcHVyc3VpdC",
+      "title": "Blackburn Rovers revive pursuit of former Derby County prospect amid recent U21s trialist outing - Yahoo",
+      "description": "Blackburn Rovers revive pursuit of former Derby County prospect amid recent U21s trialist outing &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0RxMVNQNU9wRE5lQzg4c0Nxb3BrZ21ac3ltaG9wc3RLOXh3dDc1U3Rmb1pTZ3Bpczl3LWtOQjlWRHJuYTZYbzRyMl9GZ1NhaDlWRTMyZ3VQUU93dWFvTHBVV3prWXhkWnRLLUIxUThob3p4d1oxY05fMDY2UmpVSF9TY1RUamhyTy1QbWVHRQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-13T10:05:17.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
       "title": "Derby County Jugend - Transfermarkt",
@@ -769,36 +784,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "YmFuZWwgbWFrZXMgZGVyYnkgY291bnR5IGxvYW4gbW",
-      "title": "BANEL MAKES DERBY COUNTY LOAN MOVE - Burnley FC",
-      "description": "BANEL MAKES DERBY COUNTY LOAN MOVE &nbsp;&nbsp; Burnley FC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkp6ZWZndmZVdFN2RmtvSU41TWhHUHBZeXg3MG5VV3NZdVdBTE84Y2pzUWY5UnM1TEhTM0VqZXFpMzlENnBQQWk5ek5MbFRnc3dHV2JCMjg3QWZmUnYxUXNWYmZCNl9FRGY0U0ExV01nUXVySmRuX0hIdHZUUE1lenc2SnRkeEVNOUEwUQ?oc=5",
-      "source": "Burnley FC",
-      "published": "2026-09-22T09:44:49.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "aSBsaWtlIHRoaXMgc29ydCBvZiBzaWduaW5nIGRlcm",
-      "title": "“I like this sort of signing”: Derby County new boy hailed by EFL expert - Yahoo Sports",
-      "description": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlVCSXlmbWZGOFdMY1VvOHBUb1V6SWFzYWVsRldNTENsZ0M3SG1vc0kyMFJ1bFBiczJCNnBzM0FQTEJlNWlMUWU2N1J3dUR1bklVY0R5NGFnRnBTT05GekpYLXc4d0VOWlJjZ0NKMXAyNHNkWDZKZGNmLVMwQ1pqamVpUQ?oc=5",
-      "source": "Yahoo Sports",
-      "published": "2026-09-22T07:00:00.000Z",
-      "reputation": 70,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
