@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-13T11:52:38.743Z",
+  "updatedAt": "2026-10-13T18:46:44.546Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 50,
+  "storyCount": 49,
   "targetCount": 1,
   "targets": [
     {
@@ -20,6 +20,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGZyZWUgc2lnbmluZyBvcGVucy",
+      "title": "Derby County free signing opens up on John Eustace conversation and Rams game-time - Derbyshire Live",
+      "description": "Derby County free signing opens up on John Eustace conversation and Rams game-time &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTZGb3liT3h4UTRnelNrVFpKclU1dWt5NjZnVTRBX01oYUNRTkxEczVIckFfMkJDclhuOFZRVjBISm9HaE1QNzcydE9RcHAzalFSY2RjV0FBZjl4ZkdULTJMOUJHWVRoU0xScHNRdFNEMlRfY0JFU0Nyb3JISGpXM2pqcnZnaTRfdGJsdVhaSEJudnphWnIxY2c3YTZOUTBJYWhMVg?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-13T13:58:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHNpZ24gcmFuZ2VycyB5b3V0aC",
+      "title": "Derby County sign Rangers youth product in double free agent swoop - Derbyshire Live",
+      "description": "Derby County sign Rangers youth product in double free agent swoop &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnlWNDNBaWZWU25qQlhsa1BrMUc0TUtOMnB5cVNCTllETHdwSnBzRjA3Ti1WT2RaQkpLUTZiNjk2b1R6UUlYUGZRbkZsY214ay1EY2RuTmVYckFqSHljNTNwZWpvQ1owLS1pSlpJOW1UNlVieXhfak5mZk5GRzlCVDFnaXQ2eWhNV053MXA5SEFnRjVlcW5ZSmtoNUhkOWEwS0RQSA?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-13T12:56:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "YmxhY2tidXJuIHJvdmVycyByZXZpdmUgcHVyc3VpdC",
       "title": "Blackburn Rovers revive pursuit of former Derby County prospect amid recent U21s trialist outing - Yahoo",
@@ -738,51 +768,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "tr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGltZGkgbmVyZWRlbGVyIGdhbG",
-      "title": "Derby County - Şimdi neredeler? (Galeri) | Sayfa 83 - Transfermarkt",
-      "description": "Derby County - Şimdi neredeler? (Galeri) | Sayfa 83 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3JiVE0zbGZWVUZid3RXUWk3RUtkTmZIenhIcHhWdncwbnRrbldoTkNwbFZqc3dKcmFjYXNTSUEzWkpNcHVHRUFvbDdWenhsYUhFUGxueEQtMXQ2VXFtQ3FjLXkyUVpTU1plZkhtRlRlYkl2cjNXUG9tUUhjVWdhcjBkZzNYUDYzc1E?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-22T18:12:52.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "tr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
-      "title": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 - Transfermarkt",
-      "description": "Derby County - Plantilla detallada 03/04 (Galería) | Página 3 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb012MVZXTjRXaGoySDZ5RkFKV0Vwai11aTFtU2ZZRzRjQkVZLTVVRUxBNUdxWGh0YnlwZUI1OU9EVEtuTEZyUXVtaEF3X21IenAza1B0QjBWdUxpWXgwU0xCdHg2c2x3aHNFT09zMDhJQU82N2F0M3l3WlItdWlDdlowWXBTVENabUZQVXE0LVZzcnFGbDYybzNTa3U?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-22T14:20:57.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnMgMjYgMj",
-      "title": "Derby County U18 - Transfers 26/27 - Transfermarkt",
-      "description": "Derby County U18 - Transfers 26/27 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnZ4S19VeXVoR1BsYmV2VUlkRDRPYXFkdFp6S1dneGs0MFZYN1F3bk8yazhvblFJUU5zSkdRcDJQUnQ2TUlGbnhlRkNiZy1UdURnYVhJQzlMSFdqdlVQVk5fZjZCZlVfNTdoNk9ucjBfbXRYRC1vNnNwS2UxQURqOTM4Z2poTl83ZXdn?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-22T14:16:54.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     }
