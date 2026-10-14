@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-14T07:06:49.574Z",
+  "updatedAt": "2026-10-14T12:50:53.834Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 50,
+  "storyCount": 51,
   "targetCount": 1,
   "targets": [
     {
@@ -20,6 +20,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHMgbmV3IHNpZ25pbmdzIHNwZW",
+      "title": "Derby County's new signings speak out after surprise double transfer completed - Derbyshire Live",
+      "description": "Derby County's new signings speak out after surprise double transfer completed &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckoyVXJ6cjhFamlVZE9ETE5VVWdPTHFIbTJ1S25WR0VPM2NwbDUtUV9aVjNNcXNMMUNuUG9QYVZEb2tFRWVxOVJUVTVmTFlUcERnY1o1VGtRcFYtYUY3UElySEpOZzM1TnFVTmdnbVRYYldWM2xZX3c1UUpsQ1hpMnhTMW9Zb3RFWHUwUzg1MEFuT2xDYUZBOG9GbXFHd1ZnMU1qWnln?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-14T10:05:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSBiZWxpZWJ0aGVpdHNyYW",
       "title": "Derby County U21 - Beliebtheitsrangliste - Vereine - Transfermarkt",
@@ -87,6 +102,21 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUFE3Vnk2X1BUNk5INUlLeGZZdkxtbXZrUndzMHlTd0Fhc0hMVldId2FOcUI0dTFhQU4tVlZzVGd1Qmg0eTFZa1MtdmQ0N3JmaVYtZy1pOVhjcnJIdzBIcGN2anVpMGZ3Q0NMQmZ2UFpveVIwaElScTM0N3FLaDg?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-11T23:24:03.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MVVRSR3NQNTdJNEF3M0RjdURDaUpDdEhGZ1p5MElpamJQLUFPcVhaLTNEdzNMM0N2RUdqc3JYVU1NZXhkX3RsbEUyM3g5blo2eU50MUt5QmFsWWI0cjBXU1FNdXZEM1gxNkVKQndfeTJjczJLWk5oV3VETQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-11T15:50:18.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -207,21 +237,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyU0ZuMldGeE1xSGlJdzNxNi1zZm1lemlGYVItbzJ2SDB4NHZmUVdrSkp5R0h3YkNoRTE2bXVxTEstamF3b3lkNHNqSnRmaFFrdGN4Z1cxeGRQQ0owSkY2Z1RDZXFIN1c0dFdTd2J1bkxDWlpTZkpZ?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-10T00:07:01.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3Y0RmNzTTJLcElhbU9vdzVXQTU0MldmQUk1QjF0VEFyRmZmWmltbHZTTjV1c01ES21YWGVRTUQ1eUJFVkFuTjVkcmtNQ1AxZ1NrMGVELVhSMUZWMlhsWUx2Z2NMTEZxZFFrLXVFcklUVllwX0RQOEtOZGlaRjktVw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-09T17:19:53.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -384,21 +399,6 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHRyaWdnZXJlZC",
-      "title": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUi1RT3ZYY3RYbEZIT19KTG0xRkg0MWN0UVVMVWc4RjlfOWM4Q2NKTlVpZkEzamhzQzNOQnlHbUNkZVlSUGo5bWFYZ2tFVXZoaVg2VlUyeUxWOVZNSm9NckxLYWxzdVdZTVVEMkxRdzJVTUMwSlh2Z3hXVVFlc0x6TkU5Vm0xOXZlOXBOUUNfNzdRei1DcnpSMi11TkM1blIyMGdkTmJTa2w?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-06T11:38:00.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHRyaWdnZXJlZC",
       "title": "Derby County transfer triggered as fee could rise to £5m on one condition - Derbyshire Live",
       "description": "Derby County transfer triggered as fee could rise to £5m on one condition &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUi1RT3ZYY3RYbEZIT19KTG0xRkg0MWN0UVVMVWc4RjlfOWM4Q2NKTlVpZkEzamhzQzNOQnlHbUNkZVlSUGo5bWFYZ2tFVXZoaVg2VlUyeUxWOVZNSm9NckxLYWxzdVdZTVVEMkxRdzJVTUMwSlh2Z3hXVVFlc0x6TkU5Vm0xOXZlOXBOUUNfNzdRei1DcnpSMi11TkM1blIyMGdkTmJTa2w?oc=5",
@@ -439,6 +439,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHRyaWdnZXJlZC",
+      "title": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live - Derbyshire Live",
+      "description": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUi1RT3ZYY3RYbEZIT19KTG0xRkg0MWN0UVVMVWc4RjlfOWM4Q2NKTlVpZkEzamhzQzNOQnlHbUNkZVlSUGo5bWFYZ2tFVXZoaVg2VlUyeUxWOVZNSm9NckxLYWxzdVdZTVVEMkxRdzJVTUMwSlh2Z3hXVVFlc0x6TkU5Vm0xOXZlOXBOUUNfNzdRei1DcnpSMi11TkM1blIyMGdkTmJTa2w?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-06T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
