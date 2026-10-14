@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-14T12:50:53.834Z",
+  "updatedAt": "2026-10-14T17:41:09.743Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 51,
+  "storyCount": 50,
   "targetCount": 1,
   "targets": [
     {
@@ -784,21 +784,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "d3JleGhhbSBhZmMgZGVyYnkgY291bnR5IDI3IHViID",
-      "title": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu - Transfermarkt",
-      "description": "Wrexham AFC - Derby County, 27 Şub 2027 - Championship - Maç raporu &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xMXJ6OFRoRGZLU3VHNnhyUDAzX3JrUkNBdjA0ZkY1c2l3QTlwbGdQbjdDMm9SRHgxVmlvNGl5RUNaSGZXYm4yT0VLeTRMQS0zNzJhVExjaThFeGJ0UW44aVZnQXE4UUpBdlpfSU1iV1BwTEphSXM1VW00d3Y?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-23T14:02:57.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "tr",
-      "overseas": true,
       "players": []
     }
   ]
