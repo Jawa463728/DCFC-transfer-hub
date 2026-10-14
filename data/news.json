@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-14T01:54:01.252Z",
+  "updatedAt": "2026-10-14T07:06:49.574Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 49,
+  "storyCount": 50,
   "targetCount": 1,
   "targets": [
     {
@@ -20,6 +20,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMSBiZWxpZWJ0aGVpdHNyYW",
+      "title": "Derby County U21 - Beliebtheitsrangliste - Vereine - Transfermarkt",
+      "description": "Derby County U21 - Beliebtheitsrangliste - Vereine &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDdzRzdULVd5Z3JmRWUzUElyb2RlNUkwWFVyNEtDUnRkdTJyaU51QTRIMlYtc1dXczhWT2paVWhrWTMySHJJaDY5NWhDTW1xUEZxSGJmS0liekdWX1EwT0NjTGVEVzQ2dVBiNnYtVjFjSE1UU0YzaWZqcGxCZDRpTml1eXBxbVFiZmw1MXF3T1hIRWs?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-13T21:59:40.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGZyZWUgc2lnbmluZyBvcGVucy",
       "title": "Derby County free signing opens up on John Eustace conversation and Rams game-time - Derbyshire Live",
@@ -204,9 +219,9 @@
       "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
       "title": "Derby County B - Transfermarkt",
       "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVlZNHFfdzBrTWRVZzZWZjBxdzlMWS1NTFZGcmE5SmNET3p2SVplRlNpQWx0bGVVTG03TnlhWkllajdCMjVsb2UyTlNlaHZILUNGcTQ1blFLSm5NVGxqS2xmeEVYaUYtamFkZ1M0dDVkT0FpUjFjTXNvZTExYnQwNmJyaUE5SVh6UkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3Y0RmNzTTJLcElhbU9vdzVXQTU0MldmQUk1QjF0VEFyRmZmWmltbHZTTjV1c01ES21YWGVRTUQ1eUJFVkFuTjVkcmtNQ1AxZ1NrMGVELVhSMUZWMlhsWUx2Z2NMTEZxZFFrLXVFcklUVllwX0RQOEtOZGlaRjktVw?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-10-09T19:06:43.000Z",
+      "published": "2026-10-09T17:19:53.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
