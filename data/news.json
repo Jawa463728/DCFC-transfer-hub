@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-14T17:41:09.743Z",
+  "updatedAt": "2026-10-14T20:58:37.536Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 50,
+  "storyCount": 49,
   "targetCount": 1,
   "targets": [
     {
@@ -770,21 +770,6 @@
       "players": [
         "Henrik Meister"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHlvdXRofHRyYW5zZmVybWFya3",
-      "title": "Derby County Youth - transfermarkt.com",
-      "description": "Derby County Youth &nbsp;&nbsp; transfermarkt.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXd0NVZLVE1xd3VUZlNIV2FyTkJZYXRoWEhYdXhDSUFJNWVqai04SlJ6WjI1cURpRWVOb004YnpBU3hBV2V3MjU3ajJxMXIwT0JaRWlRVTFvdzVjM0xuVEcxM2hpVDE2NzJsSzlxUktFbzJacnZlbnhUcmEweWtXNERGWW1TYkJKNFR5Y2NxOVR4UQ?oc=5",
-      "source": "transfermarkt.com",
-      "published": "2026-09-23T17:48:39.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     }
   ]
 }
