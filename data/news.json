@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-10-15T07:43:12.879Z",
+  "updatedAt": "2026-10-15T12:53:02.752Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 50,
-  "targetCount": 2,
+  "storyCount": 52,
+  "targetCount": 3,
   "targets": [
+    {
+      "name": "Sondre Langas",
+      "score": 66,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-10-15T08:08:00.000Z",
+      "firstSeen": "2026-10-15T12:53:02.752Z",
+      "isNew": true
+    },
     {
       "name": "Nathaniel Mendez-",
       "score": 49,
@@ -20,7 +33,7 @@
     },
     {
       "name": "West Ham",
-      "score": 33,
+      "score": 32,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,6 +46,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "am9obiBldXN0YWNlIHNwZWxscyBvdXQgZnJlZSBhZ2",
+      "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow - Yahoo",
+      "description": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVQ5ZnFuNU43RGRWTkFYSm5IZTVsbWpXdkV5VkpFYm9rZjUzbzBTblJ3UlhCZGdVMTB5MzFWSDFTUV9Ob01YdGI5T0hpdVBtemVFdEFEc0FWUlVSc3Q3c2E5Z29hZjF1TjM5QWNQa2hQUEVnaU42Z05tWWQ2b1lBUG9zc3g?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-15T09:46:05.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "c29uZHJlIGxhbmdhcyBpbiBhIGJhZCB3YXkgYXMgam",
+      "title": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live - Derbyshire Live",
+      "description": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmFwWXVTNmFMVDZqRWozRWk1a2ppVUk4ZGFkQzV2blo5WW9MZkNRUDFxSS1wQzQ4WGMtYjVZZDBYbS1GRWNEYmh4aG9LejZzYklaSzJZdGdxWS05dDU0czdsNmVQaTdKenFReFJheFVhOXFhQ1FOUWY0VDFaYlJIazJkUEVLSVJvcGN3azVMaVJNZXAxZHNPaFZrMWMxdDg0NG9tbjEtVQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-15T08:08:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Sondre Langas"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHMgbmV3IHNpZ25pbmdzIHNwZW",
       "title": "Derby County's new signings speak out after surprise double transfer completed - Derbyshire Live",
