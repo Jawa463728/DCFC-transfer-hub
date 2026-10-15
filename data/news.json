@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T23:51:44.238Z",
+  "updatedAt": "2026-10-15T02:35:40.758Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 49,
-  "targetCount": 1,
+  "storyCount": 50,
+  "targetCount": 2,
   "targets": [
     {
       "name": "Nathaniel Mendez-",
@@ -17,6 +17,19 @@
       "lastMention": "2026-10-09T11:45:00.000Z",
       "firstSeen": "2026-10-09T18:48:20.610Z",
       "isNew": false
+    },
+    {
+      "name": "West Ham",
+      "score": 34,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Yahoo",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-10-12T13:33:16.000Z",
+      "firstSeen": "2026-10-15T02:35:40.758Z",
+      "isNew": true
     }
   ],
   "stories": [
@@ -94,6 +107,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "cXByIHN1bW1lciBzaWduaW5nIHNldCB0byBtaXNzIG",
+      "title": "QPR summer signing set to miss Derby County clash after West Ham worry - Yahoo",
+      "description": "QPR summer signing set to miss Derby County clash after West Ham worry &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGlGN1RhWVR0cEI5RGJ4dWZxTktqWGdUVVl0UnFsbk9qaXh6ZDZwZVktOFJPTTY4SEEtMTNiSGpObHpROU9KSENiYVlieXc1VFBOUkhoNGpDNnhyd2JFc3pTR1Y3QVhTUVZ3UWVnUzZrczVSLXNFajBOOVNyandBdA?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-12T13:33:16.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "West Ham"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
