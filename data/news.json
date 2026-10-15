@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T02:35:40.758Z",
+  "updatedAt": "2026-10-15T07:43:12.879Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 50,
@@ -20,7 +20,7 @@
     },
     {
       "name": "West Ham",
-      "score": 34,
+      "score": 33,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,6 +46,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NMjJGNFdVeTNmcFZZUkxfMzZ0bGE2ZlU1WDFtSXlSWlo4dl9ad2hmQ0c5NVJfU3JrQVFwUDNWTTZISFRUVzVoMU1XbEt6VGpLUWNzQzA2VXVRTmhwclNEaV9lM082d3RZcXFSZnNBdWxOX1NacHE5WHd3b1dKRzQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-14T07:56:02.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -132,21 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUFE3Vnk2X1BUNk5INUlLeGZZdkxtbXZrUndzMHlTd0Fhc0hMVldId2FOcUI0dTFhQU4tVlZzVGd1Qmg0eTFZa1MtdmQ0N3JmaVYtZy1pOVhjcnJIdzBIcGN2anVpMGZ3Q0NMQmZ2UFpveVIwaElScTM0N3FLaDg?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-11T23:24:03.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MVVRSR3NQNTdJNEF3M0RjdURDaUpDdEhGZ1p5MElpamJQLUFPcVhaLTNEdzNMM0N2RUdqc3JYVU1NZXhkX3RsbEUyM3g5blo2eU50MUt5QmFsWWI0cjBXU1FNdXZEM1gxNkVKQndfeTJjczJLWk5oV3VETQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-11T15:50:18.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
