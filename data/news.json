@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T23:14:49.160Z",
+  "updatedAt": "2026-10-16T01:28:41.963Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 53,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Sondre Langas",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,7 +16,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-15T08:08:00.000Z",
       "firstSeen": "2026-10-15T12:53:02.752Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Nathaniel Mendez-",
@@ -94,6 +94,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IZG16T3N4MGlpNkU4RXowcFJjZ2ZkSFc2WTltbUJ5TndJRkdVM2V0cEtpRkRZeGc4ak9HdWp3cnZqSGpKaFk4VDVwMENMengxSXZHODJvaldXQVduYmNIbHF2eTdZZk1Rc1Fpc3NPZkFBT3AtUUV1TlphM3pKdw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-15T07:31:04.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
       "title": "Derby County - Rekord-Abgänge (Galerie) - Transfermarkt",
       "description": "Derby County - Rekord-Abgänge (Galerie) &nbsp;&nbsp; Transfermarkt",
@@ -121,21 +136,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NMjJGNFdVeTNmcFZZUkxfMzZ0bGE2ZlU1WDFtSXlSWlo4dl9ad2hmQ0c5NVJfU3JrQVFwUDNWTTZISFRUVzVoMU1XbEt6VGpLUWNzQzA2VXVRTmhwclNEaV9lM082d3RZcXFSZnNBdWxOX1NacHE5WHd3b1dKRzQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-14T07:56:02.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     },
     {
@@ -214,21 +214,6 @@
       "players": [
         "West Ham"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUFE3Vnk2X1BUNk5INUlLeGZZdkxtbXZrUndzMHlTd0Fhc0hMVldId2FOcUI0dTFhQU4tVlZzVGd1Qmg0eTFZa1MtdmQ0N3JmaVYtZy1pOVhjcnJIdzBIcGN2anVpMGZ3Q0NMQmZ2UFpveVIwaElScTM0N3FLaDg?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-11T23:24:03.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc25pcCBzaG",
@@ -470,6 +455,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjAxbTR1UXFJQ3J3aWFCc1RnUzZQa2htSzctTW9TbmlBRHRYbXRNNGJMbkZDb0s1a0tvNEdLTjdSM3U2dnpVNGtBeTRwVXdmeTluM041UWVkVWQ5ekY3aERLVW5DclVjd0JNQUhXQnJBdE9XLVNEb2c5U1cxbVY0Z1JPdzhmUDQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-06T12:26:16.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
