@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:59:29.635Z",
+  "updatedAt": "2026-10-16T22:00:24.252Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 55,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Sondre Langas",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
