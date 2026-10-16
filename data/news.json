@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-16T11:38:09.935Z",
+  "updatedAt": "2026-10-16T15:33:05.867Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 55,
   "targetCount": 3,
   "targets": [
     {
       "name": "Sondre Langas",
-      "score": 61,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -826,6 +826,21 @@
       "players": [
         "First Division"
       ]
+    },
+    {
+      "id": "YWNhZGVteSBuZXdzIGthbmUgaGVhZHMgdG8gZ2xvdW",
+      "title": "ACADEMY NEWS: Kane heads to Gloucester City on youth loan - Derby County",
+      "description": "ACADEMY NEWS: Kane heads to Gloucester City on youth loan &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVRrYnVQUVQ0SC1xdFBDa0xILVFNbExnU3lGRF9fZU12S29Wd1lRY1BvamkwTGFXSkpJOHQzc2d4Wm1tM2xrRUxadFZrRXdHaXV2U1g2VHN0bm15TjRTZVRQRl9kWVF4N2lOcF9fQTBrWUxqZjByeEVyMkVoWTQ2d1F5azVYQjJfSUNWdEsyRklSM1dtMHc?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-26T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
