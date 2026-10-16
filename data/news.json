@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:17:48.715Z",
+  "updatedAt": "2026-10-16T11:38:09.935Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Sondre Langas",
-      "score": 62,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,6 +59,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "Y292ZW50cnkgY2l0eSBkZXJieSBjb3VudHkgMDMgMD",
+      "title": "Coventry City - Derby County, 03.04.2026 - Championship - Spielbericht - Transfermarkt",
+      "description": "Coventry City - Derby County, 03.04.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHJ4Ukd0QTNCRzJpa2wtQlVqVm5wUV91Y1h6U2Z5Vy1GYUFFeTZfT2N5X0E1d0tLcTZvRktTSVZlaDdLcThKenExZGV0aEtPeWU0NE8zbjh0UUFsdDhuWFRYcV8xeWN3WHB5QmhTNHJFSVloSUVod3VIdmt1ZUxxZklxcVlUZ0l4Ymc?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-15T13:52:02.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -858,23 +873,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "aW5zaWRlIGRlcmJ5IGNvdW50eSBzIGJvbGQgdHJhbn",
-      "title": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister - Derbyshire Live",
-      "description": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1RYbmxqdEJnV1ZhUE5oQlBYZkdPWks2eUJQcTZGblpPQnBjY210bEF6M3BJYzRUbURIa2tWM1ExSllVdnNaS2MzSXJ5Tl9oVWJOLURRdjZKWDRydDhNbkNCcEMxZWNOdUU3T0VaeGUwdWNFU2xLVmt1UHZ1UHZMa2liNE1wOEpHRWNBazNBdi1tcl9jMUk4RGhJRFlwZFRzbjYzdzBlcXlnZw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-25T07:35:59.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Henrik Meister"
-      ]
     }
   ]
 }
