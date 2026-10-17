@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-10-17T15:54:54.958Z",
+  "updatedAt": "2026-10-17T18:13:51.665Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 55,
-  "targetCount": 4,
+  "targetCount": 5,
   "targets": [
+    {
+      "name": "Jack Robinson",
+      "score": 69,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-10-17T12:47:51.000Z",
+      "firstSeen": "2026-10-17T18:13:51.665Z",
+      "isNew": true
+    },
     {
       "name": "Jack Robinson Signs Three-",
       "score": 54,
@@ -89,6 +102,23 @@
       "overseas": false,
       "players": [
         "Jack Robinson Signs Three-"
+      ]
+    },
+    {
+      "id": "amFjayByb2JpbnNvbiBkZXJieSBjb3VudHkgc2lnbi",
+      "title": "Jack Robinson: Derby County sign ex-Sheffield United and Birmingham defender - BBC",
+      "description": "Jack Robinson: Derby County sign ex-Sheffield United and Birmingham defender &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URjR4dmdMQzNvZjJ5SEZNbXh0ZTJMWlpWeXB3dlRSQzNIVjVXYmNoRkpzVUtkRkNDUGtyMWlpa1M5MVJNVGk1YVU2c3M4X0VnU0R6ZDE4N0FVT1ZZMEgxUE1yUUdPMGdmb2g0?oc=5",
+      "source": "BBC",
+      "published": "2026-10-17T12:47:51.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jack Robinson"
       ]
     },
     {
@@ -357,21 +387,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkJVM0xwbmd3VjJueVhrTnhsekdaTEZwWDBhb2JaN0FkS3NnU2UtWnlPSUhJemdHTEU2S1hlcElJWS01MVdOMDlPY3JxUnotYXQ4QWMxa0lYX3hvOGtxd18zSVdfT3U5VWJGMTRVZTk4N0hvYVktSVVpQUpSVmpMYkpRYnRIUQ?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-10T17:57:10.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUFNNV2FuSUhhcHpzN2ZkSHZoMWVCSWVYNGpBLU53aktldFJoQUNCMkZ2YVdXd2dOSVVUZmljNE9OM3JidHB2MXVSRER2Rm1TbUtTbDdlVWJka0ZOSVN2NDN0Tk9vT2d2Z3FKWmpNUWM4enphYTVXYU93di1aLWJhNlhBMUlPeGV4eFpzWE5fQ1piclRvTlZBLUJUNDFOYm82YmNCRkU0ZVNuN2JZZUVscTF4SGYySWI2OVp4aVpvbkhZMlB4UGFCUWphcWxpazkwY3c?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-10T09:13:15.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
