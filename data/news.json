@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T08:51:02.742Z",
+  "updatedAt": "2026-10-17T12:34:31.204Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 50,
+  "storyCount": 51,
   "targetCount": 3,
   "targets": [
     {
       "name": "Sondre Langas",
-      "score": 55,
+      "score": 54,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,6 +46,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHNpZ24gZnJlZSBhZ2VudCBhcy",
+      "title": "Derby County sign free agent as former Nottingham Forest man eases injury crisis - Derbyshire Live",
+      "description": "Derby County sign free agent as former Nottingham Forest man eases injury crisis &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUlFYTGZOYlNVSGY3V1NPdUhSeUpON2JZZloySi12Sk40bUM0Sm9iZ1hLd3Z5OHRyVmowS0lRVWczWXVuTC1xMm1KQUZGOURjeXZVSjYwTkFfSUs5S0xKcGEtNGtOTHhZMFJtdVZLLXBtN0ZZY3FyUWxDdVBHWko0RGhfTnd5aXlRXzJ0Z3JvQndGSXVJTV9KSS1PQVVydHo0Uk9ld3RrLXRHdw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-17T11:59:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
       "title": "Derby County B - Transfermarkt",
@@ -538,7 +553,7 @@
       "description": "Derby County’s failed summer pursuits of two Birmingham City players revealed &nbsp;&nbsp; Yahoo",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjA2S0NZdTNhdFJnOWVWVU8zTmpBSkNMM24tVExtejVrWGNLd0ZqSEZIa0pQQlVvSzk4WWtZczNxRGFYalBqUFk4c011RXNGVWFHSl9sVjdxNUJldGFGYm56NHotSmp6QUdPMFNYQjVXOVlTYjJuaFN5SUQycGhKaEo4cmJDYmFFaU5z?oc=5",
       "source": "Yahoo",
-      "published": "2026-10-06T07:40:06.000Z",
+      "published": "2026-10-06T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 51,
       "ratingLabel": "Speculative",
