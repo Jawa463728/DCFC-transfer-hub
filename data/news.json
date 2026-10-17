@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-17T18:13:51.665Z",
+  "updatedAt": "2026-10-17T20:41:52.498Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 55,
+  "storyCount": 54,
   "targetCount": 5,
   "targets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Jack Robinson Signs Three-",
-      "score": 54,
+      "score": 53,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Sondre Langas",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -899,23 +899,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "YWZjIHN1bmRlcmxhbmQgZGVyYnkgY291bnR5IDIzID",
-      "title": "AFC Sunderland - Derby County, 23.04.1977 - First Division (- 91/92) - Spielbericht - Transfermarkt",
-      "description": "AFC Sunderland - Derby County, 23.04.1977 - First Division (- 91/92) - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0ZXcVhTWFBiWEJrNFdJXy1jeHRGUm1rWC0tLVVDZWpRaU9aNU5yZXBIa3Y2UXNLZzlhSVlyTWd6dWtCeElaTjFqU2pmRDRwRU9FX1l1VThCR0oxazBoaWgta1M3RENydjJDTXNLbXJMNjJhaWl1dDktTWdBeHE1b3FUeXNNZw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-26T18:52:20.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": [
-        "First Division"
-      ]
     }
   ]
 }
