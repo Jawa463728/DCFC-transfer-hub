@@ -1,13 +1,26 @@
 {
-  "updatedAt": "2026-10-17T12:34:31.204Z",
+  "updatedAt": "2026-10-17T15:54:54.958Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 51,
-  "targetCount": 3,
+  "storyCount": 55,
+  "targetCount": 4,
   "targets": [
     {
-      "name": "Sondre Langas",
+      "name": "Jack Robinson Signs Three-",
       "score": 54,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "شبكة تواصل الإخبارية",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-10-17T12:57:51.000Z",
+      "firstSeen": "2026-10-17T15:54:54.958Z",
+      "isNew": true
+    },
+    {
+      "name": "Sondre Langas",
+      "score": 53,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,6 +59,53 @@
     }
   ],
   "stories": [
+    {
+      "id": "c2lnbmluZyByb2JpbnNvbiBzaWducyBmb3IgdGhlIH",
+      "title": "SIGNING: Robinson signs for the Rams - Derby County",
+      "description": "SIGNING: Robinson signs for the Rams &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMHNRQlIwTTlCUFpjcC1iVEhteWVMc1F5LUhleHhVVFRJMG9fVEZfMmE2MnR2VnQzSDNYcmtnY3V4b2I1UHotWkFBQW9aMnhmQjdSZEh3dmRvZWQ3cGhDYXdRRmliM245SGpXTzctbmh5M2RSblRnRmI0MA?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-17T12:59:03.000Z",
+      "reputation": 99,
+      "likelihood": 97,
+      "ratingLabel": "Very strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "amFjayByb2JpbnNvbiBzaWducyB0aHJlZSBtb250aC",
+      "title": "Jack Robinson Signs Three-Month Derby County Deal - شبكة تواصل الإخبارية",
+      "description": "Jack Robinson Signs Three-Month Derby County Deal &nbsp;&nbsp; شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44RDhGUEZ3Q2JPNzRTckczZjlyRUp2UkdjQXRDd1pQLWx6Z1BsUVB5SnFINUdTa0J5d0p2eVZjcHZsSVpERTNzWWdoSnh3OXkydHVN?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "published": "2026-10-17T12:57:51.000Z",
+      "reputation": 48,
+      "likelihood": 65,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jack Robinson Signs Three-"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHN3b29wIGZvciBmcmVlIGFnZW",
+      "title": "Derby County swoop for free agent as former Nottingham Forest defender eases injury crisis - Derbyshire Live",
+      "description": "Derby County swoop for free agent as former Nottingham Forest defender eases injury crisis &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUlFYTGZOYlNVSGY3V1NPdUhSeUpON2JZZloySi12Sk40bUM0Sm9iZ1hLd3Z5OHRyVmowS0lRVWczWXVuTC1xMm1KQUZGOURjeXZVSjYwTkFfSUs5S0xKcGEtNGtOTHhZMFJtdVZLLXBtN0ZZY3FyUWxDdVBHWko0RGhfTnd5aXlRXzJ0Z3JvQndGSXVJTV9KSS1PQVVydHo0Uk9ld3RrLXRHdw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-17T12:16:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHNpZ24gZnJlZSBhZ2VudCBhcy",
       "title": "Derby County sign free agent as former Nottingham Forest man eases injury crisis - Derbyshire Live",
@@ -297,6 +357,21 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkJVM0xwbmd3VjJueVhrTnhsekdaTEZwWDBhb2JaN0FkS3NnU2UtWnlPSUhJemdHTEU2S1hlcElJWS01MVdOMDlPY3JxUnotYXQ4QWMxa0lYX3hvOGtxd18zSVdfT3U5VWJGMTRVZTk4N0hvYVktSVVpQUpSVmpMYkpRYnRIUQ?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-10T17:57:10.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUFNNV2FuSUhhcHpzN2ZkSHZoMWVCSWVYNGpBLU53aktldFJoQUNCMkZ2YVdXd2dOSVVUZmljNE9OM3JidHB2MXVSRER2Rm1TbUtTbDdlVWJka0ZOSVN2NDN0Tk9vT2d2Z3FKWmpNUWM4enphYTVXYU93di1aLWJhNlhBMUlPeGV4eFpzWE5fQ1piclRvTlZBLUJUNDFOYm82YmNCRkU0ZVNuN2JZZUVscTF4SGYySWI2OVp4aVpvbkhZMlB4UGFCUWphcWxpazkwY3c?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-10T09:13:15.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
