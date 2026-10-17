@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-17T04:43:24.944Z",
+  "updatedAt": "2026-10-17T08:51:02.742Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
+  "storyCount": 50,
   "targetCount": 3,
   "targets": [
     {
       "name": "Sondre Langas",
-      "score": 56,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -46,6 +46,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNll4cHZtNnJZT1BrSkZGY21IRFB1N3BuWGNKR0xfZnEzZUtxN0g4eEtlM3FFMTBHNFA3MGljYzc1OGdZNVJBel9GNGVoR2FoY09mOE1xNmhVaW9LNThDRFdVQm94eTB4QlczQk1qa2lla3lyVE40SUVaa0dzNDQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-16T15:20:09.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGNvbmZpcm0gZG91YmxlIHRyYW",
       "title": "Derby County confirm double transfer as former Crystal Palace striker signs - Derbyshire Live",
@@ -122,21 +137,6 @@
       "players": [
         "Sondre Langas"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IZG16T3N4MGlpNkU4RXowcFJjZ2ZkSFc2WTltbUJ5TndJRkdVM2V0cEtpRkRZeGc4ak9HdWp3cnZqSGpKaFk4VDVwMENMengxSXZHODJvaldXQVduYmNIbHF2eTdZZk1Rc1Fpc3NPZkFBT3AtUUV1TlphM3pKdw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-15T07:31:04.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
@@ -811,53 +811,6 @@
       "players": [
         "First Division"
       ]
-    },
-    {
-      "id": "YWNhZGVteSBuZXdzIGthbmUgaGVhZHMgdG8gZ2xvdW",
-      "title": "ACADEMY NEWS: Kane heads to Gloucester City on youth loan - Derby County",
-      "description": "ACADEMY NEWS: Kane heads to Gloucester City on youth loan &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVRrYnVQUVQ0SC1xdFBDa0xILVFNbExnU3lGRF9fZU12S29Wd1lRY1BvamkwTGFXSkpJOHQzc2d4Wm1tM2xrRUxadFZrRXdHaXV2U1g2VHN0bm15TjRTZVRQRl9kWVF4N2lOcF9fQTBrWUxqZjByeEVyMkVoWTQ2d1F5azVYQjJfSUNWdEsyRklSM1dtMHc?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-26T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "YmVzdCB0aWd0ZXIgdHJhbnNmZXIgZGVyYnkgY291bn",
-      "title": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. - OneFootball",
-      "description": "Bestätigter Transfer: Derby County unterschreibt Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OWWtSZWUyLVVkdUhJcUM0aGI2YTlOX3BfT3RhTXMtUVFaQ291eFEwMV9udlFzUXd6V1BScVZDcFFMWTdUQmgwTHBOVkVlNUtrWFpXQno0aC0?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-26T07:00:00.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": [
-        "Nicholas Bilokapic"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHNob3VsZCB0YXJnZXQgdmVyc2",
-      "title": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion - Yahoo",
-      "description": "Derby County should target versatile Hull City man in January amid defensive injury issues: Opinion &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzZoNjJZNWNuS0hDVXBMSFVPR1BDeVB5aGw2a3Zta09kMl9IYk9SVF8xS3dTdDlsb3gzZ1c2MExkOERYdm53YXUxV3lUSXdDUk5DWGU4cV9KbUkxYTZPQlJ5TjhIZkhVejgzQjBfNm9hMDBRVXRRNWJnMGIta3FfanRnTktkeDhHVEE?oc=5",
-      "source": "Yahoo",
-      "published": "2026-09-26T06:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     }
   ]
 }
