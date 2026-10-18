@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T13:24:55.298Z",
+  "updatedAt": "2026-10-18T16:43:02.310Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 53,
@@ -16,19 +16,6 @@
       "maxLikelihood": 72,
       "lastMention": "2026-10-17T12:47:51.000Z",
       "firstSeen": "2026-10-17T18:13:51.665Z",
-      "isNew": false
-    },
-    {
-      "name": "Jack Robinson Signs Three-",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "شبكة تواصل الإخبارية",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-10-17T12:57:51.000Z",
-      "firstSeen": "2026-10-17T15:54:54.958Z",
       "isNew": false
     },
     {
@@ -55,6 +42,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-09T11:45:00.000Z",
       "firstSeen": "2026-10-09T18:48:20.610Z",
+      "isNew": false
+    },
+    {
+      "name": "Jack Robinson Signs Three-",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "شبكة تواصل الإخبارية",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-10-17T12:57:51.000Z",
+      "firstSeen": "2026-10-17T15:54:54.958Z",
       "isNew": false
     },
     {
@@ -232,7 +232,7 @@
       "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0NS05cXpfZEE4VUZmVWo3QnI4ZHFNeDdYUTdZOW5IZTNNRGREcFdfWmYwblN6M3VfTjVhWDFDZ1BxX3lVNFJ5cHlwZy1LbnczWjVHY1I5cl9nZlF5bktCRUlBbnhnMWpselpWbWdVd2J4V0NKRGZyYg?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-10-15T13:09:05.000Z",
+      "published": "2026-10-15T13:09:06.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
