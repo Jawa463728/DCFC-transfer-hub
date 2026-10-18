@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-18T09:22:36.448Z",
+  "updatedAt": "2026-10-18T13:24:55.298Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 53,
   "targetCount": 5,
   "targets": [
     {
       "name": "Jack Robinson",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Jack Robinson Signs Three-",
-      "score": 50,
+      "score": 49,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,6 +72,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2025/2026 - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2025/2026 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3N4UmtIbXdUSTRJMzlKdGxUWThqR0RWb29KUFMtWHRlc2s3VjhvTkluX295UnpXMlpUdExsNjBPVjAzSjNMNjJGV0hZeGlPRXlHanJhV20tVzFaZVBjX1U1VHNQOFdvS0c4Njh6X0M4MDBxQnZ0b2hCbWdTSmdwTVkwUV8yQkVDeFAwRFd5QWV0SVdHaDlkdTN1cFBnaGxuSkg3ZFpUVVNSYnVOZnZGb2l3alk0SmtTQmw2ci1mdUZ3b2NwYXYwVjBKLTRPQ1FmUGJr?oc=5",
+      "source": "FotMob",
+      "published": "2026-10-18T07:55:06.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
+      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWI3aFBRTjFpQ3hKSndXVUN5VnRPbEhxTUdUcGh1QnA2eFl4THZVMTFwSVJKWGUweDZJYXRjdVlIVkZFckVkQXlhODFQRERVZGlKdUFselk1U09xSFcxbk4xNWhPMDk0ZFBQT0NNdi1rRnlZY291dW5vVG14TFNsLUVlRi10X0VTam1wNjNUUkFVSTh3QU9TSmcxakxMb1JxYkdVU253?oc=5",
+      "source": "FotMob",
+      "published": "2026-10-17T21:15:45.000Z",
+      "reputation": 96,
+      "likelihood": 81,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "c2lnbmluZyByb2JpbnNvbiBzaWducyBmb3IgdGhlIH",
       "title": "SIGNING: Robinson signs for the Rams - Derby County",
@@ -563,21 +593,6 @@
       "players": []
     },
     {
-      "id": "ZXhwZWN0ZWQgZ29hbHMgb24gdGFyZ2V0IHhnb3QgZG",
-      "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzdJS05yaEFBZjh4aXJBdVVzLWVtSzRFVDZsSkVFR2N5WGpyTlI3SVpRaXNPQTNGUVRJUS1rNlhvTXRXS0RxbU9yZFBuZ083a3haZHRrMnZZMDlhRXhaLUNxVUpsbnhKcTU2Sld5STRqQktfVW05eUp0MGo3R1hWYjV5eENKR2hGLUUtejNYbWlfVnJXQTYwN2taa3NJdjZucVhrakRKSERNZ05BUFJId3p1eEdlLUF1emc?oc=5",
-      "source": "FotMob",
-      "published": "2026-10-06T12:44:39.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIGludGVudGlvbi",
       "title": "Derby County transfer intention made clear as boss says 'it ticks all the boxes' - Derbyshire Live",
       "description": "Derby County transfer intention made clear as boss says 'it ticks all the boxes' &nbsp;&nbsp; Derbyshire Live",
@@ -865,36 +880,6 @@
       "reputation": 99,
       "likelihood": 75,
       "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeDavid Ozoh. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeDavid Ozoh. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRmwwM3owU1dVM2pMWXVVV3JiUWg0VjRNNEI2LVl4V0V5SlE0aktJZk5qZFE5MGNWM1V0bjhOUFdUclBDX0poTXlBbDF1N05ndG5FSXE4UDZHQQ?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-27T11:30:26.000Z",
-      "reputation": 57,
-      "likelihood": 70,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "fr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRvbGQgMjk3bSBkZWFsIGNvbm",
-      "title": "Derby County told £297m deal conditions before extra money 'can flow' - Derbyshire Live",
-      "description": "Derby County told £297m deal conditions before extra money 'can flow' &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZV9nQTNEV2lmcWpfT2FiM1dlcThJUkJFdF95N0lVVDU2d29IMTRVTG16N1dVMVl5dVNLQWxvNVJrd2RTTDBweklXRlJGNUZ3a1lWaUdtSWJlcDFfMThnNk5QUnB3SFZ4eEEzSm5fRTZOYzJvTHdSa3lIWTRWYzNpNVVWbXRQeGtXYzFZcDQyM0FSNS1GUjlxVzJZay15aDQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-27T10:50:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
