@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:55:26.420Z",
+  "updatedAt": "2026-10-18T09:22:36.448Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Jack Robinson",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,11 +16,11 @@
       "maxLikelihood": 72,
       "lastMention": "2026-10-17T12:47:51.000Z",
       "firstSeen": "2026-10-17T18:13:51.665Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Jack Robinson Signs Three-",
-      "score": 51,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,8 +33,8 @@
     },
     {
       "name": "Sondre Langas",
-      "score": 50,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
