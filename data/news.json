@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T06:47:59.628Z",
+  "updatedAt": "2026-10-19T14:04:48.536Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 53,
-  "targetCount": 5,
+  "targetCount": 4,
   "targets": [
     {
       "name": "Jack Robinson",
-      "score": 60,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -27,26 +27,13 @@
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-10-15T08:08:00.000Z",
+      "lastMention": "2026-10-16T07:00:00.000Z",
       "firstSeen": "2026-10-15T12:53:02.752Z",
       "isNew": false
     },
     {
-      "name": "Nathaniel Mendez-",
-      "score": 49,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-10-09T11:45:00.000Z",
-      "firstSeen": "2026-10-09T18:48:20.610Z",
-      "isNew": false
-    },
-    {
       "name": "Jack Robinson Signs Three-",
-      "score": 45,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -197,6 +184,23 @@
       "players": []
     },
     {
+      "id": "c29uZHJlIGxhbmdhcyBpbiBhIGJhZCB3YXkgYXMgam",
+      "title": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live - Derbyshire Live",
+      "description": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmFwWXVTNmFMVDZqRWozRWk1a2ppVUk4ZGFkQzV2blo5WW9MZkNRUDFxSS1wQzQ4WGMtYjVZZDBYbS1GRWNEYmh4aG9LejZzYklaSzJZdGdxWS05dDU0czdsNmVQaTdKenFReFJheFVhOXFhQ1FOUWY0VDFaYlJIazJkUEVLSVJvcGN3azVMaVJNZXAxZHNPaFZrMWMxdDg0NG9tbjEtVQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-16T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Sondre Langas"
+      ]
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGNvbmZpcm0gZG91YmxlIHRyYW",
       "title": "Derby County confirm double transfer as former Crystal Palace striker signs - Derbyshire Live",
       "description": "Derby County confirm double transfer as former Crystal Palace striker signs &nbsp;&nbsp; Derbyshire Live",
@@ -232,7 +236,7 @@
       "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0NS05cXpfZEE4VUZmVWo3QnI4ZHFNeDdYUTdZOW5IZTNNRGREcFdfWmYwblN6M3VfTjVhWDFDZ1BxX3lVNFJ5cHlwZy1LbnczWjVHY1I5cl9nZlF5bktCRUlBbnhnMWpselpWbWdVd2J4V0NKRGZyYg?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-10-15T13:09:05.000Z",
+      "published": "2026-10-15T13:09:06.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -255,23 +259,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "c29uZHJlIGxhbmdhcyBpbiBhIGJhZCB3YXkgYXMgam",
-      "title": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live - Derbyshire Live",
-      "description": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmFwWXVTNmFMVDZqRWozRWk1a2ppVUk4ZGFkQzV2blo5WW9MZkNRUDFxSS1wQzQ4WGMtYjVZZDBYbS1GRWNEYmh4aG9LejZzYklaSzJZdGdxWS05dDU0czdsNmVQaTdKenFReFJheFVhOXFhQ1FOUWY0VDFaYlJIazJkUEVLSVJvcGN3azVMaVJNZXAxZHNPaFZrMWMxdDg0NG9tbjEtVQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-15T08:08:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Sondre Langas"
-      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
