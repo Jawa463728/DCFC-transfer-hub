@@ -1,23 +1,10 @@
 {
-  "updatedAt": "2026-10-19T14:04:48.536Z",
+  "updatedAt": "2026-10-19T19:51:54.839Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
-  "targetCount": 4,
+  "storyCount": 54,
+  "targetCount": 3,
   "targets": [
-    {
-      "name": "Jack Robinson",
-      "score": 58,
-      "status": "Developing",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "BBC",
-      "bestSourceScore": 94,
-      "maxLikelihood": 72,
-      "lastMention": "2026-10-17T12:47:51.000Z",
-      "firstSeen": "2026-10-17T18:13:51.665Z",
-      "isNew": false
-    },
     {
       "name": "Sondre Langas",
       "score": 49,
@@ -33,7 +20,7 @@
     },
     {
       "name": "Jack Robinson Signs Three-",
-      "score": 43,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,6 +46,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGphY2sgcm9iaW",
+      "title": "NEW SIGNING INTERVIEW: Jack Robinson - Derby County",
+      "description": "NEW SIGNING INTERVIEW: Jack Robinson &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PN2tYUnhfSmpObUo2YnhXS1h2U3YxUVh3VndYYjhScy1hQUxsbHJxZjcwTUhaMVhKdnJHekdpTk5Kc1dQdlAxN19mVThIQ202UTBHdkNLSG1udUR2U0QtRWNUcWQ4dWVZOUhwZUJ5VWxaRlUwdjlrV1JXVQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-19T16:06:36.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jack Robinson"
+      ]
+    },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
       "title": "Shots on target per 90 - Derby County stats for Championship 2025/2026 - FotMob",
