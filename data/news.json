@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T12:44:04.701Z",
+  "updatedAt": "2026-10-20T17:34:10.628Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 56,
@@ -21,7 +21,7 @@
     {
       "name": "Jack Robinson Signs Three-",
       "score": 37,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "شبكة تواصل الإخبارية",
