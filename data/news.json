@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-20T07:10:32.814Z",
+  "updatedAt": "2026-10-20T12:44:04.701Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 56,
   "targetCount": 3,
   "targets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Jack Robinson Signs Three-",
-      "score": 38,
+      "score": 37,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,6 +46,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "amFjayByb2JpbnNvbiBtYWtlcyBibHVudCBkZXJieS",
+      "title": "Jack Robinson makes blunt Derby County admission after transfer ends wait - Derbyshire Live",
+      "description": "Jack Robinson makes blunt Derby County admission after transfer ends wait &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1V3MUFjdW9pc1hfNjBKaG4wcUlVZmpnV0ljOHhnUGVlRHZIbHVmUXV3ZmpvSlMwMkZ0UE0wYS1fVzVOM1J4V2FRUnF3cTRQcm1sZDhxQjZZUVAySEk4cXJPMm4zNTdwc21kNWZNUjNxQ29pZ2JvMVJJMXo2a3JELUg2U3A5eFFmUzc1S2ZlQkFrUzNURmw3OGhoQ0RObmkyclVuMkd2UlNMdGc?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-20T09:26:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jack Robinson"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IG5lZWQgdG8gcmVraW5kbGUgdH",
+      "title": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion - Yahoo",
+      "description": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnhHMXVhX3E1dGdmTUpIenZ1U1hmdTMwMWN3aGdycEdfMThOaGtNRkxTc0lZbF9zMllVeGk4ZERQVzlJUnRhbXJoaXd4ZkRxXzZneGw3TWtEM0N6MkM5aW1CVDNheERQOXlybnhmdGdPUWdQTzBlaXNXdFY0dmNNbVk4RHd6dWMtdnV4QWhYZw?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-20T07:50:57.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGphY2sgcm9iaW",
       "title": "NEW SIGNING INTERVIEW: Jack Robinson - Derby County",
