@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T01:53:53.625Z",
+  "updatedAt": "2026-10-20T07:10:32.814Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Jack Robinson Signs Three-",
-      "score": 40,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -170,6 +170,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
+      "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
+      "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQnc0WjVqelVCZzRaa0NlQjlYc1VaNUNON2xTRzhISHZtUXZLQzRyd1VhMzUzNnU3TkFXTUo4NWg3UWlMVTJCYkpmV3l6cEpZN3BQNUMzeHJsc2FrbWZ4Mi1IUUYwU09tQUZhejBkeTVSektIQzZueGJoZ2NxbUhSZHN3VVhSUUo1NEtPTzRrTTRHNnQ3RU1uc0hZT3F4dnR1UmFVSUI1dEZfc1ZkRWNwd3k0U1p6MlBWR1EzdVMtbDVQQWFTVXZB?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-16T15:23:55.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -629,21 +644,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IG9ibGlnZWQgdG8gc2lnbiAzMS",
-      "title": "Derby County obliged to sign 31-year-old in £2.7m deal after new update - Yahoo",
-      "description": "Derby County obliged to sign 31-year-old in £2.7m deal after new update &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbkI1UHVJTl9VeXc4N1hNaG53a0dXNFo2TTJwdC1SN2hodHJRNWR0enNLQk9ocTV4SGhHcklnNTM0SlhLdlJEcmIwd1NnU1JaR3RJQnlTSUZ2U2J4cXBrXzlKc2djcjVxa3JYMWE5OFoyal80cXVydDBPZkM1UWN3Zkln?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-06T10:59:38.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHMgZmFpbGVkIHN1bW1lciBwdX",
       "title": "Derby County’s failed summer pursuits of two Birmingham City players revealed - Yahoo",
       "description": "Derby County’s failed summer pursuits of two Birmingham City players revealed &nbsp;&nbsp; Yahoo",
@@ -652,6 +652,21 @@
       "published": "2026-10-06T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IG9ibGlnZWQgdG8gc2lnbiAzMS",
+      "title": "Derby County obliged to sign 31-year-old in £2.7m deal after new update - Yahoo",
+      "description": "Derby County obliged to sign 31-year-old in £2.7m deal after new update &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbkI1UHVJTl9VeXc4N1hNaG53a0dXNFo2TTJwdC1SN2hodHJRNWR0enNLQk9ocTV4SGhHcklnNTM0SlhLdlJEcmIwd1NnU1JaR3RJQnlTSUZ2U2J4cXBrXzlKc2djcjVxa3JYMWE5OFoyal80cXVydDBPZkM1UWN3Zkln?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-06T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "us",
@@ -859,21 +874,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "YWNhZGVteSBuZXdzIGFsbGVuIGV4dGVuZHMgaGFsaW",
-      "title": "ACADEMY NEWS: Allen extends Halifax loan - Derby County",
-      "description": "ACADEMY NEWS: Allen extends Halifax loan &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnFxVlM5ZjBSQi1EdjRuNmFsUzBiNTU3cG1sOEVoNU1iU09SdE1HZWdnQV8zSmtGcUd3WW1EWmZmWHlOTUF4ZFV1ZmQ5a2hIZUtFSkxXLWpqMzJGWGc2WXVyY0ZKWEQzNDM2QXVsSkZoOGgtaWtmdVU4blBBOTFTTg?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-29T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
