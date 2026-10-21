@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-20T23:32:28.397Z",
+  "updatedAt": "2026-10-21T01:58:30.690Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 55,
+  "storyCount": 56,
   "targetCount": 3,
   "targets": [
     {
@@ -65,16 +65,16 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IG5lZWQgdG8gcmVraW5kbGUgdH",
-      "title": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion - Yahoo",
-      "description": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnhHMXVhX3E1dGdmTUpIenZ1U1hmdTMwMWN3aGdycEdfMThOaGtNRkxTc0lZbF9zMllVeGk4ZERQVzlJUnRhbXJoaXd4ZkRxXzZneGw3TWtEM0N6MkM5aW1CVDNheERQOXlybnhmdGdPUWdQTzBlaXNXdFY0dmNNbVk4RHd6dWMtdnV4QWhYZw?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-20T07:50:57.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
+      "title": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion - The72",
+      "description": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkFCLThkblAwSjYyRnhjM1M0cVpLdVlZbURST09jdU9kazFmc0xRbGNqdldvZGVwSnpaeWF5MEowd1c5U0JxemUtRHM4OUkzVlNfY1REb1JETk5URWlOT3Z5ejFhLW1FUGYtVW1lcF9jZjQ2SUl0X0VGN25fNktXYVF0aVZ4ZnNXaW5ZU3U4YVRkaW1taGhWSXpuUHg0QQ?oc=5",
+      "source": "The72",
+      "published": "2026-10-20T07:51:29.000Z",
+      "reputation": 66,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -94,6 +94,21 @@
       "players": [
         "Jack Robinson"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
+      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
+      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-18T09:37:42.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
