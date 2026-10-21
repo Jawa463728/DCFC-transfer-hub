@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-21T07:26:50.387Z",
+  "updatedAt": "2026-10-21T13:07:37.927Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 58,
+  "storyCount": 57,
   "targetCount": 4,
   "targets": [
     {
@@ -134,7 +134,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -484,7 +484,7 @@
       "description": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcTFjMFA3Y0d1QmNEUE85anFBS1VKelVQS3BmX05ybEZjMlZZRjQtZ0NfSUlVRnFRWkFCemQxejZqdHEwamNJTzF3WWNNYXB3SF9kcm12eU9yeHBiTEpTVHp0b1lMR1VjOU5VdzItSGo2MmtrbkU1MkR4TUd0R1lRczdNM3R2M3pxQm96YVJBVklzZjlyUE1tY1E1YkplVlRvWmhJbDJ3TjloUQ?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-10-11T08:54:05.000Z",
+      "published": "2026-10-11T07:00:00.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
@@ -933,21 +933,6 @@
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG1pZGZpZWxkZXIgYnJhbmRlZC",
-      "title": "Derby County midfielder branded 'brilliant' after transfer decision confirmed - Derbyshire Live",
-      "description": "Derby County midfielder branded 'brilliant' after transfer decision confirmed &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXZzc3BEa1dMYU9HdVdKdTh0MENNNEdHcHhkTWtnVG11bFFELUtyV2RXbTRSLWhHQS0zQ09tRDJqU2VLSlpBNThzYXd6SEJoNjRMMncwWFlrY0NwZ2h6WU5wWHMtS2lUSXBFNWl0bHdNYmRxY1lBckVlSVBHb0QzU0Z2d19HcWRYUTlMMHhubUJHV0c2VEE1aEJ3dmdtSGIyRnl3OHZRWQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-30T11:26:00.000Z",
-      "reputation": 87,
-      "likelihood": 90,
-      "ratingLabel": "Very strong",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
