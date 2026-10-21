@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-21T13:07:37.927Z",
+  "updatedAt": "2026-10-21T18:01:28.057Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 57,
+  "storyCount": 56,
   "targetCount": 4,
   "targets": [
     {
@@ -59,6 +59,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGRvZGdlZCBidWxsZXQgYnkgbm",
+      "title": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion - The72",
+      "description": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUzllakFicGI3T21PY0YzR2h0OTFaSkk0X3V4dXFYT0VmanplUVFUUGxQTWFJUkJYRzJDUzBtMVY4MHFsLUg2X0pqS296UG81OGtZeUVYSWRjQ2x1WS1KcmZVMzcyMFVJLWxCVWRud21HcE1RcWsyTmx4MnRPTmRCZmQ2RWZ5Zk1EcUFz?oc=5",
+      "source": "The72",
+      "published": "2026-10-21T10:16:05.000Z",
+      "reputation": 66,
+      "likelihood": 54,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "amFjayByb2JpbnNvbiBtYWtlcyBibHVudCBkZXJieS",
       "title": "Jack Robinson makes blunt Derby County admission after transfer ends wait - Derbyshire Live",
@@ -904,38 +919,6 @@
       "status": "rumour",
       "edition": "fr",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "amFzb24ga25pZ2h0IHJldHVybmluZyB0byBkZXJieS",
-      "title": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 - YouTube",
-      "description": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 &nbsp;&nbsp; YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5leFMwVGpqdVBmNF9wQzNzV25fbVg4OERHalFQUFF1NHhVQUpKWE1fdHY0Z1Vla1ZvcjdzYkRmaEYyUQ?oc=5",
-      "source": "YouTube",
-      "published": "2026-09-30T15:00:29.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Jason Knight"
-      ]
-    },
-    {
-      "id": "NzAwayBkZXJieSBjb3VudHkgbWFuIHNlZW1zIGJvdW",
-      "title": "£700k Derby County man seems bound to leave permanently in 2027 regardless of loan-to-buy decision - Yahoo",
-      "description": "£700k Derby County man seems bound to leave permanently in 2027 regardless of loan-to-buy decision &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzVqeG5pM21Yd1JsTUlHN0pfOGgxc0RNYlJ1ZFRjd2VMTGNQQ1NobkRSc0F6RnRnbUJTamlpbk55OTlpUUowMnEzUVNoVkhhcEJTUEV0bGF4NEdJdTBZQkxFUVgybjF3ZndnZTdJSnE4VUJBaWVQR3hQWGV2ZmR3eA?oc=5",
-      "source": "Yahoo",
-      "published": "2026-09-30T13:19:30.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
