@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T01:58:30.690Z",
+  "updatedAt": "2026-10-21T07:26:50.387Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 56,
-  "targetCount": 3,
+  "storyCount": 58,
+  "targetCount": 4,
   "targets": [
     {
       "name": "Sondre Langas",
@@ -17,6 +17,19 @@
       "lastMention": "2026-10-16T07:00:00.000Z",
       "firstSeen": "2026-10-15T12:53:02.752Z",
       "isNew": false
+    },
+    {
+      "name": "Jose Sa",
+      "score": 38,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-10-15T06:15:12.000Z",
+      "firstSeen": "2026-10-21T07:26:50.387Z",
+      "isNew": true
     },
     {
       "name": "Jack Robinson Signs Three-",
@@ -74,7 +87,22 @@
       "likelihood": 62,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "NSBzdHJpa2VycyBkZXJieSBjb3VudHkgbXVzdCB0cn",
+      "title": "5 strikers Derby County must try sign as John Eustace drops honest Rams claim - Football League World",
+      "description": "5 strikers Derby County must try sign as John Eustace drops honest Rams claim &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkZOZzR5UVJiSm9nZEFhR3R5V1NsdUstWFhsNmc4b28wSDhfMFEtS2VicDZteVplbjBwT19MRnM1bHA2a3liY1hlOFc1TEwxWWlGVTljdDMzVmhFTG9lei16VHh3b0tqbUxHZ01nM2NDSjY0OHpqYlNwN0pKNWlDT3dYN09DU3FGNW5qc1F1VlROazJNX3JJdDVmUFlxR19qUUp3Y3JMNnRpbHY1QzBwTTFWZGNyZw?oc=5",
+      "source": "Football League World",
+      "published": "2026-10-20T06:30:12.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -325,6 +353,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "d29sdmVzIG11c3QgbGF1bmNoIGRlcmJ5IGNvdW50eS",
+      "title": "Wolves must launch Derby County transfer raid after Jose Sa exploits - Football League World",
+      "description": "Wolves must launch Derby County transfer raid after Jose Sa exploits &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3BDTm1fWnRhOTVQY2VZVGpqUXJJQ0NsX2dnYnZmREhUbi1SMHFMT1ZFbmNKX3hDYU95cXRCMGJnWjgybmtWNXQ2RHhlREI5Y3B1eWdQWUJvNjczOWI0M3RNR21FNmp5T2pjYk04UTJJT3lhMWw2cEtiTTR4Ny1Oc1NxNGlPbjdvSEl3M09YelFveVFaeERPQXRudHlJUjRud0lsMUJ3?oc=5",
+      "source": "Football League World",
+      "published": "2026-10-15T06:15:12.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jose Sa"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
