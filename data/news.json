@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T21:34:33.838Z",
+  "updatedAt": "2026-10-22T00:10:55.961Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 56,
@@ -59,6 +59,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1poNWZhMElYLTJVRkRwdkQ5MlRCSzd4R0c5VG5TUkFfVy1aUGFmWDlBQWstNEtHMnF6OW5FYTg2UHFzT0g2Nm9wcUY5TzA2aVZ4NWZzazJEUjYybHp3Zy1VZzJVU09tdU1id3BSYm53MXRoTFl4TDM3TF8tSTE1bTB5Q2ZoNGZLa1lFVUVlOA?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-21T20:06:56.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGRvZGdlZCBidWxsZXQgYnkgbm",
       "title": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion - The72",
@@ -315,7 +330,7 @@
       "description": "Derby County confirm double transfer as former Crystal Palace striker signs &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm5PdE9hVEVETmVNbUVvOFdXaUlHTWNxdGJUbS11UHhmQzlNLTdja3ZQbThBOTZtQmM5LUIzbERhS0cxS2RvZnFRQWJTcTN0dWUxVldWWE04S3E1MVpwZkNnV2NJUkRmQThvV3ZKNEh0bGtTRkZpQmR1M0wxT0plS0lPLUxKTmtWdU5od3FIOVUzVEc5MFBPVDFHWHRRVVhCeTZFa3Q3ZmFsUDQ?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-10-15T15:35:00.000Z",
+      "published": "2026-10-15T15:37:23.000Z",
       "reputation": 87,
       "likelihood": 90,
       "ratingLabel": "Very strong",
@@ -331,21 +346,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHJ4Ukd0QTNCRzJpa2wtQlVqVm5wUV91Y1h6U2Z5Vy1GYUFFeTZfT2N5X0E1d0tLcTZvRktTSVZlaDdLcThKenExZGV0aEtPeWU0NE8zbjh0UUFsdDhuWFRYcV8xeWN3WHB5QmhTNHJFSVloSUVod3VIdmt1ZUxxZklxcVlUZ0l4Ymc?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-15T13:52:02.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0NS05cXpfZEE4VUZmVWo3QnI4ZHFNeDdYUTdZOW5IZTNNRGREcFdfWmYwblN6M3VfTjVhWDFDZ1BxX3lVNFJ5cHlwZy1LbnczWjVHY1I5cl9nZlF5bktCRUlBbnhnMWpselpWbWdVd2J4V0NKRGZyYg?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-15T13:09:06.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
