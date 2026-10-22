@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-22T00:10:55.961Z",
+  "updatedAt": "2026-10-22T04:50:45.280Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 56,
+  "storyCount": 55,
   "targetCount": 4,
   "targets": [
     {
@@ -330,7 +330,7 @@
       "description": "Derby County confirm double transfer as former Crystal Palace striker signs &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm5PdE9hVEVETmVNbUVvOFdXaUlHTWNxdGJUbS11UHhmQzlNLTdja3ZQbThBOTZtQmM5LUIzbERhS0cxS2RvZnFRQWJTcTN0dWUxVldWWE04S3E1MVpwZkNnV2NJUkRmQThvV3ZKNEh0bGtTRkZpQmR1M0wxT0plS0lPLUxKTmtWdU5od3FIOVUzVEc5MFBPVDFHWHRRVVhCeTZFa3Q3ZmFsUDQ?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-10-15T15:37:23.000Z",
+      "published": "2026-10-15T15:35:00.000Z",
       "reputation": 87,
       "likelihood": 90,
       "ratingLabel": "Very strong",
@@ -905,21 +905,6 @@
         "Bobby Clark",
         "David Clowes"
       ]
-    },
-    {
-      "id": "dHJhbnNmZXJ0IGNvbmZpcm0gZGVyYnkgY291bnR5IH",
-      "title": "Transfert confirmé : Derby County signeAlex Mowatt. - OneFootball",
-      "description": "Transfert confirmé : Derby County signeAlex Mowatt. &nbsp;&nbsp; OneFootball",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TR1lYU25IZzNUdGREbkdtWkFkR0tidFhvNWNxbVVSUVlldng0UGxGVHJkenBaQTFocElRdGVHakZzWUZmV1JGZFJoUGRhbVBOanViaXMtZDBwUQ?oc=5",
-      "source": "OneFootball",
-      "published": "2026-10-01T01:11:34.000Z",
-      "reputation": 57,
-      "likelihood": 48,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "fr",
-      "overseas": true,
-      "players": []
     }
   ]
 }
