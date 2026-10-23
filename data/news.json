@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-22T22:02:35.765Z",
+  "updatedAt": "2026-10-23T00:35:56.472Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 56,
+  "storyCount": 58,
   "targetCount": 3,
   "targets": [
     {
@@ -46,6 +46,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 131 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 131 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3I5N0cwa05ONDRSVnBtaFpLT2dzZzQtRHBvdklLeE1BU1RHODNqYV9YTkp1dVMwMld1azdHWmVZMU8yUFZPQnlCQ1hiZjgxVU81bktCazcxajNOcmU2dVIyTFhXX25rT1BaNlpaYmpWRnNHUl9BM3VVcTZMaTYyX2o1eWlTQQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-22T15:57:33.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "aG93IGZvdXIgZGVyYnkgY291bnR5IGxvYW5lZXMgYX",
       "title": "How four Derby County loanees are getting on as striker scores again - Derbyshire Live",
@@ -811,6 +826,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "bWlkZGxlc2Jyb3VnaCBkZXJieSBjb3VudHkgMjEgb2",
+      "title": "Middlesbrough - Derby County, 21 Oca 1905 - First Division (- 91/92) - Maç raporu - Transfermarkt",
+      "description": "Middlesbrough - Derby County, 21 Oca 1905 - First Division (- 91/92) - Maç raporu &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlo4RUJMN204Mm02bzVIcWRoSmJ0YjZQWHBCMVRUQ1FfWU1kSmZwNnByQ1hsMjctMk5xVXRrdTNtOV80d2tzMHpBVDRkVzdKS0Jja1JIMHRkaEJHQURXY3k4M3hUS3hoTFBnVG85VE1sTkxTSlRYSS1wRDM2eUZaT291bTFMdV9VNzJxQ0JHYW1EaW8?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-06T02:58:30.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "tr",
+      "overseas": true,
+      "players": [
+        "First Division"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
