@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-23T05:20:51.256Z",
+  "updatedAt": "2026-10-23T10:16:55.672Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 58,
+  "storyCount": 56,
   "targetCount": 3,
   "targets": [
     {
@@ -903,42 +903,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "YWNhZGVteSBuZXdzIG5vcnRod2ljaCBsb2FuIG1vdm",
-      "title": "ACADEMY NEWS: Northwich Loan Move Agreed For Friars - Derby County",
-      "description": "ACADEMY NEWS: Northwich Loan Move Agreed For Friars &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkoyVm41Rnk1U1VOOXpkb1JXS2JCZWFITGhybjBoT1VZdl9tNkNNTVBGVk5FaV9jV3R3akRfRDNlNzFvSG9lODJIRWxtblFiTVFXdTBhWGtVazFuWWc4Rk1sV05pWDgyRkphLTlJTXIyOUs1Ull6aUxiUnMtTVJLdEZ1elN0QmlYc0p3Y2JiQQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-02T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Northwich Loan Move Agreed",
-        "For Friars"
-      ]
-    },
-    {
-      "id": "Ym9iYnkgY2xhcmsgdmFsdWUgcm9ja2V0cyBhZnRlci",
-      "title": "Bobby Clark value rockets after Derby County transfer in huge boost for David Clowes - Derbyshire Live",
-      "description": "Bobby Clark value rockets after Derby County transfer in huge boost for David Clowes &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS09OY1NzdEVodGxYN2cwUTFMYVJXc081VmJkbHNDTVozZnlpWEZzQVR0NFloMXdRRFJJMHRfeUVVNXdfX0ptVXZEWk8yb2I4Q2VfcG9DZ01sYzQtekRsYWU0SEQ2MFVpTHEzT3NEZzdwSFBpNnFaMXNSX3RrS2R1aGQ3VVhBRWxuNXRLZ1JBMzZzb1RFX0hWRXh1M0ZQSVlRTWxndkozcw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-02T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Bobby Clark",
-        "David Clowes"
-      ]
     }
   ]
 }
