@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-24T05:24:42.805Z",
+  "updatedAt": "2026-10-24T09:43:30.347Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 59,
+  "storyCount": 61,
   "targetCount": 3,
   "targets": [
     {
@@ -46,6 +46,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "c2lnbnMgb2YgbGlmZSBzaGVmZmllbGQgdW5pdGVkIH",
+      "title": "‘Signs of life’: Sheffield United vs Derby County score prediction shared by Sky Sports man - Yahoo",
+      "description": "‘Signs of life’: Sheffield United vs Derby County score prediction shared by Sky Sports man &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0lFMVdvZXRLdTZwQzFoWFM5by01c2RhRFZtakJpcnBjaldJcHNRZ3N1dlBzWldVYzNpbG0ycTlUOGRseFR4MkoxUVdISXBfZC1mZXgzTHpRcXByTk1NRlhCZ3Jselg0UHdFbVRvSUdKcG05QW9mMTZwenFyVGxTU2s5NHY?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-24T07:59:19.000Z",
+      "reputation": 48,
+      "likelihood": 65,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGxpa2VseSB0byBsaXN0ZW4gdG",
+      "title": "Derby County ‘likely’ to listen to offers for attacker in January, report suggests - Yahoo",
+      "description": "Derby County ‘likely’ to listen to offers for attacker in January, report suggests &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUpCRFpqalZRT3dQSWJLU1M5bmVVcmhySEtqdlc5blZpaTNjX2JOb3NUcml6S2JUbUhLSWoxcF9PWEFacVRveDdLXzEwN3FIMjNITnR0bUJMRVVJaUhfX3plRGY5ZjNtaDV6cTJZNDNkbFppMlNxelkwZzhpakV4X1UweTRERzdO?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-24T07:15:11.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "dGhyZWUgcGxheWVycyBvbiBub3RpY2UgYXMgZGVyYn",
       "title": "Three players on notice as Derby County begin January transfer planning - Derbyshire Live",
