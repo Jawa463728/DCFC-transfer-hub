@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T06:59:27.570Z",
+  "updatedAt": "2026-10-25T12:31:37.050Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 60,
+  "storyCount": 59,
   "targetCount": 2,
   "targets": [
     {
@@ -933,21 +933,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "tr",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "Y2FyZGlmZiBjaXR5IGRlcmJ5IGNvdW50eSAwMiAwNC",
-      "title": "Cardiff City - Derby County, 02.04.2011 - Championship - Spielbericht - Transfermarkt",
-      "description": "Cardiff City - Derby County, 02.04.2011 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IY3ZtVGNUS3pZNGk5SWxxMGUzYS1wenpkdURPZ1cyVXl1ODJ2R294bjRmVmE2NXY3VVkybEVzeVpON2VVN3ZWcmlGblNvS1dPM0RJeWF6SGd0OGkzODdyQ3dvMWxnNEx2RlJqR25rMGpVdw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-04T11:17:18.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     }
