@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T12:31:37.050Z",
+  "updatedAt": "2026-10-25T16:45:27.208Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 59,
+  "storyCount": 61,
   "targetCount": 2,
   "targets": [
     {
@@ -33,6 +33,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RhbmNlIH",
+      "title": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS - Derbyshire Live",
+      "description": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGo1bU91U1lIeGZpTmJ5c0t2cE5YTEhjVkxhTHFXSXU2WTJOYTJVY0RsOHNmdWk1TDF5NEtNMVZlTlFuNUJoVnZLOFE1RUFlWlBMbkFiSEx0UGgxNmsxb0NHQk5TcmkyaWxOY2J6QjBDQWFyd3p2aHFNaG5jbW93Umc4NjBpWUNpUGxselhQVjFQM1VwcmlJOUN5Znk2OXhlWmR6YzR4UQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-25T10:20:04.000Z",
+      "reputation": 87,
+      "likelihood": 76,
+      "ratingLabel": "Strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "c2lnbnMgb2YgbGlmZSBzaGVmZmllbGQgdW5pdGVkIH",
       "title": "‘Signs of life’: Sheffield United vs Derby County score prediction shared by Sky Sports man - Yahoo",
@@ -263,21 +278,6 @@
       "players": []
     },
     {
-      "id": "c2lnbmluZyByb2JpbnNvbiBzaWducyBmb3IgdGhlIH",
-      "title": "SIGNING: Robinson signs for the Rams - Derby County",
-      "description": "SIGNING: Robinson signs for the Rams &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMHNRQlIwTTlCUFpjcC1iVEhteWVMc1F5LUhleHhVVFRJMG9fVEZfMmE2MnR2VnQzSDNYcmtnY3V4b2I1UHotWkFBQW9aMnhmQjdSZEh3dmRvZWQ3cGhDYXdRRmliM245SGpXTzctbmh5M2RSblRnRmI0MA?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-17T12:59:03.000Z",
-      "reputation": 99,
-      "likelihood": 97,
-      "ratingLabel": "Very strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "amFjayByb2JpbnNvbiBzaWducyB0aHJlZSBtb250aC",
       "title": "Jack Robinson Signs Three-Month Derby County Deal - شبكة تواصل الإخبارية",
       "description": "Jack Robinson Signs Three-Month Derby County Deal &nbsp;&nbsp; شبكة تواصل الإخبارية",
@@ -337,6 +337,21 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "c2lnbmluZyByb2JpbnNvbiBzaWducyBmb3IgdGhlIH",
+      "title": "SIGNING: Robinson signs for the Rams - Derby County",
+      "description": "SIGNING: Robinson signs for the Rams &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMHNRQlIwTTlCUFpjcC1iVEhteWVMc1F5LUhleHhVVFRJMG9fVEZfMmE2MnR2VnQzSDNYcmtnY3V4b2I1UHotWkFBQW9aMnhmQjdSZEh3dmRvZWQ3cGhDYXdRRmliM245SGpXTzctbmh5M2RSblRnRmI0MA?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-17T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 97,
+      "ratingLabel": "Very strong",
+      "status": "confirmed",
       "edition": "gb",
       "overseas": false,
       "players": []
@@ -432,6 +447,25 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "aGFsZiB0ZXJtIHBsYXllciBzaWduaW5nIHNlc3Npb2",
+      "title": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October - Derby County",
+      "description": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTZFMno4QWF0dGdsOTBXX204aFdpYUJxLUxMSFJWcW00SlRBNDEzU0pjMWpKTVV4UFYtYU1vVXp5ajBwX2pkRmZFUV8zVVFOMGYyenZaYXJpYTFfTkVNSExMdFotSGpvVURpZmE1WVBjenVCU0xOYkZ5Y1VZVGxlMlRNTkFhZ3QwMGJxWnNpZ3lRUTdkNTd5bk5lOXNnQTVJcm5XTDJ6QUJxUG1rTWE5R2ZBWGZES09W?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-15T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Player Signing Session",
+        "Pride Park After Dark",
+        "To Return This October"
+      ]
     },
     {
       "id": "d29sdmVzIG11c3QgbGF1bmNoIGRlcmJ5IGNvdW50eS",
@@ -815,6 +849,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHRyaWdnZXJlZC",
+      "title": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live - Derbyshire Live",
+      "description": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUi1RT3ZYY3RYbEZIT19KTG0xRkg0MWN0UVVMVWc4RjlfOWM4Q2NKTlVpZkEzamhzQzNOQnlHbUNkZVlSUGo5bWFYZ2tFVXZoaVg2VlUyeUxWOVZNSm9NckxLYWxzdVdZTVVEMkxRdzJVTUMwSlh2Z3hXVVFlc0x6TkU5Vm0xOXZlOXBOUUNfNzdRei1DcnpSMi11TkM1blIyMGdkTmJTa2w?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-06T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHMgZmFpbGVkIHN1bW1lciBwdX",
       "title": "Derby County’s failed summer pursuits of two Birmingham City players revealed - Yahoo",
       "description": "Derby County’s failed summer pursuits of two Birmingham City players revealed &nbsp;&nbsp; Yahoo",
@@ -841,21 +890,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHRyaWdnZXJlZC",
-      "title": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUi1RT3ZYY3RYbEZIT19KTG0xRkg0MWN0UVVMVWc4RjlfOWM4Q2NKTlVpZkEzamhzQzNOQnlHbUNkZVlSUGo5bWFYZ2tFVXZoaVg2VlUyeUxWOVZNSm9NckxLYWxzdVdZTVVEMkxRdzJVTUMwSlh2Z3hXVVFlc0x6TkU5Vm0xOXZlOXBOUUNfNzdRei1DcnpSMi11TkM1blIyMGdkTmJTa2w?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-06T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
       "overseas": false,
       "players": []
     },
