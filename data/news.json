@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T01:46:59.419Z",
+  "updatedAt": "2026-10-25T06:59:27.570Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 60,
-  "targetCount": 3,
+  "targetCount": 2,
   "targets": [
     {
       "name": "Sondre Langas",
@@ -16,19 +16,6 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-16T07:00:00.000Z",
       "firstSeen": "2026-10-15T12:53:02.752Z",
-      "isNew": false
-    },
-    {
-      "name": "Jose Sa",
-      "score": 38,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 51,
-      "lastMention": "2026-10-15T06:15:12.000Z",
-      "firstSeen": "2026-10-21T07:26:50.387Z",
       "isNew": false
     },
     {
@@ -380,7 +367,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
