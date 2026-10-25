@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T16:45:27.208Z",
+  "updatedAt": "2026-10-25T19:19:39.615Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 61,
+  "storyCount": 60,
   "targetCount": 2,
   "targets": [
     {
@@ -952,21 +952,6 @@
       "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGltZGkgbmVyZWRlbGVyIGdhbG",
-      "title": "Derby County - Şimdi neredeler? (Galeri) | Sayfa 37 - Transfermarkt",
-      "description": "Derby County - Şimdi neredeler? (Galeri) | Sayfa 37 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQkFfTGRJdW5KSjBfYmVDUTZWcWdoa1BOTm1sb3RRbncwdW12RG1BTFlpd2V5YmhoZXZCLW05bTZnb2pjOWVidE0ycGEzRXpLUG1kLWlPTUdlR1pGejdzajFEdnRZLXlDemlrNktuclhqbXZzcEkwY0pRVmhHeVk5bXRRdDNySHZBSHc?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-04T18:28:39.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "tr",
       "overseas": true,
       "players": []
     }
