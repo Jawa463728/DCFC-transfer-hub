@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:57:28.514Z",
+  "updatedAt": "2026-10-26T04:28:33.572Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 60,
@@ -382,7 +382,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -864,21 +864,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHMgZmFpbGVkIHN1bW1lciBwdX",
-      "title": "Derby County’s failed summer pursuits of two Birmingham City players revealed - Yahoo",
-      "description": "Derby County’s failed summer pursuits of two Birmingham City players revealed &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjA2S0NZdTNhdFJnOWVWVU8zTmpBSkNMM24tVExtejVrWGNLd0ZqSEZIa0pQQlVvSzk4WWtZczNxRGFYalBqUFk4c011RXNGVWFHSl9sVjdxNUJldGFGYm56NHotSmp6QUdPMFNYQjVXOVlTYjJuaFN5SUQycGhKaEo4cmJDYmFFaU5z?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-06T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IG9ibGlnZWQgdG8gc2lnbiAzMS",
       "title": "Derby County obliged to sign 31-year-old in £2.7m deal after new update - Yahoo",
       "description": "Derby County obliged to sign 31-year-old in £2.7m deal after new update &nbsp;&nbsp; Yahoo",
@@ -887,6 +872,21 @@
       "published": "2026-10-06T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHMgZmFpbGVkIHN1bW1lciBwdX",
+      "title": "Derby County’s failed summer pursuits of two Birmingham City players revealed - Yahoo",
+      "description": "Derby County’s failed summer pursuits of two Birmingham City players revealed &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjA2S0NZdTNhdFJnOWVWVU8zTmpBSkNMM24tVExtejVrWGNLd0ZqSEZIa0pQQlVvSzk4WWtZczNxRGFYalBqUFk4c011RXNGVWFHSl9sVjdxNUJldGFGYm56NHotSmp6QUdPMFNYQjVXOVlTYjJuaFN5SUQycGhKaEo4cmJDYmFFaU5z?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-06T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "us",
