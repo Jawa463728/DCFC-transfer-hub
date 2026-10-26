@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T10:25:40.061Z",
+  "updatedAt": "2026-10-26T16:52:57.932Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 59,
@@ -20,6 +20,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "YnJvbWxleSB0YXJnZXQgZXggYmlybWluZ2hhbSBjaX",
+      "title": "Bromley target ex-Birmingham City, Derby County coach in new manager search - The72",
+      "description": "Bromley target ex-Birmingham City, Derby County coach in new manager search &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WQUZaNER4WWg2YmlScjdqbVZLVHNKWmVhUGoxVlY4U1JjdU5EQS11YWFRZG5KWHFqdF9JbFgwT0EzWjRtTU4wWEpONTJGNU54US1DWFBmd1pnMkhCeXYybGd2QjFfdXd0WU9BT0ROYVdBTDdrSE9sYVJB?oc=5",
+      "source": "The72",
+      "published": "2026-10-26T12:54:35.000Z",
+      "reputation": 66,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RhbmNlIH",
       "title": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS - Derbyshire Live",
@@ -836,6 +851,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IG9ibGlnZWQgdG8gc2lnbiAzMS",
+      "title": "Derby County obliged to sign 31-year-old in £2.7m deal after new update - Yahoo",
+      "description": "Derby County obliged to sign 31-year-old in £2.7m deal after new update &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbkI1UHVJTl9VeXc4N1hNaG53a0dXNFo2TTJwdC1SN2hodHJRNWR0enNLQk9ocTV4SGhHcklnNTM0SlhLdlJEcmIwd1NnU1JaR3RJQnlTSUZ2U2J4cXBrXzlKc2djcjVxa3JYMWE5OFoyal80cXVydDBPZkM1UWN3Zkln?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-06T07:00:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIHRyaWdnZXJlZC",
       "title": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live - Derbyshire Live",
       "description": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
@@ -846,7 +876,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -859,21 +889,6 @@
       "published": "2026-10-06T07:00:00.000Z",
       "reputation": 48,
       "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG9ibGlnZWQgdG8gc2lnbiAzMS",
-      "title": "Derby County obliged to sign 31-year-old in £2.7m deal after new update - Yahoo",
-      "description": "Derby County obliged to sign 31-year-old in £2.7m deal after new update &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbkI1UHVJTl9VeXc4N1hNaG53a0dXNFo2TTJwdC1SN2hodHJRNWR0enNLQk9ocTV4SGhHcklnNTM0SlhLdlJEcmIwd1NnU1JaR3RJQnlTSUZ2U2J4cXBrXzlKc2djcjVxa3JYMWE5OFoyal80cXVydDBPZkM1UWN3Zkln?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-06T07:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "us",
@@ -911,21 +926,6 @@
       "players": [
         "First Division"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2c5NkdfOU82RXU2T1VGMkdZQlh1WUU4NUM1dWNnUVYzeUl6UGtPSXpWcmF0TVByeFlPdTRMcmlKWlNSMlhvd2hLLUc5Qkdmb3NDUnlhR1BfOU81WjlqN3Jnd3JjN2RUSnZLcWJWOFhMNjNUaU93WjJUdHdPSFBzUHBXdERIdTJJZTN2a2h2Tk1GUE9S?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-05T14:34:46.000Z",
-      "reputation": 96,
-      "likelihood": 73,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
