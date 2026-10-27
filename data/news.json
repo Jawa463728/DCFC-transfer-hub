@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-27T00:35:49.332Z",
+  "updatedAt": "2026-10-27T05:34:45.937Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 63,
+  "storyCount": 60,
   "targetCount": 1,
   "targets": [
     {
@@ -66,21 +66,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHctdnotanNpRjNobHBUNmVGbl9RNzh3SWpMc2VJUlV6OXhEVFhCZmlvendDVjNKZ0ZIQVd4Q0l1am9aaXpQMWZGRG9qSlk3bnl5V3lZWE5TRTVXZTVrVGNDUUx1akhhb1Z6TTFQT3ZlWmlXUV9uaEtqSFpWN2JYcW5adm9FQ2Vienp1eHd2VW8?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-25T11:55:19.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RhbmNlIH",
       "title": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS - Derbyshire Live",
       "description": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS &nbsp;&nbsp; Derbyshire Live",
@@ -106,7 +91,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -222,21 +207,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1poNWZhMElYLTJVRkRwdkQ5MlRCSzd4R0c5VG5TUkFfVy1aUGFmWDlBQWstNEtHMnF6OW5FYTg2UHFzT0g2Nm9wcUY5TzA2aVZ4NWZzazJEUjYybHp3Zy1VZzJVU09tdU1id3BSYm53MXRoTFl4TDM3TF8tSTE1bTB5Q2ZoNGZLa1lFVUVlOA?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-21T20:06:56.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XUU1tenpKaXk4MUR4MndybWFKMEZGem1rNTlWWWI0S1Z2amlSSnRPS1NoTDktY2N5MUFJZElUdXEyMDc1eTJpQ2xhQzlLa2dIem9NT1B0Wkg0Y3p4aWR3MXZuaTcxREtyTGMxSkF3TVF3Slh4TU1yNU9n?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-21T18:55:30.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -446,6 +416,21 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNll4cHZtNnJZT1BrSkZGY21IRFB1N3BuWGNKR0xfZnEzZUtxN0g4eEtlM3FFMTBHNFA3MGljYzc1OGdZNVJBel9GNGVoR2FoY09mOE1xNmhVaW9LNThDRFdVQm94eTB4QlczQk1qa2lla3lyVE40SUVaa0dzNDQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-16T15:20:09.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
       "players": []
     },
     {
@@ -954,38 +939,6 @@
       "edition": "us",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajhUWkhseVVZYnJVZ3lnc25PQkRlU2d4YUNJVG5SVmFoQUhOX1NrVVFXakc5aXpZZkxrWFhUVV95VVlZSDFMT0NzQ3FjZTZ1VzQ1cnBoOE15MW53a2lRQ0ZYVmtkM0xIay1sZjlMeDhaWW9HMTJRQjBIWDRNZkZnbERKeE9FemhkR2QtZnJYTXFOUk5weDVPU1pQcVYzb0lCWXVGdG9WTzRod1RwLUhoaTZKWVcyUTM4M241Q01LcDd0RVdhVVROVjlkWU8yS0d5?oc=5",
-      "source": "FotMob",
-      "published": "2026-10-06T04:51:14.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "bWlkZGxlc2Jyb3VnaCBkZXJieSBjb3VudHkgMjEgb2",
-      "title": "Middlesbrough - Derby County, 21 Oca 1905 - First Division (- 91/92) - Maç raporu - Transfermarkt",
-      "description": "Middlesbrough - Derby County, 21 Oca 1905 - First Division (- 91/92) - Maç raporu &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlo4RUJMN204Mm02bzVIcWRoSmJ0YjZQWHBCMVRUQ1FfWU1kSmZwNnByQ1hsMjctMk5xVXRrdTNtOV80d2tzMHpBVDRkVzdKS0Jja1JIMHRkaEJHQURXY3k4M3hUS3hoTFBnVG85VE1sTkxTSlRYSS1wRDM2eUZaT291bTFMdV9VNzJxQ0JHYW1EaW8?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-06T02:58:30.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "tr",
-      "overseas": true,
-      "players": [
-        "First Division"
-      ]
     }
   ]
 }
