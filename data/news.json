@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:19:14.439Z",
+  "updatedAt": "2026-10-27T20:48:20.772Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
@@ -137,7 +137,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -208,21 +208,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1poNWZhMElYLTJVRkRwdkQ5MlRCSzd4R0c5VG5TUkFfVy1aUGFmWDlBQWstNEtHMnF6OW5FYTg2UHFzT0g2Nm9wcUY5TzA2aVZ4NWZzazJEUjYybHp3Zy1VZzJVU09tdU1id3BSYm53MXRoTFl4TDM3TF8tSTE1bTB5Q2ZoNGZLa1lFVUVlOA?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-21T20:06:56.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
-      "title": "Derby County B - Transfermarkt",
-      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XUU1tenpKaXk4MUR4MndybWFKMEZGem1rNTlWWWI0S1Z2amlSSnRPS1NoTDktY2N5MUFJZElUdXEyMDc1eTJpQ2xhQzlLa2dIem9NT1B0Wkg0Y3p4aWR3MXZuaTcxREtyTGMxSkF3TVF3Slh4TU1yNU9n?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-21T18:55:30.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -432,6 +417,21 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNll4cHZtNnJZT1BrSkZGY21IRFB1N3BuWGNKR0xfZnEzZUtxN0g4eEtlM3FFMTBHNFA3MGljYzc1OGdZNVJBel9GNGVoR2FoY09mOE1xNmhVaW9LNThDRFdVQm94eTB4QlczQk1qa2lla3lyVE40SUVaa0dzNDQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-16T15:20:09.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
       "players": []
     },
     {
@@ -650,7 +650,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
