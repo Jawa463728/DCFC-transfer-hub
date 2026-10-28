@@ -1,11 +1,72 @@
 {
-  "updatedAt": "2026-10-28T11:35:25.696Z",
+  "updatedAt": "2026-10-28T17:22:20.778Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
-  "targetCount": 0,
-  "targets": [],
+  "storyCount": 56,
+  "targetCount": 1,
+  "targets": [
+    {
+      "name": "Jayden Bogle",
+      "score": 67,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-10-28T14:25:00.000Z",
+      "firstSeen": "2026-10-28T17:22:20.777Z",
+      "isNew": true
+    }
+  ],
   "stories": [
+    {
+      "id": "amF5ZGVuIGJvZ2xlIGV4cGxhaW5zIGhvdyBkcmFtYX",
+      "title": "Jayden Bogle explains how dramatic Derby County play-off was key to Leeds United transfer - Derbyshire Live",
+      "description": "Jayden Bogle explains how dramatic Derby County play-off was key to Leeds United transfer &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2phbXgwWXJsYUtYR3FEV3QxTEFCWGRIZFFMV3d2TngzM1RwVjBWcFFyZ1NOV182ckVPamJqMGdsT3c0ZnQwcmVENjBXYmVtc0xWM2FVb21fb25ESjFoYkF6TlhEeGhRRmVoV0ZjejA2ajBPWGhaajlMeXQyNGt2QmotN21RZnpCbm1pY2xXVXBjbV9qRFVJMXlZZFNBZmJEd2U0VjJxQlQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-28T14:25:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jayden Bogle"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGFjYWRlbXkgbm90ZWJvb2sgYX",
+      "title": "Derby County academy notebook as striker's ambition clear after transfer - Derbyshire Live",
+      "description": "Derby County academy notebook as striker's ambition clear after transfer &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHlqMWJqUUdvUHZuMnFlT0xiejhvU3hVTWVTYWdiX09YSjNYVWdTdTVQWnpmcWJoUktRZXp1V291MjB1TWdvWmljR2s4VmZIYWkyMk9KeEF0Uk5HTjd5eS1rVUxWaUxPUHpsUF9PQkNTaDN4dnE1ajFIQzBNVVZvejJSZGNIZEM0UkFnVHdOSDhmMjJtaHZfSTlCVS0yZ3dubjB3MlRn?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-28T13:05:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
+      "title": "Derby County - Rekord-Zugänge (Galerie) | Seite 6 - Transfermarkt",
+      "description": "Derby County - Rekord-Zugänge (Galerie) | Seite 6 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcEVyOXhiNVFscHM1WWpkU3ZkVnVQQVdOc1pJTFA1TFJlRk9uZVAzTUdXOU8zcmhPRFpoMmZudE9lS1VYTzBXNEZBMExHT0F4aEZhWElFamFTay1yVU9aWXJxaDR0dlNvYTVmSkRmcC1SNWhPVFp1aVA0aExnQUIydnhjYmVxQktBR0dCT1BWandyc1VVZlNQQ0ZhT0toNjhjOUhoRlkxTzFZNEVWZ2U5TEN2UTJKeXlVMlhBVFpzQmxCelJxVmlZRjczZGpWUzlz?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-27T22:28:50.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB3byBzcGllbHQgZWlnZW",
       "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 3 - Transfermarkt",
@@ -82,21 +143,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHctdnotanNpRjNobHBUNmVGbl9RNzh3SWpMc2VJUlV6OXhEVFhCZmlvendDVjNKZ0ZIQVd4Q0l1am9aaXpQMWZGRG9qSlk3bnl5V3lZWE5TRTVXZTVrVGNDUUx1akhhb1Z6TTFQT3ZlWmlXUV9uaEtqSFpWN2JYcW5adm9FQ2Vienp1eHd2VW8?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-25T11:55:19.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RhbmNlIH",
       "title": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS - Derbyshire Live",
       "description": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS &nbsp;&nbsp; Derbyshire Live",
@@ -152,7 +198,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -665,7 +711,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
