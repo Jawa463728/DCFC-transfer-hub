@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-28T17:22:20.778Z",
+  "updatedAt": "2026-10-28T21:47:50.912Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 56,
+  "storyCount": 55,
   "targetCount": 1,
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 67,
+      "score": 66,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -50,6 +50,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 41 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 41 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFk1SlViWTd5U0laX2lQeEVjQUs5S1VWU3VYSzBzZXdDZkF2RGJqb0d6Tm5jRGFfZ2dETGVCMDhFWjJZVjJSMmlGeWtLZUtQeVN2WlhXaWJRRGtmVjNkdHVUTXlXUHVPdERDRnBrLWV1TkVGWEF3dzhVLWVmZG5EQVlEaFQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-27T23:12:46.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -128,21 +143,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
-      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
-      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-25T12:34:42.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RhbmNlIH",
       "title": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS - Derbyshire Live",
       "description": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS &nbsp;&nbsp; Derbyshire Live",
@@ -198,7 +198,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -711,7 +711,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -864,21 +864,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGdlciBjaHRlIHp1bSB2ZXJlaW",
-      "title": "Derby County - Gerüchte zum Verein (Galerie) | Seite 5 - Transfermarkt",
-      "description": "Derby County - Gerüchte zum Verein (Galerie) | Seite 5 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUld1bHgtZTV0R2poVEFpLWxZLWcySTJHbjktRkVRLTNTZnptdXplV1l3N0t3NnJabFNsdXVONXdTQlpzN1NBbnNzSHBVSEhPanpUT3lZQjJiMkJvYlZrWGNRNjkwLV81bHRfWGFPeFB6OU1Fb0lFd3VNQmJXM0JVVi0tMXA?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-07T21:16:57.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     }
