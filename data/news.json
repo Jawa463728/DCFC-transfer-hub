@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:47:50.912Z",
+  "updatedAt": "2026-10-29T01:18:20.986Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 55,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 66,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -50,6 +50,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFIwNW5Xa0tPUHh1MWNqY21xNzJ4Z2lsWGJNZjZjN0ZBTU5MUXpBMEh1aU9lMnhpWUUzdTRuV0FFS3BwLVpRa2JwNFR5MVVMaTRCSDZ3SDdsSWhMRkp6M3dNYjNwOWEzYTNuTUtUMGVaWGdvVUtjbW04dml2cDRwLXUydnFhWUJWS0tkTFB4OGtjVlRNRFE?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-28T07:52:49.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -849,21 +864,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHBsYW50aWxsYSBkZXRhbGxhZG",
-      "title": "Derby County - Plantilla detallada 26/27 (Galería) | Página 24 - Transfermarkt",
-      "description": "Derby County - Plantilla detallada 26/27 (Galería) | Página 24 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODRUSlptZXI0NlVYT09iSVh5WDZCU1NSYVpTck9hODVaSTY5cmxxZWhpbnFJNkd2VmhhZVNvRk9zUWxEaGNPZ3ppa0lOeS16ci1jMF8wakwtOVBIXzlTVkhzaWpkSlZRdHE1RGVLLXl4ODllU2s3WHpELV9kTS1qSUV1NkI2QXF6aTlNNTVGZkJEV2xR?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-07T23:09:17.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
       "overseas": true,
       "players": []
     }
