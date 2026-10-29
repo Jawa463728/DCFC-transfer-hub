@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-29T19:47:56.183Z",
+  "updatedAt": "2026-10-29T23:39:26.068Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 64,
-  "targetCount": 7,
+  "targetCount": 8,
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -19,8 +19,21 @@
       "isNew": false
     },
     {
+      "name": "Wayne Rooney",
+      "score": 55,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 51,
+      "lastMention": "2026-10-29T20:30:13.000Z",
+      "firstSeen": "2026-10-29T23:39:26.068Z",
+      "isNew": true
+    },
+    {
       "name": "Barry Robson",
-      "score": 54,
+      "score": 53,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +46,7 @@
     },
     {
       "name": "Irish Independent",
-      "score": 54,
+      "score": 53,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +59,7 @@
     },
     {
       "name": "Lancashire Telegraph",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,7 +85,7 @@
     },
     {
       "name": "Norwich Defensive Star Shane",
-      "score": 48,
+      "score": 47,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,7 +98,7 @@
     },
     {
       "name": "Inside Futbol",
-      "score": 48,
+      "score": 47,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,6 +111,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "c2hhbmUgZHVmZnkgcyBkZXJieSBjb3VudHkgbW92ZS",
+      "title": "Shane Duffy's Derby County move has a remarkable Wayne Rooney twist - Football League World",
+      "description": "Shane Duffy's Derby County move has a remarkable Wayne Rooney twist &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3d6dTRhUXgwd2MyaWc0T0FoRmNtTjFBV1FEdklmZTl5V1N5QXI3MjduSUI3MkVpUXhndmRBRHBHZmtLUFNvRUdwTnVMTUtaeXRLMVJWcWoxNjU4cjdjN1R0WkVaT25zdW1PVkdLTXZmZ3FwWW5HdVdKMkJZV2xKMWZtVkNzaWFEeGlNS3JZRUFWWUlpVGFpM0I5czE3YkpjaTRR?oc=5",
+      "source": "Football League World",
+      "published": "2026-10-29T20:30:13.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Wayne Rooney"
+      ]
+    },
     {
       "id": "am9obiBldXN0YWNlIHJlc3BvbmRzIGFmdGVyIGRlcm",
       "title": "John Eustace responds after Derby County complete transfer - Derbyshire Live",
@@ -131,21 +161,6 @@
         "Barry Robson",
         "Irish Independent"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3owdWNldkMyN2ZxNzhoTWJaTlhEYUswVU5ab0xxUjRUUjJ4ZGNLaDhQMFhZSGpwRkV1Mi04WVRwcTFSajJVOTJMbjBWcjFaRi1fMUdqTXNaZGFSVmxhTk9EMjEwdFVwOHhGU3E0dlZZY2hic0ZBbjFlVVJSdEUzYWJSRmJnbDF4cTAwbWxGUjBaZk5ySUhhZmJSYTBkdGROQkR5QjNzOVhuYW1PZ01fb1NvWVgzZlVycUdaTlkybk1aeEdnSlNwSFhPMF9jeTJBbUE?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-29T13:28:19.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "c2hhbmUgZHVmZnkgam9pbnMgZGVyYnkgY291bnR5IG",
@@ -262,6 +277,21 @@
       "players": [
         "Szmodics Attend Signing Session"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
+      "title": "Derby County - Rekord-Zugänge (Galerie) | Seite 2 - Transfermarkt",
+      "description": "Derby County - Rekord-Zugänge (Galerie) | Seite 2 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFRHT3lhM01XakNnN2NId1lYaWVmRWEtS3dtLV81SEl4dV96WGpvbDZVUm5HWEYxQThRZ01LNGZwczMweUNzdE1JSS1fZDhLaFNlMkJ4NHFHLXFJNXRTQ21jRWR4a285RkdSNDhBdEk1aDVnVS1OdXhxbmlTa0lvT3c1dDlBeTFHRkhTcUxKTzl3NnQwT1pETVhtZnRibDl0NzBUNUtXSEtDdWJUd3JyMzYxTU8wNW1DbVBsbVpXRWFnLU5rQlRrb1BqREd0SFV5?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-29T03:57:59.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "amF5ZGVuIGJvZ2xlIGV4cGxhaW5zIGhvdyBkcmFtYX",
@@ -1079,21 +1109,6 @@
       "players": [
         "Nathaniel Mendez-"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOCB0cmFuc2ZlcnN0ciBtZS",
-      "title": "Derby County U18 - Transferströme | Seite 3 - Transfermarkt",
-      "description": "Derby County U18 - Transferströme | Seite 3 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0tGLTNfSjVBMFlxalJSTTVCSHBMQjZBbDB5Q0l1ME8xWkpHTGt2d3g0eXVrS3BLYUwwR1pXT1RyVkZJQTctTDlYNlBWTWc1c3NjNHA3X01sVkhTZ0V5eEVNWUNJRkVkNjlrVkVGbGc2ZDNMUmR1U1ByNVl0QVlKT0o3OXhkZzFI?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-08T22:00:53.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
