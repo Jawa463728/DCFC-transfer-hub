@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-29T01:18:20.986Z",
+  "updatedAt": "2026-10-29T07:15:28.587Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 55,
-  "targetCount": 1,
+  "storyCount": 54,
+  "targetCount": 2,
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 65,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,6 +16,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-28T14:25:00.000Z",
       "firstSeen": "2026-10-28T17:22:20.777Z",
+      "isNew": false
+    },
+    {
+      "name": "Jack Robinson",
+      "score": 49,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-10-20T09:26:00.000Z",
+      "firstSeen": "2026-10-29T07:15:28.587Z",
       "isNew": true
     }
   ],
@@ -50,21 +63,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFIwNW5Xa0tPUHh1MWNqY21xNzJ4Z2lsWGJNZjZjN0ZBTU5MUXpBMEh1aU9lMnhpWUUzdTRuV0FFS3BwLVpRa2JwNFR5MVVMaTRCSDZ3SDdsSWhMRkp6M3dNYjNwOWEzYTNuTUtUMGVaWGdvVUtjbW04dml2cDRwLXUydnFhWUJWS0tkTFB4OGtjVlRNRFE?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-28T07:52:49.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     },
     {
