@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-29T07:15:28.587Z",
+  "updatedAt": "2026-10-29T14:28:15.146Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
-  "targetCount": 2,
+  "storyCount": 61,
+  "targetCount": 3,
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 63,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -17,6 +17,19 @@
       "lastMention": "2026-10-28T14:25:00.000Z",
       "firstSeen": "2026-10-28T17:22:20.777Z",
       "isNew": false
+    },
+    {
+      "name": "Lancashire Telegraph",
+      "score": 54,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Lancashire Telegraph",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-10-29T12:02:00.000Z",
+      "firstSeen": "2026-10-29T14:28:15.146Z",
+      "isNew": true
     },
     {
       "name": "Jack Robinson",
@@ -33,6 +46,104 @@
     }
   ],
   "stories": [
+    {
+      "id": "c2hhbmUgZHVmZnkgam9pbnMgZGVyYnkgY291bnR5IG",
+      "title": "Shane Duffy joins Derby County on a short-term deal - BBC",
+      "description": "Shane Duffy joins Derby County on a short-term deal &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PSkU2MndWb0lOOEI0eFlXYzlJMFJ0R2JIN3FKN2gwQ0V3OE9nRUE1UGk4RzhRMHJmSnVablVmSXFtLTFVM3JoVWM2Z2ZQUWF6U3RVc0FrTU1DZXFXcGk5RHJET0R1RWt6aU9R?oc=5",
+      "source": "BBC",
+      "published": "2026-10-29T12:30:15.000Z",
+      "reputation": 96,
+      "likelihood": 95,
+      "ratingLabel": "Very strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Shane Duffy"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGFkZHJlc3MgZGVmZW5zaXZlIH",
+      "title": "Derby County address defensive woes with free agent deal for 217-appearance Championship veteran - Yahoo",
+      "description": "Derby County address defensive woes with free agent deal for 217-appearance Championship veteran &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VNUXhacFRYZnJhM2JDZ1FlUXk4RTkwVTBpbW1sQ1JsX25PWG1xYkFzLWZybWh0SlhTSTdvRnY2d0ZIbkEyXzRSUFpNUldrM3R1VjZmS212Z0dRb1B4d1JueGpEMkZWWFowYU40M3RUR0ZTQjVfcHFiX05YSXBTRjlrUkxqb2FJTkQ0?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-29T12:20:03.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "c2lnbmluZyBkZWZlbmRlciBkdWZmeSBqb2lucyBkZX",
+      "title": "SIGNING: Defender Duffy joins Derby ranks - Derby County",
+      "description": "SIGNING: Defender Duffy joins Derby ranks &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRm1na19VamQzMWdheTBfZ0hvYnYtV3ZFX2p0ZlFjMnRDWUNnWmQzR0pYMzRoRFFEVkhTTlFOTjIyLWRDanpYSXZpeDFnOHNkTFBSTXlsc0NDb3RtQW5jclhLOXNMS3ZDUExDeDhNQlZFaVgzVlp4dllMLU12Slh5Nl93?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-29T12:04:35.000Z",
+      "reputation": 99,
+      "likelihood": 97,
+      "ratingLabel": "Very strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Defender Duffy"
+      ]
+    },
+    {
+      "id": "dW5wb3B1bGFyIGV4IGJsYWNrYnVybiByb3ZlcnMgcG",
+      "title": "Unpopular ex-Blackburn Rovers player signs for Derby County amid injury crisis - Lancashire Telegraph",
+      "description": "Unpopular ex-Blackburn Rovers player signs for Derby County amid injury crisis &nbsp;&nbsp; Lancashire Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnZRRjljYmlfVEVOel95Z1ByYS1GYnF1NFl6cThiOWRaSlhjUWZxN21oNElWSVcwT3BCQXZqYl9KdkdRNW9FeUpTM2RKRjR6cHVpQ3pMTnE2MXA5SXIwRkhIdlNSQ01feXRLQV8yQWZfTEwwVDRFVFdYbzZlTm5pbkpDVFhwNU5pODctbnpvemduZFdwZGthbXZ5U1JvTUhTbUg2RFFfb1MwMjI3bGc?oc=5",
+      "source": "Lancashire Telegraph",
+      "published": "2026-10-29T12:02:00.000Z",
+      "reputation": 48,
+      "likelihood": 65,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Lancashire Telegraph"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IG1ha2Ugc2Vjb25kIGZyZWUgYW",
+      "title": "Derby County make second free agent transfer swoop as ex-Premier League defender agrees deal - Derbyshire Live",
+      "description": "Derby County make second free agent transfer swoop as ex-Premier League defender agrees deal &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnRGalZrZmMzZW1aQ2x4NGpzcThOenhsSHNRR1dXd2FQa1FqZ09XaThjMjJBczk2cUZuaWllVkFnX2hQUGFMSTZHcDhRMV81ZEVOSFRWWjJudmhwaUsxM2g1Z3RLVk5fTUVQMlZ6LWRvLUdPMWprRC04WnBGTGtOX2pWWU9hZm9LYXkzbVY1eGZua1N1bUdlUUVQWGlLWTFjd08tWXdsWQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-29T12:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "YWNjZXNzIGFsbCBhcmVhcyBiaWxiaWphIG1vd2F0dC",
+      "title": "ACCESS ALL AREAS: Bilbija, Mowatt & Szmodics Attend Signing Session - Derby County",
+      "description": "ACCESS ALL AREAS: Bilbija, Mowatt & Szmodics Attend Signing Session &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0xDbGYyZ3hMOFptM2Yyc3lBd2c3VnBXQTcybXFka3dUeXhtT2FadTFjUENwaVdvMWphalJLMUFjamxQYW9RaHVrYW5IYjVBVW53aHZMemtlQ1l0alE5bWdOV2tpTWpNd2I5Y0p2bkQtVkZWdGR6ZFRFOE1qbm85RHBnWXFFOFdSZGRsVGg3RnFLLVVNMVFnYVA4UTMzak9t?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-29T09:56:15.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Szmodics Attend Signing Session"
+      ]
+    },
     {
       "id": "amF5ZGVuIGJvZ2xlIGV4cGxhaW5zIGhvdyBkcmFtYX",
       "title": "Jayden Bogle explains how dramatic Derby County play-off was key to Leeds United transfer - Derbyshire Live",
@@ -147,6 +258,21 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFRzRHV6VDIwWEpfVkk1OWMyY3dBVlRwaEZXMTEyWTZxZHNsUXZja28xUU5fQWpMZFhEaHJzVEpLRDRiR2NsV3RpLTAzSW9HUVFNd0V2dGNwM0JsSXB3NUFDZjhkOTAtWnZhU0xsMGNoSjBIeFZIN2t1SzVRbVdwdEdZRWJveTFFeDY0Wg?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-26T10:47:55.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHctdnotanNpRjNobHBUNmVGbl9RNzh3SWpMc2VJUlV6OXhEVFhCZmlvendDVjNKZ0ZIQVd4Q0l1am9aaXpQMWZGRG9qSlk3bnl5V3lZWE5TRTVXZTVrVGNDUUx1akhhb1Z6TTFQT3ZlWmlXUV9uaEtqSFpWN2JYcW5adm9FQ2Vienp1eHd2VW8?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-25T11:55:19.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
