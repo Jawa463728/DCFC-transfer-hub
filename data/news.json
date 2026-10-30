@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-29T23:39:26.068Z",
+  "updatedAt": "2026-10-30T02:58:24.323Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 64,
+  "storyCount": 65,
   "targetCount": 8,
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Wayne Rooney",
-      "score": 55,
+      "score": 54,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Barry Robson",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Irish Independent",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Lancashire Telegraph",
-      "score": 52,
+      "score": 51,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -68,7 +68,7 @@
       "maxLikelihood": 65,
       "lastMention": "2026-10-29T12:02:00.000Z",
       "firstSeen": "2026-10-29T14:28:15.146Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Jack Robinson",
@@ -85,7 +85,7 @@
     },
     {
       "name": "Norwich Defensive Star Shane",
-      "score": 47,
+      "score": 46,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,7 +98,7 @@
     },
     {
       "name": "Inside Futbol",
-      "score": 47,
+      "score": 46,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -239,6 +239,21 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIG5ld3MgcmFtcy",
+      "title": "Derby County transfer news – Rams close to signing former Premier League star - Derby County News",
+      "description": "Derby County transfer news – Rams close to signing former Premier League star &nbsp;&nbsp; Derby County News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODg3cHdJRFY3amhmcDFjSjMtempvNDJiMUVyX0lld0ZUdy1PT1ZmT21tOGZBNTRYRTlXY0JYcUpJNHpKTWFyOHU5V3BjWm9sVTNPZFBwR2tJSEVESFctZmhBZE9MSldvU1VXSDRhZmxpOElMNVdyR2NpNzVuSEZGVWlkTnpKdk5kQ2FlQ01qWHlpRlBKZFBNQ09tZ2kybkotLW1TeDg5MGpkd2l6b09veVhkN1k2Z3MtcUtF?oc=5",
+      "source": "Derby County News",
+      "published": "2026-10-29T11:23:14.000Z",
+      "reputation": 99,
+      "likelihood": 97,
+      "ratingLabel": "Very strong",
+      "status": "confirmed",
       "edition": "gb",
       "overseas": false,
       "players": []
@@ -471,7 +486,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
