@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-30T16:27:26.083Z",
+  "updatedAt": "2026-10-30T20:59:19.547Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 65,
+  "storyCount": 66,
   "targetCount": 7,
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 55,
+      "score": 54,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Wayne Rooney",
-      "score": 51,
+      "score": 49,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Barry Robson",
-      "score": 49,
+      "score": 48,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Irish Independent",
-      "score": 49,
+      "score": 48,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Lancashire Telegraph",
-      "score": 48,
+      "score": 47,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Norwich Defensive Star Shane",
-      "score": 42,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Inside Futbol",
-      "score": 42,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -503,7 +503,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1004,6 +1004,21 @@
       "players": [
         "West Ham"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc25pcCBzaG",
+      "title": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point | Derbyshire Live - Derbyshire Live",
+      "description": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcTFjMFA3Y0d1QmNEUE85anFBS1VKelVQS3BmX05ybEZjMlZZRjQtZ0NfSUlVRnFRWkFCemQxejZqdHEwamNJTzF3WWNNYXB3SF9kcm12eU9yeHBiTEpTVHp0b1lMR1VjOU5VdzItSGo2MmtrbkU1MkR4TUd0R1lRczdNM3R2M3pxQm96YVJBVklzZjlyUE1tY1E1YkplVlRvWmhJbDJ3TjloUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-11T08:35:08.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc25pcCBzaG",
