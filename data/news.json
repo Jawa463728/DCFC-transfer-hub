@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T09:52:31.158Z",
+  "updatedAt": "2026-10-30T16:27:26.083Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 67,
+  "storyCount": 65,
   "targetCount": 7,
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 57,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Wayne Rooney",
-      "score": 52,
+      "score": 51,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -29,11 +29,11 @@
       "maxLikelihood": 51,
       "lastMention": "2026-10-29T20:30:13.000Z",
       "firstSeen": "2026-10-29T23:39:26.068Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Barry Robson",
-      "score": 50,
+      "score": 49,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Irish Independent",
-      "score": 50,
+      "score": 49,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Lancashire Telegraph",
-      "score": 50,
+      "score": 48,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Norwich Defensive Star Shane",
-      "score": 44,
+      "score": 42,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Inside Futbol",
-      "score": 44,
+      "score": 42,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,6 +98,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 128 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 128 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWtCVGpvdHZQbVNYbmhzZ09fdXNQX194VmplMElRRk5NOUJYbzdFMnZDRmpsUzZNM25KMWVfRmFtZ0lRczBGTTRDemFsYWxiVGJFUTVUUFV2YkxMTVpoOVRkQ3lSSVpZSEotd0VDYWU0LTFyVTFaUVk3UDRCV0lTUWpwNnhTdw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-30T05:38:18.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "c2hhbmUgZHVmZnkgcyBkZXJieSBjb3VudHkgbW92ZS",
       "title": "Shane Duffy's Derby County move has a remarkable Wayne Rooney twist - Football League World",
@@ -302,21 +317,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFRHT3lhM01XakNnN2NId1lYaWVmRWEtS3dtLV81SEl4dV96WGpvbDZVUm5HWEYxQThRZ01LNGZwczMweUNzdE1JSS1fZDhLaFNlMkJ4NHFHLXFJNXRTQ21jRWR4a285RkdSNDhBdEk1aDVnVS1OdXhxbmlTa0lvT3c1dDlBeTFHRkhTcUxKTzl3NnQwT1pETVhtZnRibDl0NzBUNUtXSEtDdWJUd3JyMzYxTU8wNW1DbVBsbVpXRWFnLU5rQlRrb1BqREd0SFV5?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-29T03:57:59.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTRLdk9KYUN1TnYwQUNqU3haYUNQTHNpZVFxRHlLZnRqVEdrMXZDbVRsVm5GN0wxZW1iQkVfRTI2dVJQYkNBNGdLOXAxM3o3Qi1Gb1hOaEZESC1TSWlCclNlX2I1b3VnM25IbzVoVHpIX0tZVWJ4VHhyWmV1MlhNQTJsNG5kV2duU0ZNZnBvM0Uyb0tpWHc3cGxFSllJU3pK?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-28T19:59:09.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -1109,38 +1109,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship - FotMob",
-      "description": "Shots on target per 90 - Derby County stats for Championship &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3ZfOElGTkxnMTF6eFZ4cWsxbmppUXhOTEhBWWlENEZfS0FDLTJRR1ZvWFZrcGdTRUN0R0JKODlKeUFzMzN5OHlRampNcmk3RWFFYzFIaFF5U3V1NUtrRjM5TV8yb3lnWDZtckNuZkE0blR2Y1lRQzIwa3dYby1qR3pMY3dBcTl2bXRtYTZ1YVJWdkRHTWxsT0phZ05TMGdRTjM0TDczVlZkV2Rs?oc=5",
-      "source": "FotMob",
-      "published": "2026-10-09T15:10:08.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZXggZGVyYnkgY291bnR5IHN0YXIgbmF0aGFuaWVsIG",
-      "title": "Ex-Derby County star Nathaniel Mendez-Laing has contract ripped up weeks after assault charge - Derbyshire Live",
-      "description": "Ex-Derby County star Nathaniel Mendez-Laing has contract ripped up weeks after assault charge &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0o4UGprME50a3dTWTVvZmtOYzBSdzF1bnI1amYtVE9zTVgyLW1TRUVCMHBocTkyTVZIbm5Da3FHcHlESDBOQVc0TkRYMGVRcEhvWHNCOFBITW16SDhadUVjaGZkbzhZdGdQUXA2bGYxYXp3N29Id294dko1WnpqLXVrZ0VaZ25xdUVQalVPak5ZR1pTV2RpbndKdU9od9IBowFBVV95cUxQdnRib2R1emQ3WVN1cWRkNVRUOFVkQWxYeUVCalQ1cU40RVEwdTlFNnc4ZmxJRVJOdzR0dDQtRWg3T1RSMlJqOWdRNUdHUF9TTzhTMEdzNGU3c2loNGc0MTRXSUdhbjFtVEs1Tko3eDlTczBBNGlIZmZ6UGI5aXNsT3l1Y0hzcXB2aGVOWGdacW9MSWYtbGtEZWp5amF6Mjk0cGdj?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-09T11:45:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Nathaniel Mendez-"
-      ]
     }
   ]
 }
