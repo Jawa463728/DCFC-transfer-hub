@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-30T02:58:24.323Z",
+  "updatedAt": "2026-10-30T09:52:31.158Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 65,
-  "targetCount": 8,
+  "storyCount": 67,
+  "targetCount": 7,
   "targets": [
     {
       "name": "Jayden Bogle",
-      "score": 58,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Wayne Rooney",
-      "score": 54,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Barry Robson",
-      "score": 52,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -42,11 +42,11 @@
       "maxLikelihood": 65,
       "lastMention": "2026-10-29T15:00:00.000Z",
       "firstSeen": "2026-10-29T19:47:56.183Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Irish Independent",
-      "score": 52,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -55,11 +55,11 @@
       "maxLikelihood": 65,
       "lastMention": "2026-10-29T15:00:00.000Z",
       "firstSeen": "2026-10-29T19:47:56.183Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Lancashire Telegraph",
-      "score": 51,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -71,34 +71,21 @@
       "isNew": false
     },
     {
-      "name": "Jack Robinson",
-      "score": 49,
-      "status": "Fading",
+      "name": "Norwich Defensive Star Shane",
+      "score": 44,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-10-20T09:26:00.000Z",
-      "firstSeen": "2026-10-29T07:15:28.587Z",
+      "bestSource": "Inside Futbol",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-10-29T11:23:00.000Z",
+      "firstSeen": "2026-10-29T19:47:56.183Z",
       "isNew": false
     },
     {
-      "name": "Norwich Defensive Star Shane",
-      "score": 46,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Inside Futbol",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-10-29T11:23:00.000Z",
-      "firstSeen": "2026-10-29T19:47:56.183Z",
-      "isNew": true
-    },
-    {
       "name": "Inside Futbol",
-      "score": 46,
+      "score": 44,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -107,7 +94,7 @@
       "maxLikelihood": 43,
       "lastMention": "2026-10-29T11:23:00.000Z",
       "firstSeen": "2026-10-29T19:47:56.183Z",
-      "isNew": true
+      "isNew": false
     }
   ],
   "stories": [
@@ -161,6 +148,21 @@
         "Barry Robson",
         "Irish Independent"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3owdWNldkMyN2ZxNzhoTWJaTlhEYUswVU5ab0xxUjRUUjJ4ZGNLaDhQMFhZSGpwRkV1Mi04WVRwcTFSajJVOTJMbjBWcjFaRi1fMUdqTXNaZGFSVmxhTk9EMjEwdFVwOHhGU3E0dlZZY2hic0ZBbjFlVVJSdEUzYWJSRmJnbDF4cTAwbWxGUjBaZk5ySUhhZmJSYTBkdGROQkR5QjNzOVhuYW1PZ01fb1NvWVgzZlVycUdaTlkybk1aeEdnSlNwSFhPMF9jeTJBbUE?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-29T13:28:19.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "c2hhbmUgZHVmZnkgam9pbnMgZGVyYnkgY291bnR5IG",
@@ -300,6 +302,21 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFRHT3lhM01XakNnN2NId1lYaWVmRWEtS3dtLV81SEl4dV96WGpvbDZVUm5HWEYxQThRZ01LNGZwczMweUNzdE1JSS1fZDhLaFNlMkJ4NHFHLXFJNXRTQ21jRWR4a285RkdSNDhBdEk1aDVnVS1OdXhxbmlTa0lvT3c1dDlBeTFHRkhTcUxKTzl3NnQwT1pETVhtZnRibDl0NzBUNUtXSEtDdWJUd3JyMzYxTU8wNW1DbVBsbVpXRWFnLU5rQlRrb1BqREd0SFV5?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-29T03:57:59.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTRLdk9KYUN1TnYwQUNqU3haYUNQTHNpZVFxRHlLZnRqVEdrMXZDbVRsVm5GN0wxZW1iQkVfRTI2dVJQYkNBNGdLOXAxM3o3Qi1Gb1hOaEZESC1TSWlCclNlX2I1b3VnM25IbzVoVHpIX0tZVWJ4VHhyWmV1MlhNQTJsNG5kV2duU0ZNZnBvM0Uyb0tpWHc3cGxFSllJU3pK?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-28T19:59:09.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -581,23 +598,6 @@
       "players": []
     },
     {
-      "id": "amFjayByb2JpbnNvbiBtYWtlcyBibHVudCBkZXJieS",
-      "title": "Jack Robinson makes blunt Derby County admission after transfer ends wait - Derbyshire Live",
-      "description": "Jack Robinson makes blunt Derby County admission after transfer ends wait &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1V3MUFjdW9pc1hfNjBKaG4wcUlVZmpnV0ljOHhnUGVlRHZIbHVmUXV3ZmpvSlMwMkZ0UE0wYS1fVzVOM1J4V2FRUnF3cTRQcm1sZDhxQjZZUVAySEk4cXJPMm4zNTdwc21kNWZNUjNxQ29pZ2JvMVJJMXo2a3JELUg2U3A5eFFmUzc1S2ZlQkFrUzNURmw3OGhoQ0RObmkyclVuMkd2UlNMdGc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-20T09:26:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Jack Robinson"
-      ]
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IG5lZWQgdG8gcmVraW5kbGUgdH",
       "title": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion - The72",
       "description": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion &nbsp;&nbsp; The72",
@@ -611,6 +611,23 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "amFjayByb2JpbnNvbiBtYWtlcyBibHVudCBkZXJieS",
+      "title": "Jack Robinson makes blunt Derby County admission after transfer ends wait - Derbyshire Live",
+      "description": "Jack Robinson makes blunt Derby County admission after transfer ends wait &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1V3MUFjdW9pc1hfNjBKaG4wcUlVZmpnV0ljOHhnUGVlRHZIbHVmUXV3ZmpvSlMwMkZ0UE0wYS1fVzVOM1J4V2FRUnF3cTRQcm1sZDhxQjZZUVAySEk4cXJPMm4zNTdwc21kNWZNUjNxQ29pZ2JvMVJJMXo2a3JELUg2U3A5eFFmUzc1S2ZlQkFrUzNURmw3OGhoQ0RObmkyclVuMkd2UlNMdGc?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-20T07:00:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jack Robinson"
+      ]
     },
     {
       "id": "NSBzdHJpa2VycyBkZXJieSBjb3VudHkgbXVzdCB0cn",
