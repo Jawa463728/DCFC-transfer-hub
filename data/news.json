@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-31T17:26:55.205Z",
+  "updatedAt": "2026-10-31T20:37:47.066Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 64,
+  "storyCount": 63,
   "targetCount": 7,
   "targets": [
     {
@@ -59,7 +59,7 @@
     },
     {
       "name": "Lancashire Telegraph",
-      "score": 42,
+      "score": 41,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Norwich Defensive Star Shane",
-      "score": 36,
+      "score": 35,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Inside Futbol",
-      "score": 36,
+      "score": 35,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,6 +98,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHg1QWVyQTloM2ZMTHF6U3VPVTlmdmt6bWxjOHc3M0RmYVNkR09SQjRsNVp6YUpFc2RIcGZtM2J2dEptRzBqNG14VVkwRU9pd1BGRnRRUkV3ckNtYXJnd2d6VDFlc0NWNTBVVmhRXzJCUFJxUzNLd2xaYTY3TmFpb0s2c2s5T3FBdmJMblg2dHo?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-31T12:37:25.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
       "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 128 - Transfermarkt",
@@ -356,6 +371,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTRLdk9KYUN1TnYwQUNqU3haYUNQTHNpZVFxRHlLZnRqVEdrMXZDbVRsVm5GN0wxZW1iQkVfRTI2dVJQYkNBNGdLOXAxM3o3Qi1Gb1hOaEZESC1TSWlCclNlX2I1b3VnM25IbzVoVHpIX0tZVWJ4VHhyWmV1MlhNQTJsNG5kV2duU0ZNZnBvM0Uyb0tpWHc3cGxFSllJU3pK?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-28T19:59:09.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "amF5ZGVuIGJvZ2xlIGV4cGxhaW5zIGhvdyBkcmFtYX",
       "title": "Jayden Bogle explains how dramatic Derby County play-off was key to Leeds United transfer - Derbyshire Live",
       "description": "Jayden Bogle explains how dramatic Derby County play-off was key to Leeds United transfer &nbsp;&nbsp; Derbyshire Live",
@@ -528,7 +558,7 @@
       "description": "Three players on notice as Derby County begin January transfer planning &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2R6RmZKTENIaTFQWV9od0RzNWh4RS1BY3JpXzM1U1VkTUNLUVlnR0NUOV9JSkxjam5WakpBVHM1RWE2dnZkNUpZWFkwQlI1X1AtN1MwU0gzbV9zOVcwZWlaaGRLbTRaYi1OYlk5bVByVlZMaUNfRzVqLUxqcGJacUVMc0FCMG1Rb012aXc3a1Q3SEZDdndUb0hrLXdNb18xMEt4cVhoR0VIYXM?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-10-23T13:25:35.000Z",
+      "published": "2026-10-23T07:00:00.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
@@ -595,21 +625,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1poNWZhMElYLTJVRkRwdkQ5MlRCSzd4R0c5VG5TUkFfVy1aUGFmWDlBQWstNEtHMnF6OW5FYTg2UHFzT0g2Nm9wcUY5TzA2aVZ4NWZzazJEUjYybHp3Zy1VZzJVU09tdU1id3BSYm53MXRoTFl4TDM3TF8tSTE1bTB5Q2ZoNGZLa1lFVUVlOA?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-21T20:06:56.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     },
     {
@@ -878,25 +893,6 @@
       "players": []
     },
     {
-      "id": "aGFsZiB0ZXJtIHBsYXllciBzaWduaW5nIHNlc3Npb2",
-      "title": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October - Derby County",
-      "description": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTZFMno4QWF0dGdsOTBXX204aFdpYUJxLUxMSFJWcW00SlRBNDEzU0pjMWpKTVV4UFYtYU1vVXp5ajBwX2pkRmZFUV8zVVFOMGYyenZaYXJpYTFfTkVNSExMdFotSGpvVURpZmE1WVBjenVCU0xOYkZ5Y1VZVGxlMlRNTkFhZ3QwMGJxWnNpZ3lRUTdkNTd5bk5lOXNnQTVJcm5XTDJ6QUJxUG1rTWE5R2ZBWGZES09W?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-15T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Player Signing Session",
-        "Pride Park After Dark",
-        "To Return This October"
-      ]
-    },
-    {
       "id": "am9obiBldXN0YWNlIHNwZWxscyBvdXQgZnJlZSBhZ2",
       "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow - Yahoo Sports",
       "description": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo Sports",
@@ -917,15 +913,34 @@
       "description": "Wolves must launch Derby County transfer raid after Jose Sa exploits &nbsp;&nbsp; Football League World",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3BDTm1fWnRhOTVQY2VZVGpqUXJJQ0NsX2dnYnZmREhUbi1SMHFMT1ZFbmNKX3hDYU95cXRCMGJnWjgybmtWNXQ2RHhlREI5Y3B1eWdQWUJvNjczOWI0M3RNR21FNmp5T2pjYk04UTJJT3lhMWw2cEtiTTR4Ny1Oc1NxNGlPbjdvSEl3M09YelFveVFaeERPQXRudHlJUjRud0lsMUJ3?oc=5",
       "source": "Football League World",
-      "published": "2026-10-15T06:15:12.000Z",
+      "published": "2026-10-15T07:00:00.000Z",
       "reputation": 61,
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Jose Sa"
+      ]
+    },
+    {
+      "id": "aGFsZiB0ZXJtIHBsYXllciBzaWduaW5nIHNlc3Npb2",
+      "title": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October - Derby County",
+      "description": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTZFMno4QWF0dGdsOTBXX204aFdpYUJxLUxMSFJWcW00SlRBNDEzU0pjMWpKTVV4UFYtYU1vVXp5ajBwX2pkRmZFUV8zVVFOMGYyenZaYXJpYTFfTkVNSExMdFotSGpvVURpZmE1WVBjenVCU0xOYkZ5Y1VZVGxlMlRNTkFhZ3QwMGJxWnNpZ3lRUTdkNTd5bk5lOXNnQTVJcm5XTDJ6QUJxUG1rTWE5R2ZBWGZES09W?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-15T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Player Signing Session",
+        "Pride Park After Dark",
+        "To Return This October"
       ]
     },
     {
@@ -1063,36 +1078,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 3 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 3 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDFRdDUyQ2tncHBQdTU1UHc3LVFQelF0VGNMem1hR1Z4X3VLekZQMXRGVGs4S19TWVd5UHZNNGxVcG5WenRhdnE4TFRtMkFrRENNUDhmYmdvZk82ME95TEkyc3V5RFliaXZ4OFJMMEhnSzNPNFRXZUgycW9ZcUxoNnYyZw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-10T17:58:55.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 132 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 132 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkJVM0xwbmd3VjJueVhrTnhsekdaTEZwWDBhb2JaN0FkS3NnU2UtWnlPSUhJemdHTEU2S1hlcElJWS01MVdOMDlPY3JxUnotYXQ4QWMxa0lYX3hvOGtxd18zSVdfT3U5VWJGMTRVZTk4N0hvYVktSVVpQUpSVmpMYkpRYnRIUQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-10T17:57:10.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     }
   ]
