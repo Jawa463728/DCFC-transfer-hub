@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:45:14.750Z",
+  "updatedAt": "2026-11-01T23:56:36.479Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 63,
@@ -16,7 +16,7 @@
       "maxLikelihood": 54,
       "lastMention": "2026-11-01T07:00:00.000Z",
       "firstSeen": "2026-11-01T09:44:59.138Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Jayden Bogle",
