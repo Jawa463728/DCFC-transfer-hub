@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-01T09:44:59.138Z",
+  "updatedAt": "2026-11-01T16:27:36.865Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 62,
+  "storyCount": 64,
   "targetCount": 8,
   "targets": [
     {
       "name": "Plymouth Argyle",
-      "score": 57,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "The72",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Wayne Rooney",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,8 +46,8 @@
     },
     {
       "name": "Barry Robson",
-      "score": 38,
-      "status": "Watch",
+      "score": 37,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Irish Independent",
@@ -59,8 +59,8 @@
     },
     {
       "name": "Irish Independent",
-      "score": 38,
-      "status": "Watch",
+      "score": 37,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Irish Independent",
@@ -72,8 +72,8 @@
     },
     {
       "name": "Lancashire Telegraph",
-      "score": 38,
-      "status": "Watch",
+      "score": 37,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Lancashire Telegraph",
@@ -86,7 +86,7 @@
     {
       "name": "Norwich Defensive Star Shane",
       "score": 32,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Inside Futbol",
@@ -99,7 +99,7 @@
     {
       "name": "Inside Futbol",
       "score": 32,
-      "status": "Watch",
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Inside Futbol",
@@ -111,6 +111,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "YmxhY2tidXJuIHJvdmVycyB3YW50IHRvIHNpZ24gZG",
+      "title": "Blackburn Rovers want to sign Derby County contract rebel in bargain transfer - Football League World",
+      "description": "Blackburn Rovers want to sign Derby County contract rebel in bargain transfer &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUpYekZBN1lRY2lLNmZHdElJcmZ6TEVjN0pacm1VbmpWUzdLYW5TcS1sTzRnYkJnNlRnQXRUdVhXQmc5RmIyZWNmWFlsREpKS1VrdEhqWGR0R0lkZENqaXRUcm1aZlJWclNxeFhmNlBTWjg2WnlMUDhCQzNPckZ0MFIzZ0ZSeDNKUHctWlpuQVN3Nk12aHZSWFJwZ2hyQkl0RTZR?oc=5",
+      "source": "Football League World",
+      "published": "2026-11-01T11:39:07.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "cGx5bW91dGggYXJneWxlIG11c3Qgc2lnbiBkZXJieS",
       "title": "Plymouth Argyle must sign Derby County man in January, contract up next year: Opinion - The72",
@@ -127,6 +142,21 @@
       "players": [
         "Plymouth Argyle"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
+      "title": "Derby County - Rekord-Zugänge (Galerie) | Seite 5 - Transfermarkt",
+      "description": "Derby County - Rekord-Zugänge (Galerie) | Seite 5 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSm1aWUFWSGxMNThMNkwwdVNXbmlKYkdUdFY1YjRMTThfTHhiUzRval85QnQ5T3lvOW9PbUhKWTRubTdLTDdrMXotdHIwOXBldkNiX0QtWXZZNGI4T2phZTVPdE1mRXFZeWxxdGZkX09TQlNYQVE1bGpnME9YLUFCaTEzaTdlaFFVa2pyM0hmT19rQlJBNlI0M0NldGdLZWMwNElad0dDOFl1Y2lJdTZCNU1lZnU1eDdFemtHUjhKWG8zbFQ5VVpHeW5rVmZXeHBI?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-31T14:07:57.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
