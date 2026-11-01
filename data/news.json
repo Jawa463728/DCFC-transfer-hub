@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-11-01T02:40:54.322Z",
+  "updatedAt": "2026-11-01T09:44:59.138Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 61,
-  "targetCount": 7,
+  "storyCount": 62,
+  "targetCount": 8,
   "targets": [
+    {
+      "name": "Plymouth Argyle",
+      "score": 57,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The72",
+      "bestSourceScore": 66,
+      "maxLikelihood": 54,
+      "lastMention": "2026-11-01T07:00:00.000Z",
+      "firstSeen": "2026-11-01T09:44:59.138Z",
+      "isNew": true
+    },
     {
       "name": "Jayden Bogle",
       "score": 49,
@@ -20,7 +33,7 @@
     },
     {
       "name": "Wayne Rooney",
-      "score": 42,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +46,7 @@
     },
     {
       "name": "Barry Robson",
-      "score": 40,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,7 +59,7 @@
     },
     {
       "name": "Irish Independent",
-      "score": 40,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,7 +72,7 @@
     },
     {
       "name": "Lancashire Telegraph",
-      "score": 39,
+      "score": 38,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -72,7 +85,7 @@
     },
     {
       "name": "Norwich Defensive Star Shane",
-      "score": 34,
+      "score": 32,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,7 +98,7 @@
     },
     {
       "name": "Inside Futbol",
-      "score": 34,
+      "score": 32,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,6 +111,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "cGx5bW91dGggYXJneWxlIG11c3Qgc2lnbiBkZXJieS",
+      "title": "Plymouth Argyle must sign Derby County man in January, contract up next year: Opinion - The72",
+      "description": "Plymouth Argyle must sign Derby County man in January, contract up next year: Opinion &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjFlX2NOVkJ1NksweWdHSXRoVzVYbmdMcGlvYzZGZGllQTUxalVoOE5kMFJjbTlaenhnQ0d1ZFpIZU1DU1F4T3gxTzdvN2J0WlNfQ2RRaVpKaVhsOTJFLUNRZjlJdnJXazAxUlVsU01LMjhFakVVWnJnYnNMYVdzbFJlRHBwQnVVTUdTdFNkVlMyZWpRRDhUSlB3?oc=5",
+      "source": "The72",
+      "published": "2026-11-01T07:00:00.000Z",
+      "reputation": 66,
+      "likelihood": 54,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Plymouth Argyle"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
       "title": "Derby County Jugend - Transfermarkt",
@@ -301,7 +331,7 @@
       "likelihood": 97,
       "ratingLabel": "Very strong",
       "status": "confirmed",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -347,6 +377,21 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFRHT3lhM01XakNnN2NId1lYaWVmRWEtS3dtLV81SEl4dV96WGpvbDZVUm5HWEYxQThRZ01LNGZwczMweUNzdE1JSS1fZDhLaFNlMkJ4NHFHLXFJNXRTQ21jRWR4a285RkdSNDhBdEk1aDVnVS1OdXhxbmlTa0lvT3c1dDlBeTFHRkhTcUxKTzl3NnQwT1pETVhtZnRibDl0NzBUNUtXSEtDdWJUd3JyMzYxTU8wNW1DbVBsbVpXRWFnLU5rQlRrb1BqREd0SFV5?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-29T03:57:59.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTRLdk9KYUN1TnYwQUNqU3haYUNQTHNpZVFxRHlLZnRqVEdrMXZDbVRsVm5GN0wxZW1iQkVfRTI2dVJQYkNBNGdLOXAxM3o3Qi1Gb1hOaEZESC1TSWlCclNlX2I1b3VnM25IbzVoVHpIX0tZVWJ4VHhyWmV1MlhNQTJsNG5kV2duU0ZNZnBvM0Uyb0tpWHc3cGxFSllJU3pK?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-28T19:59:09.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -533,7 +578,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -638,7 +683,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": [
         "Jack Robinson"
@@ -786,6 +831,21 @@
       "players": []
     },
     {
+      "id": "YmlybWluZ2hhbSBjaXR5IGFuZCBkZXJieSBjb3VudH",
+      "title": "Birmingham City and Derby County must launch fresh Ipswich Town transfer raid - Football League World",
+      "description": "Birmingham City and Derby County must launch fresh Ipswich Town transfer raid &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGhOTXZ2WVlLYk1rem16RDVwOXFJUlFpZ1FxczdiT0xDV3N4SE5FQXBBS0VNRDIzZThuVEh2d0g4dk9sRTcySWZFbUFpb2ZvcFQ1dHlMSXZVWVotZzI3Z1hxWmo0RDNuS29wYTNIM19vcVVFWjI1ZVFpQmJBdXRTeEZFY1R0TTdqVUNkRHJiSnZ1Zk9rMmQ1Qk9KSFBKVW5zbDBnZVBRakhiVExnTU01SmhB?oc=5",
+      "source": "Football League World",
+      "published": "2026-10-17T06:30:13.000Z",
+      "reputation": 61,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
       "title": "Derby County - Rekord-Zugänge (Galerie) - Transfermarkt",
       "description": "Derby County - Rekord-Zugänge (Galerie) &nbsp;&nbsp; Transfermarkt",
@@ -863,21 +923,6 @@
       "players": []
     },
     {
-      "id": "am9obiBldXN0YWNlIHNwZWxscyBvdXQgZnJlZSBhZ2",
-      "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow - Yahoo Sports",
-      "description": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVQ5ZnFuNU43RGRWTkFYSm5IZTVsbWpXdkV5VkpFYm9rZjUzbzBTblJ3UlhCZGdVMTB5MzFWSDFTUV9Ob01YdGI5T0hpdVBtemVFdEFEc0FWUlVSc3Q3c2E5Z29hZjF1TjM5QWNQa2hQUEVnaU42Z05tWWQ2b1lBUG9zc3g?oc=5",
-      "source": "Yahoo Sports",
-      "published": "2026-10-15T07:00:00.000Z",
-      "reputation": 70,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
       "id": "d29sdmVzIG11c3QgbGF1bmNoIGRlcmJ5IGNvdW50eS",
       "title": "Wolves must launch Derby County transfer raid after Jose Sa exploits - Football League World",
       "description": "Wolves must launch Derby County transfer raid after Jose Sa exploits &nbsp;&nbsp; Football League World",
@@ -893,6 +938,21 @@
       "players": [
         "Jose Sa"
       ]
+    },
+    {
+      "id": "am9obiBldXN0YWNlIHNwZWxscyBvdXQgZnJlZSBhZ2",
+      "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow - Yahoo Sports",
+      "description": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVQ5ZnFuNU43RGRWTkFYSm5IZTVsbWpXdkV5VkpFYm9rZjUzbzBTblJ3UlhCZGdVMTB5MzFWSDFTUV9Ob01YdGI5T0hpdVBtemVFdEFEc0FWUlVSc3Q3c2E5Z29hZjF1TjM5QWNQa2hQUEVnaU42Z05tWWQ2b1lBUG9zc3g?oc=5",
+      "source": "Yahoo Sports",
+      "published": "2026-10-15T07:00:00.000Z",
+      "reputation": 70,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "aGFsZiB0ZXJtIHBsYXllciBzaWduaW5nIHNlc3Npb2",
@@ -1019,36 +1079,6 @@
       "players": [
         "West Ham"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc25pcCBzaG",
-      "title": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point | Derbyshire Live - Derbyshire Live",
-      "description": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcTFjMFA3Y0d1QmNEUE85anFBS1VKelVQS3BmX05ybEZjMlZZRjQtZ0NfSUlVRnFRWkFCemQxejZqdHEwamNJTzF3WWNNYXB3SF9kcm12eU9yeHBiTEpTVHp0b1lMR1VjOU5VdzItSGo2MmtrbkU1MkR4TUd0R1lRczdNM3R2M3pxQm96YVJBVklzZjlyUE1tY1E1YkplVlRvWmhJbDJ3TjloUQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-11T08:35:08.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc25pcCBzaG",
-      "title": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point - Derbyshire Live",
-      "description": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcTFjMFA3Y0d1QmNEUE85anFBS1VKelVQS3BmX05ybEZjMlZZRjQtZ0NfSUlVRnFRWkFCemQxejZqdHEwamNJTzF3WWNNYXB3SF9kcm12eU9yeHBiTEpTVHp0b1lMR1VjOU5VdzItSGo2MmtrbkU1MkR4TUd0R1lRczdNM3R2M3pxQm96YVJBVklzZjlyUE1tY1E1YkplVlRvWmhJbDJ3TjloUQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-11T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     }
   ]
 }
