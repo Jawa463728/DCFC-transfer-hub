@@ -1,23 +1,10 @@
 {
-  "updatedAt": "2026-11-02T13:46:54.615Z",
+  "updatedAt": "2026-11-02T22:29:05.300Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 63,
   "targetCount": 8,
   "targets": [
-    {
-      "name": "Plymouth Argyle",
-      "score": 50,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The72",
-      "bestSourceScore": 66,
-      "maxLikelihood": 54,
-      "lastMention": "2026-11-01T07:00:00.000Z",
-      "firstSeen": "2026-11-01T09:44:59.138Z",
-      "isNew": false
-    },
     {
       "name": "Jayden Bogle",
       "score": 49,
@@ -29,6 +16,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-10-28T14:25:00.000Z",
       "firstSeen": "2026-10-28T17:22:20.777Z",
+      "isNew": false
+    },
+    {
+      "name": "Plymouth Argyle",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The72",
+      "bestSourceScore": 66,
+      "maxLikelihood": 54,
+      "lastMention": "2026-11-01T07:00:00.000Z",
+      "firstSeen": "2026-11-01T09:44:59.138Z",
       "isNew": false
     },
     {
@@ -558,7 +558,7 @@
       "description": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGo1bU91U1lIeGZpTmJ5c0t2cE5YTEhjVkxhTHFXSXU2WTJOYTJVY0RsOHNmdWk1TDF5NEtNMVZlTlFuNUJoVnZLOFE1RUFlWlBMbkFiSEx0UGgxNmsxb0NHQk5TcmkyaWxOY2J6QjBDQWFyd3p2aHFNaG5jbW93Umc4NjBpWUNpUGxselhQVjFQM1VwcmlJOUN5Znk2OXhlWmR6YzR4UQ?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-10-25T10:20:04.000Z",
+      "published": "2026-10-25T07:00:00.000Z",
       "reputation": 87,
       "likelihood": 76,
       "ratingLabel": "Strong",
