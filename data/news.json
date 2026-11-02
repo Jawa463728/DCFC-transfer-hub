@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T23:56:36.479Z",
+  "updatedAt": "2026-11-02T05:27:14.307Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 63,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Plymouth Argyle",
-      "score": 54,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -938,6 +938,25 @@
       "players": []
     },
     {
+      "id": "aGFsZiB0ZXJtIHBsYXllciBzaWduaW5nIHNlc3Npb2",
+      "title": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October - Derby County",
+      "description": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October &nbsp;&nbsp; Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTZFMno4QWF0dGdsOTBXX204aFdpYUJxLUxMSFJWcW00SlRBNDEzU0pjMWpKTVV4UFYtYU1vVXp5ajBwX2pkRmZFUV8zVVFOMGYyenZaYXJpYTFfTkVNSExMdFotSGpvVURpZmE1WVBjenVCU0xOYkZ5Y1VZVGxlMlRNTkFhZ3QwMGJxWnNpZ3lRUTdkNTd5bk5lOXNnQTVJcm5XTDJ6QUJxUG1rTWE5R2ZBWGZES09W?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-15T07:00:00.000Z",
+      "reputation": 99,
+      "likelihood": 75,
+      "ratingLabel": "Strong",
+      "status": "confirmed",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Player Signing Session",
+        "Pride Park After Dark",
+        "To Return This October"
+      ]
+    },
+    {
       "id": "d29sdmVzIG11c3QgbGF1bmNoIGRlcmJ5IGNvdW50eS",
       "title": "Wolves must launch Derby County transfer raid after Jose Sa exploits - Football League World",
       "description": "Wolves must launch Derby County transfer raid after Jose Sa exploits &nbsp;&nbsp; Football League World",
@@ -968,25 +987,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "aGFsZiB0ZXJtIHBsYXllciBzaWduaW5nIHNlc3Npb2",
-      "title": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October - Derby County",
-      "description": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTZFMno4QWF0dGdsOTBXX204aFdpYUJxLUxMSFJWcW00SlRBNDEzU0pjMWpKTVV4UFYtYU1vVXp5ajBwX2pkRmZFUV8zVVFOMGYyenZaYXJpYTFfTkVNSExMdFotSGpvVURpZmE1WVBjenVCU0xOYkZ5Y1VZVGxlMlRNTkFhZ3QwMGJxWnNpZ3lRUTdkNTd5bk5lOXNnQTVJcm5XTDJ6QUJxUG1rTWE5R2ZBWGZES09W?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-15T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Player Signing Session",
-        "Pride Park After Dark",
-        "To Return This October"
-      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
