@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:22:06.991Z",
+  "updatedAt": "2026-11-03T18:32:05.301Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 60,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Plymouth Argyle",
-      "score": 45,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -111,6 +111,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
+      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
+      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTZHS3UwV19nOGpxLWJLUEd2UUwwVVh2ZHhiR2NrUlozLTlwZHQ5bFo3WllzVmdnV2dZSmxoWDBCWldUWVY3WXJ2elBhSmZGYUtGc0loWVlBeXpqOFRNQmMtTF9OSTdwdHBRNXo5LTV2aG1jS2lIdmJZLWVXZlJsX1dYMTdBZFp3UktOQjZjeG9HSWlZaWhpODNnQ2l6WjNFcVM3STZxeW02X2RHdnRzT0RDdXY3aV9Ianc?oc=5",
+      "source": "FotMob",
+      "published": "2026-11-03T04:32:51.000Z",
+      "reputation": 48,
+      "likelihood": 51,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "aHVsbCBjaXR5IHUyMSBkZXJieSBjb3VudHkgdTIxID",
       "title": "Hull City U21 - Derby County U21, 02/11/2026 - Premier League Cup - Informe del partido - Transfermarkt",
@@ -361,7 +376,7 @@
       "likelihood": 97,
       "ratingLabel": "Very strong",
       "status": "confirmed",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1031,21 +1046,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHNpZ24gcmFuZ2VycyB5b3V0aC",
-      "title": "Derby County sign Rangers youth product in double free agent swoop - Derbyshire Live",
-      "description": "Derby County sign Rangers youth product in double free agent swoop &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnlWNDNBaWZWU25qQlhsa1BrMUc0TUtOMnB5cVNCTllETHdwSnBzRjA3Ti1WT2RaQkpLUTZiNjk2b1R6UUlYUGZRbkZsY214ay1EY2RuTmVYckFqSHljNTNwZWpvQ1owLS1pSlpJOW1UNlVieXhfak5mZk5GRzlCVDFnaXQ2eWhNV053MXA5SEFnRjVlcW5ZSmtoNUhkOWEwS0RQSA?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-13T12:56:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
