@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T03:39:55.848Z",
+  "updatedAt": "2026-11-03T11:22:06.991Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 63,
+  "storyCount": 60,
   "targetCount": 8,
   "targets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Plymouth Argyle",
-      "score": 47,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -255,21 +255,6 @@
       ]
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3owdWNldkMyN2ZxNzhoTWJaTlhEYUswVU5ab0xxUjRUUjJ4ZGNLaDhQMFhZSGpwRkV1Mi04WVRwcTFSajJVOTJMbjBWcjFaRi1fMUdqTXNaZGFSVmxhTk9EMjEwdFVwOHhGU3E0dlZZY2hic0ZBbjFlVVJSdEUzYWJSRmJnbDF4cTAwbWxGUjBaZk5ySUhhZmJSYTBkdGROQkR5QjNzOVhuYW1PZ01fb1NvWVgzZlVycUdaTlkybk1aeEdnSlNwSFhPMF9jeTJBbUE?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-29T13:28:19.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "c2hhbmUgZHVmZnkgam9pbnMgZGVyYnkgY291bnR5IG",
       "title": "Shane Duffy joins Derby County on a short-term deal - BBC",
       "description": "Shane Duffy joins Derby County on a short-term deal &nbsp;&nbsp; BBC",
@@ -297,7 +282,7 @@
       "likelihood": 43,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -376,7 +361,7 @@
       "likelihood": 97,
       "ratingLabel": "Very strong",
       "status": "confirmed",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -608,7 +593,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -713,7 +698,7 @@
       "likelihood": 68,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": [
         "Jack Robinson"
@@ -1055,36 +1040,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnlWNDNBaWZWU25qQlhsa1BrMUc0TUtOMnB5cVNCTllETHdwSnBzRjA3Ti1WT2RaQkpLUTZiNjk2b1R6UUlYUGZRbkZsY214ay1EY2RuTmVYckFqSHljNTNwZWpvQ1owLS1pSlpJOW1UNlVieXhfak5mZk5GRzlCVDFnaXQ2eWhNV053MXA5SEFnRjVlcW5ZSmtoNUhkOWEwS0RQSA?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-10-13T12:56:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "YmxhY2tidXJuIHJvdmVycyByZXZpdmUgcHVyc3VpdC",
-      "title": "Blackburn Rovers revive pursuit of former Derby County prospect amid recent U21s trialist outing - Yahoo",
-      "description": "Blackburn Rovers revive pursuit of former Derby County prospect amid recent U21s trialist outing &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0RxMVNQNU9wRE5lQzg4c0Nxb3BrZ21ac3ltaG9wc3RLOXh3dDc1U3Rmb1pTZ3Bpczl3LWtOQjlWRHJuYTZYbzRyMl9GZ1NhaDlWRTMyZ3VQUU93dWFvTHBVV3prWXhkWnRLLUIxUThob3p4d1oxY05fMDY2UmpVSF9TY1RUamhyTy1QbWVHRQ?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-13T10:05:17.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGZyZWUgc2lnbmluZyBvcGVucy",
-      "title": "Derby County free signing opens up on John Eustace conversation and Rams game-time - Derbyshire Live",
-      "description": "Derby County free signing opens up on John Eustace conversation and Rams game-time &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTZGb3liT3h4UTRnelNrVFpKclU1dWt5NjZnVTRBX01oYUNRTkxEczVIckFfMkJDclhuOFZRVjBISm9HaE1QNzcydE9RcHAzalFSY2RjV0FBZjl4ZkdULTJMOUJHWVRoU0xScHNRdFNEMlRfY0JFU0Nyb3JISGpXM2pqcnZnaTRfdGJsdVhaSEJudnphWnIxY2c3YTZOUTBJYWhMVg?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-13T07:00:00.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
