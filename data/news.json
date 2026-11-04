@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-04T18:40:13.241Z",
+  "updatedAt": "2026-11-04T23:56:15.561Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 59,
+  "storyCount": 60,
   "targetCount": 8,
   "targets": [
     {
@@ -111,6 +111,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 120 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 120 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3Q4OENJSTJXaVlHZXdlUjUzLWQ3cHNKN1RnNnNxbWoyYzNhcWVocmNtcHBrUzhtd2ZBWkJZMmNsdnZhTjFoWWxNdFNVYlJKUWR5NFA0T0NBUXJkbjlRWGo5b0xXaHprZDQ5OGx4dE5ZaDdWNHNkRmxzbVZKUEtVajlhMTRZUQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-04T17:25:55.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
+      "title": "Derby County - Rekord-Abgänge (Galerie) - Transfermarkt",
+      "description": "Derby County - Rekord-Abgänge (Galerie) &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjBWYzNJQXY2S2NOTXp4UGI4a2pfS2lTVTlWWU5mTWUzNklmS1ZHZGFRVEx5aGdtUm4waGVvRjRhZV9hejVxUk4tNFd0dU1aV2YzSzhhWDhVLVREVkhycWcyUW96ckhwZG0tS0htYTBjeXZ0UXVWREUyVHgxNm05TDRmWEFlY2hvS0tmOTN5SXo0RzhlTzY3M2FzcGNQSU1RUFE1akdibXN6WGVBenM4NEUyUQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-04T14:58:21.000Z",
+      "reputation": 96,
+      "likelihood": 73,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
       "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 126 - Transfermarkt",
@@ -1016,21 +1046,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Abgänge (Galerie) - Transfermarkt",
-      "description": "Derby County - Rekord-Abgänge (Galerie) &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaU9LeXZQbHN5QV9Jd0NfQS1Pd3NPRlZya05RVlpFa1BBZ1A4MmVFQ2xicWpHNDNaMmhqYXhHRW94ckJuMVZ6ckRqN080VTZJRG5ER05vT0x5ODBFcTYtcFplU21waDVuYm5UUGlJSUtaVzdyNWowYUF5dUpBTms5N1RlVnp2WVVtMjVONGNBRXVQZ3kyZ2J1R2lleUNyek1VMFhLb2tFUXlTR0tzZEhiM0lGQQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-14T22:49:39.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     }
   ]
