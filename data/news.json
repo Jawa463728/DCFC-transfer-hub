@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-04T11:12:16.404Z",
+  "updatedAt": "2026-11-04T18:40:13.241Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 58,
+  "storyCount": 59,
   "targetCount": 8,
   "targets": [
     {
@@ -111,6 +111,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 126 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 126 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSWVNbElyMDhlNldudkpxcGlhT2x4SzRPTEk4N1ZsVUZwbzNLMjh0bmpTT0tuLW0wNzlsQUo4WDVSSVpPeVZFS05mWEFYc3NaazhWZ3FaZXppNEloNTBXMlUtc2JOa1U3YkpnMzRaTl9IUTV2Sl9BTHlqWmZvVXNJS3RteUlXQQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-04T02:58:13.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
       "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
