@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-04T03:16:55.010Z",
+  "updatedAt": "2026-11-04T11:12:16.404Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 59,
+  "storyCount": 58,
   "targetCount": 8,
   "targets": [
     {
@@ -20,8 +20,8 @@
     },
     {
       "name": "Plymouth Argyle",
-      "score": 41,
-      "status": "Watch",
+      "score": 40,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "The72",
@@ -152,7 +152,7 @@
       "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -1016,21 +1016,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHMgbmV3IHNpZ25pbmdzIHNwZW",
-      "title": "Derby County's new signings speak out after surprise double transfer completed - Derbyshire Live",
-      "description": "Derby County's new signings speak out after surprise double transfer completed &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckoyVXJ6cjhFamlVZE9ETE5VVWdPTHFIbTJ1S25WR0VPM2NwbDUtUV9aVjNNcXNMMUNuUG9QYVZEb2tFRWVxOVJUVTVmTFlUcERnY1o1VGtRcFYtYUY3UElySEpOZzM1TnFVTmdnbVRYYldWM2xZX3c1UUpsQ1hpMnhTMW9Zb3RFWHUwUzg1MEFuT2xDYUZBOG9GbXFHd1ZnMU1qWnln?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-14T10:05:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
