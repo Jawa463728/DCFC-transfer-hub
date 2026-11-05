@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-05T05:56:15.984Z",
+  "updatedAt": "2026-11-05T14:23:49.623Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 62,
+  "storyCount": 59,
   "targetCount": 8,
   "targets": [
     {
@@ -111,6 +111,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHVlZmEgdTE5fFRyYW5zZmVybW",
+      "title": "Derby County UEFA U19 - Transfermarkt",
+      "description": "Derby County UEFA U19 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlRyUFpfdUFGZ2kzYWlRX0pxYUxlMlc3Mk0yNS1ObE51YWRCdGMySHNUNll0YUlLaS1STkJUV25TcmdIT2tOc1pkRDE4djJzdWVoUjI4TzZ2cjhxSHpQVmpJRUtWNy1MUllHQ3dMMlJTTTlwUzFGdXVyYTUwNnJhQ3N1LV84UmhMYWc?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-05T00:27:15.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U21 - Transfermarkt",
@@ -1007,72 +1022,6 @@
       "reputation": 87,
       "likelihood": 90,
       "ratingLabel": "Very strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "Y292ZW50cnkgY2l0eSBkZXJieSBjb3VudHkgMDMgMD",
-      "title": "Coventry City - Derby County, 03.04.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Coventry City - Derby County, 03.04.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHJ4Ukd0QTNCRzJpa2wtQlVqVm5wUV91Y1h6U2Z5Vy1GYUFFeTZfT2N5X0E1d0tLcTZvRktTSVZlaDdLcThKenExZGV0aEtPeWU0NE8zbjh0UUFsdDhuWFRYcV8xeWN3WHB5QmhTNHJFSVloSUVod3VIdmt1ZUxxZklxcVlUZ0l4Ymc?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-15T13:52:02.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "aGFsZiB0ZXJtIHBsYXllciBzaWduaW5nIHNlc3Npb2",
-      "title": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October - Derby County",
-      "description": "HALF-TERM: Player Signing Session and Pride Park After Dark To Return This October &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTZFMno4QWF0dGdsOTBXX204aFdpYUJxLUxMSFJWcW00SlRBNDEzU0pjMWpKTVV4UFYtYU1vVXp5ajBwX2pkRmZFUV8zVVFOMGYyenZaYXJpYTFfTkVNSExMdFotSGpvVURpZmE1WVBjenVCU0xOYkZ5Y1VZVGxlMlRNTkFhZ3QwMGJxWnNpZ3lRUTdkNTd5bk5lOXNnQTVJcm5XTDJ6QUJxUG1rTWE5R2ZBWGZES09W?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-15T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Player Signing Session",
-        "Pride Park After Dark",
-        "To Return This October"
-      ]
-    },
-    {
-      "id": "d29sdmVzIG11c3QgbGF1bmNoIGRlcmJ5IGNvdW50eS",
-      "title": "Wolves must launch Derby County transfer raid after Jose Sa exploits - Football League World",
-      "description": "Wolves must launch Derby County transfer raid after Jose Sa exploits &nbsp;&nbsp; Football League World",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3BDTm1fWnRhOTVQY2VZVGpqUXJJQ0NsX2dnYnZmREhUbi1SMHFMT1ZFbmNKX3hDYU95cXRCMGJnWjgybmtWNXQ2RHhlREI5Y3B1eWdQWUJvNjczOWI0M3RNR21FNmp5T2pjYk04UTJJT3lhMWw2cEtiTTR4Ny1Oc1NxNGlPbjdvSEl3M09YelFveVFaeERPQXRudHlJUjRud0lsMUJ3?oc=5",
-      "source": "Football League World",
-      "published": "2026-10-15T07:00:00.000Z",
-      "reputation": 61,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
-      "players": [
-        "Jose Sa"
-      ]
-    },
-    {
-      "id": "am9obiBldXN0YWNlIHNwZWxscyBvdXQgZnJlZSBhZ2",
-      "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow - Yahoo Sports",
-      "description": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVQ5ZnFuNU43RGRWTkFYSm5IZTVsbWpXdkV5VkpFYm9rZjUzbzBTblJ3UlhCZGdVMTB5MzFWSDFTUV9Ob01YdGI5T0hpdVBtemVFdEFEc0FWUlVSc3Q3c2E5Z29hZjF1TjM5QWNQa2hQUEVnaU42Z05tWWQ2b1lBUG9zc3g?oc=5",
-      "source": "Yahoo Sports",
-      "published": "2026-10-15T07:00:00.000Z",
-      "reputation": 70,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
