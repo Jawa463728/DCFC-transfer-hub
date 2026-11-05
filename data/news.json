@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-04T23:56:15.561Z",
+  "updatedAt": "2026-11-05T05:56:15.984Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 60,
+  "storyCount": 62,
   "targetCount": 8,
   "targets": [
     {
@@ -112,12 +112,42 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFNpSTFUX2JlczdYODRVYmJubS00eUh4eFRlWVljb25yN3RIbEdwUU5kUjBNQVNpX1pwdTQ1VVVsV095LWx1bU1NTFFsRXZNSkJuS2NjamtqY0JKbWdGb1BZMW96WFVmRHpfVjZqSWt6QzNQdy1CdVo4UndSM0RYellXLWtNcmF1c2h6OGJDRmxaakpaTGloSXdQZ256N1EwVkV3RllERWFxeDQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-04T19:09:19.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
       "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 120 - Transfermarkt",
       "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 120 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3Q4OENJSTJXaVlHZXdlUjUzLWQ3cHNKN1RnNnNxbWoyYzNhcWVocmNtcHBrUzhtd2ZBWkJZMmNsdnZhTjFoWWxNdFNVYlJKUWR5NFA0T0NBUXJkbjlRWGo5b0xXaHprZDQ5OGx4dE5ZaDdWNHNkRmxzbVZKUEtVajlhMTRZUQ?oc=5",
       "source": "Transfermarkt",
       "published": "2026-11-04T17:25:55.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 119 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 119 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTdoM19odmpRbThnVUlDZE9KYTB1UkUyd3Q1VTEzN2ZUZjNQOElfZmM4MVdwMmU4OV9HdGRhQWs0MTJzYlM4Z25wUnB5dW1RdWRYX2EyaWEwSWpfRGdReDFiUnRaeTdMZXlWWm4zcl9aVHhSdWlsWUZQNHFMMm1kVHJhVXM1Zw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-04T16:02:30.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
