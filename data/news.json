@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-06T01:33:14.504Z",
+  "updatedAt": "2026-11-06T08:28:24.356Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 58,
+  "storyCount": 57,
   "targetCount": 8,
   "targets": [
     {
@@ -994,23 +994,6 @@
       "edition": "us",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "c29uZHJlIGxhbmdhcyBpbiBhIGJhZCB3YXkgYXMgam",
-      "title": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live - Derbyshire Live",
-      "description": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmFwWXVTNmFMVDZqRWozRWk1a2ppVUk4ZGFkQzV2blo5WW9MZkNRUDFxSS1wQzQ4WGMtYjVZZDBYbS1GRWNEYmh4aG9LejZzYklaSzJZdGdxWS05dDU0czdsNmVQaTdKenFReFJheFVhOXFhQ1FOUWY0VDFaYlJIazJkUEVLSVJvcGN3azVMaVJNZXAxZHNPaFZrMWMxdDg0NG9tbjEtVQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-16T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Sondre Langas"
-      ]
     }
   ]
 }
