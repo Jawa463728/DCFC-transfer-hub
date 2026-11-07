@@ -1,23 +1,10 @@
 {
-  "updatedAt": "2026-11-07T14:00:09.793Z",
+  "updatedAt": "2026-11-07T18:40:17.284Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
-  "targetCount": 8,
+  "targetCount": 7,
   "targets": [
-    {
-      "name": "Jayden Bogle",
-      "score": 49,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Derbyshire Live",
-      "bestSourceScore": 87,
-      "maxLikelihood": 68,
-      "lastMention": "2026-10-28T14:25:00.000Z",
-      "firstSeen": "2026-10-28T17:22:20.777Z",
-      "isNew": false
-    },
     {
       "name": "Plymouth Argyle",
       "score": 40,
