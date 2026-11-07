@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-07T07:08:34.505Z",
+  "updatedAt": "2026-11-07T14:00:09.793Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 57,
+  "storyCount": 54,
   "targetCount": 8,
   "targets": [
     {
@@ -111,6 +111,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IG5lZWQgdG8gdGFyZ2V0IHdpbn",
+      "title": "Derby County need to target winter swoop for 25-year-old after Blackburn Rovers summer interest: Opinion - The72",
+      "description": "Derby County need to target winter swoop for 25-year-old after Blackburn Rovers summer interest: Opinion &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1g3eEtKamRCMU5UUXN2TUNHdDZ1LUtxQk9PNFgyTWo0c05QVTNPVHpfakFWR1BneUJpQm5hblpfQzZwQ01XX25PVU1obmxJYkhzV1Y2TVhrOXNCTG41R3g4VUVuOVVnYUUyZFQ0OFdBRjg5UUVnZEN5VHpKdm9WT01iWXoxQWFvZ1JWOWFTU2ctcWJXQWhCU3d3?oc=5",
+      "source": "The72",
+      "published": "2026-11-07T07:45:00.000Z",
+      "reputation": 66,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "d29yY2VzdGVyIGNpdHkgc2lnbiBnb2Fsa2VlcGVyIG",
       "title": "Worcester City sign goalkeeper from Derby County - The Worcester News",
@@ -926,70 +941,6 @@
       "reputation": 96,
       "likelihood": 81,
       "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "amFjayByb2JpbnNvbiBzaWducyB0aHJlZSBtb250aC",
-      "title": "Jack Robinson Signs Three-Month Derby County Deal - شبكة تواصل الإخبارية",
-      "description": "Jack Robinson Signs Three-Month Derby County Deal &nbsp;&nbsp; شبكة تواصل الإخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44RDhGUEZ3Q2JPNzRTckczZjlyRUp2UkdjQXRDd1pQLWx6Z1BsUVB5SnFINUdTa0J5d0p2eVZjcHZsSVpERTNzWWdoSnh3OXkydHVN?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "published": "2026-10-17T12:57:51.000Z",
-      "reputation": 48,
-      "likelihood": 65,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Jack Robinson Signs Three-"
-      ]
-    },
-    {
-      "id": "amFjayByb2JpbnNvbiBkZXJieSBjb3VudHkgc2lnbi",
-      "title": "Jack Robinson: Derby County sign ex-Sheffield United and Birmingham defender - BBC",
-      "description": "Jack Robinson: Derby County sign ex-Sheffield United and Birmingham defender &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSMlFnLVMteHhzOThTWlQ1WFBiczdONW9jMlprMXF4d0NlR2MyelhYem01alhpSWdqa2YwRm5FM3luWWE3UWZUNGM0bHZpWUl1NkR4d18xQ0ZSRVRvUnJ1RnpOYkNLemhU?oc=5",
-      "source": "BBC",
-      "published": "2026-10-17T12:47:51.000Z",
-      "reputation": 94,
-      "likelihood": 72,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Jack Robinson"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHN3b29wIGZvciBmcmVlIGFnZW",
-      "title": "Derby County swoop for free agent as former Nottingham Forest defender eases injury crisis - Derbyshire Live",
-      "description": "Derby County swoop for free agent as former Nottingham Forest defender eases injury crisis &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUlFYTGZOYlNVSGY3V1NPdUhSeUpON2JZZloySi12Sk40bUM0Sm9iZ1hLd3Z5OHRyVmowS0lRVWczWXVuTC1xMm1KQUZGOURjeXZVSjYwTkFfSUs5S0xKcGEtNGtOTHhZMFJtdVZLLXBtN0ZZY3FyUWxDdVBHWko0RGhfTnd5aXlRXzJ0Z3JvQndGSXVJTV9KSS1PQVVydHo0Uk9ld3RrLXRHdw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-17T12:16:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHNpZ24gZnJlZSBhZ2VudCBhcy",
-      "title": "Derby County sign free agent as former Nottingham Forest man eases injury crisis - Derbyshire Live",
-      "description": "Derby County sign free agent as former Nottingham Forest man eases injury crisis &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUlFYTGZOYlNVSGY3V1NPdUhSeUpON2JZZloySi12Sk40bUM0Sm9iZ1hLd3Z5OHRyVmowS0lRVWczWXVuTC1xMm1KQUZGOURjeXZVSjYwTkFfSUs5S0xKcGEtNGtOTHhZMFJtdVZLLXBtN0ZZY3FyUWxDdVBHWko0RGhfTnd5aXlRXzJ0Z3JvQndGSXVJTV9KSS1PQVVydHo0Uk9ld3RrLXRHdw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-17T11:59:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
