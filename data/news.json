@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T14:51:48.604Z",
+  "updatedAt": "2026-11-08T19:15:22.072Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
-  "targetCount": 6,
+  "targetCount": 3,
   "targets": [
     {
       "name": "Wertvollste Abgänge",
-      "score": 45,
+      "score": 44,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -42,45 +42,6 @@
       "maxLikelihood": 51,
       "lastMention": "2026-10-29T20:30:13.000Z",
       "firstSeen": "2026-10-29T23:39:26.068Z",
-      "isNew": false
-    },
-    {
-      "name": "Shane Duffy",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Irish Independent",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-10-29T15:00:00.000Z",
-      "firstSeen": "2026-11-08T14:51:48.604Z",
-      "isNew": true
-    },
-    {
-      "name": "Barry Robson",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Irish Independent",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-10-29T15:00:00.000Z",
-      "firstSeen": "2026-10-29T19:47:56.183Z",
-      "isNew": false
-    },
-    {
-      "name": "Irish Independent",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Irish Independent",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-10-29T15:00:00.000Z",
-      "firstSeen": "2026-10-29T19:47:56.183Z",
       "isNew": false
     }
   ],
