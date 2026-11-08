@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-11-08T01:33:22.053Z",
+  "updatedAt": "2026-11-08T07:55:40.075Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 53,
-  "targetCount": 7,
+  "targetCount": 8,
   "targets": [
+    {
+      "name": "Wertvollste Abgänge",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Transfermarkt",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-11-07T18:30:23.000Z",
+      "firstSeen": "2026-11-08T07:55:40.075Z",
+      "isNew": true
+    },
     {
       "name": "Plymouth Argyle",
       "score": 40,
@@ -98,6 +111,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOCB3ZXJ0dm9sbHN0ZSBhYm",
+      "title": "Derby County U18 - Wertvollste Abgänge | Seite 2 - Transfermarkt",
+      "description": "Derby County U18 - Wertvollste Abgänge | Seite 2 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1l1ako5MXp3cldkZEJDSHZBUjBkODdnMHp2RVNSVGdKOXpuOGp4N1c5cTdnMDkxOUhaT2swaDBiOGJsNzBNV0VWVjdDOHp5M3VGenR5VzJHQnRLdEEySS02OGlGWU00SXVtNmZPOWFyWFdkS3lacGY4SXNNWmxEc29abEN3S2owbzh3dVItRFhlSndXUE9BcURZNFlUdURYbVI2eEhJcThSSVJjSm9KMGRHNWN0RmNBbGc?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-07T18:30:23.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": [
+        "Wertvollste Abgänge"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IG5lZWQgdG8gdGFyZ2V0IHdpbn",
       "title": "Derby County need to target winter swoop for 25-year-old after Blackburn Rovers summer interest: Opinion - The72",
@@ -902,21 +932,6 @@
       "players": [
         "Jack Robinson"
       ]
-    },
-    {
-      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2025/2026 - FotMob",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2025/2026 &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3N4UmtIbXdUSTRJMzlKdGxUWThqR0RWb29KUFMtWHRlc2s3VjhvTkluX295UnpXMlpUdExsNjBPVjAzSjNMNjJGV0hZeGlPRXlHanJhV20tVzFaZVBjX1U1VHNQOFdvS0c4Njh6X0M4MDBxQnZ0b2hCbWdTSmdwTVkwUV8yQkVDeFAwRFd5QWV0SVdHaDlkdTN1cFBnaGxuSkg3ZFpUVVNSYnVOZnZGb2l3alk0SmtTQmw2ci1mdUZ3b2NwYXYwVjBKLTRPQ1FmUGJr?oc=5",
-      "source": "FotMob",
-      "published": "2026-10-18T07:55:06.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     }
   ]
 }
