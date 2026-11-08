@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T07:55:40.075Z",
+  "updatedAt": "2026-11-08T14:51:48.604Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
-  "targetCount": 8,
+  "storyCount": 54,
+  "targetCount": 6,
   "targets": [
     {
       "name": "Wertvollste Abgänge",
-      "score": 46,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -45,6 +45,19 @@
       "isNew": false
     },
     {
+      "name": "Shane Duffy",
+      "score": 37,
+      "status": "Fading",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Irish Independent",
+      "bestSourceScore": 48,
+      "maxLikelihood": 65,
+      "lastMention": "2026-10-29T15:00:00.000Z",
+      "firstSeen": "2026-11-08T14:51:48.604Z",
+      "isNew": true
+    },
+    {
       "name": "Barry Robson",
       "score": 37,
       "status": "Fading",
@@ -67,45 +80,6 @@
       "bestSourceScore": 48,
       "maxLikelihood": 65,
       "lastMention": "2026-10-29T15:00:00.000Z",
-      "firstSeen": "2026-10-29T19:47:56.183Z",
-      "isNew": false
-    },
-    {
-      "name": "Lancashire Telegraph",
-      "score": 37,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Lancashire Telegraph",
-      "bestSourceScore": 48,
-      "maxLikelihood": 65,
-      "lastMention": "2026-10-29T12:02:00.000Z",
-      "firstSeen": "2026-10-29T14:28:15.146Z",
-      "isNew": false
-    },
-    {
-      "name": "Norwich Defensive Star Shane",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Inside Futbol",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-10-29T11:23:00.000Z",
-      "firstSeen": "2026-10-29T19:47:56.183Z",
-      "isNew": false
-    },
-    {
-      "name": "Inside Futbol",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Inside Futbol",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-10-29T11:23:00.000Z",
       "firstSeen": "2026-10-29T19:47:56.183Z",
       "isNew": false
     }
@@ -153,6 +127,21 @@
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
+      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
+      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-06T12:18:32.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
