@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-09T02:31:10.478Z",
+  "updatedAt": "2026-11-09T10:14:00.199Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 53,
   "targetCount": 2,
   "targets": [
     {
       "name": "Wertvollste Abgänge",
-      "score": 42,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -852,23 +852,6 @@
       "edition": "gb",
       "overseas": false,
       "players": []
-    },
-    {
-      "id": "bmV3IHNpZ25pbmcgaW50ZXJ2aWV3IGphY2sgcm9iaW",
-      "title": "NEW SIGNING INTERVIEW: Jack Robinson - Derby County",
-      "description": "NEW SIGNING INTERVIEW: Jack Robinson &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PN2tYUnhfSmpObUo2YnhXS1h2U3YxUVh3VndYYjhScy1hQUxsbHJxZjcwTUhaMVhKdnJHekdpTk5Kc1dQdlAxN19mVThIQ202UTBHdkNLSG1udUR2U0QtRWNUcWQ4dWVZOUhwZUJ5VWxaRlUwdjlrV1JXVQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-19T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Jack Robinson"
-      ]
     }
   ]
 }
