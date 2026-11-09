@@ -1,22 +1,35 @@
 {
-  "updatedAt": "2026-11-09T10:14:00.199Z",
+  "updatedAt": "2026-11-09T20:49:58.169Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
-  "targetCount": 2,
+  "storyCount": 54,
+  "targetCount": 4,
   "targets": [
     {
-      "name": "Wertvollste Abgänge",
-      "score": 40,
-      "status": "Watch",
+      "name": "Bobby Clark's",
+      "score": 65,
+      "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
-      "bestSource": "Transfermarkt",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-11-07T18:30:23.000Z",
-      "firstSeen": "2026-11-08T07:55:40.075Z",
-      "isNew": false
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-11-09T10:47:00.000Z",
+      "firstSeen": "2026-11-09T20:49:58.169Z",
+      "isNew": true
+    },
+    {
+      "name": "David Clowes",
+      "score": 65,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-11-09T10:47:00.000Z",
+      "firstSeen": "2026-11-09T20:49:58.169Z",
+      "isNew": true
     },
     {
       "name": "Plymouth Argyle",
@@ -30,9 +43,55 @@
       "lastMention": "2026-11-01T07:00:00.000Z",
       "firstSeen": "2026-11-01T09:44:59.138Z",
       "isNew": false
+    },
+    {
+      "name": "Wertvollste Abgänge",
+      "score": 37,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Transfermarkt",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-11-07T18:30:23.000Z",
+      "firstSeen": "2026-11-08T07:55:40.075Z",
+      "isNew": false
     }
   ],
   "stories": [
+    {
+      "id": "YWRkcyBxdWFsaXR5IGxvYW4gbWFuYWdlciBrZWVuIH",
+      "title": "‘Adds quality’: Loan manager keen to keep Derby County player - The72",
+      "description": "‘Adds quality’: Loan manager keen to keep Derby County player &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkgxLURjZUl1eTNZVEhoT0NPcy1vVWZWSVpoTFFDZFVWNXY4S3djLXNFR09ibG1PaTlFd1pkSTBONm41SFRkN0lkQVhoMUw2bVFVUmJLZm11UjhNSEZnT2NwaHhWdmJIOWlUaE1kdDcyWEdjU2EtQUdKdlFPc1dYWFVWd0txMDZ5VFZUYmhmRzdwY3c?oc=5",
+      "source": "The72",
+      "published": "2026-11-09T12:21:00.000Z",
+      "reputation": 66,
+      "likelihood": 54,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "Ym9iYnkgY2xhcmsgcyB0cmFuc2ZlciB2YWx1ZSBzb2",
+      "title": "Bobby Clark's transfer value soars again in huge boost for Derby County and David Clowes - Derbyshire Live",
+      "description": "Bobby Clark's transfer value soars again in huge boost for Derby County and David Clowes &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcU9VS2V0QktsbV95LVdNZUxTQVVOMmtYUm40cVBWaU93YTRCUnFnMXprU0o2QnJkSUJsOGIwcno5ZGFVX3FGRTRKWFJJQmxWaTZ4Y1dYcW5pekI2Znp2MkpfdzRNekNiRTFHT3Q2aEJsbkY1V3QyNl9KbENLSXV3VGlISlU1VWNkQnZDV1VycklycVpscW5Vd08tTzFtUTVjZ1ZfMVJ6bw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-09T10:47:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Bobby Clark's",
+        "David Clowes"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB3ZXJ0dm9sbHN0ZSBhYm",
       "title": "Derby County U18 - Wertvollste Abgänge | Seite 2 - Transfermarkt",
@@ -75,21 +134,6 @@
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
-      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
-      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-11-06T12:18:32.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
