@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T18:37:14.230Z",
+  "updatedAt": "2026-11-10T23:43:08.542Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Bobby Clark's",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 59,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
