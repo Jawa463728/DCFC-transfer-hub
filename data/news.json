@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T11:00:10.726Z",
+  "updatedAt": "2026-11-10T18:37:14.230Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 52,
+  "storyCount": 54,
   "targetCount": 4,
   "targets": [
     {
       "name": "Bobby Clark's",
-      "score": 61,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "David Clowes",
-      "score": 61,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -46,8 +46,8 @@
     },
     {
       "name": "Wertvollste Abgänge",
-      "score": 34,
-      "status": "Watch",
+      "score": 32,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Transfermarkt",
@@ -59,6 +59,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "dHdvIGdvYWxzIHR3byBhc3Npc3RzIGRlcmJ5IGNvdW",
+      "title": "Two goals, two assists: Derby County starlet staking claim for future first-team role as starring loan form continues - The72",
+      "description": "Two goals, two assists: Derby County starlet staking claim for future first-team role as starring loan form continues &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU0E3Z1JJZVlQV3BLNC0zOFBsY1k3djV5ME9mdzZLelVsQlZWRFl0M0FsY0Q3Z0tmZjl5QThJdktLNHJaNEdLeW96TE5FdEFJYkhieS10TmhodmZXSGcteGlCU2I0cXlCaW9PdFphMW9Hejc4emlMZEZhek1CdUpSRGtaS2tXVHBEakFtNGotdEUySmlKUUs0Qk9QWDdwSll1QWpzNjM4eGh2emNJR2JON2hSeWowQndpR2xFTC1aZnY3Zlg2dlVGaWlqeWx6aldWaHBjQmNLTnlIeWxScEtkN0YwVEFUbHBnYnF6VjJlaHc3WFBNWWszMS1wR3BvZ2cycWhraUdaRQ?oc=5",
+      "source": "The72",
+      "published": "2026-11-10T15:11:00.000Z",
+      "reputation": 66,
+      "likelihood": 54,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 136 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 136 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMl9JR25NZFU3RXpKdHdRZy1rUXM4LVRnT3dncnFvLVFoYU5TclNRZzlKN2lRU2xUWDIzeF9oeGl6aWhtc0l2cFBIeUpYazNJOGJ0QzBiQzY2VDFSSUE0TUVybEdodF9xRU9HaUZwajZ1RUR4OEN3Y2dsdWZFS2FEQkZJcmE4QQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-10T09:44:00.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
       "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 78 - Transfermarkt",
