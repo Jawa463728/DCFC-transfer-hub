@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T03:01:21.538Z",
+  "updatedAt": "2026-11-10T11:00:10.726Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 54,
+  "storyCount": 52,
   "targetCount": 4,
   "targets": [
     {
       "name": "Bobby Clark's",
-      "score": 63,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,11 +16,11 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-09T10:47:00.000Z",
       "firstSeen": "2026-11-09T20:49:58.169Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "David Clowes",
-      "score": 63,
+      "score": 61,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -29,7 +29,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-09T10:47:00.000Z",
       "firstSeen": "2026-11-09T20:49:58.169Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Plymouth Argyle",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Wertvollste Abgänge",
-      "score": 36,
+      "score": 34,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,6 +59,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 78 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 78 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWV2bWRTUUFweFBTdUVMdmZHY21nQlhBNE9jZ0NMTnB4d0FlNWNTR1BBajc4dlhUN2stVlpEcjRmdGN3ZTVUNmIyeHZzN3BuTS0yaWk5dlpWS1MtVHJSeUFzQXhUbzZkc0d5V2txR2NEMGxRamlfQ3VTUDUxQkRNM050RzM?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-09T19:10:11.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "YWRkcyBxdWFsaXR5IGxvYW4gbWFuYWdlciBrZWVuIH",
       "title": "‘Adds quality’: Loan manager keen to keep Derby County player - The72",
@@ -844,53 +859,6 @@
       "published": "2026-10-21T10:16:05.000Z",
       "reputation": 66,
       "likelihood": 54,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG5lZWQgdG8gcmVraW5kbGUgdH",
-      "title": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion - The72",
-      "description": "Derby County need to rekindle transfer pursuit of Coventry City man in January amid injury crisis: Opinion &nbsp;&nbsp; The72",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkFCLThkblAwSjYyRnhjM1M0cVpLdVlZbURST09jdU9kazFmc0xRbGNqdldvZGVwSnpaeWF5MEowd1c5U0JxemUtRHM4OUkzVlNfY1REb1JETk5URWlOT3Z5ejFhLW1FUGYtVW1lcF9jZjQ2SUl0X0VGN25fNktXYVF0aVZ4ZnNXaW5ZU3U4YVRkaW1taGhWSXpuUHg0QQ?oc=5",
-      "source": "The72",
-      "published": "2026-10-20T07:51:29.000Z",
-      "reputation": 66,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "amFjayByb2JpbnNvbiBtYWtlcyBibHVudCBkZXJieS",
-      "title": "Jack Robinson makes blunt Derby County admission after transfer ends wait - Derbyshire Live",
-      "description": "Jack Robinson makes blunt Derby County admission after transfer ends wait &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1V3MUFjdW9pc1hfNjBKaG4wcUlVZmpnV0ljOHhnUGVlRHZIbHVmUXV3ZmpvSlMwMkZ0UE0wYS1fVzVOM1J4V2FRUnF3cTRQcm1sZDhxQjZZUVAySEk4cXJPMm4zNTdwc21kNWZNUjNxQ29pZ2JvMVJJMXo2a3JELUg2U3A5eFFmUzc1S2ZlQkFrUzNURmw3OGhoQ0RObmkyclVuMkd2UlNMdGc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-20T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Jack Robinson"
-      ]
-    },
-    {
-      "id": "NSBzdHJpa2VycyBkZXJieSBjb3VudHkgbXVzdCB0cn",
-      "title": "5 strikers Derby County must try sign as John Eustace drops honest Rams claim - Football League World",
-      "description": "5 strikers Derby County must try sign as John Eustace drops honest Rams claim &nbsp;&nbsp; Football League World",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkZOZzR5UVJiSm9nZEFhR3R5V1NsdUstWFhsNmc4b28wSDhfMFEtS2VicDZteVplbjBwT19MRnM1bHA2a3liY1hlOFc1TEwxWWlGVTljdDMzVmhFTG9lei16VHh3b0tqbUxHZ01nM2NDSjY0OHpqYlNwN0pKNWlDT3dYN09DU3FGNW5qc1F1VlROazJNX3JJdDVmUFlxR19qUUp3Y3JMNnRpbHY1QzBwTTFWZGNyZw?oc=5",
-      "source": "Football League World",
-      "published": "2026-10-20T06:30:12.000Z",
-      "reputation": 61,
-      "likelihood": 51,
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "gb",
