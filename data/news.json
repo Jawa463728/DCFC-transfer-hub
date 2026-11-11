@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T03:06:30.645Z",
+  "updatedAt": "2026-11-11T10:48:39.395Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
-  "targetCount": 4,
+  "targetCount": 3,
   "targets": [
     {
       "name": "Bobby Clark's",
-      "score": 57,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -20,8 +20,8 @@
     },
     {
       "name": "David Clowes",
-      "score": 57,
-      "status": "Developing",
+      "score": 55,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -29,19 +29,6 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-09T10:47:00.000Z",
       "firstSeen": "2026-11-09T20:49:58.169Z",
-      "isNew": false
-    },
-    {
-      "name": "Plymouth Argyle",
-      "score": 40,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The72",
-      "bestSourceScore": 66,
-      "maxLikelihood": 54,
-      "lastMention": "2026-11-01T07:00:00.000Z",
-      "firstSeen": "2026-11-01T09:44:59.138Z",
       "isNew": false
     },
     {
@@ -59,6 +46,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "dHdvIGdvYWxzIHR3byBhc3Npc3RzIGRlcmJ5IGNvdW",
+      "title": "Two goals, two assists: Derby County starlet staking claim for future first-team role as loan form continues - The72",
+      "description": "Two goals, two assists: Derby County starlet staking claim for future first-team role as loan form continues &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYXliZE0xV0xpZXB0NTEzT1paa2VVWVRZR1ZpNjJlaEpsb0xZMnYwRWVOcjNRbmltaDNxdngzREVvQWVtMk9raHFNQVp4aHl2dXNndFVoTm9xaERyVVloVXRPLXljVDV1ZGJqNDZrT0pqNmZLeVoxQVllaDNONURNcTlpY3gwTVpvRmc?oc=5",
+      "source": "The72",
+      "published": "2026-11-10T15:11:00.000Z",
+      "reputation": 66,
+      "likelihood": 54,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "dHdvIGdvYWxzIHR3byBhc3Npc3RzIGRlcmJ5IGNvdW",
       "title": "Two goals, two assists: Derby County starlet staking claim for future first-team role as starring loan form continues - The72",
@@ -875,21 +877,6 @@
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGRvZGdlZCBidWxsZXQgYnkgbm",
-      "title": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion - The72",
-      "description": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion &nbsp;&nbsp; The72",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUzllakFicGI3T21PY0YzR2h0OTFaSkk0X3V4dXFYT0VmanplUVFUUGxQTWFJUkJYRzJDUzBtMVY4MHFsLUg2X0pqS296UG81OGtZeUVYSWRjQ2x1WS1KcmZVMzcyMFVJLWxCVWRud21HcE1RcWsyTmx4MnRPTmRCZmQ2RWZ5Zk1EcUFz?oc=5",
-      "source": "The72",
-      "published": "2026-10-21T10:16:05.000Z",
-      "reputation": 66,
-      "likelihood": 54,
-      "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
