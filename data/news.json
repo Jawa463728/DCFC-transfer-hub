@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:46:08.607Z",
+  "updatedAt": "2026-11-12T16:20:33.416Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 54,
@@ -7,8 +7,8 @@
   "targets": [
     {
       "name": "Bobby Clark's",
-      "score": 50,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -20,8 +20,8 @@
     },
     {
       "name": "David Clowes",
-      "score": 50,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -92,6 +92,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
+      "title": "Derby County - Rekord-Abgänge (Galerie) | Seite 4 - Transfermarkt",
+      "description": "Derby County - Rekord-Abgänge (Galerie) | Seite 4 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzRGOUZBdG5GWGZTaVdtSW96N2R1a3ExeWRtVXBnYU9Ed2RGdk1WMU05Zmt3NmJ1VEhxT2dlcEpKandzMFp2OGthUWVLa1Q2S1hLZk1WVTJsaVl4dFpmdDItM05HdWQxZms0OERhRUczd0lNWE9IQkZZZ1o2azYzbi1aUUJibWJYamlUaFR0ZHIwVU1xTFY1UjNqVnJyZ3RPSW0yRk5CX1VtdnlkbnJnanprU2tMX1VKZ2xNbw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-10T00:57:37.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
       "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 78 - Transfermarkt",
       "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 78 &nbsp;&nbsp; Transfermarkt",
@@ -146,6 +161,21 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVdPeG43UFRLUldFdEs1LTE3SWtidnZPU0RGSnk3M3psTFBtYlFMektobFFsWVFnMURDZVBuNTFfX2VBMW5LaXlvTlQ3NU1xS2hVSk5OTDNadmFxSU9YYjNSVHhLaXplZEFVSm9fOWkyRnBycWxhc1NjVmxFOEE4X0JxUzlDMnVhRHpjSU5SRm5seGthRjlNNFVGc2h0QQ?oc=5",
       "source": "Transfermarkt",
       "published": "2026-11-09T09:37:02.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMSB0cmFuc2ZlcnN0ciBtZS",
+      "title": "Derby County U21 - Transferströme | Seite 2 - Transfermarkt",
+      "description": "Derby County U21 - Transferströme | Seite 2 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcm1yNmYzSC13cHpzVm01aWVEN1ZVNDVGQXF1Tm1aU09HN3M4VlZoc2ZkbHNNQUI5SFAzTFdfSG5yZGZSbTg3TWVLdFB6Zi1nLVQyekloS3ExWjhJT2lxdGJGdHprdUtFMlpEWU1VcndLbmFEWkNkaVFIWmZtbXFRTVowZzRvVXN4?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-07T22:21:55.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -850,36 +880,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 131 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 131 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3I5N0cwa05ONDRSVnBtaFpLT2dzZzQtRHBvdklLeE1BU1RHODNqYV9YTkp1dVMwMld1azdHWmVZMU8yUFZPQnlCQ1hiZjgxVU81bktCazcxajNOcmU2dVIyTFhXX25rT1BaNlpaYmpWRnNHUl9BM3VVcTZMaTYyX2o1eWlTQQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-22T15:57:33.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "aG93IGZvdXIgZGVyYnkgY291bnR5IGxvYW5lZXMgYX",
-      "title": "How four Derby County loanees are getting on as striker scores again - Derbyshire Live",
-      "description": "How four Derby County loanees are getting on as striker scores again &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3lURG5LNkQ0UzFlaU5MRE1TR29iNXlKY1JpVENnMzJSRDY4cE9lTkx6UVpheGRiSjZLWXBEcDBJTjV4TzdReVNXUmZOS3ZyU290N0YtV1VzUVJMSDdtWi1ZSlA3eXhaTGJkZWVnU21od1gxUmtIRHB6YldjSW5Nd2s3MnVGTy14MUQ4Qkh6ZjBVcU1KWkJNWWJtMWlhd3NpNkVQSENYZ0dOZw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-22T10:35:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
