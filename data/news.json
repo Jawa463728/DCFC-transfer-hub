@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T02:43:20.028Z",
+  "updatedAt": "2026-11-13T10:03:47.729Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
+  "storyCount": 51,
   "targetCount": 3,
   "targets": [
     {
@@ -835,36 +835,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "dGhyZWUgcGxheWVycyBvbiBub3RpY2UgYXMgZGVyYn",
-      "title": "Three players on notice as Derby County begin January transfer planning - Derbyshire Live",
-      "description": "Three players on notice as Derby County begin January transfer planning &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2R6RmZKTENIaTFQWV9od0RzNWh4RS1BY3JpXzM1U1VkTUNLUVlnR0NUOV9JSkxjam5WakpBVHM1RWE2dnZkNUpZWFkwQlI1X1AtN1MwU0gzbV9zOVcwZWlaaGRLbTRaYi1OYlk5bVByVlZMaUNfRzVqLUxqcGJacUVMc0FCMG1Rb012aXc3a1Q3SEZDdndUb0hrLXdNb18xMEt4cVhoR0VIYXM?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-23T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 7 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 7 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWhGOTU5LTZjSmtYaFR6ZzFHTnptTDVjb1JzbEUzbkx1RGNNR3RXTDUxVlZpX05jR21wNHZqVlNudklYQURjZXVoVXJ3bzd3TzMzdWpfckYwOXVDQmlXTGc4NnQ1NjJOd3NuYXM2UjFCX01UQmpUUWRISDcyMWF3NmJvUQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-23T04:51:39.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     }
   ]
