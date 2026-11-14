@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:54:13.617Z",
+  "updatedAt": "2026-11-14T09:49:37.569Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 51,
@@ -46,6 +46,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
+      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 45 - Transfermarkt",
+      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 45 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNE9OV3JJUU9FemVqajRQUEowRlh5NENib0hnMkttNWNmT2NNZWNUSGdSNnlwbzJoZUttejRJNVdGSW9SUnpEUm1lcGowS0EwNlQ4eVB3ZERfWHZxb2Z1ZHFFdklaYXBRWVB1MGVwNHY4Z2JsQzN0SVNFUDVLeXRFSlF0WEk?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-14T01:17:22.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "dHdvIGdvYWxzIHR3byBhc3Npc3RzIGRlcmJ5IGNvdW",
       "title": "Two goals, two assists: Derby County starlet staking claim for future first-team role as loan form continues - The72",
@@ -817,21 +832,6 @@
       "reputation": 66,
       "likelihood": 76,
       "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGxpa2VseSB0byBsaXN0ZW4gdG",
-      "title": "Derby County ‘likely’ to listen to offers for attacker in January, report suggests - Yahoo",
-      "description": "Derby County ‘likely’ to listen to offers for attacker in January, report suggests &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUpCRFpqalZRT3dQSWJLU1M5bmVVcmhySEtqdlc5blZpaTNjX2JOb3NUcml6S2JUbUhLSWoxcF9PWEFacVRveDdLXzEwN3FIMjNITnR0bUJMRVVJaUhfX3plRGY5ZjNtaDV6cTJZNDNkbFppMlNxelkwZzhpakV4X1UweTRERzdO?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-24T07:15:11.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
