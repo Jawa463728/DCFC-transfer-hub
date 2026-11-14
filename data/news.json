@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-14T09:49:37.569Z",
+  "updatedAt": "2026-11-14T16:11:21.030Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 51,
+  "storyCount": 50,
   "targetCount": 3,
   "targets": [
     {
@@ -815,21 +815,6 @@
       "source": "Derbyshire Live",
       "published": "2026-10-25T07:00:00.000Z",
       "reputation": 87,
-      "likelihood": 76,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "c2lnbnMgb2YgbGlmZSBzaGVmZmllbGQgdW5pdGVkIH",
-      "title": "‘Signs of life’: Sheffield United vs Derby County score prediction shared by Sky Sports man - The72",
-      "description": "‘Signs of life’: Sheffield United vs Derby County score prediction shared by Sky Sports man &nbsp;&nbsp; The72",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmMxRFV5Z2dHU01vZTRVMUo4bUZ4REpKc20xZTBkeUtWMGo0b0pTcUQzbWZWS3pHWUI5T2kyLTlaTURQUThFbW4wUldLc3ctUzBNVEpLM2M2OTdBX0dZRmVINVZwSGNFeEpZVzlnRnpuQkZyYkllSzBHNU5sdzBMay1tOWtBWTR3am1oLS05MjBuVGs?oc=5",
-      "source": "The72",
-      "published": "2026-10-24T11:21:37.000Z",
-      "reputation": 66,
       "likelihood": 76,
       "ratingLabel": "Strong",
       "status": "rumour",
