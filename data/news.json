@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-14T16:11:21.030Z",
+  "updatedAt": "2026-11-14T20:44:09.364Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 50,
+  "storyCount": 52,
   "targetCount": 3,
   "targets": [
     {
@@ -46,6 +46,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
+      "title": "Derby County B - Transfermarkt",
+      "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3dZSXZ6RjUwNF9YY3REZ2ZOWXVmUF91S2Y3emVXZ3poMXB0Mjh0a3N3VFhrYU5YSVFiREVGeDFFTTNsQXlYcVRTYkhlYVlZa053X3V0a29FcTd5MWhMOEM1T21mVDZXT2RDQndMWWtjWFFsMUtfeTVMbHd1ME1XaXlLdWYxNFFqa0E?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-14T16:12:59.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "bWlkZGxlc2Jyb3VnaCBmYyBkZXJieSBjb3VudHkgMD",
+      "title": "Middlesbrough FC - Derby County, 05/12/2026 - Championship - Informe del partido - Transfermarkt",
+      "description": "Middlesbrough FC - Derby County, 05/12/2026 - Championship - Informe del partido &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdnZIdGEzMFhMSmlmNVlQVkxQRHphT1dvOXNpNlJpQzZqRmFzQjVwQ0lJOTVfdndFOGg1N3RvTk5mblBYS0RMRG11NlQzSlc4NzlycHdidlZoOVZKSGQ2blEzek05WUhYdDlGX3lxOTFhdXhwMmRZ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-14T15:42:46.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
       "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 45 - Transfermarkt",
