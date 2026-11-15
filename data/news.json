@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:44:09.364Z",
+  "updatedAt": "2026-11-15T00:23:20.305Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 52,
@@ -73,6 +73,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0lMeHBuQjBPZnF5akRQZlhQTnp5VGpBczhzUXNzR1h4WjhZOTRXWUt3NVBDWFFlbTd3TVRIbGx4ZUtZeHNBWTQ0TmxtV2tnbG9PRmpiYVczR2E0VzdZQnFMU3J5TEhDUGlEczJCSGJaUmZycVdWcWNGeER6ekljVFJYcGxKbmRzcjA0SzJRZlM1ZDJWTzhZR0NBUzU2emxDT3c?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-14T12:02:24.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
       "overseas": true,
       "players": []
     },
@@ -198,21 +213,6 @@
         "Bobby Clark's",
         "David Clowes"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVdPeG43UFRLUldFdEs1LTE3SWtidnZPU0RGSnk3M3psTFBtYlFMektobFFsWVFnMURDZVBuNTFfX2VBMW5LaXlvTlQ3NU1xS2hVSk5OTDNadmFxSU9YYjNSVHhLaXplZEFVSm9fOWkyRnBycWxhc1NjVmxFOEE4X0JxUzlDMnVhRHpjSU5SRm5seGthRjlNNFVGc2h0QQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-09T09:37:02.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUyMSB0cmFuc2ZlcnN0ciBtZS",
