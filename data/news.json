@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T06:56:04.037Z",
+  "updatedAt": "2026-11-15T14:36:25.994Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 52,
@@ -47,6 +47,21 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG5fa1NjVnFKVkgwRzNfMDZET2o5ZlF0Y24wR240V1R5NDZMRlFMbnZrNWlicWhvZjhWbmpuY0hTUEl5TkVrVVlrai1TTFlJTHNoamc2a2pYUlVIZDlQc0hJQ1pmLUx6WW5zSjdSZHpXclJySy1kUGVhMnk1TXBCZlNWbGl3YUg1SDVEcVhmVUhzZw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-14T18:13:36.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGJ8VHJhbnNmZXJtYXJrdA",
       "title": "Derby County B - Transfermarkt",
       "description": "Derby County B &nbsp;&nbsp; Transfermarkt",
@@ -80,9 +95,9 @@
       "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U21 - Transfermarkt",
       "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0lMeHBuQjBPZnF5akRQZlhQTnp5VGpBczhzUXNzR1h4WjhZOTRXWUt3NVBDWFFlbTd3TVRIbGx4ZUtZeHNBWTQ0TmxtV2tnbG9PRmpiYVczR2E0VzdZQnFMU3J5TEhDUGlEczJCSGJaUmZycVdWcWNGeER6ekljVFJYcGxKbmRzcjA0SzJRZlM1ZDJWTzhZR0NBUzU2emxDT3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOek16amhmNDhvNVJ5c1FpMWlrdE9OZUkxLVowN2hpZ2NFa0hjTkRTWG80NGwxSzY1dEdoaXBTZVBHS1M2dE5waVJlRVNqNElLY2FpTVk0bnB4dWlsckV3NHlFX3lrbVdRLXNzblZsU0ppblF1OUVBcGwxZGlpVWVuNnk0cURkRlp5YjJLZlQtYlBuN3c?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-11-14T12:02:24.000Z",
+      "published": "2026-11-14T03:45:25.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -835,21 +850,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHMgdHJhbnNmZXIgc3RhbmNlIH",
-      "title": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS - Derbyshire Live",
-      "description": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGo1bU91U1lIeGZpTmJ5c0t2cE5YTEhjVkxhTHFXSXU2WTJOYTJVY0RsOHNmdWk1TDF5NEtNMVZlTlFuNUJoVnZLOFE1RUFlWlBMbkFiSEx0UGgxNmsxb0NHQk5TcmkyaWxOY2J6QjBDQWFyd3p2aHFNaG5jbW93Umc4NjBpWUNpUGxselhQVjFQM1VwcmlJOUN5Znk2OXhlWmR6YzR4UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-25T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 76,
-      "ratingLabel": "Strong",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
