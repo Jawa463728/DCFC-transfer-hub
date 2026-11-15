@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T19:56:31.046Z",
+  "updatedAt": "2026-11-15T23:52:23.937Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 52,
+  "storyCount": 53,
   "targetCount": 3,
   "targets": [
     {
@@ -46,6 +46,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOCB3byBzcGllbHQgZWlnZW",
+      "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 15 - Transfermarkt",
+      "description": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 15 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDdjaHpFVVljMEFUZlVYNDYtejRpeC01OVlWQWhmbS1pYzk1S29lM0dxYXl5S1NnTFQyNC1mM1FmVWxwT3lKcmU2OFVDZGp4T3BwMkQ2VEtSMG1XakM2cERpVGhMaTc5VlU4TnUzQUw1Q3RNMkc4cUVnMExObC04dDh1REZFaXlCdElXVHZB?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-15T19:35:55.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
@@ -312,7 +327,7 @@
       "description": "ACADEMY: Halliwell heads to Worcester on loan &nbsp;&nbsp; Derby County",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVBZZHJ4QlFrcGJDY2R1Z0lfRTYzVDR4bFZUelYwOXpkTWtOSkEzN3kzNUgyZE1FM2VMalJMM28tUmVvZ3dvNm55bEdjTFhuNm9fUF9PVkc3aGtLWDBOV2M2c0gtcDJTbWN0QWpKcE93WmJESXU3TWJlY0d2ckU3RmQ5aG9xV2c?oc=5",
       "source": "Derby County",
-      "published": "2026-11-06T10:10:39.000Z",
+      "published": "2026-11-06T10:10:40.000Z",
       "reputation": 99,
       "likelihood": 75,
       "ratingLabel": "Strong",
