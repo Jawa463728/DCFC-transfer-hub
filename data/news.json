@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T23:52:23.937Z",
+  "updatedAt": "2026-11-16T04:21:16.412Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
+  "storyCount": 55,
   "targetCount": 3,
   "targets": [
     {
@@ -48,6 +48,21 @@
   "stories": [
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB3byBzcGllbHQgZWlnZW",
+      "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 21 - Transfermarkt",
+      "description": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVR4WktERVhBYUYySmJBbDlaZk1xQjJ4blNSVXZ3ZGNYTDYtdVY3Q3VIdFlXUVlZT0lYUnhCbURlbVIwdlBVQmdmanBCNzVrRWxxR1VVbjVpdUo4QWhycDZlU1NEQU1NLVRvQ1Z2Z2JZWHJ1anMtYXlkTDFqVThaYU9RUkVHY2RQUmd5cVVB?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-15T23:04:54.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOCB3byBzcGllbHQgZWlnZW",
       "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 15 - Transfermarkt",
       "description": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 15 &nbsp;&nbsp; Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDdjaHpFVVljMEFUZlVYNDYtejRpeC01OVlWQWhmbS1pYzk1S29lM0dxYXl5S1NnTFQyNC1mM1FmVWxwT3lKcmU2OFVDZGp4T3BwMkQ2VEtSMG1XakM2cERpVGhMaTc5VlU4TnUzQUw1Q3RNMkc4cUVnMExObC04dDh1REZFaXlCdElXVHZB?oc=5",
@@ -58,6 +73,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMSBwbGFudGlsbGEgZGV0YW",
+      "title": "Derby County U21 - Plantilla detallada 26/27 (Galería) - Transfermarkt",
+      "description": "Derby County U21 - Plantilla detallada 26/27 (Galería) &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHhYQnBHNWNCem9DU1ZFa0VKWFROM24ydVN4ZFp5YnVmWnV0SE81bHN6aFdyTlFWM19OUWtNSEFPb1JFUm80OFo4MHpkY3pUOXZSWnR6bDF2bGtYQ2pTUHFCSWZFUmFxMmVXR0hkOFRQTVBsdFFzYlA2SjBMTFNRSTVfX3Y3UWNFRkIzMVRGYUp5VDQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-15T17:43:05.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "es",
       "overseas": true,
       "players": []
     },
