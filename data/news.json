@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-16T12:59:41.743Z",
+  "updatedAt": "2026-11-16T22:50:29.739Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 55,
+  "storyCount": 56,
   "targetCount": 3,
   "targets": [
     {
@@ -59,6 +59,21 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOCB3byBzcGllbHQgZWlnZW",
+      "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 6 - Transfermarkt",
+      "description": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 6 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObzlGNk9JN19qak9SOXZFV1luRzdvQ2hvRUo3SDVIUDhLQzItMWFYTEQ0cThrT3cwWWlHbFJHN3hlSjhreTAxR1UyQ1k5Q25hZDFlaktRaG45cms4dUtldFQtUzUySS1jcXItTHNodzYtMmpjVjdvckxCWkpVSVh5clpURWdkTmpiQ1BOVw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-16T02:06:23.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
       "players": []
     },
     {
@@ -167,6 +182,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0lMeHBuQjBPZnF5akRQZlhQTnp5VGpBczhzUXNzR1h4WjhZOTRXWUt3NVBDWFFlbTd3TVRIbGx4ZUtZeHNBWTQ0TmxtV2tnbG9PRmpiYVczR2E0VzdZQnFMU3J5TEhDUGlEczJCSGJaUmZycVdWcWNGeER6ekljVFJYcGxKbmRzcjA0SzJRZlM1ZDJWTzhZR0NBUzU2emxDT3c?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-14T12:02:24.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
       "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
       "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
@@ -179,21 +209,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOek16amhmNDhvNVJ5c1FpMWlrdE9OZUkxLVowN2hpZ2NFa0hjTkRTWG80NGwxSzY1dEdoaXBTZVBHS1M2dE5waVJlRVNqNElLY2FpTVk0bnB4dWlsckV3NHlFX3lrbVdRLXNzblZsU0ppblF1OUVBcGwxZGlpVWVuNnk0cURkRlp5YjJLZlQtYlBuN3c?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-14T03:45:25.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     },
     {
