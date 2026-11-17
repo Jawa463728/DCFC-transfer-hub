@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-17T13:57:32.728Z",
+  "updatedAt": "2026-11-17T22:10:03.384Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 55,
-  "targetCount": 4,
+  "targetCount": 3,
   "targets": [
     {
       "name": "Anis Mehmeti",
-      "score": 54,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,7 +16,7 @@
       "maxLikelihood": 62,
       "lastMention": "2026-11-16T15:36:00.000Z",
       "firstSeen": "2026-11-17T04:50:41.670Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Bobby Clark's",
@@ -42,19 +42,6 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-09T10:47:00.000Z",
       "firstSeen": "2026-11-09T20:49:58.169Z",
-      "isNew": false
-    },
-    {
-      "name": "Wertvollste Abgänge",
-      "score": 32,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Transfermarkt",
-      "bestSourceScore": 48,
-      "maxLikelihood": 43,
-      "lastMention": "2026-11-07T18:30:23.000Z",
-      "firstSeen": "2026-11-08T07:55:40.075Z",
       "isNew": false
     }
   ],
