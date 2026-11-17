@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-11-16T22:50:29.739Z",
+  "updatedAt": "2026-11-17T04:50:41.670Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 56,
-  "targetCount": 3,
+  "storyCount": 57,
+  "targetCount": 4,
   "targets": [
+    {
+      "name": "Anis Mehmeti",
+      "score": 56,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The72",
+      "bestSourceScore": 66,
+      "maxLikelihood": 62,
+      "lastMention": "2026-11-16T15:36:00.000Z",
+      "firstSeen": "2026-11-17T04:50:41.670Z",
+      "isNew": true
+    },
     {
       "name": "Bobby Clark's",
       "score": 49,
@@ -46,6 +59,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "dGhlIDMgc3VtbWVyIHRhcmdldHMgZGVyYnkgY291bn",
+      "title": "The 3 summer targets Derby County should pursue again in January, including Anis Mehmeti - The72",
+      "description": "The 3 summer targets Derby County should pursue again in January, including Anis Mehmeti &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXNHRy1lak9ibEtsc0c3c0tKdjQ4MGFZSUpBNktPMzctU0YzUkRLcDB1dThlUVlaU3dmVmRPUVJaR1J6MXhMUmxqSDkzUkE3TlRrWGU5Q1YxMHNJbUl3MDA2dzFGdVFFZmh3dnRnWTJCUTViaXZTeXY3WVFnOGJDSHdBUkMzVVU?oc=5",
+      "source": "The72",
+      "published": "2026-11-16T15:36:00.000Z",
+      "reputation": 66,
+      "likelihood": 62,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Anis Mehmeti"
+      ]
+    },
     {
       "id": "YmlybWluZ2hhbSBjaXR5IG93ZSBzdG9rZSBhIHRyYW",
       "title": "Birmingham City owe Stoke a transfer thank-you after winning Derby County race - Football League World",
@@ -137,6 +167,21 @@
       "players": []
     },
     {
+      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
+      "title": "Derby County - Transfermarkt",
+      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTBaM1A1YTZycWdRUmtsS09ycDA4RUFhNVJ3Vy1FRWxiQ2NQWFJkRm1aZ19oTXRvTGV3SlBzbWNfQzFTQUVCNG5aV1JtbTBrQVBRcUxBNXJFcGFackM3U25OdEdacnNpVnE1Yzc2TWVLTVNGSHplX1NyLWQ5OGtuem8ybDNlVlFaemhrYjFQTWV2bHBTM2lqRjkwMGRSeVBPQ09Hdkttc3U?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-15T15:56:08.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
       "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
@@ -207,7 +252,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -889,21 +934,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcEVyOXhiNVFscHM1WWpkU3ZkVnVQQVdOc1pJTFA1TFJlRk9uZVAzTUdXOU8zcmhPRFpoMmZudE9lS1VYTzBXNEZBMExHT0F4aEZhWElFamFTay1yVU9aWXJxaDR0dlNvYTVmSkRmcC1SNWhPVFp1aVA0aExnQUIydnhjYmVxQktBR0dCT1BWandyc1VVZlNQQ0ZhT0toNjhjOUhoRlkxTzFZNEVWZ2U5TEN2UTJKeXlVMlhBVFpzQmxCelJxVmlZRjczZGpWUzlz?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-27T22:28:50.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOCB3byBzcGllbHQgZWlnZW",
-      "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 3 - Transfermarkt",
-      "description": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 3 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0NUSUo0YVhOekNMREEtd2M0WUxVbHktb2Iwbk56a3ZKZUFoRjF4Y3N1aXQ3S2F4NDJiZTFOdkdqZ3I2ckRhM2hPeXNwWTNQTDFobGRKYTJPYWxIenphSjdZdlJPMG1uaVRtMlEzZTBNRXdKUlhwcmRpMUMwbi05WE9ONHZxNXlIM25KRA?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-26T23:30:30.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
