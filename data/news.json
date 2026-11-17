@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-17T04:50:41.670Z",
+  "updatedAt": "2026-11-17T13:57:32.728Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 57,
+  "storyCount": 55,
   "targetCount": 4,
   "targets": [
     {
       "name": "Anis Mehmeti",
-      "score": 56,
-      "status": "Developing",
+      "score": 54,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "The72",
@@ -167,21 +167,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5fFRyYW5zZmVybWFya3Q",
-      "title": "Derby County - Transfermarkt",
-      "description": "Derby County &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTBaM1A1YTZycWdRUmtsS09ycDA4RUFhNVJ3Vy1FRWxiQ2NQWFJkRm1aZ19oTXRvTGV3SlBzbWNfQzFTQUVCNG5aV1JtbTBrQVBRcUxBNXJFcGFackM3U25OdEdacnNpVnE1Yzc2TWVLTVNGSHplX1NyLWQ5OGtuem8ybDNlVlFaemhrYjFQTWV2bHBTM2lqRjkwMGRSeVBPQ09Hdkttc3U?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-15T15:56:08.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
       "title": "Derby County U18 - Transfermarkt",
       "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
@@ -239,21 +224,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
-      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
-      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-11-14T07:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "us",
-      "overseas": false,
       "players": []
     },
     {
