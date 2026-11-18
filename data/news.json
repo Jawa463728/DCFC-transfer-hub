@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T03:42:33.997Z",
+  "updatedAt": "2026-11-18T12:18:04.775Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 53,
+  "storyCount": 52,
   "targetCount": 3,
   "targets": [
     {
       "name": "Anis Mehmeti",
-      "score": 51,
+      "score": 49,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -195,21 +195,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0lMeHBuQjBPZnF5akRQZlhQTnp5VGpBczhzUXNzR1h4WjhZOTRXWUt3NVBDWFFlbTd3TVRIbGx4ZUtZeHNBWTQ0TmxtV2tnbG9PRmpiYVczR2E0VzdZQnFMU3J5TEhDUGlEczJCSGJaUmZycVdWcWNGeER6ekljVFJYcGxKbmRzcjA0SzJRZlM1ZDJWTzhZR0NBUzU2emxDT3c?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-14T12:02:24.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     },
