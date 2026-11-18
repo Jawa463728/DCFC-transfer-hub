@@ -1,23 +1,10 @@
 {
-  "updatedAt": "2026-11-18T12:18:04.775Z",
+  "updatedAt": "2026-11-18T20:43:42.192Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 52,
+  "storyCount": 51,
   "targetCount": 3,
   "targets": [
-    {
-      "name": "Anis Mehmeti",
-      "score": 49,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The72",
-      "bestSourceScore": 66,
-      "maxLikelihood": 62,
-      "lastMention": "2026-11-16T15:36:00.000Z",
-      "firstSeen": "2026-11-17T04:50:41.670Z",
-      "isNew": false
-    },
     {
       "name": "Bobby Clark's",
       "score": 49,
@@ -42,6 +29,19 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-09T10:47:00.000Z",
       "firstSeen": "2026-11-09T20:49:58.169Z",
+      "isNew": false
+    },
+    {
+      "name": "Anis Mehmeti",
+      "score": 46,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The72",
+      "bestSourceScore": 66,
+      "maxLikelihood": 62,
+      "lastMention": "2026-11-16T15:36:00.000Z",
+      "firstSeen": "2026-11-17T04:50:41.670Z",
       "isNew": false
     }
   ],
@@ -195,6 +195,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U21 - Transfermarkt",
+      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0lMeHBuQjBPZnF5akRQZlhQTnp5VGpBczhzUXNzR1h4WjhZOTRXWUt3NVBDWFFlbTd3TVRIbGx4ZUtZeHNBWTQ0TmxtV2tnbG9PRmpiYVczR2E0VzdZQnFMU3J5TEhDUGlEczJCSGJaUmZycVdWcWNGeER6ekljVFJYcGxKbmRzcjA0SzJRZlM1ZDJWTzhZR0NBUzU2emxDT3c?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-14T12:02:24.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
       "overseas": true,
       "players": []
     },
@@ -820,38 +835,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "amF5ZGVuIGJvZ2xlIGV4cGxhaW5zIGhvdyBkcmFtYX",
-      "title": "Jayden Bogle explains how dramatic Derby County play-off was key to Leeds United transfer - Derbyshire Live",
-      "description": "Jayden Bogle explains how dramatic Derby County play-off was key to Leeds United transfer &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2phbXgwWXJsYUtYR3FEV3QxTEFCWGRIZFFMV3d2TngzM1RwVjBWcFFyZ1NOV182ckVPamJqMGdsT3c0ZnQwcmVENjBXYmVtc0xWM2FVb21fb25ESjFoYkF6TlhEeGhRRmVoV0ZjejA2ajBPWGhaajlMeXQyNGt2QmotN21RZnpCbm1pY2xXVXBjbV9qRFVJMXlZZFNBZmJEd2U0VjJxQlQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-28T14:25:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Jayden Bogle"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGFjYWRlbXkgbm90ZWJvb2sgYX",
-      "title": "Derby County academy notebook as striker's ambition clear after transfer - Derbyshire Live",
-      "description": "Derby County academy notebook as striker's ambition clear after transfer &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHlqMWJqUUdvUHZuMnFlT0xiejhvU3hVTWVTYWdiX09YSjNYVWdTdTVQWnpmcWJoUktRZXp1V291MjB1TWdvWmljR2s4VmZIYWkyMk9KeEF0Uk5HTjd5eS1rVUxWaUxPUHpsUF9PQkNTaDN4dnE1ajFIQzBNVVZvejJSZGNIZEM0UkFnVHdOSDhmMjJtaHZfSTlCVS0yZ3dubjB3MlRn?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-28T13:05:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
