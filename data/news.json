@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-17T22:10:03.384Z",
+  "updatedAt": "2026-11-18T03:42:33.997Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 55,
+  "storyCount": 53,
   "targetCount": 3,
   "targets": [
     {
       "name": "Anis Mehmeti",
-      "score": 52,
+      "score": 51,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -867,36 +867,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 41 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 41 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFk1SlViWTd5U0laX2lQeEVjQUs5S1VWU3VYSzBzZXdDZkF2RGJqb0d6Tm5jRGFfZ2dETGVCMDhFWjJZVjJSMmlGeWtLZUtQeVN2WlhXaWJRRGtmVjNkdHVUTXlXUHVPdERDRnBrLWV1TkVGWEF3dzhVLWVmZG5EQVlEaFQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-27T23:12:46.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) | Seite 6 - Transfermarkt",
-      "description": "Derby County - Rekord-Zugänge (Galerie) | Seite 6 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcEVyOXhiNVFscHM1WWpkU3ZkVnVQQVdOc1pJTFA1TFJlRk9uZVAzTUdXOU8zcmhPRFpoMmZudE9lS1VYTzBXNEZBMExHT0F4aEZhWElFamFTay1yVU9aWXJxaDR0dlNvYTVmSkRmcC1SNWhPVFp1aVA0aExnQUIydnhjYmVxQktBR0dCT1BWandyc1VVZlNQQ0ZhT0toNjhjOUhoRlkxTzFZNEVWZ2U5TEN2UTJKeXlVMlhBVFpzQmxCelJxVmlZRjczZGpWUzlz?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-27T22:28:50.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     }
   ]
