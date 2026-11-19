@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-19T02:04:31.459Z",
+  "updatedAt": "2026-11-19T10:12:03.276Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 51,
+  "storyCount": 48,
   "targetCount": 3,
   "targets": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "Anis Mehmeti",
-      "score": 45,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -787,55 +787,6 @@
         "Norwich Defensive Star Shane",
         "Inside Futbol"
       ]
-    },
-    {
-      "id": "YWNjZXNzIGFsbCBhcmVhcyBiaWxiaWphIG1vd2F0dC",
-      "title": "ACCESS ALL AREAS: Bilbija, Mowatt & Szmodics Attend Signing Session - Derby County",
-      "description": "ACCESS ALL AREAS: Bilbija, Mowatt & Szmodics Attend Signing Session &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0xDbGYyZ3hMOFptM2Yyc3lBd2c3VnBXQTcybXFka3dUeXhtT2FadTFjUENwaVdvMWphalJLMUFjamxQYW9RaHVrYW5IYjVBVW53aHZMemtlQ1l0alE5bWdOV2tpTWpNd2I5Y0p2bkQtVkZWdGR6ZFRFOE1qbm85RHBnWXFFOFdSZGRsVGg3RnFLLVVNMVFnYVA4UTMzak9t?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-29T10:04:14.000Z",
-      "reputation": 99,
-      "likelihood": 75,
-      "ratingLabel": "Strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Szmodics Attend Signing Session"
-      ]
-    },
-    {
-      "id": "c2lnbmluZyBkZWZlbmRlciBkdWZmeSBqb2lucyBkZX",
-      "title": "SIGNING: Defender Duffy joins Derby ranks - Derby County",
-      "description": "SIGNING: Defender Duffy joins Derby ranks &nbsp;&nbsp; Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRm1na19VamQzMWdheTBfZ0hvYnYtV3ZFX2p0ZlFjMnRDWUNnWmQzR0pYMzRoRFFEVkhTTlFOTjIyLWRDanpYSXZpeDFnOHNkTFBSTXlsc0NDb3RtQW5jclhLOXNMS3ZDUExDeDhNQlZFaVgzVlp4dllMLU12Slh5Nl93?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-29T07:00:00.000Z",
-      "reputation": 99,
-      "likelihood": 97,
-      "ratingLabel": "Very strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Defender Duffy"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHJla29yZCB6dWcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Zugänge (Galerie) | Seite 2 - Transfermarkt",
-      "description": "Derby County - Rekord-Zugänge (Galerie) | Seite 2 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFRHT3lhM01XakNnN2NId1lYaWVmRWEtS3dtLV81SEl4dV96WGpvbDZVUm5HWEYxQThRZ01LNGZwczMweUNzdE1JSS1fZDhLaFNlMkJ4NHFHLXFJNXRTQ21jRWR4a285RkdSNDhBdEk1aDVnVS1OdXhxbmlTa0lvT3c1dDlBeTFHRkhTcUxKTzl3NnQwT1pETVhtZnRibDl0NzBUNUtXSEtDdWJUd3JyMzYxTU8wNW1DbVBsbVpXRWFnLU5rQlRrb1BqREd0SFV5?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-29T03:57:59.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     }
   ]
 }
