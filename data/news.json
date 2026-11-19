@@ -1,40 +1,53 @@
 {
-  "updatedAt": "2026-11-19T10:12:03.276Z",
+  "updatedAt": "2026-11-19T19:00:16.193Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 48,
-  "targetCount": 3,
+  "storyCount": 40,
+  "targetCount": 4,
   "targets": [
     {
-      "name": "Bobby Clark's",
-      "score": 49,
-      "status": "Fading",
+      "name": "Jacob Widell Zetterstrom",
+      "score": 67,
+      "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-11-09T10:47:00.000Z",
-      "firstSeen": "2026-11-09T20:49:58.169Z",
-      "isNew": false
+      "lastMention": "2026-11-19T16:37:00.000Z",
+      "firstSeen": "2026-11-19T19:00:16.192Z",
+      "isNew": true
     },
     {
-      "name": "David Clowes",
-      "score": 49,
-      "status": "Fading",
+      "name": "Owen Eames",
+      "score": 67,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 2,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-11-19T16:37:00.000Z",
+      "firstSeen": "2026-11-19T19:00:16.192Z",
+      "isNew": true
+    },
+    {
+      "name": "Kenzo Goudmijn",
+      "score": 65,
+      "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-11-09T10:47:00.000Z",
-      "firstSeen": "2026-11-09T20:49:58.169Z",
-      "isNew": false
+      "lastMention": "2026-11-19T11:09:00.000Z",
+      "firstSeen": "2026-11-19T19:00:16.192Z",
+      "isNew": true
     },
     {
       "name": "Anis Mehmeti",
-      "score": 43,
-      "status": "Watch",
+      "score": 42,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "The72",
@@ -46,6 +59,57 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHByZXNzIGNvbmZlcmVuY2UgYX",
+      "title": "Derby County press conference as Jacob Widell Zetterstrom contract and Owen Eames recall addressed - Derbyshire Live",
+      "description": "Derby County press conference as Jacob Widell Zetterstrom contract and Owen Eames recall addressed &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzBEUGtwSFl6d05yN3RBOThZZGxfSHgwdG1VWG5LTklJcHlJYkV4bzZ6RVJUaF9WbllrUjF1b1BwWW5QQXVhbG9ybEJBbUswLXdqY3lmM3FORzJHd0lndTBGbTZxa2N5a1hEdl9XVHFPRFh0V2tsTHAySDZUOVNacUJkbHVEajFXUGl2ZnRBMHEzejZlZndEUmc0d01mUjNoRW5rR3NsemRIUEpxekpaZ2Zn?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-19T16:37:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Jacob Widell Zetterstrom",
+        "Owen Eames"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGxvYW4gd2F0Y2ggYW1pZCB0cm",
+      "title": "Derby County loan watch amid transfer wish, Owen Eames scores again and Kenzo Goudmijn makes mark - Derbyshire Live",
+      "description": "Derby County loan watch amid transfer wish, Owen Eames scores again and Kenzo Goudmijn makes mark &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSl92UTl6cWhRUW9ONnFOZGRFbzh5cUVVVG5yWEZxLWtLc3dFTG9NVnJua0xCajF4YWlaaHJsOE5fNU5ldnlEZXlWMjdMLVNHLTJfeUFkWG00ZFFFel9zODlYWF9xQ25nSGR2OEYzWXdhcVozU1MzckR6MXZucmt1RG1YdXJkVTJxTUg3VXU5LWNtbXg5QkR4SHdwZDNEakdPNlZfX293?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-19T11:09:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Owen Eames",
+        "Kenzo Goudmijn"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU12ZE1ZRlZpLVpIQVZxUnRPbE1BZEx2a1UzWDc0TFZBM0luSnZMN0V6aVlpOXd2ZGo1MVF5My1kUXZWWVhfSHlRTTg4OXZHVmJYbzBSckMzeWVJYUt4TVhTQjNVYUswaEZXWHlGUmx4blZYSUlWcmxvNmFzVm0xNENfU3lDdHpDbFA0VVBwTQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-19T03:41:56.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
     {
       "id": "dGhlIDMgc3VtbWVyIHRhcmdldHMgZGVyYnkgY291bn",
       "title": "The 3 summer targets Derby County should pursue again in January, including Anis Mehmeti - The72",
@@ -195,21 +259,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUyMXxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U21 - Transfermarkt",
-      "description": "Derby County U21 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0lMeHBuQjBPZnF5akRQZlhQTnp5VGpBczhzUXNzR1h4WjhZOTRXWUt3NVBDWFFlbTd3TVRIbGx4ZUtZeHNBWTQ0TmxtV2tnbG9PRmpiYVczR2E0VzdZQnFMU3J5TEhDUGlEczJCSGJaUmZycVdWcWNGeER6ekljVFJYcGxKbmRzcjA0SzJRZlM1ZDJWTzhZR0NBUzU2emxDT3c?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-14T12:02:24.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     },
@@ -596,21 +645,6 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHg1QWVyQTloM2ZMTHF6U3VPVTlmdmt6bWxjOHc3M0RmYVNkR09SQjRsNVp6YUpFc2RIcGZtM2J2dEptRzBqNG14VVkwRU9pd1BGRnRRUkV3ckNtYXJnd2d6VDFlc0NWNTBVVmhRXzJCUFJxUzNLd2xaYTY3TmFpb0s2c2s5T3FBdmJMblg2dHo?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-31T12:37:25.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
       "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
       "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 128 - Transfermarkt",
       "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 128 &nbsp;&nbsp; Transfermarkt",
@@ -640,152 +674,6 @@
       "overseas": false,
       "players": [
         "Wayne Rooney"
-      ]
-    },
-    {
-      "id": "am9obiBldXN0YWNlIHJlc3BvbmRzIGFmdGVyIGRlcm",
-      "title": "John Eustace responds after Derby County complete transfer - Derbyshire Live",
-      "description": "John Eustace responds after Derby County complete transfer &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXRGNXc5U3hZREVzUUlpa1k0RUNZZ0liYWc1U0VLdG9KaHZmakNPM2E2dVlkSGlzU2t4d01fRHNvWUdiZXdjOXo5Zk12YzdsR0lCNFpqdFZVd3gyVE5KUE11cGl1Rm1CWXhuOWZmZDJPQm9iaG5ZcFpjUDBqZUJkSTVIU3RVTUIxTHkzengyYVNzYXp0Qm9kQXhRZGhDNzNUcF91cFVDVUh1UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-29T15:16:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "c2hhbmUgZHVmZnkgc2lnbnMgc2hvcnQgdGVybSBkZW",
-      "title": "Shane Duffy signs short-term deal with Derby County while Barry Robson agrees new contract as Cork City boss - Irish Independent",
-      "description": "Shane Duffy signs short-term deal with Derby County while Barry Robson agrees new contract as Cork City boss &nbsp;&nbsp; Irish Independent",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2pVNnBFc1VCZU9zSm5wc3RoYlluRVdlSkJqYmY2dVEzamRZWktNaHYxUDFGZ3JyTVh5aTZiYVdwc2piTGlyMGZDRks5QjJUZU9sWG9MQV9rVWlHUkt6bE83QXNRVE1fZV9Zb0pOeEFHRFFHMWhldXlYVUJGUV9zc1pXV2t1alYxNnFHc0FsM2xOdTJkbzM5Z24zQWJibWdtSEludUFEdHRxMHdtUUZuUE5CVjM4Rk5YaDhFbElDTFVVX2NVQm10Q3ZJT280bERrSEFmWTEyeEpWbmluOVdTOTc3dFYyMDlLVHpVRGhDSmRqaVZqRkQ2eA?oc=5",
-      "source": "Irish Independent",
-      "published": "2026-10-29T15:00:00.000Z",
-      "reputation": 48,
-      "likelihood": 65,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Shane Duffy",
-        "Barry Robson",
-        "Irish Independent"
-      ]
-    },
-    {
-      "id": "c2hhbmUgZHVmZnkgam9pbnMgZGVyYnkgY291bnR5IG",
-      "title": "Shane Duffy joins Derby County on a short-term deal - BBC",
-      "description": "Shane Duffy joins Derby County on a short-term deal &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PSkU2MndWb0lOOEI0eFlXYzlJMFJ0R2JIN3FKN2gwQ0V3OE9nRUE1UGk4RzhRMHJmSnVablVmSXFtLTFVM3JoVWM2Z2ZQUWF6U3RVc0FrTU1DZXFXcGk5RHJET0R1RWt6aU9R?oc=5",
-      "source": "BBC",
-      "published": "2026-10-29T12:30:15.000Z",
-      "reputation": 96,
-      "likelihood": 95,
-      "ratingLabel": "Very strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Shane Duffy"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGFkZHJlc3MgZGVmZW5zaXZlIH",
-      "title": "Derby County address defensive woes with free agent deal for 217-appearance Championship veteran - Yahoo",
-      "description": "Derby County address defensive woes with free agent deal for 217-appearance Championship veteran &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VNUXhacFRYZnJhM2JDZ1FlUXk4RTkwVTBpbW1sQ1JsX25PWG1xYkFzLWZybWh0SlhTSTdvRnY2d0ZIbkEyXzRSUFpNUldrM3R1VjZmS212Z0dRb1B4d1JueGpEMkZWWFowYU40M3RUR0ZTQjVfcHFiX05YSXBTRjlrUkxqb2FJTkQ0?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-29T12:20:03.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG1vdmUgdG8gYWRkcmVzcyBkZW",
-      "title": "Derby County move to address defensive injury crisis with Championship veteran signing - The72",
-      "description": "Derby County move to address defensive injury crisis with Championship veteran signing &nbsp;&nbsp; The72",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZlZ4QmpNc2tERnlGNU00ajdPNnRQdlg1YjdGNl9DaHhqZ01oU2FVRVZoc0RXTzVlTXR3Xy1GV1pHLTFERUVORGFPS0lxN1l1UERsOGkxQU9aaTljWVpNbWFERXdGNFo4QkVsUy13?oc=5",
-      "source": "The72",
-      "published": "2026-10-29T12:20:00.000Z",
-      "reputation": 66,
-      "likelihood": 54,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "dW5wb3B1bGFyIGV4IGJsYWNrYnVybiByb3ZlcnMgcG",
-      "title": "Unpopular ex-Blackburn Rovers player signs for Derby County amid injury crisis - Lancashire Telegraph",
-      "description": "Unpopular ex-Blackburn Rovers player signs for Derby County amid injury crisis &nbsp;&nbsp; Lancashire Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnZRRjljYmlfVEVOel95Z1ByYS1GYnF1NFl6cThiOWRaSlhjUWZxN21oNElWSVcwT3BCQXZqYl9KdkdRNW9FeUpTM2RKRjR6cHVpQ3pMTnE2MXA5SXIwRkhIdlNSQ01feXRLQV8yQWZfTEwwVDRFVFdYbzZlTm5pbkpDVFhwNU5pODctbnpvemduZFdwZGthbXZ5U1JvTUhTbUg2RFFfb1MwMjI3bGc?oc=5",
-      "source": "Lancashire Telegraph",
-      "published": "2026-10-29T12:02:00.000Z",
-      "reputation": 48,
-      "likelihood": 65,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Lancashire Telegraph"
-      ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG1ha2Ugc2Vjb25kIGZyZWUgYW",
-      "title": "Derby County make second free agent transfer swoop as ex-Premier League defender agrees deal - Derbyshire Live",
-      "description": "Derby County make second free agent transfer swoop as ex-Premier League defender agrees deal &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnRGalZrZmMzZW1aQ2x4NGpzcThOenhsSHNRR1dXd2FQa1FqZ09XaThjMjJBczk2cUZuaWllVkFnX2hQUGFMSTZHcDhRMV81ZEVOSFRWWjJudmhwaUsxM2g1Z3RLVk5fTUVQMlZ6LWRvLUdPMWprRC04WnBGTGtOX2pWWU9hZm9LYXkzbVY1eGZua1N1bUdlUUVQWGlLWTFjd08tWXdsWQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-29T12:00:00.000Z",
-      "reputation": 87,
-      "likelihood": 68,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHRyYW5zZmVyIG5ld3MgcmFtcy",
-      "title": "Derby County transfer news – Rams close to signing former Premier League star - Derby County News",
-      "description": "Derby County transfer news – Rams close to signing former Premier League star &nbsp;&nbsp; Derby County News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODg3cHdJRFY3amhmcDFjSjMtempvNDJiMUVyX0lld0ZUdy1PT1ZmT21tOGZBNTRYRTlXY0JYcUpJNHpKTWFyOHU5V3BjWm9sVTNPZFBwR2tJSEVESFctZmhBZE9MSldvU1VXSDRhZmxpOElMNVdyR2NpNzVuSEZGVWlkTnpKdk5kQ2FlQ01qWHlpRlBKZFBNQ09tZ2kybkotLW1TeDg5MGpkd2l6b09veVhkN1k2Z3MtcUtF?oc=5",
-      "source": "Derby County News",
-      "published": "2026-10-29T11:23:14.000Z",
-      "reputation": 99,
-      "likelihood": 97,
-      "ratingLabel": "Very strong",
-      "status": "confirmed",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHNpZ25pbmcgZm9ybWVyIG5vcn",
-      "title": "Derby County Signing Former Norwich Defensive Star Shane Duffy - Inside Futbol",
-      "description": "Derby County Signing Former Norwich Defensive Star Shane Duffy &nbsp;&nbsp; Inside Futbol",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMllXVEVZZ2JfU1FhSWxOT3QzdWtGaS1ZMFZnSE1uWDZjS0JtMUlqc280T2QxWURlYm82OHdmRkFqTG15ZFpNQjByQUZPZ1NfSVBzTy1RTWpCV1JCZ2JmMFI3UXktMDVJeTJwYTVUUThyT1YzWjdkRko4Z0p3bmdHaG1rbHd3a3EzZlFNa19SZE1FR3dma1NOT0lralc?oc=5",
-      "source": "Inside Futbol",
-      "published": "2026-10-29T11:23:00.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Norwich Defensive Star Shane",
-        "Inside Futbol"
       ]
     }
   ]
