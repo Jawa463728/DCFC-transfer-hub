@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-20T01:11:46.773Z",
+  "updatedAt": "2026-11-20T08:35:50.038Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 39,
+  "storyCount": 38,
   "targetCount": 4,
   "targets": [
     {
       "name": "Jacob Widell Zetterstrom",
-      "score": 65,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,11 +16,11 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-19T16:38:33.000Z",
       "firstSeen": "2026-11-19T19:00:16.192Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Owen Eames",
-      "score": 65,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 2,
@@ -29,11 +29,11 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-19T16:38:33.000Z",
       "firstSeen": "2026-11-19T19:00:16.192Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Kenzo Goudmijn",
-      "score": 64,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -42,7 +42,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-19T11:09:00.000Z",
       "firstSeen": "2026-11-19T19:00:16.192Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Anis Mehmeti",
@@ -636,21 +636,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSm1aWUFWSGxMNThMNkwwdVNXbmlKYkdUdFY1YjRMTThfTHhiUzRval85QnQ5T3lvOW9PbUhKWTRubTdLTDdrMXotdHIwOXBldkNiX0QtWXZZNGI4T2phZTVPdE1mRXFZeWxxdGZkX09TQlNYQVE1bGpnME9YLUFCaTEzaTdlaFFVa2pyM0hmT19rQlJBNlI0M0NldGdLZWMwNElad0dDOFl1Y2lJdTZCNU1lZnU1eDdFemtHUjhKWG8zbFQ5VVpHeW5rVmZXeHBI?oc=5",
       "source": "Transfermarkt",
       "published": "2026-10-31T14:07:57.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 128 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 128 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWtCVGpvdHZQbVNYbmhzZ09fdXNQX194VmplMElRRk5NOUJYbzdFMnZDRmpsUzZNM25KMWVfRmFtZ0lRczBGTTRDemFsYWxiVGJFUTVUUFV2YkxMTVpoOVRkQ3lSSVpZSEotd0VDYWU0LTFyVTFaUVk3UDRCV0lTUWpwNnhTdw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-30T05:38:18.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
