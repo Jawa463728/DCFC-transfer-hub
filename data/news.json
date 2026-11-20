@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-11-19T19:00:16.193Z",
+  "updatedAt": "2026-11-20T01:11:46.773Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 40,
+  "storyCount": 39,
   "targetCount": 4,
   "targets": [
     {
       "name": "Jacob Widell Zetterstrom",
-      "score": 67,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-11-19T16:37:00.000Z",
+      "lastMention": "2026-11-19T16:38:33.000Z",
       "firstSeen": "2026-11-19T19:00:16.192Z",
       "isNew": true
     },
     {
       "name": "Owen Eames",
-      "score": 67,
+      "score": 65,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 2,
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-11-19T16:37:00.000Z",
+      "lastMention": "2026-11-19T16:38:33.000Z",
       "firstSeen": "2026-11-19T19:00:16.192Z",
       "isNew": true
     },
     {
       "name": "Kenzo Goudmijn",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -65,7 +65,7 @@
       "description": "Derby County press conference as Jacob Widell Zetterstrom contract and Owen Eames recall addressed &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzBEUGtwSFl6d05yN3RBOThZZGxfSHgwdG1VWG5LTklJcHlJYkV4bzZ6RVJUaF9WbllrUjF1b1BwWW5QQXVhbG9ybEJBbUswLXdqY3lmM3FORzJHd0lndTBGbTZxa2N5a1hEdl9XVHFPRFh0V2tsTHAySDZUOVNacUJkbHVEajFXUGl2ZnRBMHEzejZlZndEUmc0d01mUjNoRW5rR3NsemRIUEpxekpaZ2Zn?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-11-19T16:37:00.000Z",
+      "published": "2026-11-19T16:38:33.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
@@ -658,23 +658,6 @@
       "edition": "de",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "c2hhbmUgZHVmZnkgcyBkZXJieSBjb3VudHkgbW92ZS",
-      "title": "Shane Duffy's Derby County move has a remarkable Wayne Rooney twist - Football League World",
-      "description": "Shane Duffy's Derby County move has a remarkable Wayne Rooney twist &nbsp;&nbsp; Football League World",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3d6dTRhUXgwd2MyaWc0T0FoRmNtTjFBV1FEdklmZTl5V1N5QXI3MjduSUI3MkVpUXhndmRBRHBHZmtLUFNvRUdwTnVMTUtaeXRLMVJWcWoxNjU4cjdjN1R0WkVaT25zdW1PVkdLTXZmZ3FwWW5HdVdKMkJZV2xKMWZtVkNzaWFEeGlNS3JZRUFWWUlpVGFpM0I5czE3YkpjaTRR?oc=5",
-      "source": "Football League World",
-      "published": "2026-10-29T20:30:13.000Z",
-      "reputation": 61,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Wayne Rooney"
-      ]
     }
   ]
 }
