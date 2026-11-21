@@ -1,13 +1,26 @@
 {
-  "updatedAt": "2026-11-21T19:42:01.405Z",
+  "updatedAt": "2026-11-21T23:56:49.551Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 38,
-  "targetCount": 4,
+  "targetCount": 5,
   "targets": [
     {
+      "name": "Patrick Agyemang",
+      "score": 65,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-11-21T15:25:27.000Z",
+      "firstSeen": "2026-11-21T23:56:49.551Z",
+      "isNew": true
+    },
+    {
       "name": "Jacob Widell Zetterstrom",
-      "score": 55,
+      "score": 54,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +33,7 @@
     },
     {
       "name": "Owen Eames",
-      "score": 55,
+      "score": 54,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -33,7 +46,7 @@
     },
     {
       "name": "Kenzo Goudmijn",
-      "score": 53,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -59,6 +72,23 @@
     }
   ],
   "stories": [
+    {
+      "id": "cGF0cmljayBhZ3llbWFuZyBmYWNlcyBkZXJieSBjb3",
+      "title": "Patrick Agyemang faces Derby County SOS as major January transfer question looms - Derbyshire Live",
+      "description": "Patrick Agyemang faces Derby County SOS as major January transfer question looms &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjFHYkwtaGpYZ1pKT2ZmVDVqeFAyTkFPdkNvRGdGRVZ1ZmFsTHhMVkF6dmpCSG9wTjVZSW4tUTJNOHNwSUZWWlBuSGNfVWZsc2h1eWFPbUgtWi1pXzdHRElMcFRLS2lFMDFPakRaTVNWbW5GaFJCWmdpaWZjTGI4T3RDYUl2ZmtJZ2R5Nk04VU13UTdpTWRSWHFTOW9LNno2VmFDdFY5VlNHUdIBrwFBVV95cUxOUnM1V3Z2NFBoR0ZxS1lFTTkxMnR2MXBDQk9lZV85R05YMWVPUGpUalNoUVNFdkF6X28yU3ZnUWFOQTVtRGZNc1U1YnNKR1Y3dE12dGMzSE1HZjVURHprQ2xIU25mOHg0VHgtVE1PUVRKbXh4SHQxcWF5MDdQWjN2cXNhWEQ0dnRxZHN6MlF1NUJXb3l5M3lJU3Z0RV93V1FySUdzNzBfZzNaWnpGM1hn?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-21T15:25:27.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Patrick Agyemang"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IHByZXNzIGNvbmZlcmVuY2UgYX",
       "title": "Derby County press conference as Jacob Widell Zetterstrom contract and Owen Eames recall addressed - Derbyshire Live",
@@ -108,21 +138,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
-      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
-      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-11-18T16:21:02.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     },
     {
@@ -204,11 +219,11 @@
     },
     {
       "id": "ZGVyYnkgY291bnR5IHUxOCB3byBzcGllbHQgZWlnZW",
-      "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 15 - Transfermarkt",
-      "description": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 15 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDdjaHpFVVljMEFUZlVYNDYtejRpeC01OVlWQWhmbS1pYzk1S29lM0dxYXl5S1NnTFQyNC1mM1FmVWxwT3lKcmU2OFVDZGp4T3BwMkQ2VEtSMG1XakM2cERpVGhMaTc5VlU4TnUzQUw1Q3RNMkc4cUVnMExObC04dDh1REZFaXlCdElXVHZB?oc=5",
+      "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 8 - Transfermarkt",
+      "description": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 8 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSEJYQlhDX3lJVktnd3gtTVJUTmxfbkQzR19rQjJveGFRbnVrYXVpSTRCOWpoVjEzaGNlb3hxbU1FMVF5RUx4WUgycFNuQ3prUzN1T05VMGRhRGVTSXBIalFkM1prUjlEX2RNNk8xUWRrV200T1BOeWtBMzFCS1FEZzZuN2ZQcnAtb3lfOQ?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-11-15T19:35:55.000Z",
+      "published": "2026-11-15T21:55:09.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
@@ -218,12 +233,12 @@
       "players": []
     },
     {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZExBMXhXLXhVbHgxX0ZjbDhXR2RNSDIteHJRYWVJdThzSVpJYVlnOG9sQlh2eExYN2kwRjJOUzJIWEthQ2xrTUpWN2xsSGhEQUVPZmlUSUFqUTU3RDYyV0tTeGtsRzJtSW9ndTBOWlhLNndnbWlleVFja0E3M1otRjdLOEtfMTVJTXhYV1dNckg?oc=5",
+      "id": "ZGVyYnkgY291bnR5IHUxOCB3byBzcGllbHQgZWlnZW",
+      "title": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 15 - Transfermarkt",
+      "description": "Derby County U18 - Wo spielt eigentlich..? (Galerie) | Seite 15 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDdjaHpFVVljMEFUZlVYNDYtejRpeC01OVlWQWhmbS1pYzk1S29lM0dxYXl5S1NnTFQyNC1mM1FmVWxwT3lKcmU2OFVDZGp4T3BwMkQ2VEtSMG1XakM2cERpVGhMaTc5VlU4TnUzQUw1Q3RNMkc4cUVnMExObC04dDh1REZFaXlCdElXVHZB?oc=5",
       "source": "Transfermarkt",
-      "published": "2026-11-15T18:55:50.000Z",
+      "published": "2026-11-15T19:35:55.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
