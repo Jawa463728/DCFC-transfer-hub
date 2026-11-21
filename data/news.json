@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:10:48.542Z",
+  "updatedAt": "2026-11-21T03:59:05.835Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 39,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Jacob Widell Zetterstrom",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Owen Eames",
-      "score": 60,
+      "score": 59,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 2,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Kenzo Goudmijn",
-      "score": 58,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
