@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T14:35:49.683Z",
+  "updatedAt": "2026-11-22T20:49:47.584Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 37,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Patrick Agyemang",
-      "score": 62,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,8 +20,8 @@
     },
     {
       "name": "Jacob Widell Zetterstrom",
-      "score": 50,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -33,8 +33,8 @@
     },
     {
       "name": "Owen Eames",
-      "score": 50,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 2,
       "bestSource": "Derbyshire Live",
@@ -90,6 +90,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2FqMzVEMDVTYkh0WGJ0OWRTTHV0am1nT0hlbDA1V2hXVkRtSF9NUFVvOU1VSkpFNGFBSmVwYTNtclhrS1FGYmoyb2pYNkwyaWxqZ2hjd1dWZjFpRE41LXNZX25LaE8ySEFya2pHUTkwYTM5amFscTdBV2VnLVNkdQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-20T22:56:27.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IHByZXNzIGNvbmZlcmVuY2UgYX",
       "title": "Derby County press conference as Jacob Widell Zetterstrom contract and Owen Eames recall addressed - Derbyshire Live",
       "description": "Derby County press conference as Jacob Widell Zetterstrom contract and Owen Eames recall addressed &nbsp;&nbsp; Derbyshire Live",
@@ -124,21 +139,6 @@
         "Owen Eames",
         "Kenzo Goudmijn"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU12ZE1ZRlZpLVpIQVZxUnRPbE1BZEx2a1UzWDc0TFZBM0luSnZMN0V6aVlpOXd2ZGo1MVF5My1kUXZWWVhfSHlRTTg4OXZHVmJYbzBSckMzeWVJYUt4TVhTQjNVYUswaEZXWHlGUmx4blZYSUlWcmxvNmFzVm0xNENfU3lDdHpDbFA0VVBwTQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-19T03:41:56.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "dGhlIDMgc3VtbWVyIHRhcmdldHMgZGVyYnkgY291bn",
