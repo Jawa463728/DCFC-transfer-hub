@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-21T23:56:49.551Z",
+  "updatedAt": "2026-11-22T06:10:09.043Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 38,
+  "storyCount": 39,
   "targetCount": 5,
   "targets": [
     {
       "name": "Patrick Agyemang",
-      "score": 65,
+      "score": 64,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Jacob Widell Zetterstrom",
-      "score": 54,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Owen Eames",
-      "score": 54,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Kenzo Goudmijn",
-      "score": 52,
+      "score": 51,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -259,6 +259,21 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
+      "overseas": true,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
+      "title": "Derby County U18 - Transfermarkt",
+      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG5fa1NjVnFKVkgwRzNfMDZET2o5ZlF0Y24wR240V1R5NDZMRlFMbnZrNWlicWhvZjhWbmpuY0hTUEl5TkVrVVlrai1TTFlJTHNoamc2a2pYUlVIZDlQc0hJQ1pmLUx6WW5zSjdSZHpXclJySy1kUGVhMnk1TXBCZlNWbGl3YUg1SDVEcVhmVUhzZw?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-14T18:13:36.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
       "overseas": true,
       "players": []
     },
