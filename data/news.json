@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-22T06:10:09.043Z",
+  "updatedAt": "2026-11-22T14:35:49.683Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 39,
+  "storyCount": 37,
   "targetCount": 5,
   "targets": [
     {
       "name": "Patrick Agyemang",
-      "score": 64,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,11 +16,11 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-21T15:25:27.000Z",
       "firstSeen": "2026-11-21T23:56:49.551Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Jacob Widell Zetterstrom",
-      "score": 52,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Owen Eames",
-      "score": 52,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 2,
@@ -46,8 +46,8 @@
     },
     {
       "name": "Kenzo Goudmijn",
-      "score": 51,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -641,38 +641,6 @@
       "edition": "es",
       "overseas": true,
       "players": []
-    },
-    {
-      "id": "YmxhY2tidXJuIHJvdmVycyB3YW50IHRvIHNpZ24gZG",
-      "title": "Blackburn Rovers want to sign Derby County contract rebel in bargain transfer - Football League World",
-      "description": "Blackburn Rovers want to sign Derby County contract rebel in bargain transfer &nbsp;&nbsp; Football League World",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUpYekZBN1lRY2lLNmZHdElJcmZ6TEVjN0pacm1VbmpWUzdLYW5TcS1sTzRnYkJnNlRnQXRUdVhXQmc5RmIyZWNmWFlsREpKS1VrdEhqWGR0R0lkZENqaXRUcm1aZlJWclNxeFhmNlBTWjg2WnlMUDhCQzNPckZ0MFIzZ0ZSeDNKUHctWlpuQVN3Nk12aHZSWFJwZ2hyQkl0RTZR?oc=5",
-      "source": "Football League World",
-      "published": "2026-11-01T11:39:07.000Z",
-      "reputation": 61,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "cGx5bW91dGggYXJneWxlIG11c3Qgc2lnbiBkZXJieS",
-      "title": "Plymouth Argyle must sign Derby County man in January, contract up next year: Opinion - The72",
-      "description": "Plymouth Argyle must sign Derby County man in January, contract up next year: Opinion &nbsp;&nbsp; The72",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjFlX2NOVkJ1NksweWdHSXRoVzVYbmdMcGlvYzZGZGllQTUxalVoOE5kMFJjbTlaenhnQ0d1ZFpIZU1DU1F4T3gxTzdvN2J0WlNfQ2RRaVpKaVhsOTJFLUNRZjlJdnJXazAxUlVsU01LMjhFakVVWnJnYnNMYVdzbFJlRHBwQnVVTUdTdFNkVlMyZWpRRDhUSlB3?oc=5",
-      "source": "The72",
-      "published": "2026-11-01T07:00:00.000Z",
-      "reputation": 66,
-      "likelihood": 54,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": [
-        "Plymouth Argyle"
-      ]
     }
   ]
 }
