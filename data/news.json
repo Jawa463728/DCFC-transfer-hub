@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-23T09:08:17.137Z",
+  "updatedAt": "2026-11-23T21:19:35.963Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 36,
+  "storyCount": 37,
   "targetCount": 5,
   "targets": [
     {
       "name": "Patrick Agyemang",
-      "score": 57,
-      "status": "Developing",
+      "score": 54,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -72,6 +72,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
+      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
+      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-21T15:48:58.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "cGF0cmljayBhZ3llbWFuZyBmYWNlcyBkZXJieSBjb3",
       "title": "Patrick Agyemang faces Derby County SOS as major January transfer question looms - Derbyshire Live",
