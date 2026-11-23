@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-23T01:12:33.708Z",
+  "updatedAt": "2026-11-23T09:08:17.137Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 37,
+  "storyCount": 36,
   "targetCount": 5,
   "targets": [
     {
       "name": "Patrick Agyemang",
-      "score": 59,
+      "score": 57,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -625,21 +625,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "aHVsbCBjaXR5IHUyMSBkZXJieSBjb3VudHkgdTIxID",
-      "title": "Hull City U21 - Derby County U21, 02/11/2026 - Premier League Cup - Informe del partido - Transfermarkt",
-      "description": "Hull City U21 - Derby County U21, 02/11/2026 - Premier League Cup - Informe del partido &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeXNPVUgwQWJNeE5feDR4dTV5THFVOEFsS1EtQk1PVElhN0ZtU21obDI4NFZLVXdpNEtqMFhQQlhja2hYeWY5dzVISDRsWEdxXzBrcVlxSWpNZkl1X201Vm1IQWQzS0Q0TmJzTTRWMzJfdTItWTJV?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-02T04:27:52.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "es",
-      "overseas": true,
       "players": []
     }
   ]
