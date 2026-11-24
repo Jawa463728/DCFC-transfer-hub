@@ -1,14 +1,27 @@
 {
-  "updatedAt": "2026-11-24T05:22:53.364Z",
+  "updatedAt": "2026-11-24T16:05:46.332Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 36,
-  "targetCount": 5,
+  "storyCount": 38,
+  "targetCount": 6,
   "targets": [
     {
+      "name": "Bobby Clark",
+      "score": 67,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 87,
+      "maxLikelihood": 68,
+      "lastMention": "2026-11-24T13:25:00.000Z",
+      "firstSeen": "2026-11-24T16:05:46.332Z",
+      "isNew": true
+    },
+    {
       "name": "Patrick Agyemang",
-      "score": 52,
-      "status": "Watch",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -73,6 +86,38 @@
   ],
   "stories": [
     {
+      "id": "Ym9iYnkgY2xhcmsgdmFsdWUgcmlzZXMgYWdhaW4gYX",
+      "title": "Bobby Clark value rises again as Derby County transfer plan clear - Derbyshire Live",
+      "description": "Bobby Clark value rises again as Derby County transfer plan clear &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnpxMWtBZ3B1U2h3RUFtTGI1M3VYVU5KR29lYWFGWkVPNDVGNDAyc2Z3SmtlaXVpSy1fTzcteUVocWN2WXByaHdnS1dsdndBbHZxMmQzSjdOOEVmelRLMEJnUTN1cUhsM19QZnpsTm1Id2tnRU5PYS02RmRDSll1bmtpaHQ2SmlLSmIxZEpLSDAzRDZwOW4xRzVJRldJSTFFUE1LeW95aw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-24T13:25:00.000Z",
+      "reputation": 87,
+      "likelihood": 68,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Bobby Clark"
+      ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGRlYWx0IGFub3RoZXIgaW5qdX",
+      "title": "Derby County dealt another injury blow with summer signing ruled out until January - The72",
+      "description": "Derby County dealt another injury blow with summer signing ruled out until January &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nRTV5X29kT2l4dkxMa0RHdVVzR3Z1QkVRWWVXLVRyUWQ5MVVNZ2xjMGxMakZyeElIbUNzeHJHVndqd2NXRlEzTXQ1emJ0REw1RzdJdWU5SEIyTG8xNXdOTGF2UTBuVEw2ek5NQk9INndqV0l2MUJIRDFtYw?oc=5",
+      "source": "The72",
+      "published": "2026-11-24T08:25:00.000Z",
+      "reputation": 66,
+      "likelihood": 54,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
       "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
       "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
@@ -83,7 +128,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
@@ -103,21 +148,6 @@
       "players": [
         "Patrick Agyemang"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
-      "title": "Derby County Jugend - Transfermarkt",
-      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2FqMzVEMDVTYkh0WGJ0OWRTTHV0am1nT0hlbDA1V2hXVkRtSF9NUFVvOU1VSkpFNGFBSmVwYTNtclhrS1FGYmoyb2pYNkwyaWxqZ2hjd1dWZjFpRE41LXNZX25LaE8ySEFya2pHUTkwYTM5amFscTdBV2VnLVNkdQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-20T22:56:27.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHByZXNzIGNvbmZlcmVuY2UgYX",
@@ -154,6 +184,21 @@
         "Owen Eames",
         "Kenzo Goudmijn"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGp1Z2VuZHxUcmFuc2Zlcm1hcm",
+      "title": "Derby County Jugend - Transfermarkt",
+      "description": "Derby County Jugend &nbsp;&nbsp; Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU12ZE1ZRlZpLVpIQVZxUnRPbE1BZEx2a1UzWDc0TFZBM0luSnZMN0V6aVlpOXd2ZGo1MVF5My1kUXZWWVhfSHlRTTg4OXZHVmJYbzBSckMzeWVJYUt4TVhTQjNVYUswaEZXWHlGUmx4blZYSUlWcmxvNmFzVm0xNENfU3lDdHpDbFA0VVBwTQ?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-11-19T03:41:56.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "de",
+      "overseas": true,
+      "players": []
     },
     {
       "id": "dGhlIDMgc3VtbWVyIHRhcmdldHMgZGVyYnkgY291bn",
