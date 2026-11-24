@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-23T21:19:35.963Z",
+  "updatedAt": "2026-11-24T05:22:53.364Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 37,
+  "storyCount": 36,
   "targetCount": 5,
   "targets": [
     {
       "name": "Patrick Agyemang",
-      "score": 54,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -78,12 +78,12 @@
       "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-11-21T15:48:58.000Z",
+      "published": "2026-11-21T18:02:31.000Z",
       "reputation": 87,
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "gb",
+      "edition": "us",
       "overseas": false,
       "players": []
     },
@@ -625,21 +625,6 @@
       "status": "rumour",
       "edition": "de",
       "overseas": true,
-      "players": []
-    },
-    {
-      "id": "c2hvdHMgb24gdGFyZ2V0IHBlciA5MCBkZXJieSBjb3",
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027 - FotMob",
-      "description": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTZHS3UwV19nOGpxLWJLUEd2UUwwVVh2ZHhiR2NrUlozLTlwZHQ5bFo3WllzVmdnV2dZSmxoWDBCWldUWVY3WXJ2elBhSmZGYUtGc0loWVlBeXpqOFRNQmMtTF9OSTdwdHBRNXo5LTV2aG1jS2lIdmJZLWVXZlJsX1dYMTdBZFp3UktOQjZjeG9HSWlZaWhpODNnQ2l6WjNFcVM3STZxeW02X2RHdnRzT0RDdXY3aV9Ianc?oc=5",
-      "source": "FotMob",
-      "published": "2026-11-03T04:32:51.000Z",
-      "reputation": 48,
-      "likelihood": 51,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
       "players": []
     }
   ]
