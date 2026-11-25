@@ -1,13 +1,26 @@
 {
-  "updatedAt": "2026-11-25T00:37:44.437Z",
+  "updatedAt": "2026-11-25T09:09:44.534Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 38,
-  "targetCount": 6,
+  "targetCount": 7,
   "targets": [
     {
+      "name": "Turki Al-",
+      "score": 67,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Derbyshire Live",
+      "bestSourceScore": 96,
+      "maxLikelihood": 73,
+      "lastMention": "2026-11-24T15:10:00.000Z",
+      "firstSeen": "2026-11-25T09:09:44.534Z",
+      "isNew": true
+    },
+    {
       "name": "Bobby Clark",
-      "score": 65,
+      "score": 62,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,7 +29,7 @@
       "maxLikelihood": 68,
       "lastMention": "2026-11-24T13:25:00.000Z",
       "firstSeen": "2026-11-24T16:05:46.332Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Patrick Agyemang",
@@ -86,6 +99,38 @@
   ],
   "stories": [
     {
+      "id": "ZGVyYnkgY291bnR5IG5lZWQgbW9yZSBmcm9tIHN1bW",
+      "title": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter - Yahoo",
+      "description": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter &nbsp;&nbsp; Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnhtd3ZvYXJUT1EzVlljMXJuYlpyTDNYdlkzTnhVaUNDUWo5clFiZUdMblBuTHY4M1p3Y05YcVhFY18tdnZwNnplaFcxb2N3dG9qaGwyVVVpaHRoZGhYTnhzTm4tNFc4UVRqX3ozc0ZFaURBYjloQTVURTAtTkl6VV9hVENyclU?oc=5",
+      "source": "Yahoo",
+      "published": "2026-11-25T08:25:27.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IHMgc3RhbmNlIG9uIHRha2Vvdm",
+      "title": "Derby County's stance on takeover and investment after failed Turki Al-Sheikh deal - Derbyshire Live",
+      "description": "Derby County's stance on takeover and investment after failed Turki Al-Sheikh deal &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcElTSGRlczFCMGYtMHBfdUl0cVNjeEFXM3ByQzlNZDVoZS0ybUVSR2lQa29rVmJjQ3V5RHlQTDZFdm9SbDRoMk1yOHF3VXVSRjFaQ1k4aVRHU1oxbUM2cXQ2VUVoemQ4RFM2OFpwdnFRRlBQMDhIc1dlczhFM09LXzgtajhyb0g3MWtzRHo3RzdnOHlVUGFuSmRrZ1VOMmlvUnduTUdlNURZNS1GWFdGcdIBtgFBVV95cUxOSGJWYlhuMF9XanBxQmQxZnItQjVEQ0tXUVhUWjhPOEFLV1drb0l2OXU3YzM0U1BtWFQxb05ISmhLMzUwNnE5WS1KcjlVbEhETWk3Q1djd1Q0eTkyZmJncHIyY2xNNmZkamFOb1NxRmZpc005MnZUaV9ZdEFLWlF3dzhYSXU0VTZTTXFJdnhZeTlaRHdoSWhRVHFQa0dGdWpLZEFaT09DWFNBNmNpVWVNWkVhblQ2dw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-24T15:10:00.000Z",
+      "reputation": 96,
+      "likelihood": 73,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Turki Al-"
+      ]
+    },
+    {
       "id": "Ym9iYnkgY2xhcmsgdmFsdWUgcmlzZXMgYWdhaW4gYX",
       "title": "Bobby Clark value rises again as Derby County transfer plan clear - Derbyshire Live",
       "description": "Bobby Clark value rises again as Derby County transfer plan clear &nbsp;&nbsp; Derbyshire Live",
@@ -112,21 +157,6 @@
       "reputation": 66,
       "likelihood": 54,
       "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
-      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
-      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-11-21T18:02:31.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
@@ -652,21 +682,6 @@
       "reputation": 96,
       "likelihood": 73,
       "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 126 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 126 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSWVNbElyMDhlNldudkpxcGlhT2x4SzRPTEk4N1ZsVUZwbzNLMjh0bmpTT0tuLW0wNzlsQUo4WDVSSVpPeVZFS05mWEFYc3NaazhWZ3FaZXppNEloNTBXMlUtc2JOa1U3YkpnMzRaTl9IUTV2Sl9BTHlqWmZvVXNJS3RteUlXQQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-04T02:58:13.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "de",
       "overseas": true,
