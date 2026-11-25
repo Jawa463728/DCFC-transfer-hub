@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-25T09:09:44.534Z",
+  "updatedAt": "2026-11-25T19:16:16.168Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 38,
-  "targetCount": 7,
+  "storyCount": 36,
+  "targetCount": 9,
   "targets": [
     {
       "name": "Turki Al-",
-      "score": 67,
+      "score": 64,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 62,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -84,6 +84,32 @@
       "isNew": false
     },
     {
+      "name": "Freddie Turley",
+      "score": 47,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The Courier",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-11-25T06:30:49.000Z",
+      "firstSeen": "2026-11-25T19:16:16.168Z",
+      "isNew": true
+    },
+    {
+      "name": "The Courier",
+      "score": 47,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "The Courier",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-11-25T06:30:49.000Z",
+      "firstSeen": "2026-11-25T19:16:16.168Z",
+      "isNew": true
+    },
+    {
       "name": "Anis Mehmeti",
       "score": 42,
       "status": "Fading",
@@ -112,6 +138,24 @@
       "edition": "gb",
       "overseas": false,
       "players": []
+    },
+    {
+      "id": "ZnJlZGRpZSB0dXJsZXkgbGlrZSBhIG5ldyBzaWduaW",
+      "title": "Freddie Turley 'like a new signing' for Dunfermline after Derby County youngster finally makes comeback - The Courier",
+      "description": "Freddie Turley 'like a new signing' for Dunfermline after Derby County youngster finally makes comeback &nbsp;&nbsp; The Courier",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHRjZkgxY3g2RlJJY09pYWthNWZVZTlqX1lFSmQ0elVFY1VfU2Q5cXFkOFdUVDBfSXJ2X2hfZEl3cm9uUDdmZFRLTGFkVjd3Uy1mU2Q3elNRYV9IenpZal9PRDFPMXlkQnNXYUpoOFhmYkg2VVh0VWFENUhEeWpJVk5rQ29sMExWUU1PcmpPMGZBMUNKakdHYzh3ZUdDbGlCTFhqaHA2LXp2czlTZExQZ1VPQ2t5TGVIMVE?oc=5",
+      "source": "The Courier",
+      "published": "2026-11-25T06:30:49.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Freddie Turley",
+        "The Courier"
+      ]
     },
     {
       "id": "ZGVyYnkgY291bnR5IHMgc3RhbmNlIG9uIHRha2Vvdm",
@@ -637,51 +681,6 @@
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 120 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 120 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3Q4OENJSTJXaVlHZXdlUjUzLWQ3cHNKN1RnNnNxbWoyYzNhcWVocmNtcHBrUzhtd2ZBWkJZMmNsdnZhTjFoWWxNdFNVYlJKUWR5NFA0T0NBUXJkbjlRWGo5b0xXaHprZDQ5OGx4dE5ZaDdWNHNkRmxzbVZKUEtVajlhMTRZUQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-04T17:25:55.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHdvIHNwaWVsdCBlaWdlbnRsaW",
-      "title": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 119 - Transfermarkt",
-      "description": "Derby County - Wo spielt eigentlich..? (Galerie) | Seite 119 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTdoM19odmpRbThnVUlDZE9KYTB1UkUyd3Q1VTEzN2ZUZjNQOElfZmM4MVdwMmU4OV9HdGRhQWs0MTJzYlM4Z25wUnB5dW1RdWRYX2EyaWEwSWpfRGdReDFiUnRaeTdMZXlWWm4zcl9aVHhSdWlsWUZQNHFMMm1kVHJhVXM1Zw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-04T16:02:30.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHJla29yZCBhYmcgbmdlIGdhbG",
-      "title": "Derby County - Rekord-Abgänge (Galerie) - Transfermarkt",
-      "description": "Derby County - Rekord-Abgänge (Galerie) &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjBWYzNJQXY2S2NOTXp4UGI4a2pfS2lTVTlWWU5mTWUzNklmS1ZHZGFRVEx5aGdtUm4waGVvRjRhZV9hejVxUk4tNFd0dU1aV2YzSzhhWDhVLVREVkhycWcyUW96ckhwZG0tS0htYTBjeXZ0UXVWREUyVHgxNm05TDRmWEFlY2hvS0tmOTN5SXo0RzhlTzY3M2FzcGNQSU1RUFE1akdibXN6WGVBenM4NEUyUQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-04T14:58:21.000Z",
-      "reputation": 96,
-      "likelihood": 73,
-      "ratingLabel": "Watch",
       "status": "rumour",
       "edition": "de",
       "overseas": true,
