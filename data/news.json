@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-26T11:07:11.721Z",
+  "updatedAt": "2026-11-26T20:09:23.418Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 35,
-  "targetCount": 9,
+  "targetCount": 8,
   "targets": [
     {
       "name": "Turki Al-",
-      "score": 60,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,8 +20,8 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 56,
-      "status": "Developing",
+      "score": 54,
+      "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -85,7 +85,7 @@
     },
     {
       "name": "Freddie Turley",
-      "score": 43,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,7 +98,7 @@
     },
     {
       "name": "The Courier",
-      "score": 43,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -107,19 +107,6 @@
       "maxLikelihood": 43,
       "lastMention": "2026-11-25T06:30:49.000Z",
       "firstSeen": "2026-11-25T19:16:16.168Z",
-      "isNew": false
-    },
-    {
-      "name": "Anis Mehmeti",
-      "score": 42,
-      "status": "Fading",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "The72",
-      "bestSourceScore": 66,
-      "maxLikelihood": 62,
-      "lastMention": "2026-11-16T15:36:00.000Z",
-      "firstSeen": "2026-11-17T04:50:41.670Z",
       "isNew": false
     }
   ],
@@ -156,6 +143,21 @@
         "Freddie Turley",
         "The Courier"
       ]
+    },
+    {
+      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
+      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
+      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-24T22:01:00.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHMgc3RhbmNlIG9uIHRha2Vvdm",
@@ -393,21 +395,6 @@
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "es",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHUxOHxUcmFuc2Zlcm1hcmt0",
-      "title": "Derby County U18 - Transfermarkt",
-      "description": "Derby County U18 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG5fa1NjVnFKVkgwRzNfMDZET2o5ZlF0Y24wR240V1R5NDZMRlFMbnZrNWlicWhvZjhWbmpuY0hTUEl5TkVrVVlrai1TTFlJTHNoamc2a2pYUlVIZDlQc0hJQ1pmLUx6WW5zSjdSZHpXclJySy1kUGVhMnk1TXBCZlNWbGl3YUg1SDVEcVhmVUhzZw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-14T18:13:36.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
       "overseas": true,
       "players": []
     },
