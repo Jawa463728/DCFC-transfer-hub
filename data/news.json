@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:17:30.228Z",
+  "updatedAt": "2026-11-26T11:07:11.721Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 35,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Turki Al-",
-      "score": 63,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 58,
+      "score": 56,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Freddie Turley",
-      "score": 45,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -94,11 +94,11 @@
       "maxLikelihood": 43,
       "lastMention": "2026-11-25T06:30:49.000Z",
       "firstSeen": "2026-11-25T19:16:16.168Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "The Courier",
-      "score": 45,
+      "score": 43,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -107,7 +107,7 @@
       "maxLikelihood": 43,
       "lastMention": "2026-11-25T06:30:49.000Z",
       "firstSeen": "2026-11-25T19:16:16.168Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Anis Mehmeti",
