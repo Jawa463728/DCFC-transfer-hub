@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-25T19:16:16.168Z",
+  "updatedAt": "2026-11-26T02:17:30.228Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 36,
+  "storyCount": 35,
   "targetCount": 9,
   "targets": [
     {
       "name": "Turki Al-",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,11 +16,11 @@
       "maxLikelihood": 73,
       "lastMention": "2026-11-24T15:10:00.000Z",
       "firstSeen": "2026-11-25T09:09:44.534Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Bobby Clark",
-      "score": 60,
+      "score": 58,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -85,7 +85,7 @@
     },
     {
       "name": "Freddie Turley",
-      "score": 47,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,7 +98,7 @@
     },
     {
       "name": "The Courier",
-      "score": 47,
+      "score": 45,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -126,13 +126,13 @@
   "stories": [
     {
       "id": "ZGVyYnkgY291bnR5IG5lZWQgbW9yZSBmcm9tIHN1bW",
-      "title": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter - Yahoo",
-      "description": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter &nbsp;&nbsp; Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnhtd3ZvYXJUT1EzVlljMXJuYlpyTDNYdlkzTnhVaUNDUWo5clFiZUdMblBuTHY4M1p3Y05YcVhFY18tdnZwNnplaFcxb2N3dG9qaGwyVVVpaHRoZGhYTnhzTm4tNFc4UVRqX3ozc0ZFaURBYjloQTVURTAtTkl6VV9hVENyclU?oc=5",
-      "source": "Yahoo",
-      "published": "2026-11-25T08:25:27.000Z",
-      "reputation": 48,
-      "likelihood": 43,
+      "title": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter - The72",
+      "description": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter &nbsp;&nbsp; The72",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS01obXNrX212ZnhPajhnUFBvVHhtN0FMMXh5bmJGUnFKLVc1dTNQeFJodWZyOEFhakwwQ1p2WUFReF80SkpjTEFRVDAxNUZMNlNQN2wtWng5VWgtMnU4bHpTWE9XOWtLcGlWSlN1QnNFX0lHUC1wbmlNREhUUl9QM3h1bS04S0NQWk5zTnNn?oc=5",
+      "source": "The72",
+      "published": "2026-11-25T08:25:00.000Z",
+      "reputation": 66,
+      "likelihood": 54,
       "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "gb",
@@ -663,21 +663,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fZVlDQmFTa01XNHB6ZkYxVUpTMWE1TFBMY0VLY2w2cDFrNFlKSDFHZnExUWp2Y0JIM2lHSWJIV2w2amNwX1FlaklLTzR4ZHluNm9YZUM1cHFJNUYtOEE1STlzQzU1SEQ5SHNQSndhMW9ldk41R19F?oc=5",
       "source": "Transfermarkt",
       "published": "2026-11-05T23:12:19.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IHVlZmEgdTE5fFRyYW5zZmVybW",
-      "title": "Derby County UEFA U19 - Transfermarkt",
-      "description": "Derby County UEFA U19 &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlRyUFpfdUFGZ2kzYWlRX0pxYUxlMlc3Mk0yNS1ObE51YWRCdGMySHNUNll0YUlLaS1STkJUV25TcmdIT2tOc1pkRDE4djJzdWVoUjI4TzZ2cjhxSHpQVmpJRUtWNy1MUllHQ3dMMlJTTTlwUzFGdXVyYTUwNnJhQ3N1LV84UmhMYWc?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-05T00:27:15.000Z",
       "reputation": 48,
       "likelihood": 43,
       "ratingLabel": "Speculative",
