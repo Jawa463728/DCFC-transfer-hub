@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:34:37.138Z",
+  "updatedAt": "2026-11-27T20:16:49.508Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 35,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Isaac Gordon",
-      "score": 66,
+      "score": 64,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -16,25 +16,12 @@
       "maxLikelihood": 72,
       "lastMention": "2026-11-26T18:58:03.000Z",
       "firstSeen": "2026-11-27T02:50:46.477Z",
-      "isNew": true
-    },
-    {
-      "name": "West Ham",
-      "score": 54,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 73,
-      "lastMention": "2026-11-26T07:40:13.000Z",
-      "firstSeen": "2026-11-27T02:50:46.477Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Turki Al-",
-      "score": 54,
-      "status": "Watch",
+      "score": 53,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -45,9 +32,22 @@
       "isNew": false
     },
     {
-      "name": "Bobby Clark",
-      "score": 50,
+      "name": "West Ham",
+      "score": 52,
       "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 73,
+      "lastMention": "2026-11-26T07:40:13.000Z",
+      "firstSeen": "2026-11-27T02:50:46.477Z",
+      "isNew": false
+    },
+    {
+      "name": "Bobby Clark",
+      "score": 49,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "Derbyshire Live",
@@ -111,7 +111,7 @@
     },
     {
       "name": "Back Isaac Gordon",
-      "score": 46,
+      "score": 44,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -120,11 +120,11 @@
       "maxLikelihood": 43,
       "lastMention": "2026-11-26T20:04:11.000Z",
       "firstSeen": "2026-11-27T02:50:46.477Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Long Loan",
-      "score": 46,
+      "score": 44,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -133,11 +133,11 @@
       "maxLikelihood": 43,
       "lastMention": "2026-11-26T20:04:11.000Z",
       "firstSeen": "2026-11-27T02:50:46.477Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Freddie Turley",
-      "score": 36,
+      "score": 34,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -150,7 +150,7 @@
     },
     {
       "name": "The Courier",
-      "score": 36,
+      "score": 34,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -163,6 +163,21 @@
     }
   ],
   "stories": [
+    {
+      "id": "ZGVyYnkgY291bnR5IHJlYWNoIHRyYW5zZmVyIGFncm",
+      "title": "Derby County reach transfer agreement as long-term contract signed - Derbyshire Live",
+      "description": "Derby County reach transfer agreement as long-term contract signed &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY052Zm1DZk13SlNvNnlqSlNOQWlVdVNzSGxCV0dsLS02dnl2Uy1qQ3c2V0FpNXVjTzJUY0phZDM5TC1TTUVOdG5VQ2JkWG9BTnRnMkVFQ1A5ZDhZUkNKWUE4V3U2dFBqeVpuZk9vM0Q4WkdldjdPdmhaVzRicEZhQ2Vpd3RHcGpwbVJtTFhQaXR0VklSV2lvTmtFRUFzZFFGN0dRLWZpQjV3NDVm?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-27T14:09:00.000Z",
+      "reputation": 87,
+      "likelihood": 90,
+      "ratingLabel": "Very strong",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": []
+    },
     {
       "id": "Z2F0ZXNoZWFkIHNpZ24gZGVyYnkgY291bnR5IGZ1bG",
       "title": "Gateshead Sign Derby County Full-Back Isaac Gordon on Month-Long Loan - SSBCrack",
@@ -216,6 +231,21 @@
       ]
     },
     {
+      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
+      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
+      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-25T11:59:10.000Z",
+      "reputation": 87,
+      "likelihood": 57,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "us",
+      "overseas": false,
+      "players": []
+    },
+    {
       "id": "ZGVyYnkgY291bnR5IG5lZWQgbW9yZSBmcm9tIHN1bW",
       "title": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter - The72",
       "description": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter &nbsp;&nbsp; The72",
@@ -247,21 +277,6 @@
         "Freddie Turley",
         "The Courier"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJyZWFraW5nIG5ld3MgdHJhbn",
-      "title": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive - Derbyshire Live",
-      "description": "Derby County breaking news, transfer rumours, team-updates, line-ups, fixtures, player ratings, live match coverage, injury news, results, stats, photos and videos on DerbyshireLive &nbsp;&nbsp; Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUWJaeS1zOXo3YXJ1cWhxdDhMUjdoTTJtQktiWkdtNE5YN3RGZURIUEFQSGd1ZXU5cFA0cFRUaE5kRmtlTzY2OVhIQ1l5TlkyZmVyM3AzcnF4dVJoYlNqa1hXTDNCQQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-11-24T22:01:00.000Z",
-      "reputation": 87,
-      "likelihood": 57,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     },
     {
       "id": "ZGVyYnkgY291bnR5IHMgc3RhbmNlIG9uIHRha2Vvdm",
@@ -697,21 +712,6 @@
       "reputation": 66,
       "likelihood": 62,
       "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
-    },
-    {
-      "id": "d29yY2VzdGVyIGNpdHkgc2lnbiBnb2Fsa2VlcGVyIG",
-      "title": "Worcester City sign goalkeeper from Derby County - The Worcester News",
-      "description": "Worcester City sign goalkeeper from Derby County &nbsp;&nbsp; The Worcester News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa01kckNCUVRBQ1VMTFByRndjS2g1aEZJRXdvU0VHRnZCMElXZHRtTjBrV0NwZTBEYWY4UzJjeHVtbWRkZV9TQVlrZzJiVGxFVkFDQmVkY1dlQkJJcEpKUW5VdGRwQlJBQ2dEYXI5dmlIVUhyZ0ViWjVYVWNtdjhta2FXUFRGNmlTT2RpbjBKMzRfc3Y1OVlmQ1l0R1NuYmt4SDBoanZma3laVVk?oc=5",
-      "source": "The Worcester News",
-      "published": "2026-11-06T15:48:31.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
