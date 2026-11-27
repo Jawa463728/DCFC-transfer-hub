@@ -1,13 +1,39 @@
 {
-  "updatedAt": "2026-11-26T20:09:23.418Z",
+  "updatedAt": "2026-11-27T02:50:46.477Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 35,
-  "targetCount": 8,
+  "storyCount": 37,
+  "targetCount": 12,
   "targets": [
     {
+      "name": "Isaac Gordon",
+      "score": 69,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "BBC",
+      "bestSourceScore": 94,
+      "maxLikelihood": 72,
+      "lastMention": "2026-11-26T18:58:03.000Z",
+      "firstSeen": "2026-11-27T02:50:46.477Z",
+      "isNew": true
+    },
+    {
+      "name": "West Ham",
+      "score": 56,
+      "status": "Developing",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 73,
+      "lastMention": "2026-11-26T07:40:13.000Z",
+      "firstSeen": "2026-11-27T02:50:46.477Z",
+      "isNew": true
+    },
+    {
       "name": "Turki Al-",
-      "score": 58,
+      "score": 56,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -20,7 +46,7 @@
     },
     {
       "name": "Bobby Clark",
-      "score": 54,
+      "score": 52,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -84,8 +110,34 @@
       "isNew": false
     },
     {
+      "name": "Back Isaac Gordon",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "SSBCrack",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-11-26T20:04:11.000Z",
+      "firstSeen": "2026-11-27T02:50:46.477Z",
+      "isNew": true
+    },
+    {
+      "name": "Long Loan",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "SSBCrack",
+      "bestSourceScore": 48,
+      "maxLikelihood": 43,
+      "lastMention": "2026-11-26T20:04:11.000Z",
+      "firstSeen": "2026-11-27T02:50:46.477Z",
+      "isNew": true
+    },
+    {
       "name": "Freddie Turley",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -98,7 +150,7 @@
     },
     {
       "name": "The Courier",
-      "score": 40,
+      "score": 39,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -111,6 +163,58 @@
     }
   ],
   "stories": [
+    {
+      "id": "Z2F0ZXNoZWFkIHNpZ24gZGVyYnkgY291bnR5IGZ1bG",
+      "title": "Gateshead Sign Derby County Full-Back Isaac Gordon on Month-Long Loan - SSBCrack",
+      "description": "Gateshead Sign Derby County Full-Back Isaac Gordon on Month-Long Loan &nbsp;&nbsp; SSBCrack",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0htdWZDV2xhdHB6OEFURVJzOUNXVGlwUG9rcmszN0IxeXBTQ0RZVUVRNGJNTVc4Y2htQU5aQlcydjBKUmgwajl6ZU1KcHU1bnlrM0xoWkFBZGFYYWk3QkMzM2hYbUJiT1lIaUprMHhwQWREUldxblJVZlRBSHJWczFGZ2tSeW1mVk1Wekh6eVdjN2xSVWdDNktyRVA?oc=5",
+      "source": "SSBCrack",
+      "published": "2026-11-26T20:04:11.000Z",
+      "reputation": 48,
+      "likelihood": 43,
+      "ratingLabel": "Speculative",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Back Isaac Gordon",
+        "Long Loan"
+      ]
+    },
+    {
+      "id": "aXNhYWMgZ29yZG9uIGdhdGVzaGVhZCBzaWduIGZ1bG",
+      "title": "Isaac Gordon: Gateshead sign full-back on loan from Derby County - BBC",
+      "description": "Isaac Gordon: Gateshead sign full-back on loan from Derby County &nbsp;&nbsp; BBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52RW1VQ1hxZGdHSHQ3NE1sdFFaQ0hXZUpvaEJMdXRqS1FPbGlSQmZKbFRVOVBDZTB1aHh0NDVScUxONm1HczNUVWpWeVZJRTNpRmZBSDlYaHhySXFnekxCSzJCUHM3b3Vk?oc=5",
+      "source": "BBC",
+      "published": "2026-11-26T18:58:03.000Z",
+      "reputation": 94,
+      "likelihood": 72,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "Isaac Gordon"
+      ]
+    },
+    {
+      "id": "d2VzdCBoYW0gbXVzdCBwdXNoIHRvIHNpZ24gZGVyYn",
+      "title": "West Ham must push to sign Derby County star that Leeds United nearly signed - Football League World",
+      "description": "West Ham must push to sign Derby County star that Leeds United nearly signed &nbsp;&nbsp; Football League World",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGNxcWVWcVN2TUtwTDNRWGYyNlNNdlpNekZuRUhqd0VvckVzel80MjBndEFxTUswcUtWb21YaFN1TGx0TVlaMnU0SVBic0pGc1dwdUw2ZGhuejJFbF9jUDFSb2wwempxeVV5eXhWc2dCdGVpMVdnMWgybGU0SjcyNlBucEU5QU8wY0k3Rjl6ODZLV2xUTV92RTMzRldWcDZqTUxOMDJsY05ZOVZCSV9ORw?oc=5",
+      "source": "Football League World",
+      "published": "2026-11-26T07:40:13.000Z",
+      "reputation": 61,
+      "likelihood": 73,
+      "ratingLabel": "Watch",
+      "status": "rumour",
+      "edition": "gb",
+      "overseas": false,
+      "players": [
+        "West Ham"
+      ]
+    },
     {
       "id": "ZGVyYnkgY291bnR5IG5lZWQgbW9yZSBmcm9tIHN1bW",
       "title": "Derby County ‘need more’ from summer signing following Wolves loss, says reporter - The72",
@@ -641,21 +745,6 @@
       "status": "rumour",
       "edition": "gb",
       "overseas": false,
-      "players": []
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IGJvbHRvbiB3YW5kZXJlcnMgMD",
-      "title": "Derby County - Bolton Wanderers, 06.11.2026 - Championship - Spielbericht - Transfermarkt",
-      "description": "Derby County - Bolton Wanderers, 06.11.2026 - Championship - Spielbericht &nbsp;&nbsp; Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fZVlDQmFTa01XNHB6ZkYxVUpTMWE1TFBMY0VLY2w2cDFrNFlKSDFHZnExUWp2Y0JIM2lHSWJIV2w2amNwX1FlaklLTzR4ZHluNm9YZUM1cHFJNUYtOEE1STlzQzU1SEQ5SHNQSndhMW9ldk41R19F?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-05T23:12:19.000Z",
-      "reputation": 48,
-      "likelihood": 43,
-      "ratingLabel": "Speculative",
-      "status": "rumour",
-      "edition": "de",
-      "overseas": true,
       "players": []
     }
   ]
