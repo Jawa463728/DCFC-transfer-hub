@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-28T02:47:35.986Z",
+  "updatedAt": "2026-11-28T10:56:44.424Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
-  "storyCount": 35,
+  "storyCount": 34,
   "targetCount": 12,
   "targets": [
     {
       "name": "Isaac Gordon",
-      "score": 63,
+      "score": 60,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -29,19 +29,6 @@
       "maxLikelihood": 73,
       "lastMention": "2026-11-24T15:10:00.000Z",
       "firstSeen": "2026-11-25T09:09:44.534Z",
-      "isNew": false
-    },
-    {
-      "name": "West Ham",
-      "score": 50,
-      "status": "Watch",
-      "independentReports": 1,
-      "totalStories": 1,
-      "bestSource": "Football League World",
-      "bestSourceScore": 61,
-      "maxLikelihood": 73,
-      "lastMention": "2026-11-26T07:40:13.000Z",
-      "firstSeen": "2026-11-27T02:50:46.477Z",
       "isNew": false
     },
     {
@@ -105,13 +92,26 @@
       "bestSource": "Derbyshire Live",
       "bestSourceScore": 87,
       "maxLikelihood": 68,
-      "lastMention": "2026-11-19T11:09:00.000Z",
+      "lastMention": "2026-11-19T08:00:00.000Z",
       "firstSeen": "2026-11-19T19:00:16.192Z",
       "isNew": false
     },
     {
+      "name": "West Ham",
+      "score": 48,
+      "status": "Watch",
+      "independentReports": 1,
+      "totalStories": 1,
+      "bestSource": "Football League World",
+      "bestSourceScore": 61,
+      "maxLikelihood": 73,
+      "lastMention": "2026-11-26T07:40:13.000Z",
+      "firstSeen": "2026-11-27T02:50:46.477Z",
+      "isNew": false
+    },
+    {
       "name": "Back Isaac Gordon",
-      "score": 42,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -124,7 +124,7 @@
     },
     {
       "name": "Long Loan",
-      "score": 42,
+      "score": 40,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -137,8 +137,8 @@
     },
     {
       "name": "Freddie Turley",
-      "score": 33,
-      "status": "Watch",
+      "score": 32,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "The Courier",
@@ -150,8 +150,8 @@
     },
     {
       "name": "The Courier",
-      "score": 33,
-      "status": "Watch",
+      "score": 32,
+      "status": "Fading",
       "independentReports": 1,
       "totalStories": 1,
       "bestSource": "The Courier",
@@ -200,7 +200,7 @@
       "id": "aXNhYWMgZ29yZG9uIGdhdGVzaGVhZCBzaWduIGZ1bG",
       "title": "Isaac Gordon: Gateshead sign full-back on loan from Derby County - BBC",
       "description": "Isaac Gordon: Gateshead sign full-back on loan from Derby County &nbsp;&nbsp; BBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14SS1fUldqcWozMTdtc0szVWhqTEMyeXRJRDhERGotay1HdWdrSEJxMXp2cnFwSnBwZXhWcnQteDRBcEdPQzMyYW1XNFhDczdFXzUwWjVlcnh1N1ZhLTk2a2VtQlVNbDVrald3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52RW1VQ1hxZGdHSHQ3NE1sdFFaQ0hXZUpvaEJMdXRqS1FPbGlSQmZKbFRVOVBDZTB1aHh0NDVScUxONm1HczNUVWpWeVZJRTNpRmZBSDlYaHhySXFnekxCSzJCUHM3b3Vk?oc=5",
       "source": "BBC",
       "published": "2026-11-26T18:58:03.000Z",
       "reputation": 94,
@@ -368,7 +368,7 @@
       "description": "Derby County loan watch amid transfer wish, Owen Eames scores again and Kenzo Goudmijn makes mark &nbsp;&nbsp; Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSl92UTl6cWhRUW9ONnFOZGRFbzh5cUVVVG5yWEZxLWtLc3dFTG9NVnJua0xCajF4YWlaaHJsOE5fNU5ldnlEZXlWMjdMLVNHLTJfeUFkWG00ZFFFel9zODlYWF9xQ25nSGR2OEYzWXdhcVozU1MzckR6MXZucmt1RG1YdXJkVTJxTUg3VXU5LWNtbXg5QkR4SHdwZDNEakdPNlZfX293?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-11-19T11:09:00.000Z",
+      "published": "2026-11-19T08:00:00.000Z",
       "reputation": 87,
       "likelihood": 68,
       "ratingLabel": "Watch",
@@ -701,21 +701,6 @@
       "players": [
         "Wertvollste Abgänge"
       ]
-    },
-    {
-      "id": "ZGVyYnkgY291bnR5IG5lZWQgdG8gdGFyZ2V0IHdpbn",
-      "title": "Derby County need to target winter swoop for 25-year-old after Blackburn Rovers summer interest: Opinion - The72",
-      "description": "Derby County need to target winter swoop for 25-year-old after Blackburn Rovers summer interest: Opinion &nbsp;&nbsp; The72",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1g3eEtKamRCMU5UUXN2TUNHdDZ1LUtxQk9PNFgyTWo0c05QVTNPVHpfakFWR1BneUJpQm5hblpfQzZwQ01XX25PVU1obmxJYkhzV1Y2TVhrOXNCTG41R3g4VUVuOVVnYUUyZFQ0OFdBRjg5UUVnZEN5VHpKdm9WT01iWXoxQWFvZ1JWOWFTU2ctcWJXQWhCU3d3?oc=5",
-      "source": "The72",
-      "published": "2026-11-07T07:45:00.000Z",
-      "reputation": 66,
-      "likelihood": 62,
-      "ratingLabel": "Watch",
-      "status": "rumour",
-      "edition": "gb",
-      "overseas": false,
-      "players": []
     }
   ]
 }
