@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T20:16:49.508Z",
+  "updatedAt": "2026-11-28T02:47:35.986Z",
   "deadline": "2026-09-01T23:00:00+01:00",
   "scanIntervalMinutes": 5,
   "storyCount": 35,
@@ -7,7 +7,7 @@
   "targets": [
     {
       "name": "Isaac Gordon",
-      "score": 64,
+      "score": 63,
       "status": "Developing",
       "independentReports": 1,
       "totalStories": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "West Ham",
-      "score": 52,
+      "score": 50,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -111,7 +111,7 @@
     },
     {
       "name": "Back Isaac Gordon",
-      "score": 44,
+      "score": 42,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -124,7 +124,7 @@
     },
     {
       "name": "Long Loan",
-      "score": 44,
+      "score": 42,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -137,7 +137,7 @@
     },
     {
       "name": "Freddie Turley",
-      "score": 34,
+      "score": 33,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -150,7 +150,7 @@
     },
     {
       "name": "The Courier",
-      "score": 34,
+      "score": 33,
       "status": "Watch",
       "independentReports": 1,
       "totalStories": 1,
@@ -241,7 +241,7 @@
       "likelihood": 57,
       "ratingLabel": "Watch",
       "status": "rumour",
-      "edition": "us",
+      "edition": "gb",
       "overseas": false,
       "players": []
     },
